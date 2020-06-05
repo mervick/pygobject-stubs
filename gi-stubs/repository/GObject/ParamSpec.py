@@ -1,0 +1,231 @@
+# encoding: utf-8
+# module gi.repository.GObject
+# from /usr/lib64/girepository-1.0/GObject-2.0.typelib
+# by generator 1.147
+# no doc
+
+# imports
+from gi.repository.GLib import (GError, IO_ERR, IO_FLAG_APPEND, 
+    IO_FLAG_GET_MASK, IO_FLAG_IS_READABLE, IO_FLAG_IS_SEEKABLE, 
+    IO_FLAG_IS_WRITEABLE, IO_FLAG_MASK, IO_FLAG_NONBLOCK, IO_FLAG_SET_MASK, 
+    IO_HUP, IO_IN, IO_NVAL, IO_OUT, IO_PRI, IO_STATUS_AGAIN, IO_STATUS_EOF, 
+    IO_STATUS_ERROR, IO_STATUS_NORMAL, OPTION_ERROR_BAD_VALUE, 
+    OPTION_ERROR_FAILED, OPTION_ERROR_UNKNOWN_OPTION, OPTION_FLAG_FILENAME, 
+    OPTION_FLAG_HIDDEN, OPTION_FLAG_IN_MAIN, OPTION_FLAG_NOALIAS, 
+    OPTION_FLAG_NO_ARG, OPTION_FLAG_OPTIONAL_ARG, OPTION_FLAG_REVERSE, 
+    SPAWN_CHILD_INHERITS_STDIN, SPAWN_DO_NOT_REAP_CHILD, 
+    SPAWN_FILE_AND_ARGV_ZERO, SPAWN_LEAVE_DESCRIPTORS_OPEN, SPAWN_SEARCH_PATH, 
+    SPAWN_STDERR_TO_DEV_NULL, SPAWN_STDOUT_TO_DEV_NULL, 
+    filename_display_basename, filename_display_name, get_application_name, 
+    get_prgname, main_context_default, main_depth, set_application_name, 
+    set_prgname, source_remove, uri_list_extract_uris)
+
+from gi._gi import (GObjectWeakRef, OptionContext, OptionGroup, Pid, 
+    add_emission_hook, list_properties, new, signal_new, spawn_async, 
+    type_register)
+
+from gobject import (GBoxed, GEnum, GFlags, GInterface, GParamSpec, GPointer, 
+    GType, Warning)
+
+import gi as __gi
+import gi.overrides as __gi_overrides
+import gi.overrides.GLib as __gi_overrides_GLib
+import gi.overrides.GObject as __gi_overrides_GObject
+import gi.repository.GLib as __gi_repository_GLib
+import gi._signalhelper as __gi__signalhelper
+import gobject as __gobject
+
+
+from .object import object
+
+class ParamSpec(object):
+    """
+    :Constructors:
+    
+    ::
+    
+        ParamSpec(**properties)
+    """
+    def do_finalize(self, *args, **kwargs): # real signature unknown
+        """ finalize(self) """
+        pass
+
+    def do_values_cmp(self, *args, **kwargs): # real signature unknown
+        """ values_cmp(self, value1:GObject.Value, value2:GObject.Value) -> int """
+        pass
+
+    def do_value_set_default(self, *args, **kwargs): # real signature unknown
+        """ value_set_default(self, value:GObject.Value) """
+        pass
+
+    def do_value_validate(self, *args, **kwargs): # real signature unknown
+        """ value_validate(self, value:GObject.Value) -> bool """
+        pass
+
+    def get_blurb(self): # real signature unknown; restored from __doc__
+        """ get_blurb(self) -> str """
+        return ""
+
+    def get_default_value(self): # real signature unknown; restored from __doc__
+        """ get_default_value(self) -> GObject.Value """
+        pass
+
+    def get_name(self): # real signature unknown; restored from __doc__
+        """ get_name(self) -> str """
+        return ""
+
+    def get_name_quark(self): # real signature unknown; restored from __doc__
+        """ get_name_quark(self) -> int """
+        return 0
+
+    def get_nick(self): # real signature unknown; restored from __doc__
+        """ get_nick(self) -> str """
+        return ""
+
+    def get_qdata(self, quark): # real signature unknown; restored from __doc__
+        """ get_qdata(self, quark:int) """
+        pass
+
+    def get_redirect_target(self): # real signature unknown; restored from __doc__
+        """ get_redirect_target(self) -> GObject.ParamSpec """
+        pass
+
+    def set_qdata(self, quark, data=None): # real signature unknown; restored from __doc__
+        """ set_qdata(self, quark:int, data=None) """
+        pass
+
+    def sink(self): # real signature unknown; restored from __doc__
+        """ sink(self) """
+        pass
+
+    def steal_qdata(self, quark): # real signature unknown; restored from __doc__
+        """ steal_qdata(self, quark:int) """
+        pass
+
+    def __delattr__(self, *args, **kwargs): # real signature unknown
+        """ Implement delattr(self, name). """
+        pass
+
+    def __dir__(self, *args, **kwargs): # real signature unknown
+        """ Default dir() implementation. """
+        pass
+
+    def __eq__(self, *args, **kwargs): # real signature unknown
+        """ Return self==value. """
+        pass
+
+    def __format__(self, *args, **kwargs): # real signature unknown
+        """ Default object formatter. """
+        pass
+
+    def __getattribute__(self, *args, **kwargs): # real signature unknown
+        """ Return getattr(self, name). """
+        pass
+
+    def __ge__(self, *args, **kwargs): # real signature unknown
+        """ Return self>=value. """
+        pass
+
+    def __gt__(self, *args, **kwargs): # real signature unknown
+        """ Return self>value. """
+        pass
+
+    def __hash__(self, *args, **kwargs): # real signature unknown
+        """ Return hash(self). """
+        pass
+
+    def __init_subclass__(self, *args, **kwargs): # real signature unknown
+        """
+        This method is called when a class is subclassed.
+        
+        The default implementation does nothing. It may be
+        overridden to extend subclasses.
+        """
+        pass
+
+    def __init__(self, **properties): # real signature unknown; restored from __doc__
+        pass
+
+    def __le__(self, *args, **kwargs): # real signature unknown
+        """ Return self<=value. """
+        pass
+
+    def __lt__(self, *args, **kwargs): # real signature unknown
+        """ Return self<value. """
+        pass
+
+    @staticmethod # known case of __new__
+    def __new__(*args, **kwargs): # real signature unknown
+        """ Create and return a new object.  See help(type) for accurate signature. """
+        pass
+
+    def __ne__(self, *args, **kwargs): # real signature unknown
+        """ Return self!=value. """
+        pass
+
+    def __reduce_ex__(self, *args, **kwargs): # real signature unknown
+        """ Helper for pickle. """
+        pass
+
+    def __reduce__(self, *args, **kwargs): # real signature unknown
+        """ Helper for pickle. """
+        pass
+
+    def __repr__(self, *args, **kwargs): # real signature unknown
+        """ Return repr(self). """
+        pass
+
+    def __setattr__(self, *args, **kwargs): # real signature unknown
+        """ Implement setattr(self, name, value). """
+        pass
+
+    def __sizeof__(self, *args, **kwargs): # real signature unknown
+        """ Size of object in memory, in bytes. """
+        pass
+
+    def __str__(self, *args, **kwargs): # real signature unknown
+        """ Return str(self). """
+        pass
+
+    def __subclasshook__(self, *args, **kwargs): # real signature unknown
+        """
+        Abstract classes can override this to customize issubclass().
+        
+        This is invoked early on by abc.ABCMeta.__subclasscheck__().
+        It should return True, False or NotImplemented.  If it returns
+        NotImplemented, the normal algorithm is used.  Otherwise, it
+        overrides the normal algorithm (and the outcome is cached).
+        """
+        pass
+
+    def __weakref__(self, *args, **kwargs): # real signature unknown
+        pass
+
+    flags = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
+
+    g_type_instance = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
+
+    name = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
+
+    owner_type = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
+
+    param_id = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
+
+    qdata = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
+
+    ref_count = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
+
+    value_type = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
+
+    _blurb = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
+
+    _nick = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
+
+
+    __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ParamSpec), '__module__': 'gi.repository.GObject', '__gtype__': <GType GParam (76)>, '__dict__': <attribute '__dict__' of 'ParamSpec' objects>, '__weakref__': <attribute '__weakref__' of 'ParamSpec' objects>, '__doc__': None, '__gsignals__': {}, 'get_blurb': gi.FunctionInfo(get_blurb), 'get_default_value': gi.FunctionInfo(get_default_value), 'get_name': gi.FunctionInfo(get_name), 'get_name_quark': gi.FunctionInfo(get_name_quark), 'get_nick': gi.FunctionInfo(get_nick), 'get_qdata': gi.FunctionInfo(get_qdata), 'get_redirect_target': gi.FunctionInfo(get_redirect_target), 'set_qdata': gi.FunctionInfo(set_qdata), 'sink': gi.FunctionInfo(sink), 'steal_qdata': gi.FunctionInfo(steal_qdata), 'do_finalize': gi.VFuncInfo(finalize), 'do_value_set_default': gi.VFuncInfo(value_set_default), 'do_value_validate': gi.VFuncInfo(value_validate), 'do_values_cmp': gi.VFuncInfo(values_cmp), 'g_type_instance': <property object at 0x7f7c28641b80>, 'name': <property object at 0x7f7c28641c70>, 'flags': <property object at 0x7f7c28641d60>, 'value_type': <property object at 0x7f7c28641e50>, 'owner_type': <property object at 0x7f7c28641f40>, '_nick': <property object at 0x7f7c28644090>, '_blurb': <property object at 0x7f7c28644180>, 'qdata': <property object at 0x7f7c28644270>, 'ref_count': <property object at 0x7f7c28644360>, 'param_id': <property object at 0x7f7c28644450>})"
+    __gsignals__ = {}
+    __gtype__ = None # (!) real value is '<GType GParam (76)>'
+    __info__ = ObjectInfo(ParamSpec)
+
+
