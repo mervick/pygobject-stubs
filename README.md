@@ -14,19 +14,16 @@ pycharm should use the stubs now.
 
 see <https://github.com/pygobject/pygobject-stubs/issues/5#issuecomment-639541725>
 
-if you do NOT have pycharm installed, you need to clone the intellij-community repo:
-
-```bash
-git clone --depth 1 https://github.com/JetBrains/intellij-community.git /tmp/idea
-```
-
-and replace the command below
-
-`PYTHONPATH=$HOME/Apps/pycharm-community/plugins/python-ce/helpers python3 -m generator3`
-
-with 
-
-`python3 /tmp/idea/python/helpers/generator3/__main__.py`
+> if you do NOT have pycharm installed, you need to clone the intellij-community repo:
+> `git clone --depth 1 https://github.com/JetBrains/intellij-community.git /tmp/idea`
+>
+> and replace the command below
+>
+> `PYTHONPATH=$HOME/Apps/pycharm-community/plugins/python-ce/helpers python3 -m generator3`
+>
+> with
+> 
+> `python3 /tmp/idea/python/helpers/generator3/__main__.py`
 
 
 ```bash
