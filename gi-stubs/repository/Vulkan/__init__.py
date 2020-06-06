@@ -1,0 +1,927 @@
+# encoding: utf-8
+# module gi.repository.Vulkan
+# from /usr/lib64/girepository-1.0/Vulkan-1.0.typelib
+# by generator 1.147
+"""
+An object which wraps an introspection typelib.
+
+    This wrapping creates a python module like representation of the typelib
+    using gi repository as a foundation. Accessing attributes of the module
+    will dynamically pull them in and create wrappers for the members.
+    These members are then cached on this introspection module.
+"""
+
+# imports
+import gi as __gi
+
+
+# Variables with simple values
+
+_namespace = 'Vulkan'
+
+_version = '1.0'
+
+__weakref__ = None
+
+# functions
+
+def __delattr__(*args, **kwargs): # real signature unknown
+    """ Implement delattr(self, name). """
+    pass
+
+def __dir__(*args, **kwargs): # real signature unknown
+    pass
+
+def __eq__(*args, **kwargs): # real signature unknown
+    """ Return self==value. """
+    pass
+
+def __format__(*args, **kwargs): # real signature unknown
+    """ Default object formatter. """
+    pass
+
+def __getattribute__(*args, **kwargs): # real signature unknown
+    """ Return getattr(self, name). """
+    pass
+
+def __getattr__(*args, **kwargs): # real signature unknown
+    pass
+
+def __ge__(*args, **kwargs): # real signature unknown
+    """ Return self>=value. """
+    pass
+
+def __gt__(*args, **kwargs): # real signature unknown
+    """ Return self>value. """
+    pass
+
+def __hash__(*args, **kwargs): # real signature unknown
+    """ Return hash(self). """
+    pass
+
+def __init_subclass__(*args, **kwargs): # real signature unknown
+    """
+    This method is called when a class is subclassed.
+    
+    The default implementation does nothing. It may be
+    overridden to extend subclasses.
+    """
+    pass
+
+def __init__(*args, **kwargs): # real signature unknown
+    """ Might raise gi._gi.RepositoryError """
+    pass
+
+def __le__(*args, **kwargs): # real signature unknown
+    """ Return self<=value. """
+    pass
+
+def __lt__(*args, **kwargs): # real signature unknown
+    """ Return self<value. """
+    pass
+
+@staticmethod # known case of __new__
+def __new__(*args, **kwargs): # real signature unknown
+    """ Create and return a new object.  See help(type) for accurate signature. """
+    pass
+
+def __ne__(*args, **kwargs): # real signature unknown
+    """ Return self!=value. """
+    pass
+
+def __reduce_ex__(*args, **kwargs): # real signature unknown
+    """ Helper for pickle. """
+    pass
+
+def __reduce__(*args, **kwargs): # real signature unknown
+    """ Helper for pickle. """
+    pass
+
+def __repr__(*args, **kwargs): # real signature unknown
+    pass
+
+def __setattr__(*args, **kwargs): # real signature unknown
+    """ Implement setattr(self, name, value). """
+    pass
+
+def __sizeof__(*args, **kwargs): # real signature unknown
+    """ Size of object in memory, in bytes. """
+    pass
+
+def __str__(*args, **kwargs): # real signature unknown
+    """ Return str(self). """
+    pass
+
+def __subclasshook__(*args, **kwargs): # real signature unknown
+    """
+    Abstract classes can override this to customize issubclass().
+    
+    This is invoked early on by abc.ABCMeta.__subclasscheck__().
+    It should return True, False or NotImplemented.  If it returns
+    NotImplemented, the normal algorithm is used.  Otherwise, it
+    overrides the normal algorithm (and the outcome is cached).
+    """
+    pass
+
+# classes
+
+from .AccelerationStructureCreateInfoNV import AccelerationStructureCreateInfoNV
+from .AccelerationStructureInfoNV import AccelerationStructureInfoNV
+from .AccelerationStructureMemoryRequirementsInfoNV import AccelerationStructureMemoryRequirementsInfoNV
+from .AccelerationStructureMemoryRequirementsTypeNV import AccelerationStructureMemoryRequirementsTypeNV
+from .AccelerationStructureNV import AccelerationStructureNV
+from .AccelerationStructureTypeNV import AccelerationStructureTypeNV
+from .AccessFlagBits import AccessFlagBits
+from .AccessFlags import AccessFlags
+from .AcquireNextImageInfoKHR import AcquireNextImageInfoKHR
+from .AllocationCallbacks import AllocationCallbacks
+from .ApplicationInfo import ApplicationInfo
+from .AttachmentDescription import AttachmentDescription
+from .AttachmentDescription2KHR import AttachmentDescription2KHR
+from .AttachmentDescriptionFlagBits import AttachmentDescriptionFlagBits
+from .AttachmentDescriptionFlags import AttachmentDescriptionFlags
+from .AttachmentLoadOp import AttachmentLoadOp
+from .AttachmentReference import AttachmentReference
+from .AttachmentReference2KHR import AttachmentReference2KHR
+from .AttachmentSampleLocationsEXT import AttachmentSampleLocationsEXT
+from .AttachmentStoreOp import AttachmentStoreOp
+from .BaseInStructure import BaseInStructure
+from .BaseOutStructure import BaseOutStructure
+from .BindAccelerationStructureMemoryInfoNV import BindAccelerationStructureMemoryInfoNV
+from .BindBufferMemoryDeviceGroupInfo import BindBufferMemoryDeviceGroupInfo
+from .BindBufferMemoryDeviceGroupInfoKHR import BindBufferMemoryDeviceGroupInfoKHR
+from .BindBufferMemoryInfo import BindBufferMemoryInfo
+from .BindBufferMemoryInfoKHR import BindBufferMemoryInfoKHR
+from .BindImageMemoryDeviceGroupInfo import BindImageMemoryDeviceGroupInfo
+from .BindImageMemoryDeviceGroupInfoKHR import BindImageMemoryDeviceGroupInfoKHR
+from .BindImageMemoryInfo import BindImageMemoryInfo
+from .BindImageMemoryInfoKHR import BindImageMemoryInfoKHR
+from .BindImageMemorySwapchainInfoKHR import BindImageMemorySwapchainInfoKHR
+from .BindImagePlaneMemoryInfo import BindImagePlaneMemoryInfo
+from .BindImagePlaneMemoryInfoKHR import BindImagePlaneMemoryInfoKHR
+from .BindSparseInfo import BindSparseInfo
+from .BlendFactor import BlendFactor
+from .BlendOp import BlendOp
+from .BlendOverlapEXT import BlendOverlapEXT
+from .Bool32 import Bool32
+from .BorderColor import BorderColor
+from .Buffer import Buffer
+from .BufferCopy import BufferCopy
+from .BufferCreateFlagBits import BufferCreateFlagBits
+from .BufferCreateFlags import BufferCreateFlags
+from .BufferCreateInfo import BufferCreateInfo
+from .BufferDeviceAddressCreateInfoEXT import BufferDeviceAddressCreateInfoEXT
+from .BufferDeviceAddressInfoEXT import BufferDeviceAddressInfoEXT
+from .BufferImageCopy import BufferImageCopy
+from .BufferMemoryBarrier import BufferMemoryBarrier
+from .BufferMemoryRequirementsInfo2 import BufferMemoryRequirementsInfo2
+from .BufferMemoryRequirementsInfo2KHR import BufferMemoryRequirementsInfo2KHR
+from .BufferUsageFlagBits import BufferUsageFlagBits
+from .BufferUsageFlags import BufferUsageFlags
+from .BufferView import BufferView
+from .BufferViewCreateFlags import BufferViewCreateFlags
+from .BufferViewCreateInfo import BufferViewCreateInfo
+from .BuildAccelerationStructureFlagBitsNV import BuildAccelerationStructureFlagBitsNV
+from .BuildAccelerationStructureFlagsNV import BuildAccelerationStructureFlagsNV
+from .CalibratedTimestampInfoEXT import CalibratedTimestampInfoEXT
+from .CheckpointDataNV import CheckpointDataNV
+from .ChromaLocation import ChromaLocation
+from .ChromaLocationKHR import ChromaLocationKHR
+from .ClearAttachment import ClearAttachment
+from .ClearColorValue import ClearColorValue
+from .ClearDepthStencilValue import ClearDepthStencilValue
+from .ClearRect import ClearRect
+from .ClearValue import ClearValue
+from .CmdProcessCommandsInfoNVX import CmdProcessCommandsInfoNVX
+from .CmdReserveSpaceForCommandsInfoNVX import CmdReserveSpaceForCommandsInfoNVX
+from .CoarseSampleLocationNV import CoarseSampleLocationNV
+from .CoarseSampleOrderCustomNV import CoarseSampleOrderCustomNV
+from .CoarseSampleOrderTypeNV import CoarseSampleOrderTypeNV
+from .ColorComponentFlagBits import ColorComponentFlagBits
+from .ColorComponentFlags import ColorComponentFlags
+from .ColorSpaceKHR import ColorSpaceKHR
+from .CommandBuffer import CommandBuffer
+from .CommandBufferAllocateInfo import CommandBufferAllocateInfo
+from .CommandBufferBeginInfo import CommandBufferBeginInfo
+from .CommandBufferInheritanceConditionalRenderingInfoEXT import CommandBufferInheritanceConditionalRenderingInfoEXT
+from .CommandBufferInheritanceInfo import CommandBufferInheritanceInfo
+from .CommandBufferLevel import CommandBufferLevel
+from .CommandBufferResetFlagBits import CommandBufferResetFlagBits
+from .CommandBufferResetFlags import CommandBufferResetFlags
+from .CommandBufferUsageFlagBits import CommandBufferUsageFlagBits
+from .CommandBufferUsageFlags import CommandBufferUsageFlags
+from .CommandPool import CommandPool
+from .CommandPoolCreateFlagBits import CommandPoolCreateFlagBits
+from .CommandPoolCreateFlags import CommandPoolCreateFlags
+from .CommandPoolCreateInfo import CommandPoolCreateInfo
+from .CommandPoolResetFlagBits import CommandPoolResetFlagBits
+from .CommandPoolResetFlags import CommandPoolResetFlags
+from .CommandPoolTrimFlags import CommandPoolTrimFlags
+from .CommandPoolTrimFlagsKHR import CommandPoolTrimFlagsKHR
+from .CompareOp import CompareOp
+from .ComponentMapping import ComponentMapping
+from .ComponentSwizzle import ComponentSwizzle
+from .ComponentTypeNV import ComponentTypeNV
+from .CompositeAlphaFlagBitsKHR import CompositeAlphaFlagBitsKHR
+from .CompositeAlphaFlagsKHR import CompositeAlphaFlagsKHR
+from .ComputePipelineCreateInfo import ComputePipelineCreateInfo
+from .ConditionalRenderingBeginInfoEXT import ConditionalRenderingBeginInfoEXT
+from .ConditionalRenderingFlagBitsEXT import ConditionalRenderingFlagBitsEXT
+from .ConditionalRenderingFlagsEXT import ConditionalRenderingFlagsEXT
+from .ConformanceVersionKHR import ConformanceVersionKHR
+from .ConservativeRasterizationModeEXT import ConservativeRasterizationModeEXT
+from .CooperativeMatrixPropertiesNV import CooperativeMatrixPropertiesNV
+from .CopyAccelerationStructureModeNV import CopyAccelerationStructureModeNV
+from .CopyDescriptorSet import CopyDescriptorSet
+from .CoverageModulationModeNV import CoverageModulationModeNV
+from .CoverageReductionModeNV import CoverageReductionModeNV
+from .CullModeFlagBits import CullModeFlagBits
+from .CullModeFlags import CullModeFlags
+from .DebugMarkerMarkerInfoEXT import DebugMarkerMarkerInfoEXT
+from .DebugMarkerObjectNameInfoEXT import DebugMarkerObjectNameInfoEXT
+from .DebugMarkerObjectTagInfoEXT import DebugMarkerObjectTagInfoEXT
+from .DebugReportCallbackCreateInfoEXT import DebugReportCallbackCreateInfoEXT
+from .DebugReportCallbackEXT import DebugReportCallbackEXT
+from .DebugReportFlagBitsEXT import DebugReportFlagBitsEXT
+from .DebugReportFlagsEXT import DebugReportFlagsEXT
+from .DebugReportObjectTypeEXT import DebugReportObjectTypeEXT
+from .DebugUtilsLabelEXT import DebugUtilsLabelEXT
+from .DebugUtilsMessageSeverityFlagBitsEXT import DebugUtilsMessageSeverityFlagBitsEXT
+from .DebugUtilsMessageSeverityFlagsEXT import DebugUtilsMessageSeverityFlagsEXT
+from .DebugUtilsMessageTypeFlagBitsEXT import DebugUtilsMessageTypeFlagBitsEXT
+from .DebugUtilsMessageTypeFlagsEXT import DebugUtilsMessageTypeFlagsEXT
+from .DebugUtilsMessengerCallbackDataEXT import DebugUtilsMessengerCallbackDataEXT
+from .DebugUtilsMessengerCallbackDataFlagsEXT import DebugUtilsMessengerCallbackDataFlagsEXT
+from .DebugUtilsMessengerCreateFlagsEXT import DebugUtilsMessengerCreateFlagsEXT
+from .DebugUtilsMessengerCreateInfoEXT import DebugUtilsMessengerCreateInfoEXT
+from .DebugUtilsMessengerEXT import DebugUtilsMessengerEXT
+from .DebugUtilsObjectNameInfoEXT import DebugUtilsObjectNameInfoEXT
+from .DebugUtilsObjectTagInfoEXT import DebugUtilsObjectTagInfoEXT
+from .DedicatedAllocationBufferCreateInfoNV import DedicatedAllocationBufferCreateInfoNV
+from .DedicatedAllocationImageCreateInfoNV import DedicatedAllocationImageCreateInfoNV
+from .DedicatedAllocationMemoryAllocateInfoNV import DedicatedAllocationMemoryAllocateInfoNV
+from .DependencyFlagBits import DependencyFlagBits
+from .DependencyFlags import DependencyFlags
+from .DescriptorBindingFlagBitsEXT import DescriptorBindingFlagBitsEXT
+from .DescriptorBindingFlagsEXT import DescriptorBindingFlagsEXT
+from .DescriptorBufferInfo import DescriptorBufferInfo
+from .DescriptorImageInfo import DescriptorImageInfo
+from .DescriptorPool import DescriptorPool
+from .DescriptorPoolCreateFlagBits import DescriptorPoolCreateFlagBits
+from .DescriptorPoolCreateFlags import DescriptorPoolCreateFlags
+from .DescriptorPoolCreateInfo import DescriptorPoolCreateInfo
+from .DescriptorPoolInlineUniformBlockCreateInfoEXT import DescriptorPoolInlineUniformBlockCreateInfoEXT
+from .DescriptorPoolResetFlags import DescriptorPoolResetFlags
+from .DescriptorPoolSize import DescriptorPoolSize
+from .DescriptorSet import DescriptorSet
+from .DescriptorSetAllocateInfo import DescriptorSetAllocateInfo
+from .DescriptorSetLayout import DescriptorSetLayout
+from .DescriptorSetLayoutBinding import DescriptorSetLayoutBinding
+from .DescriptorSetLayoutBindingFlagsCreateInfoEXT import DescriptorSetLayoutBindingFlagsCreateInfoEXT
+from .DescriptorSetLayoutCreateFlagBits import DescriptorSetLayoutCreateFlagBits
+from .DescriptorSetLayoutCreateFlags import DescriptorSetLayoutCreateFlags
+from .DescriptorSetLayoutCreateInfo import DescriptorSetLayoutCreateInfo
+from .DescriptorSetLayoutSupport import DescriptorSetLayoutSupport
+from .DescriptorSetLayoutSupportKHR import DescriptorSetLayoutSupportKHR
+from .DescriptorSetVariableDescriptorCountAllocateInfoEXT import DescriptorSetVariableDescriptorCountAllocateInfoEXT
+from .DescriptorSetVariableDescriptorCountLayoutSupportEXT import DescriptorSetVariableDescriptorCountLayoutSupportEXT
+from .DescriptorType import DescriptorType
+from .DescriptorUpdateTemplate import DescriptorUpdateTemplate
+from .DescriptorUpdateTemplateCreateFlags import DescriptorUpdateTemplateCreateFlags
+from .DescriptorUpdateTemplateCreateFlagsKHR import DescriptorUpdateTemplateCreateFlagsKHR
+from .DescriptorUpdateTemplateCreateInfo import DescriptorUpdateTemplateCreateInfo
+from .DescriptorUpdateTemplateCreateInfoKHR import DescriptorUpdateTemplateCreateInfoKHR
+from .DescriptorUpdateTemplateEntry import DescriptorUpdateTemplateEntry
+from .DescriptorUpdateTemplateEntryKHR import DescriptorUpdateTemplateEntryKHR
+from .DescriptorUpdateTemplateKHR import DescriptorUpdateTemplateKHR
+from .DescriptorUpdateTemplateType import DescriptorUpdateTemplateType
+from .DescriptorUpdateTemplateTypeKHR import DescriptorUpdateTemplateTypeKHR
+from .Device import Device
+from .DeviceAddress import DeviceAddress
+from .DeviceCreateFlags import DeviceCreateFlags
+from .DeviceCreateInfo import DeviceCreateInfo
+from .DeviceEventInfoEXT import DeviceEventInfoEXT
+from .DeviceEventTypeEXT import DeviceEventTypeEXT
+from .DeviceGeneratedCommandsFeaturesNVX import DeviceGeneratedCommandsFeaturesNVX
+from .DeviceGeneratedCommandsLimitsNVX import DeviceGeneratedCommandsLimitsNVX
+from .DeviceGroupBindSparseInfo import DeviceGroupBindSparseInfo
+from .DeviceGroupBindSparseInfoKHR import DeviceGroupBindSparseInfoKHR
+from .DeviceGroupCommandBufferBeginInfo import DeviceGroupCommandBufferBeginInfo
+from .DeviceGroupCommandBufferBeginInfoKHR import DeviceGroupCommandBufferBeginInfoKHR
+from .DeviceGroupDeviceCreateInfo import DeviceGroupDeviceCreateInfo
+from .DeviceGroupDeviceCreateInfoKHR import DeviceGroupDeviceCreateInfoKHR
+from .DeviceGroupPresentCapabilitiesKHR import DeviceGroupPresentCapabilitiesKHR
+from .DeviceGroupPresentInfoKHR import DeviceGroupPresentInfoKHR
+from .DeviceGroupPresentModeFlagBitsKHR import DeviceGroupPresentModeFlagBitsKHR
+from .DeviceGroupPresentModeFlagsKHR import DeviceGroupPresentModeFlagsKHR
+from .DeviceGroupRenderPassBeginInfo import DeviceGroupRenderPassBeginInfo
+from .DeviceGroupRenderPassBeginInfoKHR import DeviceGroupRenderPassBeginInfoKHR
+from .DeviceGroupSubmitInfo import DeviceGroupSubmitInfo
+from .DeviceGroupSubmitInfoKHR import DeviceGroupSubmitInfoKHR
+from .DeviceGroupSwapchainCreateInfoKHR import DeviceGroupSwapchainCreateInfoKHR
+from .DeviceMemory import DeviceMemory
+from .DeviceMemoryOverallocationCreateInfoAMD import DeviceMemoryOverallocationCreateInfoAMD
+from .DeviceQueueCreateFlagBits import DeviceQueueCreateFlagBits
+from .DeviceQueueCreateFlags import DeviceQueueCreateFlags
+from .DeviceQueueCreateInfo import DeviceQueueCreateInfo
+from .DeviceQueueGlobalPriorityCreateInfoEXT import DeviceQueueGlobalPriorityCreateInfoEXT
+from .DeviceQueueInfo2 import DeviceQueueInfo2
+from .DeviceSize import DeviceSize
+from .DiscardRectangleModeEXT import DiscardRectangleModeEXT
+from .DispatchIndirectCommand import DispatchIndirectCommand
+from .DisplayEventInfoEXT import DisplayEventInfoEXT
+from .DisplayEventTypeEXT import DisplayEventTypeEXT
+from .DisplayKHR import DisplayKHR
+from .DisplayModeCreateFlagsKHR import DisplayModeCreateFlagsKHR
+from .DisplayModeCreateInfoKHR import DisplayModeCreateInfoKHR
+from .DisplayModeKHR import DisplayModeKHR
+from .DisplayModeParametersKHR import DisplayModeParametersKHR
+from .DisplayModeProperties2KHR import DisplayModeProperties2KHR
+from .DisplayModePropertiesKHR import DisplayModePropertiesKHR
+from .DisplayNativeHdrSurfaceCapabilitiesAMD import DisplayNativeHdrSurfaceCapabilitiesAMD
+from .DisplayPlaneAlphaFlagBitsKHR import DisplayPlaneAlphaFlagBitsKHR
+from .DisplayPlaneAlphaFlagsKHR import DisplayPlaneAlphaFlagsKHR
+from .DisplayPlaneCapabilities2KHR import DisplayPlaneCapabilities2KHR
+from .DisplayPlaneCapabilitiesKHR import DisplayPlaneCapabilitiesKHR
+from .DisplayPlaneInfo2KHR import DisplayPlaneInfo2KHR
+from .DisplayPlaneProperties2KHR import DisplayPlaneProperties2KHR
+from .DisplayPlanePropertiesKHR import DisplayPlanePropertiesKHR
+from .DisplayPowerInfoEXT import DisplayPowerInfoEXT
+from .DisplayPowerStateEXT import DisplayPowerStateEXT
+from .DisplayPresentInfoKHR import DisplayPresentInfoKHR
+from .DisplayProperties2KHR import DisplayProperties2KHR
+from .DisplayPropertiesKHR import DisplayPropertiesKHR
+from .DisplaySurfaceCreateFlagsKHR import DisplaySurfaceCreateFlagsKHR
+from .DisplaySurfaceCreateInfoKHR import DisplaySurfaceCreateInfoKHR
+from .DrawIndexedIndirectCommand import DrawIndexedIndirectCommand
+from .DrawIndirectCommand import DrawIndirectCommand
+from .DrawMeshTasksIndirectCommandNV import DrawMeshTasksIndirectCommandNV
+from .DriverIdKHR import DriverIdKHR
+from .DrmFormatModifierPropertiesEXT import DrmFormatModifierPropertiesEXT
+from .DrmFormatModifierPropertiesListEXT import DrmFormatModifierPropertiesListEXT
+from .DynamicState import DynamicState
+from .Event import Event
+from .EventCreateFlags import EventCreateFlags
+from .EventCreateInfo import EventCreateInfo
+from .ExportFenceCreateInfo import ExportFenceCreateInfo
+from .ExportFenceCreateInfoKHR import ExportFenceCreateInfoKHR
+from .ExportMemoryAllocateInfo import ExportMemoryAllocateInfo
+from .ExportMemoryAllocateInfoKHR import ExportMemoryAllocateInfoKHR
+from .ExportMemoryAllocateInfoNV import ExportMemoryAllocateInfoNV
+from .ExportSemaphoreCreateInfo import ExportSemaphoreCreateInfo
+from .ExportSemaphoreCreateInfoKHR import ExportSemaphoreCreateInfoKHR
+from .ExtensionProperties import ExtensionProperties
+from .Extent2D import Extent2D
+from .Extent3D import Extent3D
+from .ExternalBufferProperties import ExternalBufferProperties
+from .ExternalBufferPropertiesKHR import ExternalBufferPropertiesKHR
+from .ExternalFenceFeatureFlagBits import ExternalFenceFeatureFlagBits
+from .ExternalFenceFeatureFlagBitsKHR import ExternalFenceFeatureFlagBitsKHR
+from .ExternalFenceFeatureFlags import ExternalFenceFeatureFlags
+from .ExternalFenceFeatureFlagsKHR import ExternalFenceFeatureFlagsKHR
+from .ExternalFenceHandleTypeFlagBits import ExternalFenceHandleTypeFlagBits
+from .ExternalFenceHandleTypeFlagBitsKHR import ExternalFenceHandleTypeFlagBitsKHR
+from .ExternalFenceHandleTypeFlags import ExternalFenceHandleTypeFlags
+from .ExternalFenceHandleTypeFlagsKHR import ExternalFenceHandleTypeFlagsKHR
+from .ExternalFenceProperties import ExternalFenceProperties
+from .ExternalFencePropertiesKHR import ExternalFencePropertiesKHR
+from .ExternalImageFormatProperties import ExternalImageFormatProperties
+from .ExternalImageFormatPropertiesKHR import ExternalImageFormatPropertiesKHR
+from .ExternalImageFormatPropertiesNV import ExternalImageFormatPropertiesNV
+from .ExternalMemoryBufferCreateInfo import ExternalMemoryBufferCreateInfo
+from .ExternalMemoryBufferCreateInfoKHR import ExternalMemoryBufferCreateInfoKHR
+from .ExternalMemoryFeatureFlagBits import ExternalMemoryFeatureFlagBits
+from .ExternalMemoryFeatureFlagBitsKHR import ExternalMemoryFeatureFlagBitsKHR
+from .ExternalMemoryFeatureFlagBitsNV import ExternalMemoryFeatureFlagBitsNV
+from .ExternalMemoryFeatureFlags import ExternalMemoryFeatureFlags
+from .ExternalMemoryFeatureFlagsKHR import ExternalMemoryFeatureFlagsKHR
+from .ExternalMemoryFeatureFlagsNV import ExternalMemoryFeatureFlagsNV
+from .ExternalMemoryHandleTypeFlagBits import ExternalMemoryHandleTypeFlagBits
+from .ExternalMemoryHandleTypeFlagBitsKHR import ExternalMemoryHandleTypeFlagBitsKHR
+from .ExternalMemoryHandleTypeFlagBitsNV import ExternalMemoryHandleTypeFlagBitsNV
+from .ExternalMemoryHandleTypeFlags import ExternalMemoryHandleTypeFlags
+from .ExternalMemoryHandleTypeFlagsKHR import ExternalMemoryHandleTypeFlagsKHR
+from .ExternalMemoryHandleTypeFlagsNV import ExternalMemoryHandleTypeFlagsNV
+from .ExternalMemoryImageCreateInfo import ExternalMemoryImageCreateInfo
+from .ExternalMemoryImageCreateInfoKHR import ExternalMemoryImageCreateInfoKHR
+from .ExternalMemoryImageCreateInfoNV import ExternalMemoryImageCreateInfoNV
+from .ExternalMemoryProperties import ExternalMemoryProperties
+from .ExternalMemoryPropertiesKHR import ExternalMemoryPropertiesKHR
+from .ExternalSemaphoreFeatureFlagBits import ExternalSemaphoreFeatureFlagBits
+from .ExternalSemaphoreFeatureFlagBitsKHR import ExternalSemaphoreFeatureFlagBitsKHR
+from .ExternalSemaphoreFeatureFlags import ExternalSemaphoreFeatureFlags
+from .ExternalSemaphoreFeatureFlagsKHR import ExternalSemaphoreFeatureFlagsKHR
+from .ExternalSemaphoreHandleTypeFlagBits import ExternalSemaphoreHandleTypeFlagBits
+from .ExternalSemaphoreHandleTypeFlagBitsKHR import ExternalSemaphoreHandleTypeFlagBitsKHR
+from .ExternalSemaphoreHandleTypeFlags import ExternalSemaphoreHandleTypeFlags
+from .ExternalSemaphoreHandleTypeFlagsKHR import ExternalSemaphoreHandleTypeFlagsKHR
+from .ExternalSemaphoreProperties import ExternalSemaphoreProperties
+from .ExternalSemaphorePropertiesKHR import ExternalSemaphorePropertiesKHR
+from .Fence import Fence
+from .FenceCreateFlagBits import FenceCreateFlagBits
+from .FenceCreateFlags import FenceCreateFlags
+from .FenceCreateInfo import FenceCreateInfo
+from .FenceGetFdInfoKHR import FenceGetFdInfoKHR
+from .FenceImportFlagBits import FenceImportFlagBits
+from .FenceImportFlagBitsKHR import FenceImportFlagBitsKHR
+from .FenceImportFlags import FenceImportFlags
+from .FenceImportFlagsKHR import FenceImportFlagsKHR
+from .Filter import Filter
+from .FilterCubicImageViewImageFormatPropertiesEXT import FilterCubicImageViewImageFormatPropertiesEXT
+from .Flags import Flags
+from .Format import Format
+from .FormatFeatureFlagBits import FormatFeatureFlagBits
+from .FormatFeatureFlags import FormatFeatureFlags
+from .FormatProperties import FormatProperties
+from .FormatProperties2 import FormatProperties2
+from .FormatProperties2KHR import FormatProperties2KHR
+from .Framebuffer import Framebuffer
+from .FramebufferCreateFlags import FramebufferCreateFlags
+from .FramebufferCreateInfo import FramebufferCreateInfo
+from .FramebufferMixedSamplesCombinationNV import FramebufferMixedSamplesCombinationNV
+from .FrontFace import FrontFace
+from .GeometryAABBNV import GeometryAABBNV
+from .GeometryDataNV import GeometryDataNV
+from .GeometryFlagBitsNV import GeometryFlagBitsNV
+from .GeometryFlagsNV import GeometryFlagsNV
+from .GeometryInstanceFlagBitsNV import GeometryInstanceFlagBitsNV
+from .GeometryInstanceFlagsNV import GeometryInstanceFlagsNV
+from .GeometryNV import GeometryNV
+from .GeometryTrianglesNV import GeometryTrianglesNV
+from .GeometryTypeNV import GeometryTypeNV
+from .GraphicsPipelineCreateInfo import GraphicsPipelineCreateInfo
+from .HdrMetadataEXT import HdrMetadataEXT
+from .HeadlessSurfaceCreateFlagsEXT import HeadlessSurfaceCreateFlagsEXT
+from .HeadlessSurfaceCreateInfoEXT import HeadlessSurfaceCreateInfoEXT
+from .Image import Image
+from .ImageAspectFlagBits import ImageAspectFlagBits
+from .ImageAspectFlags import ImageAspectFlags
+from .ImageBlit import ImageBlit
+from .ImageCopy import ImageCopy
+from .ImageCreateFlagBits import ImageCreateFlagBits
+from .ImageCreateFlags import ImageCreateFlags
+from .ImageCreateInfo import ImageCreateInfo
+from .ImageDrmFormatModifierExplicitCreateInfoEXT import ImageDrmFormatModifierExplicitCreateInfoEXT
+from .ImageDrmFormatModifierListCreateInfoEXT import ImageDrmFormatModifierListCreateInfoEXT
+from .ImageDrmFormatModifierPropertiesEXT import ImageDrmFormatModifierPropertiesEXT
+from .ImageFormatListCreateInfoKHR import ImageFormatListCreateInfoKHR
+from .ImageFormatProperties import ImageFormatProperties
+from .ImageFormatProperties2 import ImageFormatProperties2
+from .ImageFormatProperties2KHR import ImageFormatProperties2KHR
+from .ImageLayout import ImageLayout
+from .ImageMemoryBarrier import ImageMemoryBarrier
+from .ImageMemoryRequirementsInfo2 import ImageMemoryRequirementsInfo2
+from .ImageMemoryRequirementsInfo2KHR import ImageMemoryRequirementsInfo2KHR
+from .ImagePlaneMemoryRequirementsInfo import ImagePlaneMemoryRequirementsInfo
+from .ImagePlaneMemoryRequirementsInfoKHR import ImagePlaneMemoryRequirementsInfoKHR
+from .ImageResolve import ImageResolve
+from .ImageSparseMemoryRequirementsInfo2 import ImageSparseMemoryRequirementsInfo2
+from .ImageSparseMemoryRequirementsInfo2KHR import ImageSparseMemoryRequirementsInfo2KHR
+from .ImageStencilUsageCreateInfoEXT import ImageStencilUsageCreateInfoEXT
+from .ImageSubresource import ImageSubresource
+from .ImageSubresourceLayers import ImageSubresourceLayers
+from .ImageSubresourceRange import ImageSubresourceRange
+from .ImageSwapchainCreateInfoKHR import ImageSwapchainCreateInfoKHR
+from .ImageTiling import ImageTiling
+from .ImageType import ImageType
+from .ImageUsageFlagBits import ImageUsageFlagBits
+from .ImageUsageFlags import ImageUsageFlags
+from .ImageView import ImageView
+from .ImageViewASTCDecodeModeEXT import ImageViewASTCDecodeModeEXT
+from .ImageViewCreateFlagBits import ImageViewCreateFlagBits
+from .ImageViewCreateFlags import ImageViewCreateFlags
+from .ImageViewCreateInfo import ImageViewCreateInfo
+from .ImageViewHandleInfoNVX import ImageViewHandleInfoNVX
+from .ImageViewType import ImageViewType
+from .ImageViewUsageCreateInfo import ImageViewUsageCreateInfo
+from .ImageViewUsageCreateInfoKHR import ImageViewUsageCreateInfoKHR
+from .ImportFenceFdInfoKHR import ImportFenceFdInfoKHR
+from .ImportMemoryFdInfoKHR import ImportMemoryFdInfoKHR
+from .ImportMemoryHostPointerInfoEXT import ImportMemoryHostPointerInfoEXT
+from .ImportSemaphoreFdInfoKHR import ImportSemaphoreFdInfoKHR
+from .IndexType import IndexType
+from .IndirectCommandsLayoutCreateInfoNVX import IndirectCommandsLayoutCreateInfoNVX
+from .IndirectCommandsLayoutNVX import IndirectCommandsLayoutNVX
+from .IndirectCommandsLayoutTokenNVX import IndirectCommandsLayoutTokenNVX
+from .IndirectCommandsLayoutUsageFlagBitsNVX import IndirectCommandsLayoutUsageFlagBitsNVX
+from .IndirectCommandsLayoutUsageFlagsNVX import IndirectCommandsLayoutUsageFlagsNVX
+from .IndirectCommandsTokenNVX import IndirectCommandsTokenNVX
+from .IndirectCommandsTokenTypeNVX import IndirectCommandsTokenTypeNVX
+from .InputAttachmentAspectReference import InputAttachmentAspectReference
+from .InputAttachmentAspectReferenceKHR import InputAttachmentAspectReferenceKHR
+from .Instance import Instance
+from .InstanceCreateFlags import InstanceCreateFlags
+from .InstanceCreateInfo import InstanceCreateInfo
+from .InternalAllocationType import InternalAllocationType
+from .LayerProperties import LayerProperties
+from .LogicOp import LogicOp
+from .MappedMemoryRange import MappedMemoryRange
+from .MemoryAllocateFlagBits import MemoryAllocateFlagBits
+from .MemoryAllocateFlagBitsKHR import MemoryAllocateFlagBitsKHR
+from .MemoryAllocateFlags import MemoryAllocateFlags
+from .MemoryAllocateFlagsInfo import MemoryAllocateFlagsInfo
+from .MemoryAllocateFlagsInfoKHR import MemoryAllocateFlagsInfoKHR
+from .MemoryAllocateFlagsKHR import MemoryAllocateFlagsKHR
+from .MemoryAllocateInfo import MemoryAllocateInfo
+from .MemoryBarrier import MemoryBarrier
+from .MemoryDedicatedAllocateInfo import MemoryDedicatedAllocateInfo
+from .MemoryDedicatedAllocateInfoKHR import MemoryDedicatedAllocateInfoKHR
+from .MemoryDedicatedRequirements import MemoryDedicatedRequirements
+from .MemoryDedicatedRequirementsKHR import MemoryDedicatedRequirementsKHR
+from .MemoryFdPropertiesKHR import MemoryFdPropertiesKHR
+from .MemoryGetFdInfoKHR import MemoryGetFdInfoKHR
+from .MemoryHeap import MemoryHeap
+from .MemoryHeapFlagBits import MemoryHeapFlagBits
+from .MemoryHeapFlags import MemoryHeapFlags
+from .MemoryHostPointerPropertiesEXT import MemoryHostPointerPropertiesEXT
+from .MemoryMapFlags import MemoryMapFlags
+from .MemoryOverallocationBehaviorAMD import MemoryOverallocationBehaviorAMD
+from .MemoryPriorityAllocateInfoEXT import MemoryPriorityAllocateInfoEXT
+from .MemoryPropertyFlagBits import MemoryPropertyFlagBits
+from .MemoryPropertyFlags import MemoryPropertyFlags
+from .MemoryRequirements import MemoryRequirements
+from .MemoryRequirements2 import MemoryRequirements2
+from .MemoryRequirements2KHR import MemoryRequirements2KHR
+from .MemoryType import MemoryType
+from .MultisamplePropertiesEXT import MultisamplePropertiesEXT
+from .ObjectEntryTypeNVX import ObjectEntryTypeNVX
+from .ObjectEntryUsageFlagBitsNVX import ObjectEntryUsageFlagBitsNVX
+from .ObjectEntryUsageFlagsNVX import ObjectEntryUsageFlagsNVX
+from .ObjectTableCreateInfoNVX import ObjectTableCreateInfoNVX
+from .ObjectTableDescriptorSetEntryNVX import ObjectTableDescriptorSetEntryNVX
+from .ObjectTableEntryNVX import ObjectTableEntryNVX
+from .ObjectTableIndexBufferEntryNVX import ObjectTableIndexBufferEntryNVX
+from .ObjectTableNVX import ObjectTableNVX
+from .ObjectTablePipelineEntryNVX import ObjectTablePipelineEntryNVX
+from .ObjectTablePushConstantEntryNVX import ObjectTablePushConstantEntryNVX
+from .ObjectTableVertexBufferEntryNVX import ObjectTableVertexBufferEntryNVX
+from .ObjectType import ObjectType
+from .Offset2D import Offset2D
+from .Offset3D import Offset3D
+from .PastPresentationTimingGOOGLE import PastPresentationTimingGOOGLE
+from .PeerMemoryFeatureFlagBits import PeerMemoryFeatureFlagBits
+from .PeerMemoryFeatureFlagBitsKHR import PeerMemoryFeatureFlagBitsKHR
+from .PeerMemoryFeatureFlags import PeerMemoryFeatureFlags
+from .PeerMemoryFeatureFlagsKHR import PeerMemoryFeatureFlagsKHR
+from .PhysicalDevice import PhysicalDevice
+from .PhysicalDevice16BitStorageFeatures import PhysicalDevice16BitStorageFeatures
+from .PhysicalDevice16BitStorageFeaturesKHR import PhysicalDevice16BitStorageFeaturesKHR
+from .PhysicalDevice8BitStorageFeaturesKHR import PhysicalDevice8BitStorageFeaturesKHR
+from .PhysicalDeviceASTCDecodeFeaturesEXT import PhysicalDeviceASTCDecodeFeaturesEXT
+from .PhysicalDeviceBlendOperationAdvancedFeaturesEXT import PhysicalDeviceBlendOperationAdvancedFeaturesEXT
+from .PhysicalDeviceBlendOperationAdvancedPropertiesEXT import PhysicalDeviceBlendOperationAdvancedPropertiesEXT
+from .PhysicalDeviceBufferAddressFeaturesEXT import PhysicalDeviceBufferAddressFeaturesEXT
+from .PhysicalDeviceBufferDeviceAddressFeaturesEXT import PhysicalDeviceBufferDeviceAddressFeaturesEXT
+from .PhysicalDeviceComputeShaderDerivativesFeaturesNV import PhysicalDeviceComputeShaderDerivativesFeaturesNV
+from .PhysicalDeviceConditionalRenderingFeaturesEXT import PhysicalDeviceConditionalRenderingFeaturesEXT
+from .PhysicalDeviceConservativeRasterizationPropertiesEXT import PhysicalDeviceConservativeRasterizationPropertiesEXT
+from .PhysicalDeviceCooperativeMatrixFeaturesNV import PhysicalDeviceCooperativeMatrixFeaturesNV
+from .PhysicalDeviceCooperativeMatrixPropertiesNV import PhysicalDeviceCooperativeMatrixPropertiesNV
+from .PhysicalDeviceCornerSampledImageFeaturesNV import PhysicalDeviceCornerSampledImageFeaturesNV
+from .PhysicalDeviceCoverageReductionModeFeaturesNV import PhysicalDeviceCoverageReductionModeFeaturesNV
+from .PhysicalDeviceDedicatedAllocationImageAliasingFeaturesNV import PhysicalDeviceDedicatedAllocationImageAliasingFeaturesNV
+from .PhysicalDeviceDepthClipEnableFeaturesEXT import PhysicalDeviceDepthClipEnableFeaturesEXT
+from .PhysicalDeviceDepthStencilResolvePropertiesKHR import PhysicalDeviceDepthStencilResolvePropertiesKHR
+from .PhysicalDeviceDescriptorIndexingFeaturesEXT import PhysicalDeviceDescriptorIndexingFeaturesEXT
+from .PhysicalDeviceDescriptorIndexingPropertiesEXT import PhysicalDeviceDescriptorIndexingPropertiesEXT
+from .PhysicalDeviceDiscardRectanglePropertiesEXT import PhysicalDeviceDiscardRectanglePropertiesEXT
+from .PhysicalDeviceDriverPropertiesKHR import PhysicalDeviceDriverPropertiesKHR
+from .PhysicalDeviceExclusiveScissorFeaturesNV import PhysicalDeviceExclusiveScissorFeaturesNV
+from .PhysicalDeviceExternalBufferInfo import PhysicalDeviceExternalBufferInfo
+from .PhysicalDeviceExternalBufferInfoKHR import PhysicalDeviceExternalBufferInfoKHR
+from .PhysicalDeviceExternalFenceInfo import PhysicalDeviceExternalFenceInfo
+from .PhysicalDeviceExternalFenceInfoKHR import PhysicalDeviceExternalFenceInfoKHR
+from .PhysicalDeviceExternalImageFormatInfo import PhysicalDeviceExternalImageFormatInfo
+from .PhysicalDeviceExternalImageFormatInfoKHR import PhysicalDeviceExternalImageFormatInfoKHR
+from .PhysicalDeviceExternalMemoryHostPropertiesEXT import PhysicalDeviceExternalMemoryHostPropertiesEXT
+from .PhysicalDeviceExternalSemaphoreInfo import PhysicalDeviceExternalSemaphoreInfo
+from .PhysicalDeviceExternalSemaphoreInfoKHR import PhysicalDeviceExternalSemaphoreInfoKHR
+from .PhysicalDeviceFeatures import PhysicalDeviceFeatures
+from .PhysicalDeviceFeatures2 import PhysicalDeviceFeatures2
+from .PhysicalDeviceFeatures2KHR import PhysicalDeviceFeatures2KHR
+from .PhysicalDeviceFloat16Int8FeaturesKHR import PhysicalDeviceFloat16Int8FeaturesKHR
+from .PhysicalDeviceFloatControlsPropertiesKHR import PhysicalDeviceFloatControlsPropertiesKHR
+from .PhysicalDeviceFragmentDensityMapFeaturesEXT import PhysicalDeviceFragmentDensityMapFeaturesEXT
+from .PhysicalDeviceFragmentDensityMapPropertiesEXT import PhysicalDeviceFragmentDensityMapPropertiesEXT
+from .PhysicalDeviceFragmentShaderBarycentricFeaturesNV import PhysicalDeviceFragmentShaderBarycentricFeaturesNV
+from .PhysicalDeviceGroupProperties import PhysicalDeviceGroupProperties
+from .PhysicalDeviceGroupPropertiesKHR import PhysicalDeviceGroupPropertiesKHR
+from .PhysicalDeviceHostQueryResetFeaturesEXT import PhysicalDeviceHostQueryResetFeaturesEXT
+from .PhysicalDeviceIDProperties import PhysicalDeviceIDProperties
+from .PhysicalDeviceIDPropertiesKHR import PhysicalDeviceIDPropertiesKHR
+from .PhysicalDeviceImageDrmFormatModifierInfoEXT import PhysicalDeviceImageDrmFormatModifierInfoEXT
+from .PhysicalDeviceImageFormatInfo2 import PhysicalDeviceImageFormatInfo2
+from .PhysicalDeviceImageFormatInfo2KHR import PhysicalDeviceImageFormatInfo2KHR
+from .PhysicalDeviceImageViewImageFormatInfoEXT import PhysicalDeviceImageViewImageFormatInfoEXT
+from .PhysicalDeviceInlineUniformBlockFeaturesEXT import PhysicalDeviceInlineUniformBlockFeaturesEXT
+from .PhysicalDeviceInlineUniformBlockPropertiesEXT import PhysicalDeviceInlineUniformBlockPropertiesEXT
+from .PhysicalDeviceLimits import PhysicalDeviceLimits
+from .PhysicalDeviceMaintenance3Properties import PhysicalDeviceMaintenance3Properties
+from .PhysicalDeviceMaintenance3PropertiesKHR import PhysicalDeviceMaintenance3PropertiesKHR
+from .PhysicalDeviceMemoryBudgetPropertiesEXT import PhysicalDeviceMemoryBudgetPropertiesEXT
+from .PhysicalDeviceMemoryPriorityFeaturesEXT import PhysicalDeviceMemoryPriorityFeaturesEXT
+from .PhysicalDeviceMemoryProperties import PhysicalDeviceMemoryProperties
+from .PhysicalDeviceMemoryProperties2 import PhysicalDeviceMemoryProperties2
+from .PhysicalDeviceMemoryProperties2KHR import PhysicalDeviceMemoryProperties2KHR
+from .PhysicalDeviceMeshShaderFeaturesNV import PhysicalDeviceMeshShaderFeaturesNV
+from .PhysicalDeviceMeshShaderPropertiesNV import PhysicalDeviceMeshShaderPropertiesNV
+from .PhysicalDeviceMultiviewFeatures import PhysicalDeviceMultiviewFeatures
+from .PhysicalDeviceMultiviewFeaturesKHR import PhysicalDeviceMultiviewFeaturesKHR
+from .PhysicalDeviceMultiviewPerViewAttributesPropertiesNVX import PhysicalDeviceMultiviewPerViewAttributesPropertiesNVX
+from .PhysicalDeviceMultiviewProperties import PhysicalDeviceMultiviewProperties
+from .PhysicalDeviceMultiviewPropertiesKHR import PhysicalDeviceMultiviewPropertiesKHR
+from .PhysicalDevicePCIBusInfoPropertiesEXT import PhysicalDevicePCIBusInfoPropertiesEXT
+from .PhysicalDevicePointClippingProperties import PhysicalDevicePointClippingProperties
+from .PhysicalDevicePointClippingPropertiesKHR import PhysicalDevicePointClippingPropertiesKHR
+from .PhysicalDeviceProperties import PhysicalDeviceProperties
+from .PhysicalDeviceProperties2 import PhysicalDeviceProperties2
+from .PhysicalDeviceProperties2KHR import PhysicalDeviceProperties2KHR
+from .PhysicalDeviceProtectedMemoryFeatures import PhysicalDeviceProtectedMemoryFeatures
+from .PhysicalDeviceProtectedMemoryProperties import PhysicalDeviceProtectedMemoryProperties
+from .PhysicalDevicePushDescriptorPropertiesKHR import PhysicalDevicePushDescriptorPropertiesKHR
+from .PhysicalDeviceRayTracingPropertiesNV import PhysicalDeviceRayTracingPropertiesNV
+from .PhysicalDeviceRepresentativeFragmentTestFeaturesNV import PhysicalDeviceRepresentativeFragmentTestFeaturesNV
+from .PhysicalDeviceSampleLocationsPropertiesEXT import PhysicalDeviceSampleLocationsPropertiesEXT
+from .PhysicalDeviceSamplerFilterMinmaxPropertiesEXT import PhysicalDeviceSamplerFilterMinmaxPropertiesEXT
+from .PhysicalDeviceSamplerYcbcrConversionFeatures import PhysicalDeviceSamplerYcbcrConversionFeatures
+from .PhysicalDeviceSamplerYcbcrConversionFeaturesKHR import PhysicalDeviceSamplerYcbcrConversionFeaturesKHR
+from .PhysicalDeviceScalarBlockLayoutFeaturesEXT import PhysicalDeviceScalarBlockLayoutFeaturesEXT
+from .PhysicalDeviceShaderAtomicInt64FeaturesKHR import PhysicalDeviceShaderAtomicInt64FeaturesKHR
+from .PhysicalDeviceShaderCorePropertiesAMD import PhysicalDeviceShaderCorePropertiesAMD
+from .PhysicalDeviceShaderDrawParameterFeatures import PhysicalDeviceShaderDrawParameterFeatures
+from .PhysicalDeviceShaderDrawParametersFeatures import PhysicalDeviceShaderDrawParametersFeatures
+from .PhysicalDeviceShaderImageFootprintFeaturesNV import PhysicalDeviceShaderImageFootprintFeaturesNV
+from .PhysicalDeviceShadingRateImageFeaturesNV import PhysicalDeviceShadingRateImageFeaturesNV
+from .PhysicalDeviceShadingRateImagePropertiesNV import PhysicalDeviceShadingRateImagePropertiesNV
+from .PhysicalDeviceSparseImageFormatInfo2 import PhysicalDeviceSparseImageFormatInfo2
+from .PhysicalDeviceSparseImageFormatInfo2KHR import PhysicalDeviceSparseImageFormatInfo2KHR
+from .PhysicalDeviceSparseProperties import PhysicalDeviceSparseProperties
+from .PhysicalDeviceSubgroupProperties import PhysicalDeviceSubgroupProperties
+from .PhysicalDeviceSurfaceInfo2KHR import PhysicalDeviceSurfaceInfo2KHR
+from .PhysicalDeviceTransformFeedbackFeaturesEXT import PhysicalDeviceTransformFeedbackFeaturesEXT
+from .PhysicalDeviceTransformFeedbackPropertiesEXT import PhysicalDeviceTransformFeedbackPropertiesEXT
+from .PhysicalDeviceType import PhysicalDeviceType
+from .PhysicalDeviceUniformBufferStandardLayoutFeaturesKHR import PhysicalDeviceUniformBufferStandardLayoutFeaturesKHR
+from .PhysicalDeviceVariablePointerFeatures import PhysicalDeviceVariablePointerFeatures
+from .PhysicalDeviceVariablePointerFeaturesKHR import PhysicalDeviceVariablePointerFeaturesKHR
+from .PhysicalDeviceVariablePointersFeatures import PhysicalDeviceVariablePointersFeatures
+from .PhysicalDeviceVariablePointersFeaturesKHR import PhysicalDeviceVariablePointersFeaturesKHR
+from .PhysicalDeviceVertexAttributeDivisorFeaturesEXT import PhysicalDeviceVertexAttributeDivisorFeaturesEXT
+from .PhysicalDeviceVertexAttributeDivisorPropertiesEXT import PhysicalDeviceVertexAttributeDivisorPropertiesEXT
+from .PhysicalDeviceVulkanMemoryModelFeaturesKHR import PhysicalDeviceVulkanMemoryModelFeaturesKHR
+from .PhysicalDeviceYcbcrImageArraysFeaturesEXT import PhysicalDeviceYcbcrImageArraysFeaturesEXT
+from .Pipeline import Pipeline
+from .PipelineBindPoint import PipelineBindPoint
+from .PipelineCache import PipelineCache
+from .PipelineCacheCreateFlags import PipelineCacheCreateFlags
+from .PipelineCacheCreateInfo import PipelineCacheCreateInfo
+from .PipelineCacheHeaderVersion import PipelineCacheHeaderVersion
+from .PipelineColorBlendAdvancedStateCreateInfoEXT import PipelineColorBlendAdvancedStateCreateInfoEXT
+from .PipelineColorBlendAttachmentState import PipelineColorBlendAttachmentState
+from .PipelineColorBlendStateCreateFlags import PipelineColorBlendStateCreateFlags
+from .PipelineColorBlendStateCreateInfo import PipelineColorBlendStateCreateInfo
+from .PipelineCoverageModulationStateCreateFlagsNV import PipelineCoverageModulationStateCreateFlagsNV
+from .PipelineCoverageModulationStateCreateInfoNV import PipelineCoverageModulationStateCreateInfoNV
+from .PipelineCoverageReductionStateCreateFlagsNV import PipelineCoverageReductionStateCreateFlagsNV
+from .PipelineCoverageReductionStateCreateInfoNV import PipelineCoverageReductionStateCreateInfoNV
+from .PipelineCoverageToColorStateCreateFlagsNV import PipelineCoverageToColorStateCreateFlagsNV
+from .PipelineCoverageToColorStateCreateInfoNV import PipelineCoverageToColorStateCreateInfoNV
+from .PipelineCreateFlagBits import PipelineCreateFlagBits
+from .PipelineCreateFlags import PipelineCreateFlags
+from .PipelineCreationFeedbackCreateInfoEXT import PipelineCreationFeedbackCreateInfoEXT
+from .PipelineCreationFeedbackEXT import PipelineCreationFeedbackEXT
+from .PipelineCreationFeedbackFlagBitsEXT import PipelineCreationFeedbackFlagBitsEXT
+from .PipelineCreationFeedbackFlagsEXT import PipelineCreationFeedbackFlagsEXT
+from .PipelineDepthStencilStateCreateFlags import PipelineDepthStencilStateCreateFlags
+from .PipelineDepthStencilStateCreateInfo import PipelineDepthStencilStateCreateInfo
+from .PipelineDiscardRectangleStateCreateFlagsEXT import PipelineDiscardRectangleStateCreateFlagsEXT
+from .PipelineDiscardRectangleStateCreateInfoEXT import PipelineDiscardRectangleStateCreateInfoEXT
+from .PipelineDynamicStateCreateFlags import PipelineDynamicStateCreateFlags
+from .PipelineDynamicStateCreateInfo import PipelineDynamicStateCreateInfo
+from .PipelineInputAssemblyStateCreateFlags import PipelineInputAssemblyStateCreateFlags
+from .PipelineInputAssemblyStateCreateInfo import PipelineInputAssemblyStateCreateInfo
+from .PipelineLayout import PipelineLayout
+from .PipelineLayoutCreateFlags import PipelineLayoutCreateFlags
+from .PipelineLayoutCreateInfo import PipelineLayoutCreateInfo
+from .PipelineMultisampleStateCreateFlags import PipelineMultisampleStateCreateFlags
+from .PipelineMultisampleStateCreateInfo import PipelineMultisampleStateCreateInfo
+from .PipelineRasterizationConservativeStateCreateFlagsEXT import PipelineRasterizationConservativeStateCreateFlagsEXT
+from .PipelineRasterizationConservativeStateCreateInfoEXT import PipelineRasterizationConservativeStateCreateInfoEXT
+from .PipelineRasterizationDepthClipStateCreateFlagsEXT import PipelineRasterizationDepthClipStateCreateFlagsEXT
+from .PipelineRasterizationDepthClipStateCreateInfoEXT import PipelineRasterizationDepthClipStateCreateInfoEXT
+from .PipelineRasterizationStateCreateFlags import PipelineRasterizationStateCreateFlags
+from .PipelineRasterizationStateCreateInfo import PipelineRasterizationStateCreateInfo
+from .PipelineRasterizationStateRasterizationOrderAMD import PipelineRasterizationStateRasterizationOrderAMD
+from .PipelineRasterizationStateStreamCreateFlagsEXT import PipelineRasterizationStateStreamCreateFlagsEXT
+from .PipelineRasterizationStateStreamCreateInfoEXT import PipelineRasterizationStateStreamCreateInfoEXT
+from .PipelineRepresentativeFragmentTestStateCreateInfoNV import PipelineRepresentativeFragmentTestStateCreateInfoNV
+from .PipelineSampleLocationsStateCreateInfoEXT import PipelineSampleLocationsStateCreateInfoEXT
+from .PipelineShaderStageCreateFlags import PipelineShaderStageCreateFlags
+from .PipelineShaderStageCreateInfo import PipelineShaderStageCreateInfo
+from .PipelineStageFlagBits import PipelineStageFlagBits
+from .PipelineStageFlags import PipelineStageFlags
+from .PipelineTessellationDomainOriginStateCreateInfo import PipelineTessellationDomainOriginStateCreateInfo
+from .PipelineTessellationDomainOriginStateCreateInfoKHR import PipelineTessellationDomainOriginStateCreateInfoKHR
+from .PipelineTessellationStateCreateFlags import PipelineTessellationStateCreateFlags
+from .PipelineTessellationStateCreateInfo import PipelineTessellationStateCreateInfo
+from .PipelineVertexInputDivisorStateCreateInfoEXT import PipelineVertexInputDivisorStateCreateInfoEXT
+from .PipelineVertexInputStateCreateFlags import PipelineVertexInputStateCreateFlags
+from .PipelineVertexInputStateCreateInfo import PipelineVertexInputStateCreateInfo
+from .PipelineViewportCoarseSampleOrderStateCreateInfoNV import PipelineViewportCoarseSampleOrderStateCreateInfoNV
+from .PipelineViewportExclusiveScissorStateCreateInfoNV import PipelineViewportExclusiveScissorStateCreateInfoNV
+from .PipelineViewportShadingRateImageStateCreateInfoNV import PipelineViewportShadingRateImageStateCreateInfoNV
+from .PipelineViewportStateCreateFlags import PipelineViewportStateCreateFlags
+from .PipelineViewportStateCreateInfo import PipelineViewportStateCreateInfo
+from .PipelineViewportSwizzleStateCreateFlagsNV import PipelineViewportSwizzleStateCreateFlagsNV
+from .PipelineViewportSwizzleStateCreateInfoNV import PipelineViewportSwizzleStateCreateInfoNV
+from .PipelineViewportWScalingStateCreateInfoNV import PipelineViewportWScalingStateCreateInfoNV
+from .PointClippingBehavior import PointClippingBehavior
+from .PointClippingBehaviorKHR import PointClippingBehaviorKHR
+from .PolygonMode import PolygonMode
+from .PresentInfoKHR import PresentInfoKHR
+from .PresentModeKHR import PresentModeKHR
+from .PresentRegionKHR import PresentRegionKHR
+from .PresentRegionsKHR import PresentRegionsKHR
+from .PresentTimeGOOGLE import PresentTimeGOOGLE
+from .PresentTimesInfoGOOGLE import PresentTimesInfoGOOGLE
+from .PrimitiveTopology import PrimitiveTopology
+from .ProtectedSubmitInfo import ProtectedSubmitInfo
+from .PushConstantRange import PushConstantRange
+from .QueryControlFlagBits import QueryControlFlagBits
+from .QueryControlFlags import QueryControlFlags
+from .QueryPipelineStatisticFlagBits import QueryPipelineStatisticFlagBits
+from .QueryPipelineStatisticFlags import QueryPipelineStatisticFlags
+from .QueryPool import QueryPool
+from .QueryPoolCreateFlags import QueryPoolCreateFlags
+from .QueryPoolCreateInfo import QueryPoolCreateInfo
+from .QueryResultFlagBits import QueryResultFlagBits
+from .QueryResultFlags import QueryResultFlags
+from .QueryType import QueryType
+from .Queue import Queue
+from .QueueFamilyCheckpointPropertiesNV import QueueFamilyCheckpointPropertiesNV
+from .QueueFamilyProperties import QueueFamilyProperties
+from .QueueFamilyProperties2 import QueueFamilyProperties2
+from .QueueFamilyProperties2KHR import QueueFamilyProperties2KHR
+from .QueueFlagBits import QueueFlagBits
+from .QueueFlags import QueueFlags
+from .QueueGlobalPriorityEXT import QueueGlobalPriorityEXT
+from .RasterizationOrderAMD import RasterizationOrderAMD
+from .RayTracingPipelineCreateInfoNV import RayTracingPipelineCreateInfoNV
+from .RayTracingShaderGroupCreateInfoNV import RayTracingShaderGroupCreateInfoNV
+from .RayTracingShaderGroupTypeNV import RayTracingShaderGroupTypeNV
+from .Rect2D import Rect2D
+from .RectLayerKHR import RectLayerKHR
+from .RefreshCycleDurationGOOGLE import RefreshCycleDurationGOOGLE
+from .RenderPass import RenderPass
+from .RenderPassBeginInfo import RenderPassBeginInfo
+from .RenderPassCreateFlags import RenderPassCreateFlags
+from .RenderPassCreateInfo import RenderPassCreateInfo
+from .RenderPassCreateInfo2KHR import RenderPassCreateInfo2KHR
+from .RenderPassFragmentDensityMapCreateInfoEXT import RenderPassFragmentDensityMapCreateInfoEXT
+from .RenderPassInputAttachmentAspectCreateInfo import RenderPassInputAttachmentAspectCreateInfo
+from .RenderPassInputAttachmentAspectCreateInfoKHR import RenderPassInputAttachmentAspectCreateInfoKHR
+from .RenderPassMultiviewCreateInfo import RenderPassMultiviewCreateInfo
+from .RenderPassMultiviewCreateInfoKHR import RenderPassMultiviewCreateInfoKHR
+from .RenderPassSampleLocationsBeginInfoEXT import RenderPassSampleLocationsBeginInfoEXT
+from .ResolveModeFlagBitsKHR import ResolveModeFlagBitsKHR
+from .ResolveModeFlagsKHR import ResolveModeFlagsKHR
+from .Result import Result
+from .SampleCountFlagBits import SampleCountFlagBits
+from .SampleCountFlags import SampleCountFlags
+from .SampleLocationEXT import SampleLocationEXT
+from .SampleLocationsInfoEXT import SampleLocationsInfoEXT
+from .SampleMask import SampleMask
+from .Sampler import Sampler
+from .SamplerAddressMode import SamplerAddressMode
+from .SamplerCreateFlagBits import SamplerCreateFlagBits
+from .SamplerCreateFlags import SamplerCreateFlags
+from .SamplerCreateInfo import SamplerCreateInfo
+from .SamplerMipmapMode import SamplerMipmapMode
+from .SamplerReductionModeCreateInfoEXT import SamplerReductionModeCreateInfoEXT
+from .SamplerReductionModeEXT import SamplerReductionModeEXT
+from .SamplerYcbcrConversion import SamplerYcbcrConversion
+from .SamplerYcbcrConversionCreateInfo import SamplerYcbcrConversionCreateInfo
+from .SamplerYcbcrConversionCreateInfoKHR import SamplerYcbcrConversionCreateInfoKHR
+from .SamplerYcbcrConversionImageFormatProperties import SamplerYcbcrConversionImageFormatProperties
+from .SamplerYcbcrConversionImageFormatPropertiesKHR import SamplerYcbcrConversionImageFormatPropertiesKHR
+from .SamplerYcbcrConversionInfo import SamplerYcbcrConversionInfo
+from .SamplerYcbcrConversionInfoKHR import SamplerYcbcrConversionInfoKHR
+from .SamplerYcbcrConversionKHR import SamplerYcbcrConversionKHR
+from .SamplerYcbcrModelConversion import SamplerYcbcrModelConversion
+from .SamplerYcbcrModelConversionKHR import SamplerYcbcrModelConversionKHR
+from .SamplerYcbcrRange import SamplerYcbcrRange
+from .SamplerYcbcrRangeKHR import SamplerYcbcrRangeKHR
+from .ScopeNV import ScopeNV
+from .Semaphore import Semaphore
+from .SemaphoreCreateFlags import SemaphoreCreateFlags
+from .SemaphoreCreateInfo import SemaphoreCreateInfo
+from .SemaphoreGetFdInfoKHR import SemaphoreGetFdInfoKHR
+from .SemaphoreImportFlagBits import SemaphoreImportFlagBits
+from .SemaphoreImportFlagBitsKHR import SemaphoreImportFlagBitsKHR
+from .SemaphoreImportFlags import SemaphoreImportFlags
+from .SemaphoreImportFlagsKHR import SemaphoreImportFlagsKHR
+from .ShaderInfoTypeAMD import ShaderInfoTypeAMD
+from .ShaderModule import ShaderModule
+from .ShaderModuleCreateFlags import ShaderModuleCreateFlags
+from .ShaderModuleCreateInfo import ShaderModuleCreateInfo
+from .ShaderModuleValidationCacheCreateInfoEXT import ShaderModuleValidationCacheCreateInfoEXT
+from .ShaderResourceUsageAMD import ShaderResourceUsageAMD
+from .ShaderStageFlagBits import ShaderStageFlagBits
+from .ShaderStageFlags import ShaderStageFlags
+from .ShaderStatisticsInfoAMD import ShaderStatisticsInfoAMD
+from .ShadingRatePaletteEntryNV import ShadingRatePaletteEntryNV
+from .ShadingRatePaletteNV import ShadingRatePaletteNV
+from .SharedPresentSurfaceCapabilitiesKHR import SharedPresentSurfaceCapabilitiesKHR
+from .SharingMode import SharingMode
+from .SparseBufferMemoryBindInfo import SparseBufferMemoryBindInfo
+from .SparseImageFormatFlagBits import SparseImageFormatFlagBits
+from .SparseImageFormatFlags import SparseImageFormatFlags
+from .SparseImageFormatProperties import SparseImageFormatProperties
+from .SparseImageFormatProperties2 import SparseImageFormatProperties2
+from .SparseImageFormatProperties2KHR import SparseImageFormatProperties2KHR
+from .SparseImageMemoryBind import SparseImageMemoryBind
+from .SparseImageMemoryBindInfo import SparseImageMemoryBindInfo
+from .SparseImageMemoryRequirements import SparseImageMemoryRequirements
+from .SparseImageMemoryRequirements2 import SparseImageMemoryRequirements2
+from .SparseImageMemoryRequirements2KHR import SparseImageMemoryRequirements2KHR
+from .SparseImageOpaqueMemoryBindInfo import SparseImageOpaqueMemoryBindInfo
+from .SparseMemoryBind import SparseMemoryBind
+from .SparseMemoryBindFlagBits import SparseMemoryBindFlagBits
+from .SparseMemoryBindFlags import SparseMemoryBindFlags
+from .SpecializationInfo import SpecializationInfo
+from .SpecializationMapEntry import SpecializationMapEntry
+from .StencilFaceFlagBits import StencilFaceFlagBits
+from .StencilFaceFlags import StencilFaceFlags
+from .StencilOp import StencilOp
+from .StencilOpState import StencilOpState
+from .StructureType import StructureType
+from .SubgroupFeatureFlagBits import SubgroupFeatureFlagBits
+from .SubgroupFeatureFlags import SubgroupFeatureFlags
+from .SubmitInfo import SubmitInfo
+from .SubpassBeginInfoKHR import SubpassBeginInfoKHR
+from .SubpassContents import SubpassContents
+from .SubpassDependency import SubpassDependency
+from .SubpassDependency2KHR import SubpassDependency2KHR
+from .SubpassDescription import SubpassDescription
+from .SubpassDescription2KHR import SubpassDescription2KHR
+from .SubpassDescriptionDepthStencilResolveKHR import SubpassDescriptionDepthStencilResolveKHR
+from .SubpassDescriptionFlagBits import SubpassDescriptionFlagBits
+from .SubpassDescriptionFlags import SubpassDescriptionFlags
+from .SubpassEndInfoKHR import SubpassEndInfoKHR
+from .SubpassSampleLocationsEXT import SubpassSampleLocationsEXT
+from .SubresourceLayout import SubresourceLayout
+from .SurfaceCapabilities2EXT import SurfaceCapabilities2EXT
+from .SurfaceCapabilities2KHR import SurfaceCapabilities2KHR
+from .SurfaceCapabilitiesKHR import SurfaceCapabilitiesKHR
+from .SurfaceCounterFlagBitsEXT import SurfaceCounterFlagBitsEXT
+from .SurfaceCounterFlagsEXT import SurfaceCounterFlagsEXT
+from .SurfaceFormat2KHR import SurfaceFormat2KHR
+from .SurfaceFormatKHR import SurfaceFormatKHR
+from .SurfaceKHR import SurfaceKHR
+from .SurfaceProtectedCapabilitiesKHR import SurfaceProtectedCapabilitiesKHR
+from .SurfaceTransformFlagBitsKHR import SurfaceTransformFlagBitsKHR
+from .SurfaceTransformFlagsKHR import SurfaceTransformFlagsKHR
+from .SwapchainCounterCreateInfoEXT import SwapchainCounterCreateInfoEXT
+from .SwapchainCreateFlagBitsKHR import SwapchainCreateFlagBitsKHR
+from .SwapchainCreateFlagsKHR import SwapchainCreateFlagsKHR
+from .SwapchainCreateInfoKHR import SwapchainCreateInfoKHR
+from .SwapchainDisplayNativeHdrCreateInfoAMD import SwapchainDisplayNativeHdrCreateInfoAMD
+from .SwapchainKHR import SwapchainKHR
+from .SystemAllocationScope import SystemAllocationScope
+from .TessellationDomainOrigin import TessellationDomainOrigin
+from .TessellationDomainOriginKHR import TessellationDomainOriginKHR
+from .TextureLODGatherFormatPropertiesAMD import TextureLODGatherFormatPropertiesAMD
+from .TimeDomainEXT import TimeDomainEXT
+from .ValidationCacheCreateFlagsEXT import ValidationCacheCreateFlagsEXT
+from .ValidationCacheCreateInfoEXT import ValidationCacheCreateInfoEXT
+from .ValidationCacheEXT import ValidationCacheEXT
+from .ValidationCacheHeaderVersionEXT import ValidationCacheHeaderVersionEXT
+from .ValidationCheckEXT import ValidationCheckEXT
+from .ValidationFeatureDisableEXT import ValidationFeatureDisableEXT
+from .ValidationFeatureEnableEXT import ValidationFeatureEnableEXT
+from .ValidationFeaturesEXT import ValidationFeaturesEXT
+from .ValidationFlagsEXT import ValidationFlagsEXT
+from .VendorId import VendorId
+from .VertexInputAttributeDescription import VertexInputAttributeDescription
+from .VertexInputBindingDescription import VertexInputBindingDescription
+from .VertexInputBindingDivisorDescriptionEXT import VertexInputBindingDivisorDescriptionEXT
+from .VertexInputRate import VertexInputRate
+from .Viewport import Viewport
+from .ViewportCoordinateSwizzleNV import ViewportCoordinateSwizzleNV
+from .ViewportSwizzleNV import ViewportSwizzleNV
+from .ViewportWScalingNV import ViewportWScalingNV
+from .WriteDescriptorSet import WriteDescriptorSet
+from .WriteDescriptorSetAccelerationStructureNV import WriteDescriptorSetAccelerationStructureNV
+from .WriteDescriptorSetInlineUniformBlockEXT import WriteDescriptorSetInlineUniformBlockEXT
+from .XYColorEXT import XYColorEXT
+from .__class__ import __class__
+# variables with complex values
+
+__loader__ = None # (!) real value is '<gi.importer.DynamicImporter object at 0x7f23f7a9dd00>'
+
+__path__ = [
+    '/usr/lib64/girepository-1.0/Vulkan-1.0.typelib',
+]
+
+__spec__ = None # (!) real value is "ModuleSpec(name='gi.repository.Vulkan', loader=<gi.importer.DynamicImporter object at 0x7f23f7a9dd00>)"
+

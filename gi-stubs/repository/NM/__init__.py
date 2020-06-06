@@ -1,0 +1,2511 @@
+# encoding: utf-8
+# module gi.repository.NM
+# from /usr/lib64/girepository-1.0/NM-1.0.typelib
+# by generator 1.147
+"""
+An object which wraps an introspection typelib.
+
+    This wrapping creates a python module like representation of the typelib
+    using gi repository as a foundation. Accessing attributes of the module
+    will dynamically pull them in and create wrappers for the members.
+    These members are then cached on this introspection module.
+"""
+
+# imports
+import gi as __gi
+import gi.overrides.GObject as __gi_overrides_GObject
+import gi.repository.Gio as __gi_repository_Gio
+import gobject as __gobject
+
+
+# Variables with simple values
+
+ACCESS_POINT_BSSID = 'bssid'
+ACCESS_POINT_FLAGS = 'flags'
+ACCESS_POINT_FREQUENCY = 'frequency'
+
+ACCESS_POINT_HW_ADDRESS = 'hw-address'
+
+ACCESS_POINT_LAST_SEEN = 'last-seen'
+
+ACCESS_POINT_MAX_BITRATE = 'max-bitrate'
+
+ACCESS_POINT_MODE = 'mode'
+
+ACCESS_POINT_RSN_FLAGS = 'rsn-flags'
+
+ACCESS_POINT_SSID = 'ssid'
+ACCESS_POINT_STRENGTH = 'strength'
+
+ACCESS_POINT_WPA_FLAGS = 'wpa-flags'
+
+ACTIVE_CONNECTION_CONNECTION = 'connection'
+ACTIVE_CONNECTION_DEFAULT = 'default'
+ACTIVE_CONNECTION_DEFAULT6 = 'default6'
+ACTIVE_CONNECTION_DEVICES = 'devices'
+
+ACTIVE_CONNECTION_DHCP4_CONFIG = 'dhcp4-config'
+
+ACTIVE_CONNECTION_DHCP6_CONFIG = 'dhcp6-config'
+
+ACTIVE_CONNECTION_ID = 'id'
+
+ACTIVE_CONNECTION_IP4_CONFIG = 'ip4-config'
+
+ACTIVE_CONNECTION_IP6_CONFIG = 'ip6-config'
+
+ACTIVE_CONNECTION_MASTER = 'master'
+
+ACTIVE_CONNECTION_SPECIFIC_OBJECT_PATH = 'specific-object-path'
+
+ACTIVE_CONNECTION_STATE = 'state'
+
+ACTIVE_CONNECTION_STATE_FLAGS = 'state-flags'
+
+ACTIVE_CONNECTION_TYPE = 'type'
+ACTIVE_CONNECTION_UUID = 'uuid'
+ACTIVE_CONNECTION_VPN = 'vpn'
+
+BRIDGE_VLAN_VID_MAX = 4094
+BRIDGE_VLAN_VID_MIN = 1
+
+CHECKPOINT_CREATED = 'created'
+CHECKPOINT_DEVICES = 'devices'
+
+CHECKPOINT_ROLLBACK_TIMEOUT = 'rollback-timeout'
+
+CLIENT_ACTIVATING_CONNECTION = 'activating-connection'
+
+CLIENT_ACTIVE_CONNECTIONS = 'active-connections'
+
+CLIENT_ACTIVE_CONNECTION_ADDED = 'active-connection-added'
+CLIENT_ACTIVE_CONNECTION_REMOVED = 'active-connection-removed'
+
+CLIENT_ALL_DEVICES = 'all-devices'
+
+CLIENT_ANY_DEVICE_ADDED = 'any-device-added'
+CLIENT_ANY_DEVICE_REMOVED = 'any-device-removed'
+
+CLIENT_CAN_MODIFY = 'can-modify'
+
+CLIENT_CAPABILITIES = 'capabilities'
+CLIENT_CHECKPOINTS = 'checkpoints'
+CLIENT_CONNECTIONS = 'connections'
+
+CLIENT_CONNECTION_ADDED = 'connection-added'
+CLIENT_CONNECTION_REMOVED = 'connection-removed'
+
+CLIENT_CONNECTIVITY = 'connectivity'
+
+CLIENT_CONNECTIVITY_CHECK_AVAILABLE = 'connectivity-check-available'
+CLIENT_CONNECTIVITY_CHECK_ENABLED = 'connectivity-check-enabled'
+CLIENT_CONNECTIVITY_CHECK_URI = 'connectivity-check-uri'
+
+CLIENT_DBUS_CONNECTION = 'dbus-connection'
+
+CLIENT_DBUS_NAME_OWNER = 'dbus-name-owner'
+
+CLIENT_DEVICES = 'devices'
+
+CLIENT_DEVICE_ADDED = 'device-added'
+CLIENT_DEVICE_REMOVED = 'device-removed'
+
+CLIENT_DNS_CONFIGURATION = 'dns-configuration'
+CLIENT_DNS_MODE = 'dns-mode'
+
+CLIENT_DNS_RC_MANAGER = 'dns-rc-manager'
+
+CLIENT_HOSTNAME = 'hostname'
+CLIENT_METERED = 'metered'
+
+CLIENT_NETWORKING_ENABLED = 'networking-enabled'
+
+CLIENT_NM_RUNNING = 'nm-running'
+
+CLIENT_PERMISSION_CHANGED = 'permission-changed'
+
+CLIENT_PRIMARY_CONNECTION = 'primary-connection'
+
+CLIENT_STARTUP = 'startup'
+CLIENT_STATE = 'state'
+CLIENT_VERSION = 'version'
+
+CLIENT_WIMAX_ENABLED = 'wimax-enabled'
+
+CLIENT_WIMAX_HARDWARE_ENABLED = 'wimax-hardware-enabled'
+
+CLIENT_WIRELESS_ENABLED = 'wireless-enabled'
+
+CLIENT_WIRELESS_HARDWARE_ENABLED = 'wireless-hardware-enabled'
+
+CLIENT_WWAN_ENABLED = 'wwan-enabled'
+
+CLIENT_WWAN_HARDWARE_ENABLED = 'wwan-hardware-enabled'
+
+CONNECTION_CHANGED = 'changed'
+
+CONNECTION_NORMALIZE_PARAM_IP6_CONFIG_METHOD = 'ip6-config-method'
+
+CONNECTION_SECRETS_CLEARED = 'secrets-cleared'
+CONNECTION_SECRETS_UPDATED = 'secrets-updated'
+
+DBUS_INTERFACE = 'org.freedesktop.NetworkManager'
+
+DBUS_INTERFACE_DNS_MANAGER = 'org.freedesktop.NetworkManager.DnsManager'
+
+DBUS_INTERFACE_SETTINGS = 'org.freedesktop.NetworkManager.Settings'
+
+DBUS_INTERFACE_SETTINGS_CONNECTION = 'org.freedesktop.NetworkManager.Settings.Connection'
+
+DBUS_INTERFACE_SETTINGS_CONNECTION_SECRETS = 'org.freedesktop.NetworkManager.Settings.Connection.Secrets'
+
+DBUS_INTERFACE_VPN = 'org.freedesktop.NetworkManager.VPN.Manager'
+
+DBUS_INTERFACE_VPN_CONNECTION = 'org.freedesktop.NetworkManager.VPN.Connection'
+
+DBUS_INVALID_VPN_CONNECTION = 'org.freedesktop.NetworkManager.VPNConnections.InvalidVPNConnection'
+
+DBUS_NO_ACTIVE_VPN_CONNECTION = 'org.freedesktop.NetworkManager.VPNConnections.NoActiveVPNConnection'
+
+DBUS_NO_VPN_CONNECTIONS = 'org.freedesktop.NetworkManager.VPNConnections.NoVPNConnections'
+
+DBUS_PATH = '/org/freedesktop/NetworkManager'
+
+DBUS_PATH_AGENT_MANAGER = '/org/freedesktop/NetworkManager/AgentManager'
+
+DBUS_PATH_DNS_MANAGER = '/org/freedesktop/NetworkManager/DnsManager'
+
+DBUS_PATH_SECRET_AGENT = '/org/freedesktop/NetworkManager/SecretAgent'
+
+DBUS_PATH_SETTINGS = '/org/freedesktop/NetworkManager/Settings'
+
+DBUS_PATH_SETTINGS_CONNECTION = '/org/freedesktop/NetworkManager/Settings/Connection'
+
+DBUS_PATH_VPN = '/org/freedesktop/NetworkManager/VPN/Manager'
+
+DBUS_PATH_VPN_CONNECTION = '/org/freedesktop/NetworkManager/VPN/Connection'
+
+DBUS_SERVICE = 'org.freedesktop.NetworkManager'
+
+DBUS_VPN_ALREADY_STARTED = 'AlreadyStarted'
+DBUS_VPN_ALREADY_STOPPED = 'AlreadyStopped'
+
+DBUS_VPN_BAD_ARGUMENTS = 'BadArguments'
+
+DBUS_VPN_ERROR_PREFIX = 'org.freedesktop.NetworkManager.VPN.Error'
+
+DBUS_VPN_INTERACTIVE_NOT_SUPPORTED = 'InteractiveNotSupported'
+
+DBUS_VPN_SIGNAL_CONNECT_FAILED = 'ConnectFailed'
+
+DBUS_VPN_SIGNAL_IP4_CONFIG = 'IP4Config'
+
+DBUS_VPN_SIGNAL_IP_CONFIG_BAD = 'IPConfigBad'
+
+DBUS_VPN_SIGNAL_LAUNCH_FAILED = 'LaunchFailed'
+
+DBUS_VPN_SIGNAL_LOGIN_BANNER = 'LoginBanner'
+DBUS_VPN_SIGNAL_LOGIN_FAILED = 'LoginFailed'
+
+DBUS_VPN_SIGNAL_STATE_CHANGE = 'StateChange'
+
+DBUS_VPN_SIGNAL_VPN_CONFIG_BAD = 'VPNConfigBad'
+
+DBUS_VPN_STARTING_IN_PROGRESS = 'StartingInProgress'
+
+DBUS_VPN_STOPPING_IN_PROGRESS = 'StoppingInProgress'
+
+DBUS_VPN_WRONG_STATE = 'WrongState'
+
+DEVICE_6LOWPAN_HW_ADDRESS = 'hw-address'
+
+DEVICE_6LOWPAN_PARENT = 'parent'
+
+DEVICE_ACTIVE_CONNECTION = 'active-connection'
+
+DEVICE_ADSL_CARRIER = 'carrier'
+
+DEVICE_AUTOCONNECT = 'autoconnect'
+
+DEVICE_AVAILABLE_CONNECTIONS = 'available-connections'
+
+DEVICE_BOND_CARRIER = 'carrier'
+
+DEVICE_BOND_HW_ADDRESS = 'hw-address'
+
+DEVICE_BOND_SLAVES = 'slaves'
+
+DEVICE_BRIDGE_CARRIER = 'carrier'
+
+DEVICE_BRIDGE_HW_ADDRESS = 'hw-address'
+
+DEVICE_BRIDGE_SLAVES = 'slaves'
+
+DEVICE_BT_CAPABILITIES = 'bt-capabilities'
+
+DEVICE_BT_HW_ADDRESS = 'hw-address'
+
+DEVICE_BT_NAME = 'name'
+
+DEVICE_CAPABILITIES = 'capabilities'
+
+DEVICE_DEVICE_TYPE = 'device-type'
+
+DEVICE_DHCP4_CONFIG = 'dhcp4-config'
+
+DEVICE_DHCP6_CONFIG = 'dhcp6-config'
+
+DEVICE_DRIVER = 'driver'
+
+DEVICE_DRIVER_VERSION = 'driver-version'
+
+DEVICE_DUMMY_HW_ADDRESS = 'hw-address'
+
+DEVICE_ETHERNET_CARRIER = 'carrier'
+
+DEVICE_ETHERNET_HW_ADDRESS = 'hw-address'
+
+DEVICE_ETHERNET_PERMANENT_HW_ADDRESS = 'perm-hw-address'
+
+DEVICE_ETHERNET_S390_SUBCHANNELS = 's390-subchannels'
+
+DEVICE_ETHERNET_SPEED = 'speed'
+
+DEVICE_FIRMWARE_MISSING = 'firmware-missing'
+DEVICE_FIRMWARE_VERSION = 'firmware-version'
+
+DEVICE_GENERIC_HW_ADDRESS = 'hw-address'
+
+DEVICE_GENERIC_TYPE_DESCRIPTION = 'type-description'
+
+DEVICE_INFINIBAND_CARRIER = 'carrier'
+
+DEVICE_INFINIBAND_HW_ADDRESS = 'hw-address'
+
+DEVICE_INTERFACE = 'interface'
+
+DEVICE_INTERFACE_FLAGS = 'interface-flags'
+
+DEVICE_IP4_CONFIG = 'ip4-config'
+DEVICE_IP4_CONNECTIVITY = 'ip4-connectivity'
+
+DEVICE_IP6_CONFIG = 'ip6-config'
+DEVICE_IP6_CONNECTIVITY = 'ip6-connectivity'
+
+DEVICE_IP_INTERFACE = 'ip-interface'
+
+DEVICE_IP_TUNNEL_ENCAPSULATION_LIMIT = 'encapsulation-limit'
+
+DEVICE_IP_TUNNEL_FLAGS = 'flags'
+
+DEVICE_IP_TUNNEL_FLOW_LABEL = 'flow-label'
+
+DEVICE_IP_TUNNEL_INPUT_KEY = 'input-key'
+
+DEVICE_IP_TUNNEL_LOCAL = 'local'
+DEVICE_IP_TUNNEL_MODE = 'mode'
+
+DEVICE_IP_TUNNEL_OUTPUT_KEY = 'output-key'
+
+DEVICE_IP_TUNNEL_PARENT = 'parent'
+
+DEVICE_IP_TUNNEL_PATH_MTU_DISCOVERY = 'path-mtu-discovery'
+
+DEVICE_IP_TUNNEL_REMOTE = 'remote'
+DEVICE_IP_TUNNEL_TOS = 'tos'
+DEVICE_IP_TUNNEL_TTL = 'ttl'
+
+DEVICE_LLDP_NEIGHBORS = 'lldp-neighbors'
+
+DEVICE_MACSEC_CIPHER_SUITE = 'cipher-suite'
+
+DEVICE_MACSEC_ENCODING_SA = 'encoding-sa'
+
+DEVICE_MACSEC_ENCRYPT = 'encrypt'
+DEVICE_MACSEC_ES = 'es'
+
+DEVICE_MACSEC_HW_ADDRESS = 'hw-address'
+
+DEVICE_MACSEC_ICV_LENGTH = 'icv-length'
+
+DEVICE_MACSEC_INCLUDE_SCI = 'include-sci'
+
+DEVICE_MACSEC_PARENT = 'parent'
+DEVICE_MACSEC_PROTECT = 'protect'
+
+DEVICE_MACSEC_REPLAY_PROTECT = 'replay-protect'
+
+DEVICE_MACSEC_SCB = 'scb'
+DEVICE_MACSEC_SCI = 'sci'
+DEVICE_MACSEC_VALIDATION = 'validation'
+DEVICE_MACSEC_WINDOW = 'window'
+
+DEVICE_MACVLAN_HW_ADDRESS = 'hw-address'
+
+DEVICE_MACVLAN_MODE = 'mode'
+
+DEVICE_MACVLAN_NO_PROMISC = 'no-promisc'
+
+DEVICE_MACVLAN_PARENT = 'parent'
+DEVICE_MACVLAN_TAP = 'tap'
+
+DEVICE_MANAGED = 'managed'
+DEVICE_METERED = 'metered'
+
+DEVICE_MODEM_APN = 'apn'
+
+DEVICE_MODEM_CURRENT_CAPABILITIES = 'current-capabilities'
+
+DEVICE_MODEM_DEVICE_ID = 'device-id'
+
+DEVICE_MODEM_MODEM_CAPABILITIES = 'modem-capabilities'
+
+DEVICE_MODEM_OPERATOR_CODE = 'operator-code'
+
+DEVICE_MTU = 'mtu'
+
+DEVICE_NM_PLUGIN_MISSING = 'nm-plugin-missing'
+
+DEVICE_OLPC_MESH_ACTIVE_CHANNEL = 'active-channel'
+
+DEVICE_OLPC_MESH_COMPANION = 'companion'
+
+DEVICE_OLPC_MESH_HW_ADDRESS = 'hw-address'
+
+DEVICE_OVS_BRIDGE_SLAVES = 'slaves'
+
+DEVICE_OVS_PORT_SLAVES = 'slaves'
+
+DEVICE_PHYSICAL_PORT_ID = 'physical-port-id'
+
+DEVICE_PRODUCT = 'product'
+DEVICE_REAL = 'real'
+DEVICE_STATE = 'state'
+
+DEVICE_STATE_REASON = 'state-reason'
+
+DEVICE_TEAM_CARRIER = 'carrier'
+DEVICE_TEAM_CONFIG = 'config'
+
+DEVICE_TEAM_HW_ADDRESS = 'hw-address'
+
+DEVICE_TEAM_SLAVES = 'slaves'
+
+DEVICE_TUN_GROUP = 'group'
+
+DEVICE_TUN_HW_ADDRESS = 'hw-address'
+
+DEVICE_TUN_MODE = 'mode'
+
+DEVICE_TUN_MULTI_QUEUE = 'multi-queue'
+
+DEVICE_TUN_NO_PI = 'no-pi'
+
+DEVICE_TUN_OWNER = 'owner'
+
+DEVICE_TUN_VNET_HDR = 'vnet-hdr'
+
+DEVICE_UDI = 'udi'
+DEVICE_VENDOR = 'vendor'
+
+DEVICE_VLAN_CARRIER = 'carrier'
+
+DEVICE_VLAN_HW_ADDRESS = 'hw-address'
+
+DEVICE_VLAN_PARENT = 'parent'
+
+DEVICE_VLAN_VLAN_ID = 'vlan-id'
+
+DEVICE_VXLAN_AGEING = 'ageing'
+DEVICE_VXLAN_CARRIER = 'carrier'
+
+DEVICE_VXLAN_DST_PORT = 'dst-port'
+
+DEVICE_VXLAN_GROUP = 'group'
+
+DEVICE_VXLAN_HW_ADDRESS = 'hw-address'
+
+DEVICE_VXLAN_ID = 'id'
+DEVICE_VXLAN_L2MISS = 'l2miss'
+DEVICE_VXLAN_L3MISS = 'l3miss'
+DEVICE_VXLAN_LEARNING = 'learning'
+DEVICE_VXLAN_LIMIT = 'limit'
+DEVICE_VXLAN_LOCAL = 'local'
+DEVICE_VXLAN_PARENT = 'parent'
+DEVICE_VXLAN_PROXY = 'proxy'
+DEVICE_VXLAN_RSC = 'rsc'
+
+DEVICE_VXLAN_SRC_PORT_MAX = 'src-port-max'
+DEVICE_VXLAN_SRC_PORT_MIN = 'src-port-min'
+
+DEVICE_VXLAN_TOS = 'tos'
+DEVICE_VXLAN_TTL = 'ttl'
+
+DEVICE_WIFI_ACCESS_POINTS = 'access-points'
+
+DEVICE_WIFI_ACTIVE_ACCESS_POINT = 'active-access-point'
+
+DEVICE_WIFI_BITRATE = 'bitrate'
+DEVICE_WIFI_CAPABILITIES = 'wireless-capabilities'
+
+DEVICE_WIFI_HW_ADDRESS = 'hw-address'
+
+DEVICE_WIFI_LAST_SCAN = 'last-scan'
+
+DEVICE_WIFI_MODE = 'mode'
+
+DEVICE_WIFI_P2P_HW_ADDRESS = 'hw-address'
+
+DEVICE_WIFI_P2P_PEERS = 'peers'
+DEVICE_WIFI_P2P_WFDIES = 'wfdies'
+
+DEVICE_WIFI_PERMANENT_HW_ADDRESS = 'perm-hw-address'
+
+DEVICE_WIMAX_ACTIVE_NSP = 'active-nsp'
+
+DEVICE_WIMAX_BSID = 'bsid'
+
+DEVICE_WIMAX_CENTER_FREQUENCY = 'center-frequency'
+
+DEVICE_WIMAX_CINR = 'cinr'
+
+DEVICE_WIMAX_HW_ADDRESS = 'hw-address'
+
+DEVICE_WIMAX_NSPS = 'nsps'
+DEVICE_WIMAX_RSSI = 'rssi'
+
+DEVICE_WIMAX_TX_POWER = 'tx-power'
+
+DEVICE_WIREGUARD_FWMARK = 'fwmark'
+
+DEVICE_WIREGUARD_LISTEN_PORT = 'listen-port'
+
+DEVICE_WIREGUARD_PUBLIC_KEY = 'public-key'
+
+DEVICE_WPAN_HW_ADDRESS = 'hw-address'
+
+DHCP_CONFIG_FAMILY = 'family'
+DHCP_CONFIG_OPTIONS = 'options'
+
+ETHTOOL_OPTNAME_FEATURE_ESP_HW_OFFLOAD = 'feature-esp-hw-offload'
+
+ETHTOOL_OPTNAME_FEATURE_ESP_TX_CSUM_HW_OFFLOAD = 'feature-esp-tx-csum-hw-offload'
+
+ETHTOOL_OPTNAME_FEATURE_FCOE_MTU = 'feature-fcoe-mtu'
+
+ETHTOOL_OPTNAME_FEATURE_GRO = 'feature-gro'
+ETHTOOL_OPTNAME_FEATURE_GSO = 'feature-gso'
+ETHTOOL_OPTNAME_FEATURE_HIGHDMA = 'feature-highdma'
+
+ETHTOOL_OPTNAME_FEATURE_HW_TC_OFFLOAD = 'feature-hw-tc-offload'
+
+ETHTOOL_OPTNAME_FEATURE_L2_FWD_OFFLOAD = 'feature-l2-fwd-offload'
+
+ETHTOOL_OPTNAME_FEATURE_LOOPBACK = 'feature-loopback'
+ETHTOOL_OPTNAME_FEATURE_LRO = 'feature-lro'
+ETHTOOL_OPTNAME_FEATURE_NTUPLE = 'feature-ntuple'
+ETHTOOL_OPTNAME_FEATURE_RX = 'feature-rx'
+ETHTOOL_OPTNAME_FEATURE_RXHASH = 'feature-rxhash'
+ETHTOOL_OPTNAME_FEATURE_RXVLAN = 'feature-rxvlan'
+
+ETHTOOL_OPTNAME_FEATURE_RX_ALL = 'feature-rx-all'
+ETHTOOL_OPTNAME_FEATURE_RX_FCS = 'feature-rx-fcs'
+
+ETHTOOL_OPTNAME_FEATURE_RX_GRO_HW = 'feature-rx-gro-hw'
+
+ETHTOOL_OPTNAME_FEATURE_RX_UDP_TUNNEL_PORT_OFFLOAD = 'feature-rx-udp_tunnel-port-offload'
+
+ETHTOOL_OPTNAME_FEATURE_RX_VLAN_FILTER = 'feature-rx-vlan-filter'
+
+ETHTOOL_OPTNAME_FEATURE_RX_VLAN_STAG_FILTER = 'feature-rx-vlan-stag-filter'
+
+ETHTOOL_OPTNAME_FEATURE_RX_VLAN_STAG_HW_PARSE = 'feature-rx-vlan-stag-hw-parse'
+
+ETHTOOL_OPTNAME_FEATURE_SG = 'feature-sg'
+
+ETHTOOL_OPTNAME_FEATURE_TLS_HW_RECORD = 'feature-tls-hw-record'
+
+ETHTOOL_OPTNAME_FEATURE_TLS_HW_TX_OFFLOAD = 'feature-tls-hw-tx-offload'
+
+ETHTOOL_OPTNAME_FEATURE_TSO = 'feature-tso'
+ETHTOOL_OPTNAME_FEATURE_TX = 'feature-tx'
+ETHTOOL_OPTNAME_FEATURE_TXVLAN = 'feature-txvlan'
+
+ETHTOOL_OPTNAME_FEATURE_TX_CHECKSUM_FCOE_CRC = 'feature-tx-checksum-fcoe-crc'
+
+ETHTOOL_OPTNAME_FEATURE_TX_CHECKSUM_IPV4 = 'feature-tx-checksum-ipv4'
+ETHTOOL_OPTNAME_FEATURE_TX_CHECKSUM_IPV6 = 'feature-tx-checksum-ipv6'
+
+ETHTOOL_OPTNAME_FEATURE_TX_CHECKSUM_IP_GENERIC = 'feature-tx-checksum-ip-generic'
+
+ETHTOOL_OPTNAME_FEATURE_TX_CHECKSUM_SCTP = 'feature-tx-checksum-sctp'
+
+ETHTOOL_OPTNAME_FEATURE_TX_ESP_SEGMENTATION = 'feature-tx-esp-segmentation'
+
+ETHTOOL_OPTNAME_FEATURE_TX_FCOE_SEGMENTATION = 'feature-tx-fcoe-segmentation'
+
+ETHTOOL_OPTNAME_FEATURE_TX_GRE_CSUM_SEGMENTATION = 'feature-tx-gre-csum-segmentation'
+
+ETHTOOL_OPTNAME_FEATURE_TX_GRE_SEGMENTATION = 'feature-tx-gre-segmentation'
+
+ETHTOOL_OPTNAME_FEATURE_TX_GSO_PARTIAL = 'feature-tx-gso-partial'
+ETHTOOL_OPTNAME_FEATURE_TX_GSO_ROBUST = 'feature-tx-gso-robust'
+
+ETHTOOL_OPTNAME_FEATURE_TX_IPXIP4_SEGMENTATION = 'feature-tx-ipxip4-segmentation'
+
+ETHTOOL_OPTNAME_FEATURE_TX_IPXIP6_SEGMENTATION = 'feature-tx-ipxip6-segmentation'
+
+ETHTOOL_OPTNAME_FEATURE_TX_NOCACHE_COPY = 'feature-tx-nocache-copy'
+
+ETHTOOL_OPTNAME_FEATURE_TX_SCATTER_GATHER = 'feature-tx-scatter-gather'
+
+ETHTOOL_OPTNAME_FEATURE_TX_SCATTER_GATHER_FRAGLIST = 'feature-tx-scatter-gather-fraglist'
+
+ETHTOOL_OPTNAME_FEATURE_TX_SCTP_SEGMENTATION = 'feature-tx-sctp-segmentation'
+
+ETHTOOL_OPTNAME_FEATURE_TX_TCP6_SEGMENTATION = 'feature-tx-tcp6-segmentation'
+
+ETHTOOL_OPTNAME_FEATURE_TX_TCP_ECN_SEGMENTATION = 'feature-tx-tcp-ecn-segmentation'
+
+ETHTOOL_OPTNAME_FEATURE_TX_TCP_MANGLEID_SEGMENTATION = 'feature-tx-tcp-mangleid-segmentation'
+
+ETHTOOL_OPTNAME_FEATURE_TX_TCP_SEGMENTATION = 'feature-tx-tcp-segmentation'
+
+ETHTOOL_OPTNAME_FEATURE_TX_UDP_SEGMENTATION = 'feature-tx-udp-segmentation'
+
+ETHTOOL_OPTNAME_FEATURE_TX_UDP_TNL_CSUM_SEGMENTATION = 'feature-tx-udp_tnl-csum-segmentation'
+
+ETHTOOL_OPTNAME_FEATURE_TX_UDP_TNL_SEGMENTATION = 'feature-tx-udp_tnl-segmentation'
+
+ETHTOOL_OPTNAME_FEATURE_TX_VLAN_STAG_HW_INSERT = 'feature-tx-vlan-stag-hw-insert'
+
+IP_ADDRESS_ATTRIBUTE_LABEL = 'label'
+
+IP_CONFIG_ADDRESSES = 'addresses'
+IP_CONFIG_DOMAINS = 'domains'
+IP_CONFIG_FAMILY = 'family'
+IP_CONFIG_GATEWAY = 'gateway'
+IP_CONFIG_NAMESERVERS = 'nameservers'
+IP_CONFIG_ROUTES = 'routes'
+IP_CONFIG_SEARCHES = 'searches'
+
+IP_CONFIG_WINS_SERVERS = 'wins-servers'
+
+IP_ROUTE_ATTRIBUTE_CWND = 'cwnd'
+IP_ROUTE_ATTRIBUTE_FROM = 'from'
+IP_ROUTE_ATTRIBUTE_INITCWND = 'initcwnd'
+IP_ROUTE_ATTRIBUTE_INITRWND = 'initrwnd'
+
+IP_ROUTE_ATTRIBUTE_LOCK_CWND = 'lock-cwnd'
+IP_ROUTE_ATTRIBUTE_LOCK_INITCWND = 'lock-initcwnd'
+IP_ROUTE_ATTRIBUTE_LOCK_INITRWND = 'lock-initrwnd'
+IP_ROUTE_ATTRIBUTE_LOCK_MTU = 'lock-mtu'
+IP_ROUTE_ATTRIBUTE_LOCK_WINDOW = 'lock-window'
+
+IP_ROUTE_ATTRIBUTE_MTU = 'mtu'
+IP_ROUTE_ATTRIBUTE_ONLINK = 'onlink'
+IP_ROUTE_ATTRIBUTE_SCOPE = 'scope'
+IP_ROUTE_ATTRIBUTE_SRC = 'src'
+IP_ROUTE_ATTRIBUTE_TABLE = 'table'
+IP_ROUTE_ATTRIBUTE_TOS = 'tos'
+IP_ROUTE_ATTRIBUTE_WINDOW = 'window'
+
+LLDP_ATTR_CHASSIS_ID = 'chassis-id'
+
+LLDP_ATTR_CHASSIS_ID_TYPE = 'chassis-id-type'
+
+LLDP_ATTR_DESTINATION = 'destination'
+
+LLDP_ATTR_IEEE_802_1_PPVID = 'ieee-802-1-ppvid'
+LLDP_ATTR_IEEE_802_1_PPVIDS = 'ieee-802-1-ppvids'
+
+LLDP_ATTR_IEEE_802_1_PPVID_FLAGS = 'ieee-802-1-ppvid-flags'
+
+LLDP_ATTR_IEEE_802_1_PVID = 'ieee-802-1-pvid'
+LLDP_ATTR_IEEE_802_1_VID = 'ieee-802-1-vid'
+LLDP_ATTR_IEEE_802_1_VLANS = 'ieee-802-1-vlans'
+
+LLDP_ATTR_IEEE_802_1_VLAN_NAME = 'ieee-802-1-vlan-name'
+
+LLDP_ATTR_IEEE_802_3_MAC_PHY_CONF = 'ieee-802-3-mac-phy-conf'
+
+LLDP_ATTR_IEEE_802_3_MAX_FRAME_SIZE = 'ieee-802-3-max-frame-size'
+
+LLDP_ATTR_IEEE_802_3_POWER_VIA_MDI = 'ieee-802-3-power-via-mdi'
+
+LLDP_ATTR_MANAGEMENT_ADDRESSES = 'management-addresses'
+
+LLDP_ATTR_PORT_DESCRIPTION = 'port-description'
+LLDP_ATTR_PORT_ID = 'port-id'
+
+LLDP_ATTR_PORT_ID_TYPE = 'port-id-type'
+
+LLDP_ATTR_SYSTEM_CAPABILITIES = 'system-capabilities'
+LLDP_ATTR_SYSTEM_DESCRIPTION = 'system-description'
+LLDP_ATTR_SYSTEM_NAME = 'system-name'
+
+LLDP_DEST_NEAREST_BRIDGE = 'nearest-bridge'
+
+LLDP_DEST_NEAREST_CUSTOMER_BRIDGE = 'nearest-customer-bridge'
+
+LLDP_DEST_NEAREST_NON_TPMR_BRIDGE = 'nearest-non-tpmr-bridge'
+
+MAJOR_VERSION = 1
+
+MICRO_VERSION = 14
+
+MINOR_VERSION = 22
+
+OBJECT_PATH = 'path'
+
+REMOTE_CONNECTION_DBUS_CONNECTION = 'dbus-connection'
+
+REMOTE_CONNECTION_FILENAME = 'filename'
+REMOTE_CONNECTION_FLAGS = 'flags'
+REMOTE_CONNECTION_PATH = 'path'
+REMOTE_CONNECTION_UNSAVED = 'unsaved'
+REMOTE_CONNECTION_VISIBLE = 'visible'
+
+SECRET_AGENT_OLD_AUTO_REGISTER = 'auto-register'
+
+SECRET_AGENT_OLD_CAPABILITIES = 'capabilities'
+SECRET_AGENT_OLD_IDENTIFIER = 'identifier'
+SECRET_AGENT_OLD_REGISTERED = 'registered'
+
+SETTING_6LOWPAN_PARENT = 'parent'
+
+SETTING_6LOWPAN_SETTING_NAME = '6lowpan'
+
+SETTING_802_1X_ALTSUBJECT_MATCHES = 'altsubject-matches'
+
+SETTING_802_1X_ANONYMOUS_IDENTITY = 'anonymous-identity'
+
+SETTING_802_1X_AUTH_TIMEOUT = 'auth-timeout'
+
+SETTING_802_1X_CA_CERT = 'ca-cert'
+
+SETTING_802_1X_CA_CERT_PASSWORD = 'ca-cert-password'
+
+SETTING_802_1X_CA_CERT_PASSWORD_FLAGS = 'ca-cert-password-flags'
+
+SETTING_802_1X_CA_PATH = 'ca-path'
+
+SETTING_802_1X_CERT_SCHEME_PREFIX_PATH = 'file://'
+SETTING_802_1X_CERT_SCHEME_PREFIX_PKCS11 = 'pkcs11:'
+
+SETTING_802_1X_CLIENT_CERT = 'client-cert'
+
+SETTING_802_1X_CLIENT_CERT_PASSWORD = 'client-cert-password'
+
+SETTING_802_1X_CLIENT_CERT_PASSWORD_FLAGS = 'client-cert-password-flags'
+
+SETTING_802_1X_DOMAIN_SUFFIX_MATCH = 'domain-suffix-match'
+
+SETTING_802_1X_EAP = 'eap'
+SETTING_802_1X_IDENTITY = 'identity'
+SETTING_802_1X_OPTIONAL = 'optional'
+
+SETTING_802_1X_PAC_FILE = 'pac-file'
+
+SETTING_802_1X_PASSWORD = 'password'
+
+SETTING_802_1X_PASSWORD_FLAGS = 'password-flags'
+SETTING_802_1X_PASSWORD_RAW = 'password-raw'
+
+SETTING_802_1X_PASSWORD_RAW_FLAGS = 'password-raw-flags'
+
+SETTING_802_1X_PHASE1_AUTH_FLAGS = 'phase1-auth-flags'
+
+SETTING_802_1X_PHASE1_FAST_PROVISIONING = 'phase1-fast-provisioning'
+
+SETTING_802_1X_PHASE1_PEAPLABEL = 'phase1-peaplabel'
+SETTING_802_1X_PHASE1_PEAPVER = 'phase1-peapver'
+
+SETTING_802_1X_PHASE2_ALTSUBJECT_MATCHES = 'phase2-altsubject-matches'
+
+SETTING_802_1X_PHASE2_AUTH = 'phase2-auth'
+SETTING_802_1X_PHASE2_AUTHEAP = 'phase2-autheap'
+
+SETTING_802_1X_PHASE2_CA_CERT = 'phase2-ca-cert'
+
+SETTING_802_1X_PHASE2_CA_CERT_PASSWORD = 'phase2-ca-cert-password'
+
+SETTING_802_1X_PHASE2_CA_CERT_PASSWORD_FLAGS = 'phase2-ca-cert-password-flags'
+
+SETTING_802_1X_PHASE2_CA_PATH = 'phase2-ca-path'
+
+SETTING_802_1X_PHASE2_CLIENT_CERT = 'phase2-client-cert'
+
+SETTING_802_1X_PHASE2_CLIENT_CERT_PASSWORD = 'phase2-client-cert-password'
+
+SETTING_802_1X_PHASE2_CLIENT_CERT_PASSWORD_FLAGS = 'phase2-client-cert-password-flags'
+
+SETTING_802_1X_PHASE2_DOMAIN_SUFFIX_MATCH = 'phase2-domain-suffix-match'
+
+SETTING_802_1X_PHASE2_PRIVATE_KEY = 'phase2-private-key'
+
+SETTING_802_1X_PHASE2_PRIVATE_KEY_PASSWORD = 'phase2-private-key-password'
+
+SETTING_802_1X_PHASE2_PRIVATE_KEY_PASSWORD_FLAGS = 'phase2-private-key-password-flags'
+
+SETTING_802_1X_PHASE2_SUBJECT_MATCH = 'phase2-subject-match'
+
+SETTING_802_1X_PIN = 'pin'
+
+SETTING_802_1X_PIN_FLAGS = 'pin-flags'
+
+SETTING_802_1X_PRIVATE_KEY = 'private-key'
+
+SETTING_802_1X_PRIVATE_KEY_PASSWORD = 'private-key-password'
+
+SETTING_802_1X_PRIVATE_KEY_PASSWORD_FLAGS = 'private-key-password-flags'
+
+SETTING_802_1X_SETTING_NAME = '802-1x'
+
+SETTING_802_1X_SUBJECT_MATCH = 'subject-match'
+
+SETTING_802_1X_SYSTEM_CA_CERTS = 'system-ca-certs'
+
+SETTING_ADSL_ENCAPSULATION = 'encapsulation'
+
+SETTING_ADSL_ENCAPSULATION_LLC = 'llc'
+SETTING_ADSL_ENCAPSULATION_VCMUX = 'vcmux'
+
+SETTING_ADSL_PASSWORD = 'password'
+
+SETTING_ADSL_PASSWORD_FLAGS = 'password-flags'
+
+SETTING_ADSL_PROTOCOL = 'protocol'
+
+SETTING_ADSL_PROTOCOL_IPOATM = 'ipoatm'
+SETTING_ADSL_PROTOCOL_PPPOA = 'pppoa'
+SETTING_ADSL_PROTOCOL_PPPOE = 'pppoe'
+
+SETTING_ADSL_SETTING_NAME = 'adsl'
+
+SETTING_ADSL_USERNAME = 'username'
+SETTING_ADSL_VCI = 'vci'
+SETTING_ADSL_VPI = 'vpi'
+
+SETTING_BLUETOOTH_BDADDR = 'bdaddr'
+
+SETTING_BLUETOOTH_SETTING_NAME = 'bluetooth'
+
+SETTING_BLUETOOTH_TYPE = 'type'
+
+SETTING_BLUETOOTH_TYPE_DUN = 'dun'
+SETTING_BLUETOOTH_TYPE_NAP = 'nap'
+SETTING_BLUETOOTH_TYPE_PANU = 'panu'
+
+SETTING_BOND_OPTIONS = 'options'
+
+SETTING_BOND_OPTION_ACTIVE_SLAVE = 'active_slave'
+
+SETTING_BOND_OPTION_AD_ACTOR_SYSTEM = 'ad_actor_system'
+
+SETTING_BOND_OPTION_AD_ACTOR_SYS_PRIO = 'ad_actor_sys_prio'
+
+SETTING_BOND_OPTION_AD_SELECT = 'ad_select'
+
+SETTING_BOND_OPTION_AD_USER_PORT_KEY = 'ad_user_port_key'
+
+SETTING_BOND_OPTION_ALL_SLAVES_ACTIVE = 'all_slaves_active'
+
+SETTING_BOND_OPTION_ARP_ALL_TARGETS = 'arp_all_targets'
+
+SETTING_BOND_OPTION_ARP_INTERVAL = 'arp_interval'
+
+SETTING_BOND_OPTION_ARP_IP_TARGET = 'arp_ip_target'
+
+SETTING_BOND_OPTION_ARP_VALIDATE = 'arp_validate'
+
+SETTING_BOND_OPTION_DOWNDELAY = 'downdelay'
+
+SETTING_BOND_OPTION_FAIL_OVER_MAC = 'fail_over_mac'
+
+SETTING_BOND_OPTION_LACP_RATE = 'lacp_rate'
+
+SETTING_BOND_OPTION_LP_INTERVAL = 'lp_interval'
+
+SETTING_BOND_OPTION_MIIMON = 'miimon'
+
+SETTING_BOND_OPTION_MIN_LINKS = 'min_links'
+
+SETTING_BOND_OPTION_MODE = 'mode'
+
+SETTING_BOND_OPTION_NUM_GRAT_ARP = 'num_grat_arp'
+
+SETTING_BOND_OPTION_NUM_UNSOL_NA = 'num_unsol_na'
+
+SETTING_BOND_OPTION_PACKETS_PER_SLAVE = 'packets_per_slave'
+
+SETTING_BOND_OPTION_PRIMARY = 'primary'
+
+SETTING_BOND_OPTION_PRIMARY_RESELECT = 'primary_reselect'
+
+SETTING_BOND_OPTION_RESEND_IGMP = 'resend_igmp'
+
+SETTING_BOND_OPTION_TLB_DYNAMIC_LB = 'tlb_dynamic_lb'
+
+SETTING_BOND_OPTION_UPDELAY = 'updelay'
+
+SETTING_BOND_OPTION_USE_CARRIER = 'use_carrier'
+
+SETTING_BOND_OPTION_XMIT_HASH_POLICY = 'xmit_hash_policy'
+
+SETTING_BOND_SETTING_NAME = 'bond'
+
+SETTING_BRIDGE_AGEING_TIME = 'ageing-time'
+
+SETTING_BRIDGE_FORWARD_DELAY = 'forward-delay'
+
+SETTING_BRIDGE_GROUP_FORWARD_MASK = 'group-forward-mask'
+
+SETTING_BRIDGE_HELLO_TIME = 'hello-time'
+
+SETTING_BRIDGE_MAC_ADDRESS = 'mac-address'
+
+SETTING_BRIDGE_MAX_AGE = 'max-age'
+
+SETTING_BRIDGE_MULTICAST_SNOOPING = 'multicast-snooping'
+
+SETTING_BRIDGE_PORT_HAIRPIN_MODE = 'hairpin-mode'
+
+SETTING_BRIDGE_PORT_PATH_COST = 'path-cost'
+
+SETTING_BRIDGE_PORT_PRIORITY = 'priority'
+
+SETTING_BRIDGE_PORT_SETTING_NAME = 'bridge-port'
+
+SETTING_BRIDGE_PORT_VLANS = 'vlans'
+
+SETTING_BRIDGE_PRIORITY = 'priority'
+
+SETTING_BRIDGE_SETTING_NAME = 'bridge'
+
+SETTING_BRIDGE_STP = 'stp'
+SETTING_BRIDGE_VLANS = 'vlans'
+
+SETTING_BRIDGE_VLAN_DEFAULT_PVID = 'vlan-default-pvid'
+
+SETTING_BRIDGE_VLAN_FILTERING = 'vlan-filtering'
+
+SETTING_CDMA_MTU = 'mtu'
+SETTING_CDMA_NUMBER = 'number'
+SETTING_CDMA_PASSWORD = 'password'
+
+SETTING_CDMA_PASSWORD_FLAGS = 'password-flags'
+
+SETTING_CDMA_SETTING_NAME = 'cdma'
+
+SETTING_CDMA_USERNAME = 'username'
+
+SETTING_CONNECTION_AUTH_RETRIES = 'auth-retries'
+
+SETTING_CONNECTION_AUTOCONNECT = 'autoconnect'
+
+SETTING_CONNECTION_AUTOCONNECT_PRIORITY = 'autoconnect-priority'
+
+SETTING_CONNECTION_AUTOCONNECT_PRIORITY_DEFAULT = 0
+SETTING_CONNECTION_AUTOCONNECT_PRIORITY_MAX = 999
+SETTING_CONNECTION_AUTOCONNECT_PRIORITY_MIN = -999
+
+SETTING_CONNECTION_AUTOCONNECT_RETRIES = 'autoconnect-retries'
+SETTING_CONNECTION_AUTOCONNECT_SLAVES = 'autoconnect-slaves'
+
+SETTING_CONNECTION_GATEWAY_PING_TIMEOUT = 'gateway-ping-timeout'
+
+SETTING_CONNECTION_ID = 'id'
+
+SETTING_CONNECTION_INTERFACE_NAME = 'interface-name'
+
+SETTING_CONNECTION_LLDP = 'lldp'
+SETTING_CONNECTION_LLMNR = 'llmnr'
+SETTING_CONNECTION_MASTER = 'master'
+SETTING_CONNECTION_MDNS = 'mdns'
+SETTING_CONNECTION_METERED = 'metered'
+
+SETTING_CONNECTION_MULTI_CONNECT = 'multi-connect'
+
+SETTING_CONNECTION_PERMISSIONS = 'permissions'
+
+SETTING_CONNECTION_READ_ONLY = 'read-only'
+
+SETTING_CONNECTION_SECONDARIES = 'secondaries'
+
+SETTING_CONNECTION_SETTING_NAME = 'connection'
+
+SETTING_CONNECTION_SLAVE_TYPE = 'slave-type'
+
+SETTING_CONNECTION_STABLE_ID = 'stable-id'
+
+SETTING_CONNECTION_TIMESTAMP = 'timestamp'
+SETTING_CONNECTION_TYPE = 'type'
+SETTING_CONNECTION_UUID = 'uuid'
+
+SETTING_CONNECTION_WAIT_DEVICE_TIMEOUT = 'wait-device-timeout'
+
+SETTING_CONNECTION_ZONE = 'zone'
+
+SETTING_DCB_APP_FCOE_FLAGS = 'app-fcoe-flags'
+SETTING_DCB_APP_FCOE_MODE = 'app-fcoe-mode'
+SETTING_DCB_APP_FCOE_PRIORITY = 'app-fcoe-priority'
+
+SETTING_DCB_APP_FIP_FLAGS = 'app-fip-flags'
+SETTING_DCB_APP_FIP_PRIORITY = 'app-fip-priority'
+
+SETTING_DCB_APP_ISCSI_FLAGS = 'app-iscsi-flags'
+SETTING_DCB_APP_ISCSI_PRIORITY = 'app-iscsi-priority'
+
+SETTING_DCB_FCOE_MODE_FABRIC = 'fabric'
+SETTING_DCB_FCOE_MODE_VN2VN = 'vn2vn'
+
+SETTING_DCB_PRIORITY_BANDWIDTH = 'priority-bandwidth'
+
+SETTING_DCB_PRIORITY_FLOW_CONTROL = 'priority-flow-control'
+
+SETTING_DCB_PRIORITY_FLOW_CONTROL_FLAGS = 'priority-flow-control-flags'
+
+SETTING_DCB_PRIORITY_GROUP_BANDWIDTH = 'priority-group-bandwidth'
+SETTING_DCB_PRIORITY_GROUP_FLAGS = 'priority-group-flags'
+SETTING_DCB_PRIORITY_GROUP_ID = 'priority-group-id'
+
+SETTING_DCB_PRIORITY_STRICT_BANDWIDTH = 'priority-strict-bandwidth'
+
+SETTING_DCB_PRIORITY_TRAFFIC_CLASS = 'priority-traffic-class'
+
+SETTING_DCB_SETTING_NAME = 'dcb'
+
+SETTING_DNS_OPTION_ATTEMPTS = 'attempts'
+SETTING_DNS_OPTION_DEBUG = 'debug'
+SETTING_DNS_OPTION_EDNS0 = 'edns0'
+SETTING_DNS_OPTION_INET6 = 'inet6'
+
+SETTING_DNS_OPTION_IP6_BYTESTRING = 'ip6-bytestring'
+SETTING_DNS_OPTION_IP6_DOTINT = 'ip6-dotint'
+
+SETTING_DNS_OPTION_NDOTS = 'ndots'
+
+SETTING_DNS_OPTION_NO_CHECK_NAMES = 'no-check-names'
+
+SETTING_DNS_OPTION_NO_IP6_DOTINT = 'no-ip6-dotint'
+
+SETTING_DNS_OPTION_NO_RELOAD = 'no-reload'
+
+SETTING_DNS_OPTION_NO_TLD_QUERY = 'no-tld-query'
+
+SETTING_DNS_OPTION_ROTATE = 'rotate'
+
+SETTING_DNS_OPTION_SINGLE_REQUEST = 'single-request'
+
+SETTING_DNS_OPTION_SINGLE_REQUEST_REOPEN = 'single-request-reopen'
+
+SETTING_DNS_OPTION_TIMEOUT = 'timeout'
+
+SETTING_DNS_OPTION_TRUST_AD = 'trust-ad'
+
+SETTING_DNS_OPTION_USE_VC = 'use-vc'
+
+SETTING_DUMMY_SETTING_NAME = 'dummy'
+
+SETTING_ETHTOOL_SETTING_NAME = 'ethtool'
+
+SETTING_GENERIC_SETTING_NAME = 'generic'
+
+SETTING_GSM_APN = 'apn'
+
+SETTING_GSM_AUTO_CONFIG = 'auto-config'
+
+SETTING_GSM_DEVICE_ID = 'device-id'
+
+SETTING_GSM_HOME_ONLY = 'home-only'
+
+SETTING_GSM_MTU = 'mtu'
+
+SETTING_GSM_NETWORK_ID = 'network-id'
+
+SETTING_GSM_NUMBER = 'number'
+SETTING_GSM_PASSWORD = 'password'
+
+SETTING_GSM_PASSWORD_FLAGS = 'password-flags'
+
+SETTING_GSM_PIN = 'pin'
+
+SETTING_GSM_PIN_FLAGS = 'pin-flags'
+
+SETTING_GSM_SETTING_NAME = 'gsm'
+
+SETTING_GSM_SIM_ID = 'sim-id'
+
+SETTING_GSM_SIM_OPERATOR_ID = 'sim-operator-id'
+
+SETTING_GSM_USERNAME = 'username'
+
+SETTING_INFINIBAND_MAC_ADDRESS = 'mac-address'
+
+SETTING_INFINIBAND_MTU = 'mtu'
+SETTING_INFINIBAND_PARENT = 'parent'
+
+SETTING_INFINIBAND_P_KEY = 'p-key'
+
+SETTING_INFINIBAND_SETTING_NAME = 'infiniband'
+
+SETTING_INFINIBAND_TRANSPORT_MODE = 'transport-mode'
+
+SETTING_IP4_CONFIG_DHCP_CLIENT_ID = 'dhcp-client-id'
+
+SETTING_IP4_CONFIG_DHCP_FQDN = 'dhcp-fqdn'
+
+SETTING_IP4_CONFIG_METHOD_AUTO = 'auto'
+SETTING_IP4_CONFIG_METHOD_DISABLED = 'disabled'
+
+SETTING_IP4_CONFIG_METHOD_LINK_LOCAL = 'link-local'
+
+SETTING_IP4_CONFIG_METHOD_MANUAL = 'manual'
+SETTING_IP4_CONFIG_METHOD_SHARED = 'shared'
+
+SETTING_IP4_CONFIG_SETTING_NAME = 'ipv4'
+
+SETTING_IP6_CONFIG_ADDR_GEN_MODE = 'addr-gen-mode'
+
+SETTING_IP6_CONFIG_DHCP_DUID = 'dhcp-duid'
+
+SETTING_IP6_CONFIG_IP6_PRIVACY = 'ip6-privacy'
+
+SETTING_IP6_CONFIG_METHOD_AUTO = 'auto'
+SETTING_IP6_CONFIG_METHOD_DHCP = 'dhcp'
+SETTING_IP6_CONFIG_METHOD_DISABLED = 'disabled'
+SETTING_IP6_CONFIG_METHOD_IGNORE = 'ignore'
+
+SETTING_IP6_CONFIG_METHOD_LINK_LOCAL = 'link-local'
+
+SETTING_IP6_CONFIG_METHOD_MANUAL = 'manual'
+SETTING_IP6_CONFIG_METHOD_SHARED = 'shared'
+
+SETTING_IP6_CONFIG_RA_TIMEOUT = 'ra-timeout'
+
+SETTING_IP6_CONFIG_SETTING_NAME = 'ipv6'
+
+SETTING_IP6_CONFIG_TOKEN = 'token'
+
+SETTING_IP_CONFIG_ADDRESSES = 'addresses'
+
+SETTING_IP_CONFIG_DAD_TIMEOUT = 'dad-timeout'
+
+SETTING_IP_CONFIG_DAD_TIMEOUT_MAX = 30000
+
+SETTING_IP_CONFIG_DHCP_HOSTNAME = 'dhcp-hostname'
+
+SETTING_IP_CONFIG_DHCP_HOSTNAME_FLAGS = 'dhcp-hostname-flags'
+
+SETTING_IP_CONFIG_DHCP_IAID = 'dhcp-iaid'
+
+SETTING_IP_CONFIG_DHCP_SEND_HOSTNAME = 'dhcp-send-hostname'
+
+SETTING_IP_CONFIG_DHCP_TIMEOUT = 'dhcp-timeout'
+
+SETTING_IP_CONFIG_DNS = 'dns'
+
+SETTING_IP_CONFIG_DNS_OPTIONS = 'dns-options'
+SETTING_IP_CONFIG_DNS_PRIORITY = 'dns-priority'
+SETTING_IP_CONFIG_DNS_SEARCH = 'dns-search'
+
+SETTING_IP_CONFIG_GATEWAY = 'gateway'
+
+SETTING_IP_CONFIG_IGNORE_AUTO_DNS = 'ignore-auto-dns'
+SETTING_IP_CONFIG_IGNORE_AUTO_ROUTES = 'ignore-auto-routes'
+
+SETTING_IP_CONFIG_MAY_FAIL = 'may-fail'
+
+SETTING_IP_CONFIG_METHOD = 'method'
+
+SETTING_IP_CONFIG_NEVER_DEFAULT = 'never-default'
+
+SETTING_IP_CONFIG_ROUTES = 'routes'
+
+SETTING_IP_CONFIG_ROUTE_METRIC = 'route-metric'
+SETTING_IP_CONFIG_ROUTE_TABLE = 'route-table'
+
+SETTING_IP_CONFIG_ROUTING_RULES = 'routing-rules'
+
+SETTING_IP_TUNNEL_ENCAPSULATION_LIMIT = 'encapsulation-limit'
+
+SETTING_IP_TUNNEL_FLAGS = 'flags'
+
+SETTING_IP_TUNNEL_FLOW_LABEL = 'flow-label'
+
+SETTING_IP_TUNNEL_INPUT_KEY = 'input-key'
+
+SETTING_IP_TUNNEL_LOCAL = 'local'
+SETTING_IP_TUNNEL_MODE = 'mode'
+SETTING_IP_TUNNEL_MTU = 'mtu'
+
+SETTING_IP_TUNNEL_OUTPUT_KEY = 'output-key'
+
+SETTING_IP_TUNNEL_PARENT = 'parent'
+
+SETTING_IP_TUNNEL_PATH_MTU_DISCOVERY = 'path-mtu-discovery'
+
+SETTING_IP_TUNNEL_REMOTE = 'remote'
+
+SETTING_IP_TUNNEL_SETTING_NAME = 'ip-tunnel'
+
+SETTING_IP_TUNNEL_TOS = 'tos'
+SETTING_IP_TUNNEL_TTL = 'ttl'
+
+SETTING_MACSEC_ENCRYPT = 'encrypt'
+
+SETTING_MACSEC_MKA_CAK = 'mka-cak'
+
+SETTING_MACSEC_MKA_CAK_FLAGS = 'mka-cak-flags'
+SETTING_MACSEC_MKA_CAK_LENGTH = 32
+
+SETTING_MACSEC_MKA_CKN = 'mka-ckn'
+
+SETTING_MACSEC_MKA_CKN_LENGTH = 64
+
+SETTING_MACSEC_MODE = 'mode'
+SETTING_MACSEC_PARENT = 'parent'
+SETTING_MACSEC_PORT = 'port'
+
+SETTING_MACSEC_SEND_SCI = 'send-sci'
+
+SETTING_MACSEC_SETTING_NAME = 'macsec'
+
+SETTING_MACSEC_VALIDATION = 'validation'
+
+SETTING_MACVLAN_MODE = 'mode'
+SETTING_MACVLAN_PARENT = 'parent'
+SETTING_MACVLAN_PROMISCUOUS = 'promiscuous'
+
+SETTING_MACVLAN_SETTING_NAME = 'macvlan'
+
+SETTING_MACVLAN_TAP = 'tap'
+
+SETTING_MATCH_INTERFACE_NAME = 'interface-name'
+
+SETTING_MATCH_SETTING_NAME = 'match'
+
+SETTING_NAME = 'name'
+
+SETTING_OLPC_MESH_CHANNEL = 'channel'
+
+SETTING_OLPC_MESH_DHCP_ANYCAST_ADDRESS = 'dhcp-anycast-address'
+
+SETTING_OLPC_MESH_SETTING_NAME = '802-11-olpc-mesh'
+
+SETTING_OLPC_MESH_SSID = 'ssid'
+
+SETTING_OVS_BRIDGE_DATAPATH_TYPE = 'datapath-type'
+
+SETTING_OVS_BRIDGE_FAIL_MODE = 'fail-mode'
+
+SETTING_OVS_BRIDGE_MCAST_SNOOPING_ENABLE = 'mcast-snooping-enable'
+
+SETTING_OVS_BRIDGE_RSTP_ENABLE = 'rstp-enable'
+
+SETTING_OVS_BRIDGE_SETTING_NAME = 'ovs-bridge'
+
+SETTING_OVS_BRIDGE_STP_ENABLE = 'stp-enable'
+
+SETTING_OVS_DPDK_DEVARGS = 'devargs'
+
+SETTING_OVS_DPDK_SETTING_NAME = 'ovs-dpdk'
+
+SETTING_OVS_INTERFACE_SETTING_NAME = 'ovs-interface'
+
+SETTING_OVS_INTERFACE_TYPE = 'type'
+
+SETTING_OVS_PATCH_PEER = 'peer'
+
+SETTING_OVS_PATCH_SETTING_NAME = 'ovs-patch'
+
+SETTING_OVS_PORT_BOND_DOWNDELAY = 'bond-downdelay'
+SETTING_OVS_PORT_BOND_MODE = 'bond-mode'
+SETTING_OVS_PORT_BOND_UPDELAY = 'bond-updelay'
+
+SETTING_OVS_PORT_LACP = 'lacp'
+
+SETTING_OVS_PORT_SETTING_NAME = 'ovs-port'
+
+SETTING_OVS_PORT_TAG = 'tag'
+
+SETTING_OVS_PORT_VLAN_MODE = 'vlan-mode'
+
+SETTING_PARAM_FUZZY_IGNORE = 8
+
+SETTING_PARAM_REQUIRED = 2
+SETTING_PARAM_SECRET = 4
+
+SETTING_PPPOE_PARENT = 'parent'
+SETTING_PPPOE_PASSWORD = 'password'
+
+SETTING_PPPOE_PASSWORD_FLAGS = 'password-flags'
+
+SETTING_PPPOE_SERVICE = 'service'
+
+SETTING_PPPOE_SETTING_NAME = 'pppoe'
+
+SETTING_PPPOE_USERNAME = 'username'
+
+SETTING_PPP_BAUD = 'baud'
+SETTING_PPP_CRTSCTS = 'crtscts'
+
+SETTING_PPP_LCP_ECHO_FAILURE = 'lcp-echo-failure'
+SETTING_PPP_LCP_ECHO_INTERVAL = 'lcp-echo-interval'
+
+SETTING_PPP_MPPE_STATEFUL = 'mppe-stateful'
+
+SETTING_PPP_MRU = 'mru'
+SETTING_PPP_MTU = 'mtu'
+SETTING_PPP_NOAUTH = 'noauth'
+SETTING_PPP_NOBSDCOMP = 'nobsdcomp'
+SETTING_PPP_NODEFLATE = 'nodeflate'
+
+SETTING_PPP_NO_VJ_COMP = 'no-vj-comp'
+
+SETTING_PPP_REFUSE_CHAP = 'refuse-chap'
+SETTING_PPP_REFUSE_EAP = 'refuse-eap'
+SETTING_PPP_REFUSE_MSCHAP = 'refuse-mschap'
+SETTING_PPP_REFUSE_MSCHAPV2 = 'refuse-mschapv2'
+SETTING_PPP_REFUSE_PAP = 'refuse-pap'
+
+SETTING_PPP_REQUIRE_MPPE = 'require-mppe'
+
+SETTING_PPP_REQUIRE_MPPE_128 = 'require-mppe-128'
+
+SETTING_PPP_SETTING_NAME = 'ppp'
+
+SETTING_PROXY_BROWSER_ONLY = 'browser-only'
+
+SETTING_PROXY_METHOD = 'method'
+
+SETTING_PROXY_PAC_SCRIPT = 'pac-script'
+SETTING_PROXY_PAC_URL = 'pac-url'
+
+SETTING_PROXY_SETTING_NAME = 'proxy'
+
+SETTING_SERIAL_BAUD = 'baud'
+SETTING_SERIAL_BITS = 'bits'
+SETTING_SERIAL_PARITY = 'parity'
+
+SETTING_SERIAL_SEND_DELAY = 'send-delay'
+
+SETTING_SERIAL_SETTING_NAME = 'serial'
+
+SETTING_SERIAL_STOPBITS = 'stopbits'
+
+SETTING_SRIOV_AUTOPROBE_DRIVERS = 'autoprobe-drivers'
+
+SETTING_SRIOV_SETTING_NAME = 'sriov'
+
+SETTING_SRIOV_TOTAL_VFS = 'total-vfs'
+
+SETTING_SRIOV_VFS = 'vfs'
+
+SETTING_TC_CONFIG_QDISCS = 'qdiscs'
+
+SETTING_TC_CONFIG_SETTING_NAME = 'tc'
+
+SETTING_TC_CONFIG_TFILTERS = 'tfilters'
+
+SETTING_TEAM_CONFIG = 'config'
+
+SETTING_TEAM_LINK_WATCHERS = 'link-watchers'
+
+SETTING_TEAM_MCAST_REJOIN_COUNT = 'mcast-rejoin-count'
+SETTING_TEAM_MCAST_REJOIN_INTERVAL = 'mcast-rejoin-interval'
+
+SETTING_TEAM_NOTIFY_MCAST_COUNT_ACTIVEBACKUP_DEFAULT = 1
+
+SETTING_TEAM_NOTIFY_PEERS_COUNT = 'notify-peers-count'
+
+SETTING_TEAM_NOTIFY_PEERS_COUNT_ACTIVEBACKUP_DEFAULT = 1
+
+SETTING_TEAM_NOTIFY_PEERS_INTERVAL = 'notify-peers-interval'
+
+SETTING_TEAM_PORT_CONFIG = 'config'
+
+SETTING_TEAM_PORT_LACP_KEY = 'lacp-key'
+SETTING_TEAM_PORT_LACP_PRIO = 'lacp-prio'
+
+SETTING_TEAM_PORT_LACP_PRIO_DEFAULT = 255
+
+SETTING_TEAM_PORT_LINK_WATCHERS = 'link-watchers'
+
+SETTING_TEAM_PORT_PRIO = 'prio'
+
+SETTING_TEAM_PORT_QUEUE_ID = 'queue-id'
+
+SETTING_TEAM_PORT_QUEUE_ID_DEFAULT = -1
+
+SETTING_TEAM_PORT_SETTING_NAME = 'team-port'
+
+SETTING_TEAM_PORT_STICKY = 'sticky'
+
+SETTING_TEAM_RUNNER = 'runner'
+
+SETTING_TEAM_RUNNER_ACTIVE = 'runner-active'
+SETTING_TEAM_RUNNER_ACTIVEBACKUP = 'activebackup'
+
+SETTING_TEAM_RUNNER_AGG_SELECT_POLICY = 'runner-agg-select-policy'
+
+SETTING_TEAM_RUNNER_AGG_SELECT_POLICY_BANDWIDTH = 'bandwidth'
+SETTING_TEAM_RUNNER_AGG_SELECT_POLICY_COUNT = 'count'
+
+SETTING_TEAM_RUNNER_AGG_SELECT_POLICY_LACP_PRIO = 'lacp_prio'
+
+SETTING_TEAM_RUNNER_AGG_SELECT_POLICY_LACP_PRIO_STABLE = 'lacp_prio_stable'
+
+SETTING_TEAM_RUNNER_AGG_SELECT_POLICY_PORT_CONFIG = 'port_config'
+
+SETTING_TEAM_RUNNER_BROADCAST = 'broadcast'
+
+SETTING_TEAM_RUNNER_FAST_RATE = 'runner-fast-rate'
+
+SETTING_TEAM_RUNNER_HWADDR_POLICY = 'runner-hwaddr-policy'
+
+SETTING_TEAM_RUNNER_HWADDR_POLICY_BY_ACTIVE = 'by_active'
+
+SETTING_TEAM_RUNNER_HWADDR_POLICY_ONLY_ACTIVE = 'only_active'
+
+SETTING_TEAM_RUNNER_HWADDR_POLICY_SAME_ALL = 'same_all'
+
+SETTING_TEAM_RUNNER_LACP = 'lacp'
+SETTING_TEAM_RUNNER_LOADBALANCE = 'loadbalance'
+
+SETTING_TEAM_RUNNER_MIN_PORTS = 'runner-min-ports'
+
+SETTING_TEAM_RUNNER_RANDOM = 'random'
+SETTING_TEAM_RUNNER_ROUNDROBIN = 'roundrobin'
+
+SETTING_TEAM_RUNNER_SYS_PRIO = 'runner-sys-prio'
+
+SETTING_TEAM_RUNNER_SYS_PRIO_DEFAULT = 65535
+
+SETTING_TEAM_RUNNER_TX_BALANCER = 'runner-tx-balancer'
+
+SETTING_TEAM_RUNNER_TX_BALANCER_INTERVAL = 'runner-tx-balancer-interval'
+
+SETTING_TEAM_RUNNER_TX_BALANCER_INTERVAL_DEFAULT = 50
+
+SETTING_TEAM_RUNNER_TX_HASH = 'runner-tx-hash'
+
+SETTING_TEAM_SETTING_NAME = 'team'
+
+SETTING_TUN_GROUP = 'group'
+SETTING_TUN_MODE = 'mode'
+
+SETTING_TUN_MULTI_QUEUE = 'multi-queue'
+
+SETTING_TUN_OWNER = 'owner'
+SETTING_TUN_PI = 'pi'
+
+SETTING_TUN_SETTING_NAME = 'tun'
+
+SETTING_TUN_VNET_HDR = 'vnet-hdr'
+
+SETTING_USER_DATA = 'data'
+
+SETTING_USER_SETTING_NAME = 'user'
+
+SETTING_VLAN_EGRESS_PRIORITY_MAP = 'egress-priority-map'
+
+SETTING_VLAN_FLAGS = 'flags'
+SETTING_VLAN_ID = 'id'
+
+SETTING_VLAN_INGRESS_PRIORITY_MAP = 'ingress-priority-map'
+
+SETTING_VLAN_PARENT = 'parent'
+
+SETTING_VLAN_SETTING_NAME = 'vlan'
+
+SETTING_VPN_DATA = 'data'
+SETTING_VPN_PERSISTENT = 'persistent'
+SETTING_VPN_SECRETS = 'secrets'
+
+SETTING_VPN_SERVICE_TYPE = 'service-type'
+
+SETTING_VPN_SETTING_NAME = 'vpn'
+
+SETTING_VPN_TIMEOUT = 'timeout'
+
+SETTING_VPN_USER_NAME = 'user-name'
+
+SETTING_VXLAN_AGEING = 'ageing'
+
+SETTING_VXLAN_DESTINATION_PORT = 'destination-port'
+
+SETTING_VXLAN_ID = 'id'
+
+SETTING_VXLAN_L2_MISS = 'l2-miss'
+
+SETTING_VXLAN_L3_MISS = 'l3-miss'
+
+SETTING_VXLAN_LEARNING = 'learning'
+SETTING_VXLAN_LIMIT = 'limit'
+SETTING_VXLAN_LOCAL = 'local'
+SETTING_VXLAN_PARENT = 'parent'
+SETTING_VXLAN_PROXY = 'proxy'
+SETTING_VXLAN_REMOTE = 'remote'
+SETTING_VXLAN_RSC = 'rsc'
+
+SETTING_VXLAN_SETTING_NAME = 'vxlan'
+
+SETTING_VXLAN_SOURCE_PORT_MAX = 'source-port-max'
+SETTING_VXLAN_SOURCE_PORT_MIN = 'source-port-min'
+
+SETTING_VXLAN_TOS = 'tos'
+SETTING_VXLAN_TTL = 'ttl'
+
+SETTING_WIFI_P2P_PEER = 'peer'
+
+SETTING_WIFI_P2P_SETTING_NAME = 'wifi-p2p'
+
+SETTING_WIFI_P2P_WFD_IES = 'wfd-ies'
+
+SETTING_WIFI_P2P_WPS_METHOD = 'wps-method'
+
+SETTING_WIMAX_MAC_ADDRESS = 'mac-address'
+
+SETTING_WIMAX_NETWORK_NAME = 'network-name'
+
+SETTING_WIMAX_SETTING_NAME = 'wimax'
+
+SETTING_WIRED_AUTO_NEGOTIATE = 'auto-negotiate'
+
+SETTING_WIRED_CLONED_MAC_ADDRESS = 'cloned-mac-address'
+
+SETTING_WIRED_DUPLEX = 'duplex'
+
+SETTING_WIRED_GENERATE_MAC_ADDRESS_MASK = 'generate-mac-address-mask'
+
+SETTING_WIRED_MAC_ADDRESS = 'mac-address'
+
+SETTING_WIRED_MAC_ADDRESS_BLACKLIST = 'mac-address-blacklist'
+
+SETTING_WIRED_MTU = 'mtu'
+SETTING_WIRED_PORT = 'port'
+
+SETTING_WIRED_S390_NETTYPE = 's390-nettype'
+SETTING_WIRED_S390_OPTIONS = 's390-options'
+SETTING_WIRED_S390_SUBCHANNELS = 's390-subchannels'
+
+SETTING_WIRED_SETTING_NAME = '802-3-ethernet'
+
+SETTING_WIRED_SPEED = 'speed'
+
+SETTING_WIRED_WAKE_ON_LAN = 'wake-on-lan'
+
+SETTING_WIRED_WAKE_ON_LAN_PASSWORD = 'wake-on-lan-password'
+
+SETTING_WIREGUARD_FWMARK = 'fwmark'
+
+SETTING_WIREGUARD_IP4_AUTO_DEFAULT_ROUTE = 'ip4-auto-default-route'
+
+SETTING_WIREGUARD_IP6_AUTO_DEFAULT_ROUTE = 'ip6-auto-default-route'
+
+SETTING_WIREGUARD_LISTEN_PORT = 'listen-port'
+
+SETTING_WIREGUARD_MTU = 'mtu'
+SETTING_WIREGUARD_PEERS = 'peers'
+
+SETTING_WIREGUARD_PEER_ROUTES = 'peer-routes'
+
+SETTING_WIREGUARD_PRIVATE_KEY = 'private-key'
+
+SETTING_WIREGUARD_PRIVATE_KEY_FLAGS = 'private-key-flags'
+
+SETTING_WIREGUARD_SETTING_NAME = 'wireguard'
+
+SETTING_WIRELESS_BAND = 'band'
+SETTING_WIRELESS_BSSID = 'bssid'
+SETTING_WIRELESS_CHANNEL = 'channel'
+
+SETTING_WIRELESS_CLONED_MAC_ADDRESS = 'cloned-mac-address'
+
+SETTING_WIRELESS_GENERATE_MAC_ADDRESS_MASK = 'generate-mac-address-mask'
+
+SETTING_WIRELESS_HIDDEN = 'hidden'
+
+SETTING_WIRELESS_MAC_ADDRESS = 'mac-address'
+
+SETTING_WIRELESS_MAC_ADDRESS_BLACKLIST = 'mac-address-blacklist'
+SETTING_WIRELESS_MAC_ADDRESS_RANDOMIZATION = 'mac-address-randomization'
+
+SETTING_WIRELESS_MODE = 'mode'
+
+SETTING_WIRELESS_MODE_ADHOC = 'adhoc'
+SETTING_WIRELESS_MODE_AP = 'ap'
+SETTING_WIRELESS_MODE_INFRA = 'infrastructure'
+SETTING_WIRELESS_MODE_MESH = 'mesh'
+
+SETTING_WIRELESS_MTU = 'mtu'
+SETTING_WIRELESS_POWERSAVE = 'powersave'
+SETTING_WIRELESS_RATE = 'rate'
+
+SETTING_WIRELESS_SECURITY_AUTH_ALG = 'auth-alg'
+
+SETTING_WIRELESS_SECURITY_FILS = 'fils'
+SETTING_WIRELESS_SECURITY_GROUP = 'group'
+
+SETTING_WIRELESS_SECURITY_KEY_MGMT = 'key-mgmt'
+
+SETTING_WIRELESS_SECURITY_LEAP_PASSWORD = 'leap-password'
+
+SETTING_WIRELESS_SECURITY_LEAP_PASSWORD_FLAGS = 'leap-password-flags'
+
+SETTING_WIRELESS_SECURITY_LEAP_USERNAME = 'leap-username'
+
+SETTING_WIRELESS_SECURITY_PAIRWISE = 'pairwise'
+SETTING_WIRELESS_SECURITY_PMF = 'pmf'
+SETTING_WIRELESS_SECURITY_PROTO = 'proto'
+SETTING_WIRELESS_SECURITY_PSK = 'psk'
+
+SETTING_WIRELESS_SECURITY_PSK_FLAGS = 'psk-flags'
+
+SETTING_WIRELESS_SECURITY_SETTING_NAME = '802-11-wireless-security'
+
+SETTING_WIRELESS_SECURITY_WEP_KEY0 = 'wep-key0'
+SETTING_WIRELESS_SECURITY_WEP_KEY1 = 'wep-key1'
+SETTING_WIRELESS_SECURITY_WEP_KEY2 = 'wep-key2'
+SETTING_WIRELESS_SECURITY_WEP_KEY3 = 'wep-key3'
+
+SETTING_WIRELESS_SECURITY_WEP_KEY_FLAGS = 'wep-key-flags'
+SETTING_WIRELESS_SECURITY_WEP_KEY_TYPE = 'wep-key-type'
+
+SETTING_WIRELESS_SECURITY_WEP_TX_KEYIDX = 'wep-tx-keyidx'
+
+SETTING_WIRELESS_SECURITY_WPS_METHOD = 'wps-method'
+
+SETTING_WIRELESS_SEEN_BSSIDS = 'seen-bssids'
+
+SETTING_WIRELESS_SETTING_NAME = '802-11-wireless'
+
+SETTING_WIRELESS_SSID = 'ssid'
+
+SETTING_WIRELESS_TX_POWER = 'tx-power'
+
+SETTING_WIRELESS_WAKE_ON_WLAN = 'wake-on-wlan'
+
+SETTING_WPAN_CHANNEL = 'channel'
+
+SETTING_WPAN_CHANNEL_DEFAULT = -1
+
+SETTING_WPAN_MAC_ADDRESS = 'mac-address'
+
+SETTING_WPAN_PAGE = 'page'
+
+SETTING_WPAN_PAGE_DEFAULT = -1
+
+SETTING_WPAN_PAN_ID = 'pan-id'
+
+SETTING_WPAN_SETTING_NAME = 'wpan'
+
+SETTING_WPAN_SHORT_ADDRESS = 'short-address'
+
+SRIOV_VF_ATTRIBUTE_MAC = 'mac'
+
+SRIOV_VF_ATTRIBUTE_MAX_TX_RATE = 'max-tx-rate'
+
+SRIOV_VF_ATTRIBUTE_MIN_TX_RATE = 'min-tx-rate'
+
+SRIOV_VF_ATTRIBUTE_SPOOF_CHECK = 'spoof-check'
+
+SRIOV_VF_ATTRIBUTE_TRUST = 'trust'
+
+TEAM_LINK_WATCHER_ARP_PING = 'arp_ping'
+
+TEAM_LINK_WATCHER_ETHTOOL = 'ethtool'
+
+TEAM_LINK_WATCHER_NSNA_PING = 'nsna_ping'
+
+UTILS_HWADDR_LEN_MAX = 20
+
+VLAN_FLAGS_ALL = 15
+
+VPN_CONNECTION_BANNER = 'banner'
+
+VPN_CONNECTION_VPN_STATE = 'vpn-state'
+
+VPN_DBUS_PLUGIN_INTERFACE = 'org.freedesktop.NetworkManager.VPN.Plugin'
+VPN_DBUS_PLUGIN_PATH = '/org/freedesktop/NetworkManager/VPN/Plugin'
+
+VPN_EDITOR_PLUGIN_DESCRIPTION = 'description'
+VPN_EDITOR_PLUGIN_NAME = 'name'
+VPN_EDITOR_PLUGIN_SERVICE = 'service'
+
+VPN_PLUGIN_CAN_PERSIST = 'can-persist'
+
+VPN_PLUGIN_CONFIG_BANNER = 'banner'
+
+VPN_PLUGIN_CONFIG_EXT_GATEWAY = 'gateway'
+
+VPN_PLUGIN_CONFIG_HAS_IP4 = 'has-ip4'
+VPN_PLUGIN_CONFIG_HAS_IP6 = 'has-ip6'
+
+VPN_PLUGIN_CONFIG_MTU = 'mtu'
+
+VPN_PLUGIN_CONFIG_PROXY_PAC = 'pac'
+
+VPN_PLUGIN_CONFIG_TUNDEV = 'tundev'
+
+VPN_PLUGIN_INFO_FILENAME = 'filename'
+VPN_PLUGIN_INFO_KEYFILE = 'keyfile'
+
+VPN_PLUGIN_INFO_KF_GROUP_CONNECTION = 'VPN Connection'
+VPN_PLUGIN_INFO_KF_GROUP_GNOME = 'GNOME'
+VPN_PLUGIN_INFO_KF_GROUP_LIBNM = 'libnm'
+
+VPN_PLUGIN_INFO_NAME = 'name'
+
+VPN_PLUGIN_IP4_CONFIG_ADDRESS = 'address'
+VPN_PLUGIN_IP4_CONFIG_DNS = 'dns'
+VPN_PLUGIN_IP4_CONFIG_DOMAIN = 'domain'
+VPN_PLUGIN_IP4_CONFIG_DOMAINS = 'domains'
+
+VPN_PLUGIN_IP4_CONFIG_INT_GATEWAY = 'internal-gateway'
+
+VPN_PLUGIN_IP4_CONFIG_MSS = 'mss'
+VPN_PLUGIN_IP4_CONFIG_NBNS = 'nbns'
+
+VPN_PLUGIN_IP4_CONFIG_NEVER_DEFAULT = 'never-default'
+
+VPN_PLUGIN_IP4_CONFIG_PREFIX = 'prefix'
+
+VPN_PLUGIN_IP4_CONFIG_PRESERVE_ROUTES = 'preserve-routes'
+
+VPN_PLUGIN_IP4_CONFIG_PTP = 'ptp'
+VPN_PLUGIN_IP4_CONFIG_ROUTES = 'routes'
+
+VPN_PLUGIN_IP6_CONFIG_ADDRESS = 'address'
+VPN_PLUGIN_IP6_CONFIG_DNS = 'dns'
+VPN_PLUGIN_IP6_CONFIG_DOMAIN = 'domain'
+VPN_PLUGIN_IP6_CONFIG_DOMAINS = 'domains'
+
+VPN_PLUGIN_IP6_CONFIG_INT_GATEWAY = 'internal-gateway'
+
+VPN_PLUGIN_IP6_CONFIG_MSS = 'mss'
+
+VPN_PLUGIN_IP6_CONFIG_NEVER_DEFAULT = 'never-default'
+
+VPN_PLUGIN_IP6_CONFIG_PREFIX = 'prefix'
+
+VPN_PLUGIN_IP6_CONFIG_PRESERVE_ROUTES = 'preserve-routes'
+
+VPN_PLUGIN_IP6_CONFIG_PTP = 'ptp'
+VPN_PLUGIN_IP6_CONFIG_ROUTES = 'routes'
+
+VPN_PLUGIN_OLD_DBUS_SERVICE_NAME = 'service-name'
+
+VPN_PLUGIN_OLD_STATE = 'state'
+
+VPN_SERVICE_PLUGIN_DBUS_SERVICE_NAME = 'service-name'
+
+VPN_SERVICE_PLUGIN_DBUS_WATCH_PEER = 'watch-peer'
+
+VPN_SERVICE_PLUGIN_STATE = 'state'
+
+WIFI_P2P_PEER_FLAGS = 'flags'
+
+WIFI_P2P_PEER_HW_ADDRESS = 'hw-address'
+
+WIFI_P2P_PEER_LAST_SEEN = 'last-seen'
+
+WIFI_P2P_PEER_MANUFACTURER = 'manufacturer'
+WIFI_P2P_PEER_MODEL = 'model'
+
+WIFI_P2P_PEER_MODEL_NUMBER = 'model-number'
+
+WIFI_P2P_PEER_NAME = 'name'
+WIFI_P2P_PEER_SERIAL = 'serial'
+WIFI_P2P_PEER_STRENGTH = 'strength'
+
+WIFI_P2P_PEER_WFD_IES = 'wfd-ies'
+
+WIMAX_NSP_NAME = 'name'
+
+WIMAX_NSP_NETWORK_TYPE = 'network-type'
+
+WIMAX_NSP_SIGNAL_QUALITY = 'signal-quality'
+
+WIREGUARD_PEER_ATTR_ALLOWED_IPS = 'allowed-ips'
+
+WIREGUARD_PEER_ATTR_ENDPOINT = 'endpoint'
+
+WIREGUARD_PEER_ATTR_PERSISTENT_KEEPALIVE = 'persistent-keepalive'
+
+WIREGUARD_PEER_ATTR_PRESHARED_KEY = 'preshared-key'
+
+WIREGUARD_PEER_ATTR_PRESHARED_KEY_FLAGS = 'preshared-key-flags'
+
+WIREGUARD_PEER_ATTR_PUBLIC_KEY = 'public-key'
+
+WIREGUARD_PUBLIC_KEY_LEN = 32
+
+WIREGUARD_SYMMETRIC_KEY_LEN = 32
+
+_namespace = 'NM'
+
+_version = '1.0'
+
+__weakref__ = None
+
+# functions
+
+def agent_manager_error_quark(): # real signature unknown; restored from __doc__
+    """ agent_manager_error_quark() -> int """
+    return 0
+
+def bridge_vlan_from_str(p_str): # real signature unknown; restored from __doc__
+    """ bridge_vlan_from_str(str:str) -> NM.BridgeVlan """
+    pass
+
+def client_error_quark(): # real signature unknown; restored from __doc__
+    """ client_error_quark() -> int """
+    return 0
+
+def connection_error_quark(): # real signature unknown; restored from __doc__
+    """ connection_error_quark() -> int """
+    return 0
+
+def crypto_error_quark(): # real signature unknown; restored from __doc__
+    """ crypto_error_quark() -> int """
+    return 0
+
+def device_error_quark(): # real signature unknown; restored from __doc__
+    """ device_error_quark() -> int """
+    return 0
+
+def ethtool_optname_is_feature(optname=None): # real signature unknown; restored from __doc__
+    """ ethtool_optname_is_feature(optname:str=None) -> bool """
+    return False
+
+def ip_route_attribute_validate(name, value, family): # real signature unknown; restored from __doc__
+    """ ip_route_attribute_validate(name:str, value:GLib.Variant, family:int) -> bool, known:bool """
+    return False
+
+def ip_route_get_variant_attribute_spec(): # real signature unknown; restored from __doc__
+    """ ip_route_get_variant_attribute_spec() -> NM.VariantAttributeSpec """
+    pass
+
+def ip_routing_rule_from_string(p_str, to_string_flags, extra_args=None): # real signature unknown; restored from __doc__
+    """ ip_routing_rule_from_string(str:str, to_string_flags:NM.IPRoutingRuleAsStringFlags, extra_args:dict=None) -> NM.IPRoutingRule """
+    pass
+
+def manager_error_quark(): # real signature unknown; restored from __doc__
+    """ manager_error_quark() -> int """
+    return 0
+
+def secret_agent_error_quark(): # real signature unknown; restored from __doc__
+    """ secret_agent_error_quark() -> int """
+    return 0
+
+def settings_error_quark(): # real signature unknown; restored from __doc__
+    """ settings_error_quark() -> int """
+    return 0
+
+def sriov_vf_attribute_validate(name, value): # real signature unknown; restored from __doc__
+    """ sriov_vf_attribute_validate(name:str, value:GLib.Variant) -> bool, known:bool """
+    return False
+
+def utils_ap_mode_security_valid(type, wifi_caps): # real signature unknown; restored from __doc__
+    """ utils_ap_mode_security_valid(type:NM.UtilsSecurityType, wifi_caps:NM.DeviceWifiCapabilities) -> bool """
+    return False
+
+def utils_base64secret_decode(base64_key, required_key_len, out_key=None): # real signature unknown; restored from __doc__
+    """ utils_base64secret_decode(base64_key:str, required_key_len:int, out_key:int=None) -> bool """
+    return False
+
+def utils_bin2hexstr(src, final_len): # real signature unknown; restored from __doc__
+    """ utils_bin2hexstr(src:list, final_len:int) -> str """
+    return ""
+
+def utils_bond_mode_int_to_string(mode): # real signature unknown; restored from __doc__
+    """ utils_bond_mode_int_to_string(mode:int) -> str """
+    return ""
+
+def utils_bond_mode_string_to_int(mode): # real signature unknown; restored from __doc__
+    """ utils_bond_mode_string_to_int(mode:str) -> int """
+    return 0
+
+def utils_check_virtual_device_compatibility(virtual_type, other_type): # real signature unknown; restored from __doc__
+    """ utils_check_virtual_device_compatibility(virtual_type:GType, other_type:GType) -> bool """
+    return False
+
+def utils_enum_from_str(type, p_str): # real signature unknown; restored from __doc__
+    """ utils_enum_from_str(type:GType, str:str) -> bool, out_value:int, err_token:str """
+    return False
+
+def utils_enum_get_values(type, from_, to): # real signature unknown; restored from __doc__
+    """ utils_enum_get_values(type:GType, from_:int, to:int) -> list """
+    return []
+
+def utils_enum_to_str(type, value): # real signature unknown; restored from __doc__
+    """ utils_enum_to_str(type:GType, value:int) -> str """
+    return ""
+
+def utils_escape_ssid(ssid): # real signature unknown; restored from __doc__
+    """ utils_escape_ssid(ssid:list) -> str """
+    return ""
+
+def utils_file_is_certificate(filename): # real signature unknown; restored from __doc__
+    """ utils_file_is_certificate(filename:str) -> bool """
+    return False
+
+def utils_file_is_pkcs12(filename): # real signature unknown; restored from __doc__
+    """ utils_file_is_pkcs12(filename:str) -> bool """
+    return False
+
+def utils_file_is_private_key(filename): # real signature unknown; restored from __doc__
+    """ utils_file_is_private_key(filename:str) -> bool, out_encrypted:bool """
+    return False
+
+def utils_file_search_in_paths(progname, try_first=None, paths=None, file_test_flags, predicate, user_data=None): # real signature unknown; restored from __doc__
+    """ utils_file_search_in_paths(progname:str, try_first:str=None, paths:str=None, file_test_flags:GLib.FileTest, predicate:NM.UtilsFileSearchInPathsPredicate, user_data=None) -> str """
+    return ""
+
+def utils_format_variant_attributes(attributes, attr_separator, key_value_separator): # real signature unknown; restored from __doc__
+    """ utils_format_variant_attributes(attributes:dict, attr_separator:int, key_value_separator:int) -> str """
+    return ""
+
+def utils_get_timestamp_msec(): # real signature unknown; restored from __doc__
+    """ utils_get_timestamp_msec() -> int """
+    return 0
+
+def utils_hexstr2bin(hex): # real signature unknown; restored from __doc__
+    """ utils_hexstr2bin(hex:str) -> GLib.Bytes """
+    pass
+
+def utils_hwaddr_atoba(asc, length): # real signature unknown; restored from __doc__
+    """ utils_hwaddr_atoba(asc:str, length:int) -> list """
+    return []
+
+def utils_hwaddr_aton(asc, buffer): # real signature unknown; restored from __doc__
+    """ utils_hwaddr_aton(asc:str, buffer:list) -> int """
+    return 0
+
+def utils_hwaddr_canonical(asc, length): # real signature unknown; restored from __doc__
+    """ utils_hwaddr_canonical(asc:str, length:int) -> str """
+    return ""
+
+def utils_hwaddr_len(type): # real signature unknown; restored from __doc__
+    """ utils_hwaddr_len(type:int) -> int """
+    return 0
+
+def utils_hwaddr_matches(hwaddr1=None, hwaddr1_len, hwaddr2=None, hwaddr2_len): # real signature unknown; restored from __doc__
+    """ utils_hwaddr_matches(hwaddr1=None, hwaddr1_len:int, hwaddr2=None, hwaddr2_len:int) -> bool """
+    return False
+
+def utils_hwaddr_ntoa(addr): # real signature unknown; restored from __doc__
+    """ utils_hwaddr_ntoa(addr:list) -> str """
+    return ""
+
+def utils_hwaddr_valid(asc, length): # real signature unknown; restored from __doc__
+    """ utils_hwaddr_valid(asc:str, length:int) -> bool """
+    return False
+
+def utils_iface_valid_name(name=None): # real signature unknown; restored from __doc__
+    """ utils_iface_valid_name(name:str=None) -> bool """
+    return False
+
+def utils_ip4_addresses_from_variant(value): # real signature unknown; restored from __doc__
+    """ utils_ip4_addresses_from_variant(value:GLib.Variant) -> list, out_gateway:str """
+    return []
+
+def utils_ip4_addresses_to_variant(addresses, gateway=None): # real signature unknown; restored from __doc__
+    """ utils_ip4_addresses_to_variant(addresses:list, gateway:str=None) -> GLib.Variant """
+    pass
+
+def utils_ip4_dns_from_variant(value): # real signature unknown; restored from __doc__
+    """ utils_ip4_dns_from_variant(value:GLib.Variant) -> str """
+    return ""
+
+def utils_ip4_dns_to_variant(dns): # real signature unknown; restored from __doc__
+    """ utils_ip4_dns_to_variant(dns:str) -> GLib.Variant """
+    pass
+
+def utils_ip4_get_default_prefix(ip): # real signature unknown; restored from __doc__
+    """ utils_ip4_get_default_prefix(ip:int) -> int """
+    return 0
+
+def utils_ip4_netmask_to_prefix(netmask): # real signature unknown; restored from __doc__
+    """ utils_ip4_netmask_to_prefix(netmask:int) -> int """
+    return 0
+
+def utils_ip4_prefix_to_netmask(prefix): # real signature unknown; restored from __doc__
+    """ utils_ip4_prefix_to_netmask(prefix:int) -> int """
+    return 0
+
+def utils_ip4_routes_from_variant(value): # real signature unknown; restored from __doc__
+    """ utils_ip4_routes_from_variant(value:GLib.Variant) -> list """
+    return []
+
+def utils_ip4_routes_to_variant(routes): # real signature unknown; restored from __doc__
+    """ utils_ip4_routes_to_variant(routes:list) -> GLib.Variant """
+    pass
+
+def utils_ip6_addresses_from_variant(value): # real signature unknown; restored from __doc__
+    """ utils_ip6_addresses_from_variant(value:GLib.Variant) -> list, out_gateway:str """
+    return []
+
+def utils_ip6_addresses_to_variant(addresses, gateway=None): # real signature unknown; restored from __doc__
+    """ utils_ip6_addresses_to_variant(addresses:list, gateway:str=None) -> GLib.Variant """
+    pass
+
+def utils_ip6_dns_from_variant(value): # real signature unknown; restored from __doc__
+    """ utils_ip6_dns_from_variant(value:GLib.Variant) -> str """
+    return ""
+
+def utils_ip6_dns_to_variant(dns): # real signature unknown; restored from __doc__
+    """ utils_ip6_dns_to_variant(dns:str) -> GLib.Variant """
+    pass
+
+def utils_ip6_routes_from_variant(value): # real signature unknown; restored from __doc__
+    """ utils_ip6_routes_from_variant(value:GLib.Variant) -> list """
+    return []
+
+def utils_ip6_routes_to_variant(routes): # real signature unknown; restored from __doc__
+    """ utils_ip6_routes_to_variant(routes:list) -> GLib.Variant """
+    pass
+
+def utils_ipaddr_valid(family, ip): # real signature unknown; restored from __doc__
+    """ utils_ipaddr_valid(family:int, ip:str) -> bool """
+    return False
+
+def utils_ip_addresses_from_variant(value, family): # real signature unknown; restored from __doc__
+    """ utils_ip_addresses_from_variant(value:GLib.Variant, family:int) -> list """
+    return []
+
+def utils_ip_addresses_to_variant(addresses): # real signature unknown; restored from __doc__
+    """ utils_ip_addresses_to_variant(addresses:list) -> GLib.Variant """
+    pass
+
+def utils_ip_routes_from_variant(value, family): # real signature unknown; restored from __doc__
+    """ utils_ip_routes_from_variant(value:GLib.Variant, family:int) -> list """
+    return []
+
+def utils_ip_routes_to_variant(routes): # real signature unknown; restored from __doc__
+    """ utils_ip_routes_to_variant(routes:list) -> GLib.Variant """
+    pass
+
+def utils_is_empty_ssid(ssid): # real signature unknown; restored from __doc__
+    """ utils_is_empty_ssid(ssid:list) -> bool """
+    return False
+
+def utils_is_json_object(p_str): # real signature unknown; restored from __doc__
+    """ utils_is_json_object(str:str) -> bool """
+    return False
+
+def utils_is_uuid(p_str=None): # real signature unknown; restored from __doc__
+    """ utils_is_uuid(str:str=None) -> bool """
+    return False
+
+def utils_is_valid_iface_name(name=None): # real signature unknown; restored from __doc__
+    """ utils_is_valid_iface_name(name:str=None) -> bool """
+    return False
+
+def utils_parse_variant_attributes(string, attr_separator, key_value_separator, ignore_unknown, spec): # real signature unknown; restored from __doc__
+    """ utils_parse_variant_attributes(string:str, attr_separator:int, key_value_separator:int, ignore_unknown:bool, spec:NM.VariantAttributeSpec) -> dict """
+    return {}
+
+def utils_same_ssid(ssid1, ssid2, ignore_trailing_null): # real signature unknown; restored from __doc__
+    """ utils_same_ssid(ssid1:list, ssid2:list, ignore_trailing_null:bool) -> bool """
+    return False
+
+def utils_security_valid(type, wifi_caps, have_ap, adhoc, ap_flags, ap_wpa, ap_rsn): # real signature unknown; restored from __doc__
+    """ utils_security_valid(type:NM.UtilsSecurityType, wifi_caps:NM.DeviceWifiCapabilities, have_ap:bool, adhoc:bool, ap_flags:NM.80211ApFlags, ap_wpa:NM.80211ApSecurityFlags, ap_rsn:NM.80211ApSecurityFlags) -> bool """
+    return False
+
+def utils_sriov_vf_from_str(p_str): # real signature unknown; restored from __doc__
+    """ utils_sriov_vf_from_str(str:str) -> NM.SriovVF """
+    pass
+
+def utils_sriov_vf_to_str(vf, omit_index): # real signature unknown; restored from __doc__
+    """ utils_sriov_vf_to_str(vf:NM.SriovVF, omit_index:bool) -> str """
+    return ""
+
+def utils_ssid_to_utf8(ssid): # real signature unknown; restored from __doc__
+    """ utils_ssid_to_utf8(ssid:list) -> str """
+    return ""
+
+def utils_tc_action_from_str(p_str): # real signature unknown; restored from __doc__
+    """ utils_tc_action_from_str(str:str) -> NM.TCAction """
+    pass
+
+def utils_tc_action_to_str(action): # real signature unknown; restored from __doc__
+    """ utils_tc_action_to_str(action:NM.TCAction) -> str """
+    return ""
+
+def utils_tc_qdisc_from_str(p_str): # real signature unknown; restored from __doc__
+    """ utils_tc_qdisc_from_str(str:str) -> NM.TCQdisc """
+    pass
+
+def utils_tc_qdisc_to_str(qdisc): # real signature unknown; restored from __doc__
+    """ utils_tc_qdisc_to_str(qdisc:NM.TCQdisc) -> str """
+    return ""
+
+def utils_tc_tfilter_from_str(p_str): # real signature unknown; restored from __doc__
+    """ utils_tc_tfilter_from_str(str:str) -> NM.TCTfilter """
+    pass
+
+def utils_tc_tfilter_to_str(tfilter): # real signature unknown; restored from __doc__
+    """ utils_tc_tfilter_to_str(tfilter:NM.TCTfilter) -> str """
+    return ""
+
+def utils_uuid_generate(): # real signature unknown; restored from __doc__
+    """ utils_uuid_generate() -> str """
+    return ""
+
+def utils_version(): # real signature unknown; restored from __doc__
+    """ utils_version() -> int """
+    return 0
+
+def utils_wep_key_valid(key, wep_type): # real signature unknown; restored from __doc__
+    """ utils_wep_key_valid(key:str, wep_type:NM.WepKeyType) -> bool """
+    return False
+
+def utils_wifi_2ghz_freqs(): # real signature unknown; restored from __doc__
+    """ utils_wifi_2ghz_freqs() -> int """
+    return 0
+
+def utils_wifi_5ghz_freqs(): # real signature unknown; restored from __doc__
+    """ utils_wifi_5ghz_freqs() -> int """
+    return 0
+
+def utils_wifi_channel_to_freq(channel, band): # real signature unknown; restored from __doc__
+    """ utils_wifi_channel_to_freq(channel:int, band:str) -> int """
+    return 0
+
+def utils_wifi_find_next_channel(channel, direction, band): # real signature unknown; restored from __doc__
+    """ utils_wifi_find_next_channel(channel:int, direction:int, band:str) -> int """
+    return 0
+
+def utils_wifi_freq_to_channel(freq): # real signature unknown; restored from __doc__
+    """ utils_wifi_freq_to_channel(freq:int) -> int """
+    return 0
+
+def utils_wifi_is_channel_valid(channel, band): # real signature unknown; restored from __doc__
+    """ utils_wifi_is_channel_valid(channel:int, band:str) -> bool """
+    return False
+
+def utils_wifi_strength_bars(strength): # real signature unknown; restored from __doc__
+    """ utils_wifi_strength_bars(strength:int) -> str """
+    return ""
+
+def utils_wpa_psk_valid(psk): # real signature unknown; restored from __doc__
+    """ utils_wpa_psk_valid(psk:str) -> bool """
+    return False
+
+def vpn_editor_plugin_load(plugin_name, check_service): # real signature unknown; restored from __doc__
+    """ vpn_editor_plugin_load(plugin_name:str, check_service:str) -> NM.VpnEditorPlugin """
+    pass
+
+def vpn_editor_plugin_load_from_file(plugin_name, check_service, check_owner, check_file, user_data=None): # real signature unknown; restored from __doc__
+    """ vpn_editor_plugin_load_from_file(plugin_name:str, check_service:str, check_owner:int, check_file:NM.UtilsCheckFilePredicate, user_data=None) -> NM.VpnEditorPlugin """
+    pass
+
+def vpn_plugin_error_quark(): # real signature unknown; restored from __doc__
+    """ vpn_plugin_error_quark() -> int """
+    return 0
+
+def __delattr__(*args, **kwargs): # real signature unknown
+    """ Implement delattr(self, name). """
+    pass
+
+def __dir__(*args, **kwargs): # real signature unknown
+    pass
+
+def __eq__(*args, **kwargs): # real signature unknown
+    """ Return self==value. """
+    pass
+
+def __format__(*args, **kwargs): # real signature unknown
+    """ Default object formatter. """
+    pass
+
+def __getattribute__(*args, **kwargs): # real signature unknown
+    """ Return getattr(self, name). """
+    pass
+
+def __getattr__(*args, **kwargs): # real signature unknown
+    pass
+
+def __ge__(*args, **kwargs): # real signature unknown
+    """ Return self>=value. """
+    pass
+
+def __gt__(*args, **kwargs): # real signature unknown
+    """ Return self>value. """
+    pass
+
+def __hash__(*args, **kwargs): # real signature unknown
+    """ Return hash(self). """
+    pass
+
+def __init_subclass__(*args, **kwargs): # real signature unknown
+    """
+    This method is called when a class is subclassed.
+    
+    The default implementation does nothing. It may be
+    overridden to extend subclasses.
+    """
+    pass
+
+def __init__(*args, **kwargs): # real signature unknown
+    """ Might raise gi._gi.RepositoryError """
+    pass
+
+def __le__(*args, **kwargs): # real signature unknown
+    """ Return self<=value. """
+    pass
+
+def __lt__(*args, **kwargs): # real signature unknown
+    """ Return self<value. """
+    pass
+
+@staticmethod # known case of __new__
+def __new__(*args, **kwargs): # real signature unknown
+    """ Create and return a new object.  See help(type) for accurate signature. """
+    pass
+
+def __ne__(*args, **kwargs): # real signature unknown
+    """ Return self!=value. """
+    pass
+
+def __reduce_ex__(*args, **kwargs): # real signature unknown
+    """ Helper for pickle. """
+    pass
+
+def __reduce__(*args, **kwargs): # real signature unknown
+    """ Helper for pickle. """
+    pass
+
+def __repr__(*args, **kwargs): # real signature unknown
+    pass
+
+def __setattr__(*args, **kwargs): # real signature unknown
+    """ Implement setattr(self, name, value). """
+    pass
+
+def __sizeof__(*args, **kwargs): # real signature unknown
+    """ Size of object in memory, in bytes. """
+    pass
+
+def __str__(*args, **kwargs): # real signature unknown
+    """ Return str(self). """
+    pass
+
+def __subclasshook__(*args, **kwargs): # real signature unknown
+    """
+    Abstract classes can override this to customize issubclass().
+    
+    This is invoked early on by abc.ABCMeta.__subclasscheck__().
+    It should return True, False or NotImplemented.  If it returns
+    NotImplemented, the normal algorithm is used.  Otherwise, it
+    overrides the normal algorithm (and the outcome is cached).
+    """
+    pass
+
+# classes
+
+from .80211ApFlags import 80211ApFlags
+from .80211ApSecurityFlags import 80211ApSecurityFlags
+from .80211Mode import 80211Mode
+from .Object import Object
+from .AccessPoint import AccessPoint
+from .AccessPointClass import AccessPointClass
+from .ActivationStateFlags import ActivationStateFlags
+from .ActiveConnection import ActiveConnection
+from .ActiveConnectionClass import ActiveConnectionClass
+from .ActiveConnectionState import ActiveConnectionState
+from .ActiveConnectionStateReason import ActiveConnectionStateReason
+from .AgentManagerError import AgentManagerError
+from .BluetoothCapabilities import BluetoothCapabilities
+from .BridgeVlan import BridgeVlan
+from .Capability import Capability
+from .Checkpoint import Checkpoint
+from .CheckpointClass import CheckpointClass
+from .CheckpointCreateFlags import CheckpointCreateFlags
+from .Client import Client
+from .ClientClass import ClientClass
+from .ClientError import ClientError
+from .ClientPermission import ClientPermission
+from .ClientPermissionResult import ClientPermissionResult
+from .Connection import Connection
+from .ConnectionError import ConnectionError
+from .ConnectionInterface import ConnectionInterface
+from .ConnectionMultiConnect import ConnectionMultiConnect
+from .ConnectionSerializationFlags import ConnectionSerializationFlags
+from .ConnectivityState import ConnectivityState
+from .CryptoError import CryptoError
+from .Device import Device
+from .Device6Lowpan import Device6Lowpan
+from .Device6LowpanClass import Device6LowpanClass
+from .DeviceAdsl import DeviceAdsl
+from .DeviceAdslClass import DeviceAdslClass
+from .DeviceBond import DeviceBond
+from .DeviceBondClass import DeviceBondClass
+from .DeviceBridge import DeviceBridge
+from .DeviceBridgeClass import DeviceBridgeClass
+from .DeviceBt import DeviceBt
+from .DeviceBtClass import DeviceBtClass
+from .DeviceCapabilities import DeviceCapabilities
+from .DeviceClass import DeviceClass
+from .DeviceDummy import DeviceDummy
+from .DeviceDummyClass import DeviceDummyClass
+from .DeviceError import DeviceError
+from .DeviceEthernet import DeviceEthernet
+from .DeviceEthernetClass import DeviceEthernetClass
+from .DeviceGeneric import DeviceGeneric
+from .DeviceGenericClass import DeviceGenericClass
+from .DeviceInfiniband import DeviceInfiniband
+from .DeviceInfinibandClass import DeviceInfinibandClass
+from .DeviceInterfaceFlags import DeviceInterfaceFlags
+from .DeviceIPTunnel import DeviceIPTunnel
+from .DeviceIPTunnelClass import DeviceIPTunnelClass
+from .DeviceMacsec import DeviceMacsec
+from .DeviceMacsecClass import DeviceMacsecClass
+from .DeviceMacvlan import DeviceMacvlan
+from .DeviceMacvlanClass import DeviceMacvlanClass
+from .DeviceModem import DeviceModem
+from .DeviceModemCapabilities import DeviceModemCapabilities
+from .DeviceModemClass import DeviceModemClass
+from .DeviceOlpcMesh import DeviceOlpcMesh
+from .DeviceOlpcMeshClass import DeviceOlpcMeshClass
+from .DeviceOvsBridge import DeviceOvsBridge
+from .DeviceOvsBridgeClass import DeviceOvsBridgeClass
+from .DeviceOvsInterface import DeviceOvsInterface
+from .DeviceOvsInterfaceClass import DeviceOvsInterfaceClass
+from .DeviceOvsPort import DeviceOvsPort
+from .DeviceOvsPortClass import DeviceOvsPortClass
+from .DevicePpp import DevicePpp
+from .DevicePppClass import DevicePppClass
+from .DeviceState import DeviceState
+from .DeviceStateReason import DeviceStateReason
+from .DeviceTeam import DeviceTeam
+from .DeviceTeamClass import DeviceTeamClass
+from .DeviceTun import DeviceTun
+from .DeviceTunClass import DeviceTunClass
+from .DeviceType import DeviceType
+from .DeviceVlan import DeviceVlan
+from .DeviceVlanClass import DeviceVlanClass
+from .DeviceVxlan import DeviceVxlan
+from .DeviceVxlanClass import DeviceVxlanClass
+from .DeviceWifi import DeviceWifi
+from .DeviceWifiCapabilities import DeviceWifiCapabilities
+from .DeviceWifiClass import DeviceWifiClass
+from .DeviceWifiP2P import DeviceWifiP2P
+from .DeviceWifiP2PClass import DeviceWifiP2PClass
+from .DeviceWimax import DeviceWimax
+from .DeviceWimaxClass import DeviceWimaxClass
+from .DeviceWireGuard import DeviceWireGuard
+from .DeviceWireGuardClass import DeviceWireGuardClass
+from .DeviceWpan import DeviceWpan
+from .DeviceWpanClass import DeviceWpanClass
+from .DhcpConfig import DhcpConfig
+from .DhcpConfigClass import DhcpConfigClass
+from .DhcpHostnameFlags import DhcpHostnameFlags
+from .DnsEntry import DnsEntry
+from .IPAddress import IPAddress
+from .IPAddressCmpFlags import IPAddressCmpFlags
+from .IPConfig import IPConfig
+from .IPConfigClass import IPConfigClass
+from .IPRoute import IPRoute
+from .IPRoutingRule import IPRoutingRule
+from .IPRoutingRuleAsStringFlags import IPRoutingRuleAsStringFlags
+from .IPTunnelFlags import IPTunnelFlags
+from .IPTunnelMode import IPTunnelMode
+from .LldpNeighbor import LldpNeighbor
+from .ManagerError import ManagerError
+from .ManagerReloadFlags import ManagerReloadFlags
+from .Metered import Metered
+from .ObjectClass import ObjectClass
+from .RemoteConnection import RemoteConnection
+from .RemoteConnectionClass import RemoteConnectionClass
+from .RollbackResult import RollbackResult
+from .SecretAgentCapabilities import SecretAgentCapabilities
+from .SecretAgentError import SecretAgentError
+from .SecretAgentGetSecretsFlags import SecretAgentGetSecretsFlags
+from .SecretAgentOld import SecretAgentOld
+from .SecretAgentOldClass import SecretAgentOldClass
+from .Setting import Setting
+from .Setting6Lowpan import Setting6Lowpan
+from .Setting6LowpanClass import Setting6LowpanClass
+from .Setting8021x import Setting8021x
+from .Setting8021xAuthFlags import Setting8021xAuthFlags
+from .Setting8021xCKFormat import Setting8021xCKFormat
+from .Setting8021xCKScheme import Setting8021xCKScheme
+from .Setting8021xClass import Setting8021xClass
+from .SettingAdsl import SettingAdsl
+from .SettingAdslClass import SettingAdslClass
+from .SettingBluetooth import SettingBluetooth
+from .SettingBluetoothClass import SettingBluetoothClass
+from .SettingBond import SettingBond
+from .SettingBondClass import SettingBondClass
+from .SettingBridge import SettingBridge
+from .SettingBridgeClass import SettingBridgeClass
+from .SettingBridgePort import SettingBridgePort
+from .SettingBridgePortClass import SettingBridgePortClass
+from .SettingCdma import SettingCdma
+from .SettingCdmaClass import SettingCdmaClass
+from .SettingClass import SettingClass
+from .SettingCompareFlags import SettingCompareFlags
+from .SettingConnection import SettingConnection
+from .SettingConnectionAutoconnectSlaves import SettingConnectionAutoconnectSlaves
+from .SettingConnectionClass import SettingConnectionClass
+from .SettingConnectionLldp import SettingConnectionLldp
+from .SettingConnectionLlmnr import SettingConnectionLlmnr
+from .SettingConnectionMdns import SettingConnectionMdns
+from .SettingDcb import SettingDcb
+from .SettingDcbClass import SettingDcbClass
+from .SettingDcbFlags import SettingDcbFlags
+from .SettingDiffResult import SettingDiffResult
+from .SettingDummy import SettingDummy
+from .SettingDummyClass import SettingDummyClass
+from .SettingEthtool import SettingEthtool
+from .SettingEthtoolClass import SettingEthtoolClass
+from .SettingGeneric import SettingGeneric
+from .SettingGenericClass import SettingGenericClass
+from .SettingGsm import SettingGsm
+from .SettingGsmClass import SettingGsmClass
+from .SettingInfiniband import SettingInfiniband
+from .SettingInfinibandClass import SettingInfinibandClass
+from .SettingIPConfig import SettingIPConfig
+from .SettingIP4Config import SettingIP4Config
+from .SettingIP4ConfigClass import SettingIP4ConfigClass
+from .SettingIP6Config import SettingIP6Config
+from .SettingIP6ConfigAddrGenMode import SettingIP6ConfigAddrGenMode
+from .SettingIP6ConfigClass import SettingIP6ConfigClass
+from .SettingIP6ConfigPrivacy import SettingIP6ConfigPrivacy
+from .SettingIPConfigClass import SettingIPConfigClass
+from .SettingIPTunnel import SettingIPTunnel
+from .SettingIPTunnelClass import SettingIPTunnelClass
+from .SettingMacRandomization import SettingMacRandomization
+from .SettingMacsec import SettingMacsec
+from .SettingMacsecClass import SettingMacsecClass
+from .SettingMacsecMode import SettingMacsecMode
+from .SettingMacsecValidation import SettingMacsecValidation
+from .SettingMacvlan import SettingMacvlan
+from .SettingMacvlanClass import SettingMacvlanClass
+from .SettingMacvlanMode import SettingMacvlanMode
+from .SettingMatch import SettingMatch
+from .SettingMatchClass import SettingMatchClass
+from .SettingOlpcMesh import SettingOlpcMesh
+from .SettingOlpcMeshClass import SettingOlpcMeshClass
+from .SettingOvsBridge import SettingOvsBridge
+from .SettingOvsBridgeClass import SettingOvsBridgeClass
+from .SettingOvsDpdk import SettingOvsDpdk
+from .SettingOvsDpdkClass import SettingOvsDpdkClass
+from .SettingOvsInterface import SettingOvsInterface
+from .SettingOvsInterfaceClass import SettingOvsInterfaceClass
+from .SettingOvsPatch import SettingOvsPatch
+from .SettingOvsPatchClass import SettingOvsPatchClass
+from .SettingOvsPort import SettingOvsPort
+from .SettingOvsPortClass import SettingOvsPortClass
+from .SettingPpp import SettingPpp
+from .SettingPppClass import SettingPppClass
+from .SettingPppoe import SettingPppoe
+from .SettingPppoeClass import SettingPppoeClass
+from .SettingProxy import SettingProxy
+from .SettingProxyClass import SettingProxyClass
+from .SettingProxyMethod import SettingProxyMethod
+from .SettingsAddConnection2Flags import SettingsAddConnection2Flags
+from .SettingsConnectionFlags import SettingsConnectionFlags
+from .SettingSecretFlags import SettingSecretFlags
+from .SettingSerial import SettingSerial
+from .SettingSerialClass import SettingSerialClass
+from .SettingSerialParity import SettingSerialParity
+from .SettingsError import SettingsError
+from .SettingSriov import SettingSriov
+from .SettingSriovClass import SettingSriovClass
+from .SettingsUpdate2Flags import SettingsUpdate2Flags
+from .SettingTCConfig import SettingTCConfig
+from .SettingTCConfigClass import SettingTCConfigClass
+from .SettingTeam import SettingTeam
+from .SettingTeamClass import SettingTeamClass
+from .SettingTeamPort import SettingTeamPort
+from .SettingTeamPortClass import SettingTeamPortClass
+from .SettingTun import SettingTun
+from .SettingTunClass import SettingTunClass
+from .SettingTunMode import SettingTunMode
+from .SettingUser import SettingUser
+from .SettingUserClass import SettingUserClass
+from .SettingVlan import SettingVlan
+from .SettingVlanClass import SettingVlanClass
+from .SettingVpn import SettingVpn
+from .SettingVpnClass import SettingVpnClass
+from .SettingVxlan import SettingVxlan
+from .SettingVxlanClass import SettingVxlanClass
+from .SettingWifiP2P import SettingWifiP2P
+from .SettingWifiP2PClass import SettingWifiP2PClass
+from .SettingWimax import SettingWimax
+from .SettingWimaxClass import SettingWimaxClass
+from .SettingWired import SettingWired
+from .SettingWiredClass import SettingWiredClass
+from .SettingWiredWakeOnLan import SettingWiredWakeOnLan
+from .SettingWireGuard import SettingWireGuard
+from .SettingWireGuardClass import SettingWireGuardClass
+from .SettingWireless import SettingWireless
+from .SettingWirelessClass import SettingWirelessClass
+from .SettingWirelessPowersave import SettingWirelessPowersave
+from .SettingWirelessSecurity import SettingWirelessSecurity
+from .SettingWirelessSecurityClass import SettingWirelessSecurityClass
+from .SettingWirelessSecurityFils import SettingWirelessSecurityFils
+from .SettingWirelessSecurityPmf import SettingWirelessSecurityPmf
+from .SettingWirelessSecurityWpsMethod import SettingWirelessSecurityWpsMethod
+from .SettingWirelessWakeOnWLan import SettingWirelessWakeOnWLan
+from .SettingWpan import SettingWpan
+from .SettingWpanClass import SettingWpanClass
+from .SimpleConnection import SimpleConnection
+from .SimpleConnectionClass import SimpleConnectionClass
+from .SriovVF import SriovVF
+from .SriovVFVlanProtocol import SriovVFVlanProtocol
+from .State import State
+from .TCAction import TCAction
+from .TCQdisc import TCQdisc
+from .TCTfilter import TCTfilter
+from .TeamLinkWatcher import TeamLinkWatcher
+from .TeamLinkWatcherArpPingFlags import TeamLinkWatcherArpPingFlags
+from .Ternary import Ternary
+from .UtilsSecurityType import UtilsSecurityType
+from .VariantAttributeSpec import VariantAttributeSpec
+from .VlanFlags import VlanFlags
+from .VlanPriorityMap import VlanPriorityMap
+from .VpnConnection import VpnConnection
+from .VpnConnectionClass import VpnConnectionClass
+from .VpnConnectionState import VpnConnectionState
+from .VpnConnectionStateReason import VpnConnectionStateReason
+from .VpnEditor import VpnEditor
+from .VpnEditorInterface import VpnEditorInterface
+from .VpnEditorPlugin import VpnEditorPlugin
+from .VpnEditorPluginCapability import VpnEditorPluginCapability
+from .VpnEditorPluginInterface import VpnEditorPluginInterface
+from .VpnEditorPluginVT import VpnEditorPluginVT
+from .VpnPluginError import VpnPluginError
+from .VpnPluginFailure import VpnPluginFailure
+from .VpnPluginInfo import VpnPluginInfo
+from .VpnPluginInfoClass import VpnPluginInfoClass
+from .VpnPluginOld import VpnPluginOld
+from .VpnPluginOldClass import VpnPluginOldClass
+from .VpnServicePlugin import VpnServicePlugin
+from .VpnServicePluginClass import VpnServicePluginClass
+from .VpnServiceState import VpnServiceState
+from .WepKeyType import WepKeyType
+from .WifiP2PPeer import WifiP2PPeer
+from .WifiP2PPeerClass import WifiP2PPeerClass
+from .WimaxNsp import WimaxNsp
+from .WimaxNspClass import WimaxNspClass
+from .WimaxNspNetworkType import WimaxNspNetworkType
+from .WireGuardPeer import WireGuardPeer
+from .__class__ import __class__
+# variables with complex values
+
+__loader__ = None # (!) real value is '<gi.importer.DynamicImporter object at 0x7fb9b9baed00>'
+
+__path__ = [
+    '/usr/lib64/girepository-1.0/NM-1.0.typelib',
+]
+
+__spec__ = None # (!) real value is "ModuleSpec(name='gi.repository.NM', loader=<gi.importer.DynamicImporter object at 0x7fb9b9baed00>)"
+
