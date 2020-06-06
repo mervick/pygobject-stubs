@@ -55,3 +55,13 @@ when we run
 `PYTHONPATH=$HOME/Apps/pycharm-community/plugins/python-ce/helpers python3 -m generator3 -d /tmp/out -p gi.repository.Gtk /usr/lib64/girepository-1.0/Gtk-3.0.typelib`
 
 the JetBrains generator3 will generate stubs for `gi.repository.Gtk` package by parsing the G-IR binary database file `/usr/lib64/girepository-1.0/Gtk-3.0.typelib`
+
+
+## generate all stubs
+
+```bash
+for typelib in $(ls -1 /usr/lib64/girepository-1.0/); do
+        echo "generating ${typelib%-*}"
+        PYTHONPATH=$HOME/Apps/pycharm-community/plugins/python-ce/helpers python3 -m generator3 -d /tmp/out -p "gi.repository.${typelib%-*}" "/usr/lib64/girepository-1.0/${typelib}"
+done
+```
