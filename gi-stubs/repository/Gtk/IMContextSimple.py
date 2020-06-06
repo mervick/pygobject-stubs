@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -528,12 +528,12 @@ class IMContextSimple(__gi_overrides_Gtk.IMContext):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe830bb6c40>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc639bb8580>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(IMContextSimple), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkIMContextSimple (94846038504336)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add_compose_file': gi.FunctionInfo(add_compose_file), 'object': <property object at 0x7fe831036c20>, 'priv': <property object at 0x7fe831036d10>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(IMContextSimple), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkIMContextSimple (93897368718224)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add_compose_file': gi.FunctionInfo(add_compose_file), 'object': <property object at 0x7fc63a74ba40>, 'priv': <property object at 0x7fc63a74bb30>})"
     __gdoc__ = 'Object GtkIMContextSimple\n\nSignals from GtkIMContext:\n  preedit-changed ()\n  preedit-start ()\n  preedit-end ()\n  commit (gchararray)\n  retrieve-surrounding () -> gboolean\n  delete-surrounding (gint, gint) -> gboolean\n\nProperties from GtkIMContext:\n  input-purpose -> GtkInputPurpose: Purpose\n    Purpose of the text field\n  input-hints -> GtkInputHints: hints\n    Hints for the text field behaviour\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkIMContextSimple (94846038504336)>'
+    __gtype__ = None # (!) real value is '<GType GtkIMContextSimple (93897368718224)>'
     __info__ = ObjectInfo(IMContextSimple)
 
 

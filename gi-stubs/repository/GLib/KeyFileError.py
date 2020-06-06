@@ -363,7 +363,7 @@ class KeyFileError(__gobject.GEnum):
     PARSE = 1
     UNKNOWN_ENCODING = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'KeyFileError' objects>, '__doc__': None, '__gtype__': <GType PyGLibKeyFileError (94243598978352)>, '__enum_values__': {0: <enum G_KEY_FILE_ERROR_UNKNOWN_ENCODING of type GLib.KeyFileError>, 1: <enum G_KEY_FILE_ERROR_PARSE of type GLib.KeyFileError>, 2: <enum G_KEY_FILE_ERROR_NOT_FOUND of type GLib.KeyFileError>, 3: <enum G_KEY_FILE_ERROR_KEY_NOT_FOUND of type GLib.KeyFileError>, 4: <enum G_KEY_FILE_ERROR_GROUP_NOT_FOUND of type GLib.KeyFileError>, 5: <enum G_KEY_FILE_ERROR_INVALID_VALUE of type GLib.KeyFileError>}, '__info__': gi.EnumInfo(KeyFileError), 'UNKNOWN_ENCODING': <enum G_KEY_FILE_ERROR_UNKNOWN_ENCODING of type GLib.KeyFileError>, 'PARSE': <enum G_KEY_FILE_ERROR_PARSE of type GLib.KeyFileError>, 'NOT_FOUND': <enum G_KEY_FILE_ERROR_NOT_FOUND of type GLib.KeyFileError>, 'KEY_NOT_FOUND': <enum G_KEY_FILE_ERROR_KEY_NOT_FOUND of type GLib.KeyFileError>, 'GROUP_NOT_FOUND': <enum G_KEY_FILE_ERROR_GROUP_NOT_FOUND of type GLib.KeyFileError>, 'INVALID_VALUE': <enum G_KEY_FILE_ERROR_INVALID_VALUE of type GLib.KeyFileError>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'KeyFileError' objects>, '__doc__': None, '__gtype__': <GType PyGLibKeyFileError (94581033755424)>, '__enum_values__': {0: <enum G_KEY_FILE_ERROR_UNKNOWN_ENCODING of type GLib.KeyFileError>, 1: <enum G_KEY_FILE_ERROR_PARSE of type GLib.KeyFileError>, 2: <enum G_KEY_FILE_ERROR_NOT_FOUND of type GLib.KeyFileError>, 3: <enum G_KEY_FILE_ERROR_KEY_NOT_FOUND of type GLib.KeyFileError>, 4: <enum G_KEY_FILE_ERROR_GROUP_NOT_FOUND of type GLib.KeyFileError>, 5: <enum G_KEY_FILE_ERROR_INVALID_VALUE of type GLib.KeyFileError>}, '__info__': gi.EnumInfo(KeyFileError), 'UNKNOWN_ENCODING': <enum G_KEY_FILE_ERROR_UNKNOWN_ENCODING of type GLib.KeyFileError>, 'PARSE': <enum G_KEY_FILE_ERROR_PARSE of type GLib.KeyFileError>, 'NOT_FOUND': <enum G_KEY_FILE_ERROR_NOT_FOUND of type GLib.KeyFileError>, 'KEY_NOT_FOUND': <enum G_KEY_FILE_ERROR_KEY_NOT_FOUND of type GLib.KeyFileError>, 'GROUP_NOT_FOUND': <enum G_KEY_FILE_ERROR_GROUP_NOT_FOUND of type GLib.KeyFileError>, 'INVALID_VALUE': <enum G_KEY_FILE_ERROR_INVALID_VALUE of type GLib.KeyFileError>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -372,7 +372,7 @@ class KeyFileError(__gobject.GEnum):
         4: 4,
         5: 5,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibKeyFileError (94243598978352)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibKeyFileError (94581033755424)>'
     __info__ = gi.EnumInfo(KeyFileError)
 
 

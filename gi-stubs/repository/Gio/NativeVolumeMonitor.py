@@ -503,12 +503,12 @@ class NativeVolumeMonitor(__gi_overrides_Gio.VolumeMonitor):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd088400>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87334700>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(NativeVolumeMonitor), '__module__': 'gi.repository.Gio', '__gtype__': <GType GNativeVolumeMonitor (94125582437824)>, '__doc__': None, '__gsignals__': {}, 'parent_instance': <property object at 0x7f28ddeb3d10>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(NativeVolumeMonitor), '__module__': 'gi.repository.Gio', '__gtype__': <GType GNativeVolumeMonitor (94269257194352)>, '__doc__': None, '__gsignals__': {}, 'parent_instance': <property object at 0x7f4b88015ea0>})"
     __gdoc__ = 'Object GNativeVolumeMonitor\n\nSignals from GVolumeMonitor:\n  volume-added (GVolume)\n  volume-removed (GVolume)\n  volume-changed (GVolume)\n  mount-added (GMount)\n  mount-removed (GMount)\n  mount-pre-unmount (GMount)\n  mount-changed (GMount)\n  drive-connected (GDrive)\n  drive-disconnected (GDrive)\n  drive-changed (GDrive)\n  drive-eject-button (GDrive)\n  drive-stop-button (GDrive)\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GNativeVolumeMonitor (94125582437824)>'
+    __gtype__ = None # (!) real value is '<GType GNativeVolumeMonitor (94269257194352)>'
     __info__ = ObjectInfo(NativeVolumeMonitor)
 
 

@@ -128,7 +128,7 @@ class UnixCredentialsMessageClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(UnixCredentialsMessageClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'UnixCredentialsMessageClass' objects>, '__weakref__': <attribute '__weakref__' of 'UnixCredentialsMessageClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28dd603130>, '_g_reserved1': <property object at 0x7f28dd603220>, '_g_reserved2': <property object at 0x7f28dd603310>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(UnixCredentialsMessageClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'UnixCredentialsMessageClass' objects>, '__weakref__': <attribute '__weakref__' of 'UnixCredentialsMessageClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b87766400>, '_g_reserved1': <property object at 0x7f4b877664f0>, '_g_reserved2': <property object at 0x7f4b877665e0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(UnixCredentialsMessageClass)
 

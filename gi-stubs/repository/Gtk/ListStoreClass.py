@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -135,7 +135,7 @@ class ListStoreClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ListStoreClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ListStoreClass' objects>, '__weakref__': <attribute '__weakref__' of 'ListStoreClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830fe13b0>, '_gtk_reserved1': <property object at 0x7fe830fe14a0>, '_gtk_reserved2': <property object at 0x7fe830fe1590>, '_gtk_reserved3': <property object at 0x7fe830fe1680>, '_gtk_reserved4': <property object at 0x7fe830fe1770>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ListStoreClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ListStoreClass' objects>, '__weakref__': <attribute '__weakref__' of 'ListStoreClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a6f7400>, '_gtk_reserved1': <property object at 0x7fc63a6f74f0>, '_gtk_reserved2': <property object at 0x7fc63a6f75e0>, '_gtk_reserved3': <property object at 0x7fc63a6f76d0>, '_gtk_reserved4': <property object at 0x7fc63a6f77c0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ListStoreClass)
 

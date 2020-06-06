@@ -365,14 +365,14 @@ class IOStreamSpliceFlags(__gobject.GFlags):
     NONE = 0
     WAIT_FOR_BOTH = 4
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'IOStreamSpliceFlags' objects>, '__doc__': None, '__gtype__': <GType GIOStreamSpliceFlags (94125582437616)>, '__flags_values__': {0: <flags 0 of type Gio.IOStreamSpliceFlags>, 1: <flags G_IO_STREAM_SPLICE_CLOSE_STREAM1 of type Gio.IOStreamSpliceFlags>, 2: <flags G_IO_STREAM_SPLICE_CLOSE_STREAM2 of type Gio.IOStreamSpliceFlags>, 4: <flags G_IO_STREAM_SPLICE_WAIT_FOR_BOTH of type Gio.IOStreamSpliceFlags>}, '__info__': gi.EnumInfo(IOStreamSpliceFlags), 'NONE': <flags 0 of type Gio.IOStreamSpliceFlags>, 'CLOSE_STREAM1': <flags G_IO_STREAM_SPLICE_CLOSE_STREAM1 of type Gio.IOStreamSpliceFlags>, 'CLOSE_STREAM2': <flags G_IO_STREAM_SPLICE_CLOSE_STREAM2 of type Gio.IOStreamSpliceFlags>, 'WAIT_FOR_BOTH': <flags G_IO_STREAM_SPLICE_WAIT_FOR_BOTH of type Gio.IOStreamSpliceFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'IOStreamSpliceFlags' objects>, '__doc__': None, '__gtype__': <GType GIOStreamSpliceFlags (94269257031168)>, '__flags_values__': {0: <flags 0 of type Gio.IOStreamSpliceFlags>, 1: <flags G_IO_STREAM_SPLICE_CLOSE_STREAM1 of type Gio.IOStreamSpliceFlags>, 2: <flags G_IO_STREAM_SPLICE_CLOSE_STREAM2 of type Gio.IOStreamSpliceFlags>, 4: <flags G_IO_STREAM_SPLICE_WAIT_FOR_BOTH of type Gio.IOStreamSpliceFlags>}, '__info__': gi.EnumInfo(IOStreamSpliceFlags), 'NONE': <flags 0 of type Gio.IOStreamSpliceFlags>, 'CLOSE_STREAM1': <flags G_IO_STREAM_SPLICE_CLOSE_STREAM1 of type Gio.IOStreamSpliceFlags>, 'CLOSE_STREAM2': <flags G_IO_STREAM_SPLICE_CLOSE_STREAM2 of type Gio.IOStreamSpliceFlags>, 'WAIT_FOR_BOTH': <flags G_IO_STREAM_SPLICE_WAIT_FOR_BOTH of type Gio.IOStreamSpliceFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
         2: 2,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType GIOStreamSpliceFlags (94125582437616)>'
+    __gtype__ = None # (!) real value is '<GType GIOStreamSpliceFlags (94269257031168)>'
     __info__ = gi.EnumInfo(IOStreamSpliceFlags)
 
 

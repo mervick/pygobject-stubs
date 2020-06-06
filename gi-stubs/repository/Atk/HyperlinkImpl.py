@@ -123,10 +123,10 @@ class HyperlinkImpl(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(HyperlinkImpl), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkHyperlinkImpl (93922953716016)>, '__dict__': <attribute '__dict__' of 'HyperlinkImpl' objects>, '__weakref__': <attribute '__weakref__' of 'HyperlinkImpl' objects>, '__doc__': None, '__gsignals__': {}, 'get_hyperlink': gi.FunctionInfo(get_hyperlink)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(HyperlinkImpl), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkHyperlinkImpl (94258338055984)>, '__dict__': <attribute '__dict__' of 'HyperlinkImpl' objects>, '__weakref__': <attribute '__weakref__' of 'HyperlinkImpl' objects>, '__doc__': None, '__gsignals__': {}, 'get_hyperlink': gi.FunctionInfo(get_hyperlink)})"
     __gdoc__ = 'Interface AtkHyperlinkImpl\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType AtkHyperlinkImpl (93922953716016)>'
+    __gtype__ = None # (!) real value is '<GType AtkHyperlinkImpl (94258338055984)>'
     __info__ = InterfaceInfo(HyperlinkImpl)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,14 +363,14 @@ class MenuDirectionType(__gobject.GEnum):
     PARENT = 0
     PREV = 3
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'MenuDirectionType' objects>, '__doc__': None, '__gtype__': <GType GtkMenuDirectionType (94846037242320)>, '__enum_values__': {0: <enum GTK_MENU_DIR_PARENT of type Gtk.MenuDirectionType>, 1: <enum GTK_MENU_DIR_CHILD of type Gtk.MenuDirectionType>, 2: <enum GTK_MENU_DIR_NEXT of type Gtk.MenuDirectionType>, 3: <enum GTK_MENU_DIR_PREV of type Gtk.MenuDirectionType>}, '__info__': gi.EnumInfo(MenuDirectionType), 'PARENT': <enum GTK_MENU_DIR_PARENT of type Gtk.MenuDirectionType>, 'CHILD': <enum GTK_MENU_DIR_CHILD of type Gtk.MenuDirectionType>, 'NEXT': <enum GTK_MENU_DIR_NEXT of type Gtk.MenuDirectionType>, 'PREV': <enum GTK_MENU_DIR_PREV of type Gtk.MenuDirectionType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'MenuDirectionType' objects>, '__doc__': None, '__gtype__': <GType GtkMenuDirectionType (93897367457328)>, '__enum_values__': {0: <enum GTK_MENU_DIR_PARENT of type Gtk.MenuDirectionType>, 1: <enum GTK_MENU_DIR_CHILD of type Gtk.MenuDirectionType>, 2: <enum GTK_MENU_DIR_NEXT of type Gtk.MenuDirectionType>, 3: <enum GTK_MENU_DIR_PREV of type Gtk.MenuDirectionType>}, '__info__': gi.EnumInfo(MenuDirectionType), 'PARENT': <enum GTK_MENU_DIR_PARENT of type Gtk.MenuDirectionType>, 'CHILD': <enum GTK_MENU_DIR_CHILD of type Gtk.MenuDirectionType>, 'NEXT': <enum GTK_MENU_DIR_NEXT of type Gtk.MenuDirectionType>, 'PREV': <enum GTK_MENU_DIR_PREV of type Gtk.MenuDirectionType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkMenuDirectionType (94846037242320)>'
+    __gtype__ = None # (!) real value is '<GType GtkMenuDirectionType (93897367457328)>'
     __info__ = gi.EnumInfo(MenuDirectionType)
 
 

@@ -365,7 +365,7 @@ class DateWeekday(__gobject.GEnum):
     TUESDAY = 2
     WEDNESDAY = 3
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'DateWeekday' objects>, '__doc__': None, '__gtype__': <GType PyGLibDateWeekday (94243598438912)>, '__enum_values__': {0: <enum G_DATE_BAD_WEEKDAY of type GLib.DateWeekday>, 1: <enum G_DATE_MONDAY of type GLib.DateWeekday>, 2: <enum G_DATE_TUESDAY of type GLib.DateWeekday>, 3: <enum G_DATE_WEDNESDAY of type GLib.DateWeekday>, 4: <enum G_DATE_THURSDAY of type GLib.DateWeekday>, 5: <enum G_DATE_FRIDAY of type GLib.DateWeekday>, 6: <enum G_DATE_SATURDAY of type GLib.DateWeekday>, 7: <enum G_DATE_SUNDAY of type GLib.DateWeekday>}, '__info__': gi.EnumInfo(DateWeekday), 'BAD_WEEKDAY': <enum G_DATE_BAD_WEEKDAY of type GLib.DateWeekday>, 'MONDAY': <enum G_DATE_MONDAY of type GLib.DateWeekday>, 'TUESDAY': <enum G_DATE_TUESDAY of type GLib.DateWeekday>, 'WEDNESDAY': <enum G_DATE_WEDNESDAY of type GLib.DateWeekday>, 'THURSDAY': <enum G_DATE_THURSDAY of type GLib.DateWeekday>, 'FRIDAY': <enum G_DATE_FRIDAY of type GLib.DateWeekday>, 'SATURDAY': <enum G_DATE_SATURDAY of type GLib.DateWeekday>, 'SUNDAY': <enum G_DATE_SUNDAY of type GLib.DateWeekday>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'DateWeekday' objects>, '__doc__': None, '__gtype__': <GType PyGLibDateWeekday (94581033502160)>, '__enum_values__': {0: <enum G_DATE_BAD_WEEKDAY of type GLib.DateWeekday>, 1: <enum G_DATE_MONDAY of type GLib.DateWeekday>, 2: <enum G_DATE_TUESDAY of type GLib.DateWeekday>, 3: <enum G_DATE_WEDNESDAY of type GLib.DateWeekday>, 4: <enum G_DATE_THURSDAY of type GLib.DateWeekday>, 5: <enum G_DATE_FRIDAY of type GLib.DateWeekday>, 6: <enum G_DATE_SATURDAY of type GLib.DateWeekday>, 7: <enum G_DATE_SUNDAY of type GLib.DateWeekday>}, '__info__': gi.EnumInfo(DateWeekday), 'BAD_WEEKDAY': <enum G_DATE_BAD_WEEKDAY of type GLib.DateWeekday>, 'MONDAY': <enum G_DATE_MONDAY of type GLib.DateWeekday>, 'TUESDAY': <enum G_DATE_TUESDAY of type GLib.DateWeekday>, 'WEDNESDAY': <enum G_DATE_WEDNESDAY of type GLib.DateWeekday>, 'THURSDAY': <enum G_DATE_THURSDAY of type GLib.DateWeekday>, 'FRIDAY': <enum G_DATE_FRIDAY of type GLib.DateWeekday>, 'SATURDAY': <enum G_DATE_SATURDAY of type GLib.DateWeekday>, 'SUNDAY': <enum G_DATE_SUNDAY of type GLib.DateWeekday>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -376,7 +376,7 @@ class DateWeekday(__gobject.GEnum):
         6: 6,
         7: 7,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibDateWeekday (94243598438912)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibDateWeekday (94581033502160)>'
     __info__ = gi.EnumInfo(DateWeekday)
 
 

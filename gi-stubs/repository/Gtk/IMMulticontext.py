@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -536,12 +536,12 @@ class IMMulticontext(__gi_overrides_Gtk.IMContext):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe830e38040>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc63925e100>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(IMMulticontext), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkIMMulticontext (94846038513504)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'append_menuitems': gi.FunctionInfo(append_menuitems), 'get_context_id': gi.FunctionInfo(get_context_id), 'set_context_id': gi.FunctionInfo(set_context_id), 'object': <property object at 0x7fe831037220>, 'priv': <property object at 0x7fe831037310>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(IMMulticontext), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkIMMulticontext (93897368727392)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'append_menuitems': gi.FunctionInfo(append_menuitems), 'get_context_id': gi.FunctionInfo(get_context_id), 'set_context_id': gi.FunctionInfo(set_context_id), 'object': <property object at 0x7fc63a74f040>, 'priv': <property object at 0x7fc63a74f130>})"
     __gdoc__ = 'Object GtkIMMulticontext\n\nSignals from GtkIMContext:\n  preedit-changed ()\n  preedit-start ()\n  preedit-end ()\n  commit (gchararray)\n  retrieve-surrounding () -> gboolean\n  delete-surrounding (gint, gint) -> gboolean\n\nProperties from GtkIMContext:\n  input-purpose -> GtkInputPurpose: Purpose\n    Purpose of the text field\n  input-hints -> GtkInputHints: hints\n    Hints for the text field behaviour\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkIMMulticontext (94846038513504)>'
+    __gtype__ = None # (!) real value is '<GType GtkIMMulticontext (93897368727392)>'
     __info__ = ObjectInfo(IMMulticontext)
 
 

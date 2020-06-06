@@ -359,13 +359,13 @@ class TlsRehandshakeMode(__gobject.GEnum):
     SAFELY = 1
     UNSAFELY = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'TlsRehandshakeMode' objects>, '__doc__': None, '__gtype__': <GType GTlsRehandshakeMode (94125582907184)>, '__enum_values__': {0: <enum G_TLS_REHANDSHAKE_NEVER of type Gio.TlsRehandshakeMode>, 1: <enum G_TLS_REHANDSHAKE_SAFELY of type Gio.TlsRehandshakeMode>, 2: <enum G_TLS_REHANDSHAKE_UNSAFELY of type Gio.TlsRehandshakeMode>}, '__info__': gi.EnumInfo(TlsRehandshakeMode), 'NEVER': <enum G_TLS_REHANDSHAKE_NEVER of type Gio.TlsRehandshakeMode>, 'SAFELY': <enum G_TLS_REHANDSHAKE_SAFELY of type Gio.TlsRehandshakeMode>, 'UNSAFELY': <enum G_TLS_REHANDSHAKE_UNSAFELY of type Gio.TlsRehandshakeMode>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'TlsRehandshakeMode' objects>, '__doc__': None, '__gtype__': <GType GTlsRehandshakeMode (94269257515168)>, '__enum_values__': {0: <enum G_TLS_REHANDSHAKE_NEVER of type Gio.TlsRehandshakeMode>, 1: <enum G_TLS_REHANDSHAKE_SAFELY of type Gio.TlsRehandshakeMode>, 2: <enum G_TLS_REHANDSHAKE_UNSAFELY of type Gio.TlsRehandshakeMode>}, '__info__': gi.EnumInfo(TlsRehandshakeMode), 'NEVER': <enum G_TLS_REHANDSHAKE_NEVER of type Gio.TlsRehandshakeMode>, 'SAFELY': <enum G_TLS_REHANDSHAKE_SAFELY of type Gio.TlsRehandshakeMode>, 'UNSAFELY': <enum G_TLS_REHANDSHAKE_UNSAFELY of type Gio.TlsRehandshakeMode>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GTlsRehandshakeMode (94125582907184)>'
+    __gtype__ = None # (!) real value is '<GType GTlsRehandshakeMode (94269257515168)>'
     __info__ = gi.EnumInfo(TlsRehandshakeMode)
 
 

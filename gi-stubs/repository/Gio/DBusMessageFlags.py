@@ -365,14 +365,14 @@ class DBusMessageFlags(__gobject.GFlags):
     NO_AUTO_START = 2
     NO_REPLY_EXPECTED = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusMessageFlags' objects>, '__doc__': None, '__gtype__': <GType GDBusMessageFlags (94125581712816)>, '__flags_values__': {0: <flags 0 of type Gio.DBusMessageFlags>, 1: <flags G_DBUS_MESSAGE_FLAGS_NO_REPLY_EXPECTED of type Gio.DBusMessageFlags>, 2: <flags G_DBUS_MESSAGE_FLAGS_NO_AUTO_START of type Gio.DBusMessageFlags>, 4: <flags G_DBUS_MESSAGE_FLAGS_ALLOW_INTERACTIVE_AUTHORIZATION of type Gio.DBusMessageFlags>}, '__info__': gi.EnumInfo(DBusMessageFlags), 'NONE': <flags 0 of type Gio.DBusMessageFlags>, 'NO_REPLY_EXPECTED': <flags G_DBUS_MESSAGE_FLAGS_NO_REPLY_EXPECTED of type Gio.DBusMessageFlags>, 'NO_AUTO_START': <flags G_DBUS_MESSAGE_FLAGS_NO_AUTO_START of type Gio.DBusMessageFlags>, 'ALLOW_INTERACTIVE_AUTHORIZATION': <flags G_DBUS_MESSAGE_FLAGS_ALLOW_INTERACTIVE_AUTHORIZATION of type Gio.DBusMessageFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusMessageFlags' objects>, '__doc__': None, '__gtype__': <GType GDBusMessageFlags (94269256753312)>, '__flags_values__': {0: <flags 0 of type Gio.DBusMessageFlags>, 1: <flags G_DBUS_MESSAGE_FLAGS_NO_REPLY_EXPECTED of type Gio.DBusMessageFlags>, 2: <flags G_DBUS_MESSAGE_FLAGS_NO_AUTO_START of type Gio.DBusMessageFlags>, 4: <flags G_DBUS_MESSAGE_FLAGS_ALLOW_INTERACTIVE_AUTHORIZATION of type Gio.DBusMessageFlags>}, '__info__': gi.EnumInfo(DBusMessageFlags), 'NONE': <flags 0 of type Gio.DBusMessageFlags>, 'NO_REPLY_EXPECTED': <flags G_DBUS_MESSAGE_FLAGS_NO_REPLY_EXPECTED of type Gio.DBusMessageFlags>, 'NO_AUTO_START': <flags G_DBUS_MESSAGE_FLAGS_NO_AUTO_START of type Gio.DBusMessageFlags>, 'ALLOW_INTERACTIVE_AUTHORIZATION': <flags G_DBUS_MESSAGE_FLAGS_ALLOW_INTERACTIVE_AUTHORIZATION of type Gio.DBusMessageFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
         2: 2,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType GDBusMessageFlags (94125581712816)>'
+    __gtype__ = None # (!) real value is '<GType GDBusMessageFlags (94269256753312)>'
     __info__ = gi.EnumInfo(DBusMessageFlags)
 
 

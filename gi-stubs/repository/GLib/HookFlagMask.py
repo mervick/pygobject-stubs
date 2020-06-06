@@ -365,13 +365,13 @@ class HookFlagMask(__gobject.GFlags):
     IN_CALL = 2
     MASK = 15
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'HookFlagMask' objects>, '__doc__': None, '__gtype__': <GType PyGLibHookFlagMask (94243598965808)>, '__flags_values__': {1: <flags G_HOOK_FLAG_ACTIVE of type GLib.HookFlagMask>, 2: <flags G_HOOK_FLAG_IN_CALL of type GLib.HookFlagMask>, 15: <flags G_HOOK_FLAG_ACTIVE | G_HOOK_FLAG_IN_CALL | G_HOOK_FLAG_MASK of type GLib.HookFlagMask>}, '__info__': gi.EnumInfo(HookFlagMask), 'ACTIVE': <flags G_HOOK_FLAG_ACTIVE of type GLib.HookFlagMask>, 'IN_CALL': <flags G_HOOK_FLAG_IN_CALL of type GLib.HookFlagMask>, 'MASK': <flags G_HOOK_FLAG_ACTIVE | G_HOOK_FLAG_IN_CALL | G_HOOK_FLAG_MASK of type GLib.HookFlagMask>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'HookFlagMask' objects>, '__doc__': None, '__gtype__': <GType PyGLibHookFlagMask (94581033742672)>, '__flags_values__': {1: <flags G_HOOK_FLAG_ACTIVE of type GLib.HookFlagMask>, 2: <flags G_HOOK_FLAG_IN_CALL of type GLib.HookFlagMask>, 15: <flags G_HOOK_FLAG_ACTIVE | G_HOOK_FLAG_IN_CALL | G_HOOK_FLAG_MASK of type GLib.HookFlagMask>}, '__info__': gi.EnumInfo(HookFlagMask), 'ACTIVE': <flags G_HOOK_FLAG_ACTIVE of type GLib.HookFlagMask>, 'IN_CALL': <flags G_HOOK_FLAG_IN_CALL of type GLib.HookFlagMask>, 'MASK': <flags G_HOOK_FLAG_ACTIVE | G_HOOK_FLAG_IN_CALL | G_HOOK_FLAG_MASK of type GLib.HookFlagMask>})"
     __flags_values__ = {
         1: 1,
         2: 2,
         15: 15,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibHookFlagMask (94243598965808)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibHookFlagMask (94581033742672)>'
     __info__ = gi.EnumInfo(HookFlagMask)
 
 

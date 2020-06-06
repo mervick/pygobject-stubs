@@ -362,7 +362,7 @@ class CredentialsType(__gobject.GEnum):
     OPENBSD_SOCKPEERCRED = 3
     SOLARIS_UCRED = 4
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'CredentialsType' objects>, '__doc__': None, '__gtype__': <GType GCredentialsType (94125582087472)>, '__enum_values__': {0: <enum G_CREDENTIALS_TYPE_INVALID of type Gio.CredentialsType>, 1: <enum G_CREDENTIALS_TYPE_LINUX_UCRED of type Gio.CredentialsType>, 2: <enum G_CREDENTIALS_TYPE_FREEBSD_CMSGCRED of type Gio.CredentialsType>, 3: <enum G_CREDENTIALS_TYPE_OPENBSD_SOCKPEERCRED of type Gio.CredentialsType>, 4: <enum G_CREDENTIALS_TYPE_SOLARIS_UCRED of type Gio.CredentialsType>, 5: <enum G_CREDENTIALS_TYPE_NETBSD_UNPCBID of type Gio.CredentialsType>}, '__info__': gi.EnumInfo(CredentialsType), 'INVALID': <enum G_CREDENTIALS_TYPE_INVALID of type Gio.CredentialsType>, 'LINUX_UCRED': <enum G_CREDENTIALS_TYPE_LINUX_UCRED of type Gio.CredentialsType>, 'FREEBSD_CMSGCRED': <enum G_CREDENTIALS_TYPE_FREEBSD_CMSGCRED of type Gio.CredentialsType>, 'OPENBSD_SOCKPEERCRED': <enum G_CREDENTIALS_TYPE_OPENBSD_SOCKPEERCRED of type Gio.CredentialsType>, 'SOLARIS_UCRED': <enum G_CREDENTIALS_TYPE_SOLARIS_UCRED of type Gio.CredentialsType>, 'NETBSD_UNPCBID': <enum G_CREDENTIALS_TYPE_NETBSD_UNPCBID of type Gio.CredentialsType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'CredentialsType' objects>, '__doc__': None, '__gtype__': <GType GCredentialsType (94269256713696)>, '__enum_values__': {0: <enum G_CREDENTIALS_TYPE_INVALID of type Gio.CredentialsType>, 1: <enum G_CREDENTIALS_TYPE_LINUX_UCRED of type Gio.CredentialsType>, 2: <enum G_CREDENTIALS_TYPE_FREEBSD_CMSGCRED of type Gio.CredentialsType>, 3: <enum G_CREDENTIALS_TYPE_OPENBSD_SOCKPEERCRED of type Gio.CredentialsType>, 4: <enum G_CREDENTIALS_TYPE_SOLARIS_UCRED of type Gio.CredentialsType>, 5: <enum G_CREDENTIALS_TYPE_NETBSD_UNPCBID of type Gio.CredentialsType>}, '__info__': gi.EnumInfo(CredentialsType), 'INVALID': <enum G_CREDENTIALS_TYPE_INVALID of type Gio.CredentialsType>, 'LINUX_UCRED': <enum G_CREDENTIALS_TYPE_LINUX_UCRED of type Gio.CredentialsType>, 'FREEBSD_CMSGCRED': <enum G_CREDENTIALS_TYPE_FREEBSD_CMSGCRED of type Gio.CredentialsType>, 'OPENBSD_SOCKPEERCRED': <enum G_CREDENTIALS_TYPE_OPENBSD_SOCKPEERCRED of type Gio.CredentialsType>, 'SOLARIS_UCRED': <enum G_CREDENTIALS_TYPE_SOLARIS_UCRED of type Gio.CredentialsType>, 'NETBSD_UNPCBID': <enum G_CREDENTIALS_TYPE_NETBSD_UNPCBID of type Gio.CredentialsType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -371,7 +371,7 @@ class CredentialsType(__gobject.GEnum):
         4: 4,
         5: 5,
     }
-    __gtype__ = None # (!) real value is '<GType GCredentialsType (94125582087472)>'
+    __gtype__ = None # (!) real value is '<GType GCredentialsType (94269256713696)>'
     __info__ = gi.EnumInfo(CredentialsType)
 
 

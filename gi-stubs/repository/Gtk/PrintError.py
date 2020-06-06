@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -367,14 +367,14 @@ class PrintError(__gobject.GEnum):
     INVALID_FILE = 3
     NOMEM = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PrintError' objects>, '__doc__': None, '__gtype__': <GType GtkPrintError (94846038875904)>, '__enum_values__': {0: <enum GTK_PRINT_ERROR_GENERAL of type Gtk.PrintError>, 1: <enum GTK_PRINT_ERROR_INTERNAL_ERROR of type Gtk.PrintError>, 2: <enum GTK_PRINT_ERROR_NOMEM of type Gtk.PrintError>, 3: <enum GTK_PRINT_ERROR_INVALID_FILE of type Gtk.PrintError>}, '__info__': gi.EnumInfo(PrintError), 'GENERAL': <enum GTK_PRINT_ERROR_GENERAL of type Gtk.PrintError>, 'INTERNAL_ERROR': <enum GTK_PRINT_ERROR_INTERNAL_ERROR of type Gtk.PrintError>, 'NOMEM': <enum GTK_PRINT_ERROR_NOMEM of type Gtk.PrintError>, 'INVALID_FILE': <enum GTK_PRINT_ERROR_INVALID_FILE of type Gtk.PrintError>, 'quark': gi.FunctionInfo(quark)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PrintError' objects>, '__doc__': None, '__gtype__': <GType GtkPrintError (93897369095792)>, '__enum_values__': {0: <enum GTK_PRINT_ERROR_GENERAL of type Gtk.PrintError>, 1: <enum GTK_PRINT_ERROR_INTERNAL_ERROR of type Gtk.PrintError>, 2: <enum GTK_PRINT_ERROR_NOMEM of type Gtk.PrintError>, 3: <enum GTK_PRINT_ERROR_INVALID_FILE of type Gtk.PrintError>}, '__info__': gi.EnumInfo(PrintError), 'GENERAL': <enum GTK_PRINT_ERROR_GENERAL of type Gtk.PrintError>, 'INTERNAL_ERROR': <enum GTK_PRINT_ERROR_INTERNAL_ERROR of type Gtk.PrintError>, 'NOMEM': <enum GTK_PRINT_ERROR_NOMEM of type Gtk.PrintError>, 'INVALID_FILE': <enum GTK_PRINT_ERROR_INVALID_FILE of type Gtk.PrintError>, 'quark': gi.FunctionInfo(quark)})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkPrintError (94846038875904)>'
+    __gtype__ = None # (!) real value is '<GType GtkPrintError (93897369095792)>'
     __info__ = gi.EnumInfo(PrintError)
 
 

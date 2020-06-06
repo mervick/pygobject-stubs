@@ -163,10 +163,10 @@ class ActionMap(ActionMap):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gio', 'add_action_entries': <function ActionMap.add_action_entries at 0x7f28de00c820>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gio', 'add_action_entries': <function ActionMap.add_action_entries at 0x7f4b88181040>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Interface GActionMap\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GActionMap (94125581406528)>'
+    __gtype__ = None # (!) real value is '<GType GActionMap (94269255985440)>'
     __info__ = InterfaceInfo(ActionMap)
 
 

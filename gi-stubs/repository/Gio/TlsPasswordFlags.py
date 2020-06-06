@@ -365,14 +365,14 @@ class TlsPasswordFlags(__gobject.GFlags):
     NONE = 0
     RETRY = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'TlsPasswordFlags' objects>, '__doc__': None, '__gtype__': <GType GTlsPasswordFlags (94125582916304)>, '__flags_values__': {0: <flags 0 of type Gio.TlsPasswordFlags>, 2: <flags G_TLS_PASSWORD_RETRY of type Gio.TlsPasswordFlags>, 4: <flags G_TLS_PASSWORD_MANY_TRIES of type Gio.TlsPasswordFlags>, 8: <flags G_TLS_PASSWORD_FINAL_TRY of type Gio.TlsPasswordFlags>}, '__info__': gi.EnumInfo(TlsPasswordFlags), 'NONE': <flags 0 of type Gio.TlsPasswordFlags>, 'RETRY': <flags G_TLS_PASSWORD_RETRY of type Gio.TlsPasswordFlags>, 'MANY_TRIES': <flags G_TLS_PASSWORD_MANY_TRIES of type Gio.TlsPasswordFlags>, 'FINAL_TRY': <flags G_TLS_PASSWORD_FINAL_TRY of type Gio.TlsPasswordFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'TlsPasswordFlags' objects>, '__doc__': None, '__gtype__': <GType GTlsPasswordFlags (94269257544464)>, '__flags_values__': {0: <flags 0 of type Gio.TlsPasswordFlags>, 2: <flags G_TLS_PASSWORD_RETRY of type Gio.TlsPasswordFlags>, 4: <flags G_TLS_PASSWORD_MANY_TRIES of type Gio.TlsPasswordFlags>, 8: <flags G_TLS_PASSWORD_FINAL_TRY of type Gio.TlsPasswordFlags>}, '__info__': gi.EnumInfo(TlsPasswordFlags), 'NONE': <flags 0 of type Gio.TlsPasswordFlags>, 'RETRY': <flags G_TLS_PASSWORD_RETRY of type Gio.TlsPasswordFlags>, 'MANY_TRIES': <flags G_TLS_PASSWORD_MANY_TRIES of type Gio.TlsPasswordFlags>, 'FINAL_TRY': <flags G_TLS_PASSWORD_FINAL_TRY of type Gio.TlsPasswordFlags>})"
     __flags_values__ = {
         0: 0,
         2: 2,
         4: 4,
         8: 8,
     }
-    __gtype__ = None # (!) real value is '<GType GTlsPasswordFlags (94125582916304)>'
+    __gtype__ = None # (!) real value is '<GType GTlsPasswordFlags (94269257544464)>'
     __info__ = gi.EnumInfo(TlsPasswordFlags)
 
 

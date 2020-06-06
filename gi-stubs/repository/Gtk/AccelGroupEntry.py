@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -131,7 +131,7 @@ class AccelGroupEntry(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AccelGroupEntry), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AccelGroupEntry' objects>, '__weakref__': <attribute '__weakref__' of 'AccelGroupEntry' objects>, '__doc__': None, 'key': <property object at 0x7fe8310e4040>, 'closure': <property object at 0x7fe8310e4130>, 'accel_path_quark': <property object at 0x7fe8310e4270>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AccelGroupEntry), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AccelGroupEntry' objects>, '__weakref__': <attribute '__weakref__' of 'AccelGroupEntry' objects>, '__doc__': None, 'key': <property object at 0x7fc63a7f8ea0>, 'closure': <property object at 0x7fc63a7f8f90>, 'accel_path_quark': <property object at 0x7fc63a7fb130>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(AccelGroupEntry)
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -449,12 +449,12 @@ class PrintContext(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe82fb4e070>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc6394a8a90>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(PrintContext), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkPrintContext (94846038891344)>, '__doc__': None, '__gsignals__': {}, 'create_pango_context': gi.FunctionInfo(create_pango_context), 'create_pango_layout': gi.FunctionInfo(create_pango_layout), 'get_cairo_context': gi.FunctionInfo(get_cairo_context), 'get_dpi_x': gi.FunctionInfo(get_dpi_x), 'get_dpi_y': gi.FunctionInfo(get_dpi_y), 'get_hard_margins': gi.FunctionInfo(get_hard_margins), 'get_height': gi.FunctionInfo(get_height), 'get_page_setup': gi.FunctionInfo(get_page_setup), 'get_pango_fontmap': gi.FunctionInfo(get_pango_fontmap), 'get_width': gi.FunctionInfo(get_width), 'set_cairo_context': gi.FunctionInfo(set_cairo_context)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(PrintContext), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkPrintContext (93897369095504)>, '__doc__': None, '__gsignals__': {}, 'create_pango_context': gi.FunctionInfo(create_pango_context), 'create_pango_layout': gi.FunctionInfo(create_pango_layout), 'get_cairo_context': gi.FunctionInfo(get_cairo_context), 'get_dpi_x': gi.FunctionInfo(get_dpi_x), 'get_dpi_y': gi.FunctionInfo(get_dpi_y), 'get_hard_margins': gi.FunctionInfo(get_hard_margins), 'get_height': gi.FunctionInfo(get_height), 'get_page_setup': gi.FunctionInfo(get_page_setup), 'get_pango_fontmap': gi.FunctionInfo(get_pango_fontmap), 'get_width': gi.FunctionInfo(get_width), 'set_cairo_context': gi.FunctionInfo(set_cairo_context)})"
     __gdoc__ = 'Object GtkPrintContext\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkPrintContext (94846038891344)>'
+    __gtype__ = None # (!) real value is '<GType GtkPrintContext (93897369095504)>'
     __info__ = ObjectInfo(PrintContext)
 
 

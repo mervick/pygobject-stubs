@@ -126,7 +126,7 @@ class TlsFileDatabaseInterface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TlsFileDatabaseInterface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TlsFileDatabaseInterface' objects>, '__weakref__': <attribute '__weakref__' of 'TlsFileDatabaseInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f28dde7cf90>, 'padding': <property object at 0x7f28dd5fd0e0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TlsFileDatabaseInterface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TlsFileDatabaseInterface' objects>, '__weakref__': <attribute '__weakref__' of 'TlsFileDatabaseInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f4b8775f130>, 'padding': <property object at 0x7f4b8775f220>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TlsFileDatabaseInterface)
 

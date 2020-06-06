@@ -143,10 +143,10 @@ class NetworkMonitor(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(NetworkMonitor), '__module__': 'gi.repository.Gio', '__gtype__': <GType GNetworkMonitor (94125582582368)>, '__dict__': <attribute '__dict__' of 'NetworkMonitor' objects>, '__weakref__': <attribute '__weakref__' of 'NetworkMonitor' objects>, '__doc__': None, '__gsignals__': {}, 'get_default': gi.FunctionInfo(get_default), 'can_reach': gi.FunctionInfo(can_reach), 'can_reach_async': gi.FunctionInfo(can_reach_async), 'can_reach_finish': gi.FunctionInfo(can_reach_finish), 'get_connectivity': gi.FunctionInfo(get_connectivity), 'get_network_available': gi.FunctionInfo(get_network_available), 'get_network_metered': gi.FunctionInfo(get_network_metered)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(NetworkMonitor), '__module__': 'gi.repository.Gio', '__gtype__': <GType GNetworkMonitor (94269257210448)>, '__dict__': <attribute '__dict__' of 'NetworkMonitor' objects>, '__weakref__': <attribute '__weakref__' of 'NetworkMonitor' objects>, '__doc__': None, '__gsignals__': {}, 'get_default': gi.FunctionInfo(get_default), 'can_reach': gi.FunctionInfo(can_reach), 'can_reach_async': gi.FunctionInfo(can_reach_async), 'can_reach_finish': gi.FunctionInfo(can_reach_finish), 'get_connectivity': gi.FunctionInfo(get_connectivity), 'get_network_available': gi.FunctionInfo(get_network_available), 'get_network_metered': gi.FunctionInfo(get_network_metered)})"
     __gdoc__ = 'Interface GNetworkMonitor\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GNetworkMonitor (94125582582368)>'
+    __gtype__ = None # (!) real value is '<GType GNetworkMonitor (94269257210448)>'
     __info__ = InterfaceInfo(NetworkMonitor)
 
 

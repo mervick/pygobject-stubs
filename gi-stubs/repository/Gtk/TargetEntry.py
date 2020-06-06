@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -147,8 +147,8 @@ class TargetEntry(__gi.Boxed):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TargetEntry), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkTargetEntry (94846038548048)>, '__dict__': <attribute '__dict__' of 'TargetEntry' objects>, '__weakref__': <attribute '__weakref__' of 'TargetEntry' objects>, '__doc__': None, 'target': <property object at 0x7fe830f830e0>, 'flags': <property object at 0x7fe830f831d0>, 'info': <property object at 0x7fe830f832c0>, 'new': gi.FunctionInfo(new), 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free)})"
-    __gtype__ = None # (!) real value is '<GType GtkTargetEntry (94846038548048)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TargetEntry), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkTargetEntry (93897368760864)>, '__dict__': <attribute '__dict__' of 'TargetEntry' objects>, '__weakref__': <attribute '__weakref__' of 'TargetEntry' objects>, '__doc__': None, 'target': <property object at 0x7fc63a69a950>, 'flags': <property object at 0x7fc63a69aa40>, 'info': <property object at 0x7fc63a69ab30>, 'new': gi.FunctionInfo(new), 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free)})"
+    __gtype__ = None # (!) real value is '<GType GtkTargetEntry (93897368760864)>'
     __info__ = StructInfo(TargetEntry)
 
 

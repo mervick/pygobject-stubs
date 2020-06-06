@@ -123,10 +123,10 @@ class Initable(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Initable), '__module__': 'gi.repository.Gio', '__gtype__': <GType GInitable (94125581506256)>, '__dict__': <attribute '__dict__' of 'Initable' objects>, '__weakref__': <attribute '__weakref__' of 'Initable' objects>, '__doc__': None, '__gsignals__': {}, 'newv': gi.FunctionInfo(newv), 'init': gi.FunctionInfo(init)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Initable), '__module__': 'gi.repository.Gio', '__gtype__': <GType GInitable (94269256140912)>, '__dict__': <attribute '__dict__' of 'Initable' objects>, '__weakref__': <attribute '__weakref__' of 'Initable' objects>, '__doc__': None, '__gsignals__': {}, 'newv': gi.FunctionInfo(newv), 'init': gi.FunctionInfo(init)})"
     __gdoc__ = 'Interface GInitable\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GInitable (94125581506256)>'
+    __gtype__ = None # (!) real value is '<GType GInitable (94269256140912)>'
     __info__ = InterfaceInfo(Initable)
 
 

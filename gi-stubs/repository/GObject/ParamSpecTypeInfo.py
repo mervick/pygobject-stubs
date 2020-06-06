@@ -161,7 +161,7 @@ class ParamSpecTypeInfo(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ParamSpecTypeInfo), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ParamSpecTypeInfo' objects>, '__weakref__': <attribute '__weakref__' of 'ParamSpecTypeInfo' objects>, '__doc__': None, 'instance_size': <property object at 0x7f7c2864d810>, 'n_preallocs': <property object at 0x7f7c2864d900>, 'instance_init': <property object at 0x7f7c2864d9f0>, 'value_type': <property object at 0x7f7c2864dae0>, 'finalize': <property object at 0x7f7c2864dbd0>, 'value_set_default': <property object at 0x7f7c2864dd10>, 'value_validate': <property object at 0x7f7c2864ddb0>, 'values_cmp': <property object at 0x7f7c2864dea0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ParamSpecTypeInfo), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ParamSpecTypeInfo' objects>, '__weakref__': <attribute '__weakref__' of 'ParamSpecTypeInfo' objects>, '__doc__': None, 'instance_size': <property object at 0x7fe46b8c0c70>, 'n_preallocs': <property object at 0x7fe46b8c0d60>, 'instance_init': <property object at 0x7fe46b8c0e50>, 'value_type': <property object at 0x7fe46b8c0f40>, 'finalize': <property object at 0x7fe46b8c3090>, 'value_set_default': <property object at 0x7fe46b8c31d0>, 'value_validate': <property object at 0x7fe46b8c3270>, 'values_cmp': <property object at 0x7fe46b8c3360>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ParamSpecTypeInfo)
 

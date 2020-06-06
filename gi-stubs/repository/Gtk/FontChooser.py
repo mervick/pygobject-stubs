@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -194,10 +194,10 @@ class FontChooser(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(FontChooser), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkFontChooser (94846038358496)>, '__dict__': <attribute '__dict__' of 'FontChooser' objects>, '__weakref__': <attribute '__weakref__' of 'FontChooser' objects>, '__doc__': None, '__gsignals__': {}, 'get_font': gi.FunctionInfo(get_font), 'get_font_desc': gi.FunctionInfo(get_font_desc), 'get_font_face': gi.FunctionInfo(get_font_face), 'get_font_family': gi.FunctionInfo(get_font_family), 'get_font_features': gi.FunctionInfo(get_font_features), 'get_font_map': gi.FunctionInfo(get_font_map), 'get_font_size': gi.FunctionInfo(get_font_size), 'get_language': gi.FunctionInfo(get_language), 'get_level': gi.FunctionInfo(get_level), 'get_preview_text': gi.FunctionInfo(get_preview_text), 'get_show_preview_entry': gi.FunctionInfo(get_show_preview_entry), 'set_filter_func': gi.FunctionInfo(set_filter_func), 'set_font': gi.FunctionInfo(set_font), 'set_font_desc': gi.FunctionInfo(set_font_desc), 'set_font_map': gi.FunctionInfo(set_font_map), 'set_language': gi.FunctionInfo(set_language), 'set_level': gi.FunctionInfo(set_level), 'set_preview_text': gi.FunctionInfo(set_preview_text), 'set_show_preview_entry': gi.FunctionInfo(set_show_preview_entry)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(FontChooser), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkFontChooser (93897368569552)>, '__dict__': <attribute '__dict__' of 'FontChooser' objects>, '__weakref__': <attribute '__weakref__' of 'FontChooser' objects>, '__doc__': None, '__gsignals__': {}, 'get_font': gi.FunctionInfo(get_font), 'get_font_desc': gi.FunctionInfo(get_font_desc), 'get_font_face': gi.FunctionInfo(get_font_face), 'get_font_family': gi.FunctionInfo(get_font_family), 'get_font_features': gi.FunctionInfo(get_font_features), 'get_font_map': gi.FunctionInfo(get_font_map), 'get_font_size': gi.FunctionInfo(get_font_size), 'get_language': gi.FunctionInfo(get_language), 'get_level': gi.FunctionInfo(get_level), 'get_preview_text': gi.FunctionInfo(get_preview_text), 'get_show_preview_entry': gi.FunctionInfo(get_show_preview_entry), 'set_filter_func': gi.FunctionInfo(set_filter_func), 'set_font': gi.FunctionInfo(set_font), 'set_font_desc': gi.FunctionInfo(set_font_desc), 'set_font_map': gi.FunctionInfo(set_font_map), 'set_language': gi.FunctionInfo(set_language), 'set_level': gi.FunctionInfo(set_level), 'set_preview_text': gi.FunctionInfo(set_preview_text), 'set_show_preview_entry': gi.FunctionInfo(set_show_preview_entry)})"
     __gdoc__ = 'Interface GtkFontChooser\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkFontChooser (94846038358496)>'
+    __gtype__ = None # (!) real value is '<GType GtkFontChooser (93897368569552)>'
     __info__ = InterfaceInfo(FontChooser)
 
 

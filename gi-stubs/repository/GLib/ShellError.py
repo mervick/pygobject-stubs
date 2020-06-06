@@ -360,13 +360,13 @@ class ShellError(__gobject.GEnum):
     EMPTY_STRING = 1
     FAILED = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'ShellError' objects>, '__doc__': None, '__gtype__': <GType PyGLibShellError (94243599064016)>, '__enum_values__': {0: <enum G_SHELL_ERROR_BAD_QUOTING of type GLib.ShellError>, 1: <enum G_SHELL_ERROR_EMPTY_STRING of type GLib.ShellError>, 2: <enum G_SHELL_ERROR_FAILED of type GLib.ShellError>}, '__info__': gi.EnumInfo(ShellError), 'BAD_QUOTING': <enum G_SHELL_ERROR_BAD_QUOTING of type GLib.ShellError>, 'EMPTY_STRING': <enum G_SHELL_ERROR_EMPTY_STRING of type GLib.ShellError>, 'FAILED': <enum G_SHELL_ERROR_FAILED of type GLib.ShellError>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'ShellError' objects>, '__doc__': None, '__gtype__': <GType PyGLibShellError (94581033206336)>, '__enum_values__': {0: <enum G_SHELL_ERROR_BAD_QUOTING of type GLib.ShellError>, 1: <enum G_SHELL_ERROR_EMPTY_STRING of type GLib.ShellError>, 2: <enum G_SHELL_ERROR_FAILED of type GLib.ShellError>}, '__info__': gi.EnumInfo(ShellError), 'BAD_QUOTING': <enum G_SHELL_ERROR_BAD_QUOTING of type GLib.ShellError>, 'EMPTY_STRING': <enum G_SHELL_ERROR_EMPTY_STRING of type GLib.ShellError>, 'FAILED': <enum G_SHELL_ERROR_FAILED of type GLib.ShellError>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibShellError (94243599064016)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibShellError (94581033206336)>'
     __info__ = gi.EnumInfo(ShellError)
 
 

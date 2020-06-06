@@ -132,7 +132,7 @@ class ProxyResolverInterface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ProxyResolverInterface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ProxyResolverInterface' objects>, '__weakref__': <attribute '__weakref__' of 'ProxyResolverInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f28dde45860>, 'is_supported': <property object at 0x7f28dde45950>, 'lookup': <property object at 0x7f28dde45a40>, 'lookup_async': <property object at 0x7f28dde45b30>, 'lookup_finish': <property object at 0x7f28dde45c20>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ProxyResolverInterface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ProxyResolverInterface' objects>, '__weakref__': <attribute '__weakref__' of 'ProxyResolverInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f4b87fa8900>, 'is_supported': <property object at 0x7f4b87fa89f0>, 'lookup': <property object at 0x7f4b87fa8ae0>, 'lookup_async': <property object at 0x7f4b87fa8bd0>, 'lookup_finish': <property object at 0x7f4b87fa8cc0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ProxyResolverInterface)
 

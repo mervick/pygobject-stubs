@@ -363,12 +363,12 @@ class BusNameWatcherFlags(__gobject.GFlags):
     AUTO_START = 1
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'BusNameWatcherFlags' objects>, '__doc__': None, '__gtype__': <GType GBusNameWatcherFlags (94125581840800)>, '__flags_values__': {0: <flags 0 of type Gio.BusNameWatcherFlags>, 1: <flags G_BUS_NAME_WATCHER_FLAGS_AUTO_START of type Gio.BusNameWatcherFlags>}, '__info__': gi.EnumInfo(BusNameWatcherFlags), 'NONE': <flags 0 of type Gio.BusNameWatcherFlags>, 'AUTO_START': <flags G_BUS_NAME_WATCHER_FLAGS_AUTO_START of type Gio.BusNameWatcherFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'BusNameWatcherFlags' objects>, '__doc__': None, '__gtype__': <GType GBusNameWatcherFlags (94269255364336)>, '__flags_values__': {0: <flags 0 of type Gio.BusNameWatcherFlags>, 1: <flags G_BUS_NAME_WATCHER_FLAGS_AUTO_START of type Gio.BusNameWatcherFlags>}, '__info__': gi.EnumInfo(BusNameWatcherFlags), 'NONE': <flags 0 of type Gio.BusNameWatcherFlags>, 'AUTO_START': <flags G_BUS_NAME_WATCHER_FLAGS_AUTO_START of type Gio.BusNameWatcherFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GBusNameWatcherFlags (94125581840800)>'
+    __gtype__ = None # (!) real value is '<GType GBusNameWatcherFlags (94269255364336)>'
     __info__ = gi.EnumInfo(BusNameWatcherFlags)
 
 

@@ -119,10 +119,10 @@ class DesktopAppInfoLookup(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(DesktopAppInfoLookup), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDesktopAppInfoLookup (94125582211536)>, '__dict__': <attribute '__dict__' of 'DesktopAppInfoLookup' objects>, '__weakref__': <attribute '__weakref__' of 'DesktopAppInfoLookup' objects>, '__doc__': None, '__gsignals__': {}, 'get_default_for_uri_scheme': gi.FunctionInfo(get_default_for_uri_scheme)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(DesktopAppInfoLookup), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDesktopAppInfoLookup (94269256846928)>, '__dict__': <attribute '__dict__' of 'DesktopAppInfoLookup' objects>, '__weakref__': <attribute '__weakref__' of 'DesktopAppInfoLookup' objects>, '__doc__': None, '__gsignals__': {}, 'get_default_for_uri_scheme': gi.FunctionInfo(get_default_for_uri_scheme)})"
     __gdoc__ = 'Interface GDesktopAppInfoLookup\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GDesktopAppInfoLookup (94125582211536)>'
+    __gtype__ = None # (!) real value is '<GType GDesktopAppInfoLookup (94269256846928)>'
     __info__ = InterfaceInfo(DesktopAppInfoLookup)
 
 

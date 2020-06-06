@@ -333,8 +333,8 @@ class Source(__gi_repository_GLib.Source):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.GLib', '__new__': <staticmethod object at 0x7f7c29a0b760>, '__init__': <function Source.__init__ at 0x7f7c29a17ca0>, '__del__': <function Source.__del__ at 0x7f7c29a17d30>, 'set_callback': <function Source.set_callback at 0x7f7c29a17dc0>, 'get_current_time': <function Source.get_current_time at 0x7f7c29a17ee0>, '_Source__get_priority': <function Source.__get_priority at 0x7f7c29a17f70>, '_Source__set_priority': <function Source.__set_priority at 0x7f7c29a23040>, 'priority': <property object at 0x7f7c29a21770>, '_Source__get_can_recurse': <function Source.__get_can_recurse at 0x7f7c29a230d0>, '_Source__set_can_recurse': <function Source.__set_can_recurse at 0x7f7c29a23160>, 'can_recurse': <property object at 0x7f7c29a217c0>, '__doc__': None})"
-    __gtype__ = None # (!) real value is '<GType GSource (93895379285728)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.GLib', '__new__': <staticmethod object at 0x7fe46cc36c40>, '__init__': <function Source.__init__ at 0x7fe46cc4a4c0>, '__del__': <function Source.__del__ at 0x7fe46cc4a550>, 'set_callback': <function Source.set_callback at 0x7fe46cc4a5e0>, 'get_current_time': <function Source.get_current_time at 0x7fe46cc4a700>, '_Source__get_priority': <function Source.__get_priority at 0x7fe46cc4a790>, '_Source__set_priority': <function Source.__set_priority at 0x7fe46cc4a820>, 'priority': <property object at 0x7fe46cc531d0>, '_Source__get_can_recurse': <function Source.__get_can_recurse at 0x7fe46cc4a8b0>, '_Source__set_can_recurse': <function Source.__set_can_recurse at 0x7fe46cc4a940>, 'can_recurse': <property object at 0x7fe46cc53220>, '__doc__': None})"
+    __gtype__ = None # (!) real value is '<GType GSource (94184341750976)>'
     __info__ = StructInfo(Source)
 
 

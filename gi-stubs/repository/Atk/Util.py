@@ -408,12 +408,12 @@ class Util(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f0cd80beca0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f44c6c470a0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Util), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkUtil (93922955995088)>, '__doc__': None, '__gsignals__': {}, 'parent': <property object at 0x7f0cd81c59a0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Util), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkUtil (94258338128064)>, '__doc__': None, '__gsignals__': {}, 'parent': <property object at 0x7f44c6d096d0>})"
     __gdoc__ = 'Object AtkUtil\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType AtkUtil (93922955995088)>'
+    __gtype__ = None # (!) real value is '<GType AtkUtil (94258338128064)>'
     __info__ = ObjectInfo(Util)
 
 

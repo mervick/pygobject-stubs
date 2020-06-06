@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -782,12 +782,12 @@ class TextBuffer(TextBuffer):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe82e973550>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc6382431c0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', 'create_tag': <function TextBuffer.create_tag at 0x7fe831222dc0>, 'create_mark': <function TextBuffer.create_mark at 0x7fe831222e50>, 'set_text': <function TextBuffer.set_text at 0x7fe831222ee0>, 'insert': <function TextBuffer.insert at 0x7fe831222f70>, 'insert_with_tags': <function TextBuffer.insert_with_tags at 0x7fe83123b040>, 'insert_with_tags_by_name': <function TextBuffer.insert_with_tags_by_name at 0x7fe83123b0d0>, 'insert_at_cursor': <function TextBuffer.insert_at_cursor at 0x7fe83123b160>, 'get_selection_bounds': <function strip_boolean_result.<locals>.wrapped at 0x7fe83123b1f0>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', 'create_tag': <function TextBuffer.create_tag at 0x7fc63a9455e0>, 'create_mark': <function TextBuffer.create_mark at 0x7fc63a945670>, 'set_text': <function TextBuffer.set_text at 0x7fc63a945700>, 'insert': <function TextBuffer.insert at 0x7fc63a945790>, 'insert_with_tags': <function TextBuffer.insert_with_tags at 0x7fc63a945820>, 'insert_with_tags_by_name': <function TextBuffer.insert_with_tags_by_name at 0x7fc63a9458b0>, 'insert_at_cursor': <function TextBuffer.insert_at_cursor at 0x7fc63a945940>, 'get_selection_bounds': <function strip_boolean_result.<locals>.wrapped at 0x7fc63a9459d0>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Object GtkTextBuffer\n\nSignals from GtkTextBuffer:\n  changed ()\n  insert-text (GtkTextIter, gchararray, gint)\n  insert-pixbuf (GtkTextIter, GdkPixbuf)\n  insert-child-anchor (GtkTextIter, GtkTextChildAnchor)\n  delete-range (GtkTextIter, GtkTextIter)\n  modified-changed ()\n  mark-set (GtkTextIter, GtkTextMark)\n  mark-deleted (GtkTextMark)\n  apply-tag (GtkTextTag, GtkTextIter, GtkTextIter)\n  remove-tag (GtkTextTag, GtkTextIter, GtkTextIter)\n  begin-user-action ()\n  end-user-action ()\n  paste-done (GtkClipboard)\n\nProperties from GtkTextBuffer:\n  tag-table -> GtkTextTagTable: Tag Table\n    Text Tag Table\n  text -> gchararray: Text\n    Current text of the buffer\n  has-selection -> gboolean: Has selection\n    Whether the buffer has some text currently selected\n  cursor-position -> gint: Cursor position\n    The position of the insert mark (as offset from the beginning of the buffer)\n  copy-target-list -> GtkTargetList: Copy target list\n    The list of targets this buffer supports for clipboard copying and DND source\n  paste-target-list -> GtkTargetList: Paste target list\n    The list of targets this buffer supports for clipboard pasting and DND destination\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkTextBuffer (94846036235584)>'
+    __gtype__ = None # (!) real value is '<GType GtkTextBuffer (93897366442688)>'
     __info__ = ObjectInfo(TextBuffer)
 
 

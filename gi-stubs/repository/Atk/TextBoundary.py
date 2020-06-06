@@ -367,7 +367,7 @@ class TextBoundary(__gobject.GEnum):
     WORD_END = 2
     WORD_START = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Atk', '__dict__': <attribute '__dict__' of 'TextBoundary' objects>, '__doc__': None, '__gtype__': <GType AtkTextBoundary (93922953475056)>, '__enum_values__': {0: <enum ATK_TEXT_BOUNDARY_CHAR of type Atk.TextBoundary>, 1: <enum ATK_TEXT_BOUNDARY_WORD_START of type Atk.TextBoundary>, 2: <enum ATK_TEXT_BOUNDARY_WORD_END of type Atk.TextBoundary>, 3: <enum ATK_TEXT_BOUNDARY_SENTENCE_START of type Atk.TextBoundary>, 4: <enum ATK_TEXT_BOUNDARY_SENTENCE_END of type Atk.TextBoundary>, 5: <enum ATK_TEXT_BOUNDARY_LINE_START of type Atk.TextBoundary>, 6: <enum ATK_TEXT_BOUNDARY_LINE_END of type Atk.TextBoundary>}, '__info__': gi.EnumInfo(TextBoundary), 'CHAR': <enum ATK_TEXT_BOUNDARY_CHAR of type Atk.TextBoundary>, 'WORD_START': <enum ATK_TEXT_BOUNDARY_WORD_START of type Atk.TextBoundary>, 'WORD_END': <enum ATK_TEXT_BOUNDARY_WORD_END of type Atk.TextBoundary>, 'SENTENCE_START': <enum ATK_TEXT_BOUNDARY_SENTENCE_START of type Atk.TextBoundary>, 'SENTENCE_END': <enum ATK_TEXT_BOUNDARY_SENTENCE_END of type Atk.TextBoundary>, 'LINE_START': <enum ATK_TEXT_BOUNDARY_LINE_START of type Atk.TextBoundary>, 'LINE_END': <enum ATK_TEXT_BOUNDARY_LINE_END of type Atk.TextBoundary>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Atk', '__dict__': <attribute '__dict__' of 'TextBoundary' objects>, '__doc__': None, '__gtype__': <GType AtkTextBoundary (94258338131552)>, '__enum_values__': {0: <enum ATK_TEXT_BOUNDARY_CHAR of type Atk.TextBoundary>, 1: <enum ATK_TEXT_BOUNDARY_WORD_START of type Atk.TextBoundary>, 2: <enum ATK_TEXT_BOUNDARY_WORD_END of type Atk.TextBoundary>, 3: <enum ATK_TEXT_BOUNDARY_SENTENCE_START of type Atk.TextBoundary>, 4: <enum ATK_TEXT_BOUNDARY_SENTENCE_END of type Atk.TextBoundary>, 5: <enum ATK_TEXT_BOUNDARY_LINE_START of type Atk.TextBoundary>, 6: <enum ATK_TEXT_BOUNDARY_LINE_END of type Atk.TextBoundary>}, '__info__': gi.EnumInfo(TextBoundary), 'CHAR': <enum ATK_TEXT_BOUNDARY_CHAR of type Atk.TextBoundary>, 'WORD_START': <enum ATK_TEXT_BOUNDARY_WORD_START of type Atk.TextBoundary>, 'WORD_END': <enum ATK_TEXT_BOUNDARY_WORD_END of type Atk.TextBoundary>, 'SENTENCE_START': <enum ATK_TEXT_BOUNDARY_SENTENCE_START of type Atk.TextBoundary>, 'SENTENCE_END': <enum ATK_TEXT_BOUNDARY_SENTENCE_END of type Atk.TextBoundary>, 'LINE_START': <enum ATK_TEXT_BOUNDARY_LINE_START of type Atk.TextBoundary>, 'LINE_END': <enum ATK_TEXT_BOUNDARY_LINE_END of type Atk.TextBoundary>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -377,7 +377,7 @@ class TextBoundary(__gobject.GEnum):
         5: 5,
         6: 6,
     }
-    __gtype__ = None # (!) real value is '<GType AtkTextBoundary (93922953475056)>'
+    __gtype__ = None # (!) real value is '<GType AtkTextBoundary (94258338131552)>'
     __info__ = gi.EnumInfo(TextBoundary)
 
 

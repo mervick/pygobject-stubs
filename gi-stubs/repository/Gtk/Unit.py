@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,14 +363,14 @@ class Unit(__gobject.GEnum):
     NONE = 0
     POINTS = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'Unit' objects>, '__doc__': None, '__gtype__': <GType GtkUnit (94846039585296)>, '__enum_values__': {0: <enum GTK_UNIT_NONE of type Gtk.Unit>, 1: <enum GTK_UNIT_POINTS of type Gtk.Unit>, 2: <enum GTK_UNIT_INCH of type Gtk.Unit>, 3: <enum GTK_UNIT_MM of type Gtk.Unit>}, '__info__': gi.EnumInfo(Unit), 'NONE': <enum GTK_UNIT_NONE of type Gtk.Unit>, 'POINTS': <enum GTK_UNIT_POINTS of type Gtk.Unit>, 'INCH': <enum GTK_UNIT_INCH of type Gtk.Unit>, 'MM': <enum GTK_UNIT_MM of type Gtk.Unit>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'Unit' objects>, '__doc__': None, '__gtype__': <GType GtkUnit (93897369733216)>, '__enum_values__': {0: <enum GTK_UNIT_NONE of type Gtk.Unit>, 1: <enum GTK_UNIT_POINTS of type Gtk.Unit>, 2: <enum GTK_UNIT_INCH of type Gtk.Unit>, 3: <enum GTK_UNIT_MM of type Gtk.Unit>}, '__info__': gi.EnumInfo(Unit), 'NONE': <enum GTK_UNIT_NONE of type Gtk.Unit>, 'POINTS': <enum GTK_UNIT_POINTS of type Gtk.Unit>, 'INCH': <enum GTK_UNIT_INCH of type Gtk.Unit>, 'MM': <enum GTK_UNIT_MM of type Gtk.Unit>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkUnit (94846039585296)>'
+    __gtype__ = None # (!) real value is '<GType GtkUnit (93897369733216)>'
     __info__ = gi.EnumInfo(Unit)
 
 

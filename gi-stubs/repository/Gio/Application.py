@@ -692,12 +692,12 @@ class Application(Application):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd616460>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b877885b0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gio', 'run': <function Application.run at 0x7f28de00c310>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gio', 'run': <function Application.run at 0x7f4b88165af0>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Object GApplication\n\nSignals from GApplication:\n  startup ()\n  shutdown ()\n  activate ()\n  open (gpointer, gint, gchararray)\n  command-line (GApplicationCommandLine) -> gint\n  handle-local-options (GVariantDict) -> gint\n  name-lost () -> gboolean\n\nProperties from GApplication:\n  application-id -> gchararray: Application identifier\n    The unique identifier for the application\n  flags -> GApplicationFlags: Application flags\n    Flags specifying the behaviour of the application\n  resource-base-path -> gchararray: Resource base path\n    The base resource path for the application\n  is-registered -> gboolean: Is registered\n    If g_application_register() has been called\n  is-remote -> gboolean: Is remote\n    If this application instance is remote\n  inactivity-timeout -> guint: Inactivity timeout\n    Time (ms) to stay alive after becoming idle\n  action-group -> GActionGroup: Action group\n    The group of actions that the application exports\n  is-busy -> gboolean: Is busy\n    If this application is currently marked busy\n\nSignals from GActionGroup:\n  action-added (gchararray)\n  action-removed (gchararray)\n  action-enabled-changed (gchararray, gboolean)\n  action-state-changed (gchararray, GVariant)\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GApplication (94125581400624)>'
+    __gtype__ = None # (!) real value is '<GType GApplication (94269255965280)>'
     __info__ = ObjectInfo(Application)
 
 

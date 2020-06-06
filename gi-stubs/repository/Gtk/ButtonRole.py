@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -362,13 +362,13 @@ class ButtonRole(__gobject.GEnum):
     NORMAL = 0
     RADIO = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ButtonRole' objects>, '__doc__': None, '__gtype__': <GType GtkButtonRole (94846037870080)>, '__enum_values__': {0: <enum GTK_BUTTON_ROLE_NORMAL of type Gtk.ButtonRole>, 1: <enum GTK_BUTTON_ROLE_CHECK of type Gtk.ButtonRole>, 2: <enum GTK_BUTTON_ROLE_RADIO of type Gtk.ButtonRole>}, '__info__': gi.EnumInfo(ButtonRole), 'NORMAL': <enum GTK_BUTTON_ROLE_NORMAL of type Gtk.ButtonRole>, 'CHECK': <enum GTK_BUTTON_ROLE_CHECK of type Gtk.ButtonRole>, 'RADIO': <enum GTK_BUTTON_ROLE_RADIO of type Gtk.ButtonRole>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ButtonRole' objects>, '__doc__': None, '__gtype__': <GType GtkButtonRole (93897368087040)>, '__enum_values__': {0: <enum GTK_BUTTON_ROLE_NORMAL of type Gtk.ButtonRole>, 1: <enum GTK_BUTTON_ROLE_CHECK of type Gtk.ButtonRole>, 2: <enum GTK_BUTTON_ROLE_RADIO of type Gtk.ButtonRole>}, '__info__': gi.EnumInfo(ButtonRole), 'NORMAL': <enum GTK_BUTTON_ROLE_NORMAL of type Gtk.ButtonRole>, 'CHECK': <enum GTK_BUTTON_ROLE_CHECK of type Gtk.ButtonRole>, 'RADIO': <enum GTK_BUTTON_ROLE_RADIO of type Gtk.ButtonRole>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GtkButtonRole (94846037870080)>'
+    __gtype__ = None # (!) real value is '<GType GtkButtonRole (93897368087040)>'
     __info__ = gi.EnumInfo(ButtonRole)
 
 

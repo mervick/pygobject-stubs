@@ -360,14 +360,14 @@ class SocketType(__gobject.GEnum):
     SEQPACKET = 3
     STREAM = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'SocketType' objects>, '__doc__': None, '__gtype__': <GType GSocketType (94125582723920)>, '__enum_values__': {0: <enum G_SOCKET_TYPE_INVALID of type Gio.SocketType>, 1: <enum G_SOCKET_TYPE_STREAM of type Gio.SocketType>, 2: <enum G_SOCKET_TYPE_DATAGRAM of type Gio.SocketType>, 3: <enum G_SOCKET_TYPE_SEQPACKET of type Gio.SocketType>}, '__info__': gi.EnumInfo(SocketType), 'INVALID': <enum G_SOCKET_TYPE_INVALID of type Gio.SocketType>, 'STREAM': <enum G_SOCKET_TYPE_STREAM of type Gio.SocketType>, 'DATAGRAM': <enum G_SOCKET_TYPE_DATAGRAM of type Gio.SocketType>, 'SEQPACKET': <enum G_SOCKET_TYPE_SEQPACKET of type Gio.SocketType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'SocketType' objects>, '__doc__': None, '__gtype__': <GType GSocketType (94269256698048)>, '__enum_values__': {0: <enum G_SOCKET_TYPE_INVALID of type Gio.SocketType>, 1: <enum G_SOCKET_TYPE_STREAM of type Gio.SocketType>, 2: <enum G_SOCKET_TYPE_DATAGRAM of type Gio.SocketType>, 3: <enum G_SOCKET_TYPE_SEQPACKET of type Gio.SocketType>}, '__info__': gi.EnumInfo(SocketType), 'INVALID': <enum G_SOCKET_TYPE_INVALID of type Gio.SocketType>, 'STREAM': <enum G_SOCKET_TYPE_STREAM of type Gio.SocketType>, 'DATAGRAM': <enum G_SOCKET_TYPE_DATAGRAM of type Gio.SocketType>, 'SEQPACKET': <enum G_SOCKET_TYPE_SEQPACKET of type Gio.SocketType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GSocketType (94125582723920)>'
+    __gtype__ = None # (!) real value is '<GType GSocketType (94269256698048)>'
     __info__ = gi.EnumInfo(SocketType)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -137,7 +137,7 @@ class ToggleToolButtonClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ToggleToolButtonClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ToggleToolButtonClass' objects>, '__weakref__': <attribute '__weakref__' of 'ToggleToolButtonClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830f223b0>, 'toggled': <property object at 0x7fe830f224a0>, '_gtk_reserved1': <property object at 0x7fe830f22590>, '_gtk_reserved2': <property object at 0x7fe830f22680>, '_gtk_reserved3': <property object at 0x7fe830f22770>, '_gtk_reserved4': <property object at 0x7fe830f22860>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ToggleToolButtonClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ToggleToolButtonClass' objects>, '__weakref__': <attribute '__weakref__' of 'ToggleToolButtonClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a6389f0>, 'toggled': <property object at 0x7fc63a638ae0>, '_gtk_reserved1': <property object at 0x7fc63a638bd0>, '_gtk_reserved2': <property object at 0x7fc63a638cc0>, '_gtk_reserved3': <property object at 0x7fc63a638db0>, '_gtk_reserved4': <property object at 0x7fc63a638ea0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ToggleToolButtonClass)
 

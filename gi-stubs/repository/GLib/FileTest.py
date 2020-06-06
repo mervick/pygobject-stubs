@@ -367,7 +367,7 @@ class FileTest(__gobject.GFlags):
     IS_REGULAR = 1
     IS_SYMLINK = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'FileTest' objects>, '__doc__': None, '__gtype__': <GType PyGLibFileTest (94243598951136)>, '__flags_values__': {1: <flags G_FILE_TEST_IS_REGULAR of type GLib.FileTest>, 2: <flags G_FILE_TEST_IS_SYMLINK of type GLib.FileTest>, 4: <flags G_FILE_TEST_IS_DIR of type GLib.FileTest>, 8: <flags G_FILE_TEST_IS_EXECUTABLE of type GLib.FileTest>, 16: <flags G_FILE_TEST_EXISTS of type GLib.FileTest>}, '__info__': gi.EnumInfo(FileTest), 'IS_REGULAR': <flags G_FILE_TEST_IS_REGULAR of type GLib.FileTest>, 'IS_SYMLINK': <flags G_FILE_TEST_IS_SYMLINK of type GLib.FileTest>, 'IS_DIR': <flags G_FILE_TEST_IS_DIR of type GLib.FileTest>, 'IS_EXECUTABLE': <flags G_FILE_TEST_IS_EXECUTABLE of type GLib.FileTest>, 'EXISTS': <flags G_FILE_TEST_EXISTS of type GLib.FileTest>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'FileTest' objects>, '__doc__': None, '__gtype__': <GType PyGLibFileTest (94581033728000)>, '__flags_values__': {1: <flags G_FILE_TEST_IS_REGULAR of type GLib.FileTest>, 2: <flags G_FILE_TEST_IS_SYMLINK of type GLib.FileTest>, 4: <flags G_FILE_TEST_IS_DIR of type GLib.FileTest>, 8: <flags G_FILE_TEST_IS_EXECUTABLE of type GLib.FileTest>, 16: <flags G_FILE_TEST_EXISTS of type GLib.FileTest>}, '__info__': gi.EnumInfo(FileTest), 'IS_REGULAR': <flags G_FILE_TEST_IS_REGULAR of type GLib.FileTest>, 'IS_SYMLINK': <flags G_FILE_TEST_IS_SYMLINK of type GLib.FileTest>, 'IS_DIR': <flags G_FILE_TEST_IS_DIR of type GLib.FileTest>, 'IS_EXECUTABLE': <flags G_FILE_TEST_IS_EXECUTABLE of type GLib.FileTest>, 'EXISTS': <flags G_FILE_TEST_EXISTS of type GLib.FileTest>})"
     __flags_values__ = {
         1: 1,
         2: 2,
@@ -375,7 +375,7 @@ class FileTest(__gobject.GFlags):
         8: 8,
         16: 16,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibFileTest (94243598951136)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibFileTest (94581033728000)>'
     __info__ = gi.EnumInfo(FileTest)
 
 

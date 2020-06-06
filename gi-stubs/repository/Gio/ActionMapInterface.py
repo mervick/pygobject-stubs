@@ -130,7 +130,7 @@ class ActionMapInterface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ActionMapInterface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ActionMapInterface' objects>, '__weakref__': <attribute '__weakref__' of 'ActionMapInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f28ddf15590>, 'lookup_action': <property object at 0x7f28ddf15680>, 'add_action': <property object at 0x7f28ddf15770>, 'remove_action': <property object at 0x7f28ddf15860>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ActionMapInterface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ActionMapInterface' objects>, '__weakref__': <attribute '__weakref__' of 'ActionMapInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f4b88076590>, 'lookup_action': <property object at 0x7f4b88076680>, 'add_action': <property object at 0x7f4b88076770>, 'remove_action': <property object at 0x7f4b88076860>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ActionMapInterface)
 

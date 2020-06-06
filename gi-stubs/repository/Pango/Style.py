@@ -357,13 +357,13 @@ class Style(__gobject.GEnum):
     NORMAL = 0
     OBLIQUE = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'Style' objects>, '__doc__': None, '__gtype__': <GType PangoStyle (94752681059776)>, '__enum_values__': {0: <enum PANGO_STYLE_NORMAL of type Pango.Style>, 1: <enum PANGO_STYLE_OBLIQUE of type Pango.Style>, 2: <enum PANGO_STYLE_ITALIC of type Pango.Style>}, '__info__': gi.EnumInfo(Style), 'NORMAL': <enum PANGO_STYLE_NORMAL of type Pango.Style>, 'OBLIQUE': <enum PANGO_STYLE_OBLIQUE of type Pango.Style>, 'ITALIC': <enum PANGO_STYLE_ITALIC of type Pango.Style>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'Style' objects>, '__doc__': None, '__gtype__': <GType PangoStyle (94187429534560)>, '__enum_values__': {0: <enum PANGO_STYLE_NORMAL of type Pango.Style>, 1: <enum PANGO_STYLE_OBLIQUE of type Pango.Style>, 2: <enum PANGO_STYLE_ITALIC of type Pango.Style>}, '__info__': gi.EnumInfo(Style), 'NORMAL': <enum PANGO_STYLE_NORMAL of type Pango.Style>, 'OBLIQUE': <enum PANGO_STYLE_OBLIQUE of type Pango.Style>, 'ITALIC': <enum PANGO_STYLE_ITALIC of type Pango.Style>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType PangoStyle (94752681059776)>'
+    __gtype__ = None # (!) real value is '<GType PangoStyle (94187429534560)>'
     __info__ = gi.EnumInfo(Style)
 
 

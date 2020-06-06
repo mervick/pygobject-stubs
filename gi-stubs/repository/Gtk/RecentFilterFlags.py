@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -370,7 +370,7 @@ class RecentFilterFlags(__gobject.GFlags):
     MIME_TYPE = 4
     URI = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'RecentFilterFlags' objects>, '__doc__': None, '__gtype__': <GType GtkRecentFilterFlags (94846039073360)>, '__flags_values__': {1: <flags GTK_RECENT_FILTER_URI of type Gtk.RecentFilterFlags>, 2: <flags GTK_RECENT_FILTER_DISPLAY_NAME of type Gtk.RecentFilterFlags>, 4: <flags GTK_RECENT_FILTER_MIME_TYPE of type Gtk.RecentFilterFlags>, 8: <flags GTK_RECENT_FILTER_APPLICATION of type Gtk.RecentFilterFlags>, 16: <flags GTK_RECENT_FILTER_GROUP of type Gtk.RecentFilterFlags>, 32: <flags GTK_RECENT_FILTER_AGE of type Gtk.RecentFilterFlags>}, '__info__': gi.EnumInfo(RecentFilterFlags), 'URI': <flags GTK_RECENT_FILTER_URI of type Gtk.RecentFilterFlags>, 'DISPLAY_NAME': <flags GTK_RECENT_FILTER_DISPLAY_NAME of type Gtk.RecentFilterFlags>, 'MIME_TYPE': <flags GTK_RECENT_FILTER_MIME_TYPE of type Gtk.RecentFilterFlags>, 'APPLICATION': <flags GTK_RECENT_FILTER_APPLICATION of type Gtk.RecentFilterFlags>, 'GROUP': <flags GTK_RECENT_FILTER_GROUP of type Gtk.RecentFilterFlags>, 'AGE': <flags GTK_RECENT_FILTER_AGE of type Gtk.RecentFilterFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'RecentFilterFlags' objects>, '__doc__': None, '__gtype__': <GType GtkRecentFilterFlags (93897369278272)>, '__flags_values__': {1: <flags GTK_RECENT_FILTER_URI of type Gtk.RecentFilterFlags>, 2: <flags GTK_RECENT_FILTER_DISPLAY_NAME of type Gtk.RecentFilterFlags>, 4: <flags GTK_RECENT_FILTER_MIME_TYPE of type Gtk.RecentFilterFlags>, 8: <flags GTK_RECENT_FILTER_APPLICATION of type Gtk.RecentFilterFlags>, 16: <flags GTK_RECENT_FILTER_GROUP of type Gtk.RecentFilterFlags>, 32: <flags GTK_RECENT_FILTER_AGE of type Gtk.RecentFilterFlags>}, '__info__': gi.EnumInfo(RecentFilterFlags), 'URI': <flags GTK_RECENT_FILTER_URI of type Gtk.RecentFilterFlags>, 'DISPLAY_NAME': <flags GTK_RECENT_FILTER_DISPLAY_NAME of type Gtk.RecentFilterFlags>, 'MIME_TYPE': <flags GTK_RECENT_FILTER_MIME_TYPE of type Gtk.RecentFilterFlags>, 'APPLICATION': <flags GTK_RECENT_FILTER_APPLICATION of type Gtk.RecentFilterFlags>, 'GROUP': <flags GTK_RECENT_FILTER_GROUP of type Gtk.RecentFilterFlags>, 'AGE': <flags GTK_RECENT_FILTER_AGE of type Gtk.RecentFilterFlags>})"
     __flags_values__ = {
         1: 1,
         2: 2,
@@ -379,7 +379,7 @@ class RecentFilterFlags(__gobject.GFlags):
         16: 16,
         32: 32,
     }
-    __gtype__ = None # (!) real value is '<GType GtkRecentFilterFlags (94846039073360)>'
+    __gtype__ = None # (!) real value is '<GType GtkRecentFilterFlags (93897369278272)>'
     __info__ = gi.EnumInfo(RecentFilterFlags)
 
 

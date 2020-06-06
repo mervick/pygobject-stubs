@@ -147,10 +147,10 @@ class TableCell(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(TableCell), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkTableCell (93922955959776)>, '__dict__': <attribute '__dict__' of 'TableCell' objects>, '__weakref__': <attribute '__weakref__' of 'TableCell' objects>, '__doc__': None, '__gsignals__': {}, 'get_column_header_cells': gi.FunctionInfo(get_column_header_cells), 'get_column_span': gi.FunctionInfo(get_column_span), 'get_position': gi.FunctionInfo(get_position), 'get_row_column_span': gi.FunctionInfo(get_row_column_span), 'get_row_header_cells': gi.FunctionInfo(get_row_header_cells), 'get_row_span': gi.FunctionInfo(get_row_span), 'get_table': gi.FunctionInfo(get_table)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(TableCell), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkTableCell (94258337541696)>, '__dict__': <attribute '__dict__' of 'TableCell' objects>, '__weakref__': <attribute '__weakref__' of 'TableCell' objects>, '__doc__': None, '__gsignals__': {}, 'get_column_header_cells': gi.FunctionInfo(get_column_header_cells), 'get_column_span': gi.FunctionInfo(get_column_span), 'get_position': gi.FunctionInfo(get_position), 'get_row_column_span': gi.FunctionInfo(get_row_column_span), 'get_row_header_cells': gi.FunctionInfo(get_row_header_cells), 'get_row_span': gi.FunctionInfo(get_row_span), 'get_table': gi.FunctionInfo(get_table)})"
     __gdoc__ = 'Interface AtkTableCell\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType AtkTableCell (93922955959776)>'
+    __gtype__ = None # (!) real value is '<GType AtkTableCell (94258337541696)>'
     __info__ = InterfaceInfo(TableCell)
 
 

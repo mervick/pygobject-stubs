@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -526,8 +526,8 @@ class TextIter(TextIter):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', 'forward_search': <function strip_boolean_result.<locals>.wrapped at 0x7fe83123b280>, 'backward_search': <function strip_boolean_result.<locals>.wrapped at 0x7fe83123b310>, '__doc__': None})"
-    __gtype__ = None # (!) real value is '<GType GtkTextIter (94846036968960)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', 'forward_search': <function strip_boolean_result.<locals>.wrapped at 0x7fc63a945a60>, 'backward_search': <function strip_boolean_result.<locals>.wrapped at 0x7fc63a945af0>, '__doc__': None})"
+    __gtype__ = None # (!) real value is '<GType GtkTextIter (93897367178160)>'
     __info__ = StructInfo(TextIter)
 
 

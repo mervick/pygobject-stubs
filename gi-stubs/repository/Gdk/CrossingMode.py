@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -364,7 +364,7 @@ class CrossingMode(__gobject.GEnum):
     TOUCH_END = 7
     UNGRAB = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'CrossingMode' objects>, '__doc__': None, '__gtype__': <GType GdkCrossingMode (94055651434112)>, '__enum_values__': {0: <enum GDK_CROSSING_NORMAL of type Gdk.CrossingMode>, 1: <enum GDK_CROSSING_GRAB of type Gdk.CrossingMode>, 2: <enum GDK_CROSSING_UNGRAB of type Gdk.CrossingMode>, 3: <enum GDK_CROSSING_GTK_GRAB of type Gdk.CrossingMode>, 4: <enum GDK_CROSSING_GTK_UNGRAB of type Gdk.CrossingMode>, 5: <enum GDK_CROSSING_STATE_CHANGED of type Gdk.CrossingMode>, 6: <enum GDK_CROSSING_TOUCH_BEGIN of type Gdk.CrossingMode>, 7: <enum GDK_CROSSING_TOUCH_END of type Gdk.CrossingMode>, 8: <enum GDK_CROSSING_DEVICE_SWITCH of type Gdk.CrossingMode>}, '__info__': gi.EnumInfo(CrossingMode), 'NORMAL': <enum GDK_CROSSING_NORMAL of type Gdk.CrossingMode>, 'GRAB': <enum GDK_CROSSING_GRAB of type Gdk.CrossingMode>, 'UNGRAB': <enum GDK_CROSSING_UNGRAB of type Gdk.CrossingMode>, 'GTK_GRAB': <enum GDK_CROSSING_GTK_GRAB of type Gdk.CrossingMode>, 'GTK_UNGRAB': <enum GDK_CROSSING_GTK_UNGRAB of type Gdk.CrossingMode>, 'STATE_CHANGED': <enum GDK_CROSSING_STATE_CHANGED of type Gdk.CrossingMode>, 'TOUCH_BEGIN': <enum GDK_CROSSING_TOUCH_BEGIN of type Gdk.CrossingMode>, 'TOUCH_END': <enum GDK_CROSSING_TOUCH_END of type Gdk.CrossingMode>, 'DEVICE_SWITCH': <enum GDK_CROSSING_DEVICE_SWITCH of type Gdk.CrossingMode>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'CrossingMode' objects>, '__doc__': None, '__gtype__': <GType GdkCrossingMode (94915769000688)>, '__enum_values__': {0: <enum GDK_CROSSING_NORMAL of type Gdk.CrossingMode>, 1: <enum GDK_CROSSING_GRAB of type Gdk.CrossingMode>, 2: <enum GDK_CROSSING_UNGRAB of type Gdk.CrossingMode>, 3: <enum GDK_CROSSING_GTK_GRAB of type Gdk.CrossingMode>, 4: <enum GDK_CROSSING_GTK_UNGRAB of type Gdk.CrossingMode>, 5: <enum GDK_CROSSING_STATE_CHANGED of type Gdk.CrossingMode>, 6: <enum GDK_CROSSING_TOUCH_BEGIN of type Gdk.CrossingMode>, 7: <enum GDK_CROSSING_TOUCH_END of type Gdk.CrossingMode>, 8: <enum GDK_CROSSING_DEVICE_SWITCH of type Gdk.CrossingMode>}, '__info__': gi.EnumInfo(CrossingMode), 'NORMAL': <enum GDK_CROSSING_NORMAL of type Gdk.CrossingMode>, 'GRAB': <enum GDK_CROSSING_GRAB of type Gdk.CrossingMode>, 'UNGRAB': <enum GDK_CROSSING_UNGRAB of type Gdk.CrossingMode>, 'GTK_GRAB': <enum GDK_CROSSING_GTK_GRAB of type Gdk.CrossingMode>, 'GTK_UNGRAB': <enum GDK_CROSSING_GTK_UNGRAB of type Gdk.CrossingMode>, 'STATE_CHANGED': <enum GDK_CROSSING_STATE_CHANGED of type Gdk.CrossingMode>, 'TOUCH_BEGIN': <enum GDK_CROSSING_TOUCH_BEGIN of type Gdk.CrossingMode>, 'TOUCH_END': <enum GDK_CROSSING_TOUCH_END of type Gdk.CrossingMode>, 'DEVICE_SWITCH': <enum GDK_CROSSING_DEVICE_SWITCH of type Gdk.CrossingMode>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -376,7 +376,7 @@ class CrossingMode(__gobject.GEnum):
         7: 7,
         8: 8,
     }
-    __gtype__ = None # (!) real value is '<GType GdkCrossingMode (94055651434112)>'
+    __gtype__ = None # (!) real value is '<GType GdkCrossingMode (94915769000688)>'
     __info__ = gi.EnumInfo(CrossingMode)
 
 

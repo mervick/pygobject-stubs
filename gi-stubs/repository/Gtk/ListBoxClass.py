@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -149,7 +149,7 @@ class ListBoxClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ListBoxClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ListBoxClass' objects>, '__weakref__': <attribute '__weakref__' of 'ListBoxClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe83105bd10>, 'row_selected': <property object at 0x7fe83105be00>, 'row_activated': <property object at 0x7fe83105bef0>, 'activate_cursor_row': <property object at 0x7fe83105e090>, 'toggle_cursor_row': <property object at 0x7fe83105e1d0>, 'move_cursor': <property object at 0x7fe83105e2c0>, 'selected_rows_changed': <property object at 0x7fe83105e400>, 'select_all': <property object at 0x7fe83105e4f0>, 'unselect_all': <property object at 0x7fe83105e5e0>, '_gtk_reserved1': <property object at 0x7fe83105e6d0>, '_gtk_reserved2': <property object at 0x7fe83105e7c0>, '_gtk_reserved3': <property object at 0x7fe83105e8b0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ListBoxClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ListBoxClass' objects>, '__weakref__': <attribute '__weakref__' of 'ListBoxClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a773c70>, 'row_selected': <property object at 0x7fc63a773d60>, 'row_activated': <property object at 0x7fc63a773e50>, 'activate_cursor_row': <property object at 0x7fc63a773f90>, 'toggle_cursor_row': <property object at 0x7fc63a6f5130>, 'move_cursor': <property object at 0x7fc63a6f5220>, 'selected_rows_changed': <property object at 0x7fc63a6f5360>, 'select_all': <property object at 0x7fc63a6f5450>, 'unselect_all': <property object at 0x7fc63a6f5540>, '_gtk_reserved1': <property object at 0x7fc63a6f5630>, '_gtk_reserved2': <property object at 0x7fc63a6f5720>, '_gtk_reserved3': <property object at 0x7fc63a6f5810>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ListBoxClass)
 

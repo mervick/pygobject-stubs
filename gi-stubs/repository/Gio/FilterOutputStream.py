@@ -598,12 +598,12 @@ class FilterOutputStream(OutputStream):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28ddf6c9d0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87788730>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FilterOutputStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GFilterOutputStream (94125581551120)>, '__doc__': None, '__gsignals__': {}, 'get_base_stream': gi.FunctionInfo(get_base_stream), 'get_close_base_stream': gi.FunctionInfo(get_close_base_stream), 'set_close_base_stream': gi.FunctionInfo(set_close_base_stream), 'parent_instance': <property object at 0x7f28ddf2f810>, 'base_stream': <property object at 0x7f28ddf2f900>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FilterOutputStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GFilterOutputStream (94269256363792)>, '__doc__': None, '__gsignals__': {}, 'get_base_stream': gi.FunctionInfo(get_base_stream), 'get_close_base_stream': gi.FunctionInfo(get_close_base_stream), 'set_close_base_stream': gi.FunctionInfo(set_close_base_stream), 'parent_instance': <property object at 0x7f4b88092a90>, 'base_stream': <property object at 0x7f4b88092b80>})"
     __gdoc__ = 'Object GFilterOutputStream\n\nProperties from GFilterOutputStream:\n  base-stream -> GOutputStream: The Filter Base Stream\n    The underlying base stream on which the io ops will be done.\n  close-base-stream -> gboolean: Close Base Stream\n    If the base stream should be closed when the filter stream is closed.\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GFilterOutputStream (94125581551120)>'
+    __gtype__ = None # (!) real value is '<GType GFilterOutputStream (94269256363792)>'
     __info__ = ObjectInfo(FilterOutputStream)
 
 

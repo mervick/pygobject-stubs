@@ -429,12 +429,12 @@ class Coverage(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f247477f160>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f85178e8b20>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Coverage), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoCoverage (94752680914848)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'from_bytes': gi.FunctionInfo(from_bytes), 'copy': gi.FunctionInfo(copy), 'get': gi.FunctionInfo(get), 'max': gi.FunctionInfo(max), 'ref': gi.FunctionInfo(ref), 'set': gi.FunctionInfo(set), 'to_bytes': gi.FunctionInfo(to_bytes), 'unref': gi.FunctionInfo(unref)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Coverage), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoCoverage (94187429012832)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'from_bytes': gi.FunctionInfo(from_bytes), 'copy': gi.FunctionInfo(copy), 'get': gi.FunctionInfo(get), 'max': gi.FunctionInfo(max), 'ref': gi.FunctionInfo(ref), 'set': gi.FunctionInfo(set), 'to_bytes': gi.FunctionInfo(to_bytes), 'unref': gi.FunctionInfo(unref)})"
     __gdoc__ = 'Object PangoCoverage\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType PangoCoverage (94752680914848)>'
+    __gtype__ = None # (!) real value is '<GType PangoCoverage (94187429012832)>'
     __info__ = ObjectInfo(Coverage)
 
 

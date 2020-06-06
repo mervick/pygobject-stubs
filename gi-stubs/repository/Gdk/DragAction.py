@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -366,7 +366,7 @@ class DragAction(__gobject.GFlags):
     MOVE = 4
     PRIVATE = 16
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'DragAction' objects>, '__doc__': None, '__gtype__': <GType GdkDragAction (94055651697888)>, '__flags_values__': {1: <flags GDK_ACTION_DEFAULT of type Gdk.DragAction>, 2: <flags GDK_ACTION_COPY of type Gdk.DragAction>, 4: <flags GDK_ACTION_MOVE of type Gdk.DragAction>, 8: <flags GDK_ACTION_LINK of type Gdk.DragAction>, 16: <flags GDK_ACTION_PRIVATE of type Gdk.DragAction>, 32: <flags GDK_ACTION_ASK of type Gdk.DragAction>}, '__info__': gi.EnumInfo(DragAction), 'DEFAULT': <flags GDK_ACTION_DEFAULT of type Gdk.DragAction>, 'COPY': <flags GDK_ACTION_COPY of type Gdk.DragAction>, 'MOVE': <flags GDK_ACTION_MOVE of type Gdk.DragAction>, 'LINK': <flags GDK_ACTION_LINK of type Gdk.DragAction>, 'PRIVATE': <flags GDK_ACTION_PRIVATE of type Gdk.DragAction>, 'ASK': <flags GDK_ACTION_ASK of type Gdk.DragAction>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'DragAction' objects>, '__doc__': None, '__gtype__': <GType GdkDragAction (94915769275248)>, '__flags_values__': {1: <flags GDK_ACTION_DEFAULT of type Gdk.DragAction>, 2: <flags GDK_ACTION_COPY of type Gdk.DragAction>, 4: <flags GDK_ACTION_MOVE of type Gdk.DragAction>, 8: <flags GDK_ACTION_LINK of type Gdk.DragAction>, 16: <flags GDK_ACTION_PRIVATE of type Gdk.DragAction>, 32: <flags GDK_ACTION_ASK of type Gdk.DragAction>}, '__info__': gi.EnumInfo(DragAction), 'DEFAULT': <flags GDK_ACTION_DEFAULT of type Gdk.DragAction>, 'COPY': <flags GDK_ACTION_COPY of type Gdk.DragAction>, 'MOVE': <flags GDK_ACTION_MOVE of type Gdk.DragAction>, 'LINK': <flags GDK_ACTION_LINK of type Gdk.DragAction>, 'PRIVATE': <flags GDK_ACTION_PRIVATE of type Gdk.DragAction>, 'ASK': <flags GDK_ACTION_ASK of type Gdk.DragAction>})"
     __flags_values__ = {
         1: 1,
         2: 2,
@@ -375,7 +375,7 @@ class DragAction(__gobject.GFlags):
         16: 16,
         32: 32,
     }
-    __gtype__ = None # (!) real value is '<GType GdkDragAction (94055651697888)>'
+    __gtype__ = None # (!) real value is '<GType GdkDragAction (94915769275248)>'
     __info__ = gi.EnumInfo(DragAction)
 
 

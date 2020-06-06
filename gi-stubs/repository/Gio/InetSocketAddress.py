@@ -477,12 +477,12 @@ class InetSocketAddress(SocketAddress):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd15bbb0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87269040>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(InetSocketAddress), '__module__': 'gi.repository.Gio', '__gtype__': <GType GInetSocketAddress (94125582461648)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_from_string': gi.FunctionInfo(new_from_string), 'get_address': gi.FunctionInfo(get_address), 'get_flowinfo': gi.FunctionInfo(get_flowinfo), 'get_port': gi.FunctionInfo(get_port), 'get_scope_id': gi.FunctionInfo(get_scope_id), 'parent_instance': <property object at 0x7f28dde9e810>, 'priv': <property object at 0x7f28dde9e950>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(InetSocketAddress), '__module__': 'gi.repository.Gio', '__gtype__': <GType GInetSocketAddress (94269257085408)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_from_string': gi.FunctionInfo(new_from_string), 'get_address': gi.FunctionInfo(get_address), 'get_flowinfo': gi.FunctionInfo(get_flowinfo), 'get_port': gi.FunctionInfo(get_port), 'get_scope_id': gi.FunctionInfo(get_scope_id), 'parent_instance': <property object at 0x7f4b87fff950>, 'priv': <property object at 0x7f4b87fffa90>})"
     __gdoc__ = 'Object GInetSocketAddress\n\nProperties from GInetSocketAddress:\n  address -> GInetAddress: Address\n    The address\n  port -> guint: Port\n    The port\n  flowinfo -> guint: Flow info\n    IPv6 flow info\n  scope-id -> guint: Scope ID\n    IPv6 scope ID\n\nProperties from GSocketAddress:\n  family -> GSocketFamily: Address family\n    The family of the socket address\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GInetSocketAddress (94125582461648)>'
+    __gtype__ = None # (!) real value is '<GType GInetSocketAddress (94269257085408)>'
     __info__ = ObjectInfo(InetSocketAddress)
 
 

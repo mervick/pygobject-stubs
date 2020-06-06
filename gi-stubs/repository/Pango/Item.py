@@ -153,8 +153,8 @@ class Item(__gi.Boxed):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Item), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoItem (94752681037488)>, '__dict__': <attribute '__dict__' of 'Item' objects>, '__weakref__': <attribute '__weakref__' of 'Item' objects>, '__doc__': None, 'offset': <property object at 0x7f24746f9950>, 'length': <property object at 0x7f24746f9a40>, 'num_chars': <property object at 0x7f24746f9b30>, 'analysis': <property object at 0x7f24746f9c20>, 'new': gi.FunctionInfo(new), 'apply_attrs': gi.FunctionInfo(apply_attrs), 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free), 'split': gi.FunctionInfo(split), '__new__': <staticmethod object at 0x7f24746f2fa0>, '__init__': <function nothing at 0x7f2474a83430>})"
-    __gtype__ = None # (!) real value is '<GType PangoItem (94752681037488)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Item), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoItem (94187429290560)>, '__dict__': <attribute '__dict__' of 'Item' objects>, '__weakref__': <attribute '__weakref__' of 'Item' objects>, '__doc__': None, 'offset': <property object at 0x7f85178a1680>, 'length': <property object at 0x7f85178a1770>, 'num_chars': <property object at 0x7f85178a1860>, 'analysis': <property object at 0x7f85178a1950>, 'new': gi.FunctionInfo(new), 'apply_attrs': gi.FunctionInfo(apply_attrs), 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free), 'split': gi.FunctionInfo(split), '__new__': <staticmethod object at 0x7f85178a03d0>, '__init__': <function nothing at 0x7f8517c2dee0>})"
+    __gtype__ = None # (!) real value is '<GType PangoItem (94187429290560)>'
     __info__ = StructInfo(Item)
 
 

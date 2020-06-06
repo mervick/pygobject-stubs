@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -361,12 +361,12 @@ class ScrollablePolicy(__gobject.GEnum):
     MINIMUM = 0
     NATURAL = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ScrollablePolicy' objects>, '__doc__': None, '__gtype__': <GType GtkScrollablePolicy (94846039105104)>, '__enum_values__': {0: <enum GTK_SCROLL_MINIMUM of type Gtk.ScrollablePolicy>, 1: <enum GTK_SCROLL_NATURAL of type Gtk.ScrollablePolicy>}, '__info__': gi.EnumInfo(ScrollablePolicy), 'MINIMUM': <enum GTK_SCROLL_MINIMUM of type Gtk.ScrollablePolicy>, 'NATURAL': <enum GTK_SCROLL_NATURAL of type Gtk.ScrollablePolicy>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ScrollablePolicy' objects>, '__doc__': None, '__gtype__': <GType GtkScrollablePolicy (93897369347504)>, '__enum_values__': {0: <enum GTK_SCROLL_MINIMUM of type Gtk.ScrollablePolicy>, 1: <enum GTK_SCROLL_NATURAL of type Gtk.ScrollablePolicy>}, '__info__': gi.EnumInfo(ScrollablePolicy), 'MINIMUM': <enum GTK_SCROLL_MINIMUM of type Gtk.ScrollablePolicy>, 'NATURAL': <enum GTK_SCROLL_NATURAL of type Gtk.ScrollablePolicy>})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GtkScrollablePolicy (94846039105104)>'
+    __gtype__ = None # (!) real value is '<GType GtkScrollablePolicy (93897369347504)>'
     __info__ = gi.EnumInfo(ScrollablePolicy)
 
 

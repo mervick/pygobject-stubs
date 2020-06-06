@@ -142,7 +142,7 @@ class ActionIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ActionIface), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ActionIface' objects>, '__weakref__': <attribute '__weakref__' of 'ActionIface' objects>, '__doc__': None, 'parent': <property object at 0x7f0cd80e3720>, 'do_action': <property object at 0x7f0cd80e3770>, 'get_n_actions': <property object at 0x7f0cd80e37c0>, 'get_description': <property object at 0x7f0cd80e3810>, 'get_name': <property object at 0x7f0cd80e3900>, 'get_keybinding': <property object at 0x7f0cd80e39f0>, 'set_description': <property object at 0x7f0cd80e3ae0>, 'get_localized_name': <property object at 0x7f0cd80e3c20>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ActionIface), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ActionIface' objects>, '__weakref__': <attribute '__weakref__' of 'ActionIface' objects>, '__doc__': None, 'parent': <property object at 0x7f44c6e50c20>, 'do_action': <property object at 0x7f44c6e50c70>, 'get_n_actions': <property object at 0x7f44c6e50cc0>, 'get_description': <property object at 0x7f44c6e50d10>, 'get_name': <property object at 0x7f44c6e50db0>, 'get_keybinding': <property object at 0x7f44c6e50ea0>, 'set_description': <property object at 0x7f44c6e50f90>, 'get_localized_name': <property object at 0x7f44c6da0130>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ActionIface)
 

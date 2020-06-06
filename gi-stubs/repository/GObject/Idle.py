@@ -333,8 +333,8 @@ class Idle(__gi_overrides_GLib.Source):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.GLib', '__new__': <staticmethod object at 0x7f7c29a0b850>, '__init__': <function Idle.__init__ at 0x7f7c29a23280>, '__doc__': None})"
-    __gtype__ = None # (!) real value is '<GType GSource (93895379285728)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.GLib', '__new__': <staticmethod object at 0x7fe46cc36d90>, '__init__': <function Idle.__init__ at 0x7fe46cc4aa60>, '__doc__': None})"
+    __gtype__ = None # (!) real value is '<GType GSource (94184341750976)>'
     __info__ = StructInfo(Source)
 
 

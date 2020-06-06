@@ -158,8 +158,8 @@ class PollFD(__gi_repository_GLib.PollFD):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.GLib', '__new__': <staticmethod object at 0x7f7c29a0bfa0>, '__init__': <function PollFD.__init__ at 0x7f7c29a23e50>, '__doc__': None})"
-    __gtype__ = None # (!) real value is '<GType GPollFD (93895379318624)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.GLib', '__new__': <staticmethod object at 0x7fe46cc55370>, '__init__': <function PollFD.__init__ at 0x7fe46cc58670>, '__doc__': None})"
+    __gtype__ = None # (!) real value is '<GType GPollFD (94184341784416)>'
     __info__ = StructInfo(PollFD)
 
 

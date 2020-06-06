@@ -151,7 +151,7 @@ class TypeInstance(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TypeInstance), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TypeInstance' objects>, '__weakref__': <attribute '__weakref__' of 'TypeInstance' objects>, '__doc__': None, 'g_class': <property object at 0x7f7c28658a40>, 'get_private': gi.FunctionInfo(get_private)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TypeInstance), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TypeInstance' objects>, '__weakref__': <attribute '__weakref__' of 'TypeInstance' objects>, '__doc__': None, 'g_class': <property object at 0x7fe46b8ccc20>, 'get_private': gi.FunctionInfo(get_private)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TypeInstance)
 

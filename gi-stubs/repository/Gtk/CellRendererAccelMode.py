@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -361,12 +361,12 @@ class CellRendererAccelMode(__gobject.GEnum):
     GTK = 0
     OTHER = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'CellRendererAccelMode' objects>, '__doc__': None, '__gtype__': <GType GtkCellRendererAccelMode (94846038043152)>, '__enum_values__': {0: <enum GTK_CELL_RENDERER_ACCEL_MODE_GTK of type Gtk.CellRendererAccelMode>, 1: <enum GTK_CELL_RENDERER_ACCEL_MODE_OTHER of type Gtk.CellRendererAccelMode>}, '__info__': gi.EnumInfo(CellRendererAccelMode), 'GTK': <enum GTK_CELL_RENDERER_ACCEL_MODE_GTK of type Gtk.CellRendererAccelMode>, 'OTHER': <enum GTK_CELL_RENDERER_ACCEL_MODE_OTHER of type Gtk.CellRendererAccelMode>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'CellRendererAccelMode' objects>, '__doc__': None, '__gtype__': <GType GtkCellRendererAccelMode (93897368258080)>, '__enum_values__': {0: <enum GTK_CELL_RENDERER_ACCEL_MODE_GTK of type Gtk.CellRendererAccelMode>, 1: <enum GTK_CELL_RENDERER_ACCEL_MODE_OTHER of type Gtk.CellRendererAccelMode>}, '__info__': gi.EnumInfo(CellRendererAccelMode), 'GTK': <enum GTK_CELL_RENDERER_ACCEL_MODE_GTK of type Gtk.CellRendererAccelMode>, 'OTHER': <enum GTK_CELL_RENDERER_ACCEL_MODE_OTHER of type Gtk.CellRendererAccelMode>})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GtkCellRendererAccelMode (94846038043152)>'
+    __gtype__ = None # (!) real value is '<GType GtkCellRendererAccelMode (93897368258080)>'
     __info__ = gi.EnumInfo(CellRendererAccelMode)
 
 

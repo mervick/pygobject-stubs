@@ -367,7 +367,7 @@ class AskPasswordFlags(__gobject.GFlags):
     SAVING_SUPPORTED = 8
     TCRYPT = 32
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'AskPasswordFlags' objects>, '__doc__': None, '__gtype__': <GType GAskPasswordFlags (94125581772048)>, '__flags_values__': {1: <flags G_ASK_PASSWORD_NEED_PASSWORD of type Gio.AskPasswordFlags>, 2: <flags G_ASK_PASSWORD_NEED_USERNAME of type Gio.AskPasswordFlags>, 4: <flags G_ASK_PASSWORD_NEED_DOMAIN of type Gio.AskPasswordFlags>, 8: <flags G_ASK_PASSWORD_SAVING_SUPPORTED of type Gio.AskPasswordFlags>, 16: <flags G_ASK_PASSWORD_ANONYMOUS_SUPPORTED of type Gio.AskPasswordFlags>, 32: <flags G_ASK_PASSWORD_TCRYPT of type Gio.AskPasswordFlags>}, '__info__': gi.EnumInfo(AskPasswordFlags), 'NEED_PASSWORD': <flags G_ASK_PASSWORD_NEED_PASSWORD of type Gio.AskPasswordFlags>, 'NEED_USERNAME': <flags G_ASK_PASSWORD_NEED_USERNAME of type Gio.AskPasswordFlags>, 'NEED_DOMAIN': <flags G_ASK_PASSWORD_NEED_DOMAIN of type Gio.AskPasswordFlags>, 'SAVING_SUPPORTED': <flags G_ASK_PASSWORD_SAVING_SUPPORTED of type Gio.AskPasswordFlags>, 'ANONYMOUS_SUPPORTED': <flags G_ASK_PASSWORD_ANONYMOUS_SUPPORTED of type Gio.AskPasswordFlags>, 'TCRYPT': <flags G_ASK_PASSWORD_TCRYPT of type Gio.AskPasswordFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'AskPasswordFlags' objects>, '__doc__': None, '__gtype__': <GType GAskPasswordFlags (94269256389408)>, '__flags_values__': {1: <flags G_ASK_PASSWORD_NEED_PASSWORD of type Gio.AskPasswordFlags>, 2: <flags G_ASK_PASSWORD_NEED_USERNAME of type Gio.AskPasswordFlags>, 4: <flags G_ASK_PASSWORD_NEED_DOMAIN of type Gio.AskPasswordFlags>, 8: <flags G_ASK_PASSWORD_SAVING_SUPPORTED of type Gio.AskPasswordFlags>, 16: <flags G_ASK_PASSWORD_ANONYMOUS_SUPPORTED of type Gio.AskPasswordFlags>, 32: <flags G_ASK_PASSWORD_TCRYPT of type Gio.AskPasswordFlags>}, '__info__': gi.EnumInfo(AskPasswordFlags), 'NEED_PASSWORD': <flags G_ASK_PASSWORD_NEED_PASSWORD of type Gio.AskPasswordFlags>, 'NEED_USERNAME': <flags G_ASK_PASSWORD_NEED_USERNAME of type Gio.AskPasswordFlags>, 'NEED_DOMAIN': <flags G_ASK_PASSWORD_NEED_DOMAIN of type Gio.AskPasswordFlags>, 'SAVING_SUPPORTED': <flags G_ASK_PASSWORD_SAVING_SUPPORTED of type Gio.AskPasswordFlags>, 'ANONYMOUS_SUPPORTED': <flags G_ASK_PASSWORD_ANONYMOUS_SUPPORTED of type Gio.AskPasswordFlags>, 'TCRYPT': <flags G_ASK_PASSWORD_TCRYPT of type Gio.AskPasswordFlags>})"
     __flags_values__ = {
         1: 1,
         2: 2,
@@ -376,7 +376,7 @@ class AskPasswordFlags(__gobject.GFlags):
         16: 16,
         32: 32,
     }
-    __gtype__ = None # (!) real value is '<GType GAskPasswordFlags (94125581772048)>'
+    __gtype__ = None # (!) real value is '<GType GAskPasswordFlags (94269256389408)>'
     __info__ = gi.EnumInfo(AskPasswordFlags)
 
 

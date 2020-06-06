@@ -454,12 +454,12 @@ class FileIcon(__gi_overrides_GObject.Object, Icon, LoadableIcon):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd4ad8b0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b8760b6a0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FileIcon), '__module__': 'gi.repository.Gio', '__gtype__': <GType GFileIcon (94125582331408)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_file': gi.FunctionInfo(get_file)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FileIcon), '__module__': 'gi.repository.Gio', '__gtype__': <GType GFileIcon (94269256960176)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_file': gi.FunctionInfo(get_file)})"
     __gdoc__ = 'Object GFileIcon\n\nProperties from GFileIcon:\n  file -> GFile: file\n    The file containing the icon\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GFileIcon (94125582331408)>'
+    __gtype__ = None # (!) real value is '<GType GFileIcon (94269256960176)>'
     __info__ = ObjectInfo(FileIcon)
 
 

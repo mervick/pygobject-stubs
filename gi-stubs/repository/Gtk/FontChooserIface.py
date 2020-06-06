@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -143,7 +143,7 @@ class FontChooserIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FontChooserIface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FontChooserIface' objects>, '__weakref__': <attribute '__weakref__' of 'FontChooserIface' objects>, '__doc__': None, 'base_iface': <property object at 0x7fe831097a90>, 'get_font_family': <property object at 0x7fe831097b80>, 'get_font_face': <property object at 0x7fe831097c70>, 'get_font_size': <property object at 0x7fe831097d60>, 'set_filter_func': <property object at 0x7fe831097e50>, 'font_activated': <property object at 0x7fe831097f40>, 'set_font_map': <property object at 0x7fe831099090>, 'get_font_map': <property object at 0x7fe831099180>, 'padding': <property object at 0x7fe831099270>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FontChooserIface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FontChooserIface' objects>, '__weakref__': <attribute '__weakref__' of 'FontChooserIface' objects>, '__doc__': None, 'base_iface': <property object at 0x7fc63a7ad7c0>, 'get_font_family': <property object at 0x7fc63a7ad8b0>, 'get_font_face': <property object at 0x7fc63a7ad9a0>, 'get_font_size': <property object at 0x7fc63a7ada90>, 'set_filter_func': <property object at 0x7fc63a7adb80>, 'font_activated': <property object at 0x7fc63a7adc70>, 'set_font_map': <property object at 0x7fc63a7add60>, 'get_font_map': <property object at 0x7fc63a7ade50>, 'padding': <property object at 0x7fc63a7adf40>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(FontChooserIface)
 

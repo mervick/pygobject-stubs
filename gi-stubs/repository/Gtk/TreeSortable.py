@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -144,10 +144,10 @@ class TreeSortable(TreeSortable):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', 'get_sort_column_id': <function strip_boolean_result.<locals>.wrapped at 0x7fe831241310>, 'set_sort_func': <function TreeSortable.set_sort_func at 0x7fe8312413a0>, 'set_default_sort_func': <function TreeSortable.set_default_sort_func at 0x7fe831241430>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', 'get_sort_column_id': <function strip_boolean_result.<locals>.wrapped at 0x7fc63a960af0>, 'set_sort_func': <function TreeSortable.set_sort_func at 0x7fc63a960b80>, 'set_default_sort_func': <function TreeSortable.set_default_sort_func at 0x7fc63a960c10>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Interface GtkTreeSortable\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkTreeSortable (94846036989984)>'
+    __gtype__ = None # (!) real value is '<GType GtkTreeSortable (93897367207680)>'
     __info__ = InterfaceInfo(TreeSortable)
 
 

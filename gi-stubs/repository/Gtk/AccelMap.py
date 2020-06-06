@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -461,12 +461,12 @@ class AccelMap(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe830cfa4c0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc63a4448e0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(AccelMap), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkAccelMap (94846037723600)>, '__doc__': None, '__gsignals__': {}, 'add_entry': gi.FunctionInfo(add_entry), 'add_filter': gi.FunctionInfo(add_filter), 'change_entry': gi.FunctionInfo(change_entry), 'foreach': gi.FunctionInfo(foreach), 'foreach_unfiltered': gi.FunctionInfo(foreach_unfiltered), 'get': gi.FunctionInfo(get), 'load': gi.FunctionInfo(load), 'load_fd': gi.FunctionInfo(load_fd), 'load_scanner': gi.FunctionInfo(load_scanner), 'lock_path': gi.FunctionInfo(lock_path), 'lookup_entry': gi.FunctionInfo(lookup_entry), 'save': gi.FunctionInfo(save), 'save_fd': gi.FunctionInfo(save_fd), 'unlock_path': gi.FunctionInfo(unlock_path)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(AccelMap), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkAccelMap (93897367940608)>, '__doc__': None, '__gsignals__': {}, 'add_entry': gi.FunctionInfo(add_entry), 'add_filter': gi.FunctionInfo(add_filter), 'change_entry': gi.FunctionInfo(change_entry), 'foreach': gi.FunctionInfo(foreach), 'foreach_unfiltered': gi.FunctionInfo(foreach_unfiltered), 'get': gi.FunctionInfo(get), 'load': gi.FunctionInfo(load), 'load_fd': gi.FunctionInfo(load_fd), 'load_scanner': gi.FunctionInfo(load_scanner), 'lock_path': gi.FunctionInfo(lock_path), 'lookup_entry': gi.FunctionInfo(lookup_entry), 'save': gi.FunctionInfo(save), 'save_fd': gi.FunctionInfo(save_fd), 'unlock_path': gi.FunctionInfo(unlock_path)})"
     __gdoc__ = 'Object GtkAccelMap\n\nSignals from GtkAccelMap:\n  changed (gchararray, guint, GdkModifierType)\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkAccelMap (94846037723600)>'
+    __gtype__ = None # (!) real value is '<GType GtkAccelMap (93897367940608)>'
     __info__ = ObjectInfo(AccelMap)
 
 

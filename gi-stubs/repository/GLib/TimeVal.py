@@ -139,7 +139,7 @@ class TimeVal(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TimeVal), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TimeVal' objects>, '__weakref__': <attribute '__weakref__' of 'TimeVal' objects>, '__doc__': None, 'tv_sec': <property object at 0x7f1d2b90c540>, 'tv_usec': <property object at 0x7f1d2b90c630>, 'add': gi.FunctionInfo(add), 'to_iso8601': gi.FunctionInfo(to_iso8601), 'from_iso8601': gi.FunctionInfo(from_iso8601)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TimeVal), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TimeVal' objects>, '__weakref__': <attribute '__weakref__' of 'TimeVal' objects>, '__doc__': None, 'tv_sec': <property object at 0x7f851350ab30>, 'tv_usec': <property object at 0x7f851350ac20>, 'add': gi.FunctionInfo(add), 'to_iso8601': gi.FunctionInfo(to_iso8601), 'from_iso8601': gi.FunctionInfo(from_iso8601)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TimeVal)
 

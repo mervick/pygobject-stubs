@@ -128,7 +128,7 @@ class DBusObjectSkeletonClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(DBusObjectSkeletonClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'DBusObjectSkeletonClass' objects>, '__weakref__': <attribute '__weakref__' of 'DBusObjectSkeletonClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28dded74f0>, 'authorize_method': <property object at 0x7f28dded7630>, 'padding': <property object at 0x7f28dded7720>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(DBusObjectSkeletonClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'DBusObjectSkeletonClass' objects>, '__weakref__': <attribute '__weakref__' of 'DBusObjectSkeletonClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b8803a7c0>, 'authorize_method': <property object at 0x7f4b8803a900>, 'padding': <property object at 0x7f4b8803a9f0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(DBusObjectSkeletonClass)
 

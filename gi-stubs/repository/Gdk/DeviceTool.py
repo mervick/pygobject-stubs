@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -413,12 +413,12 @@ class DeviceTool(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f1e11ccb2b0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fbaf8092d90>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DeviceTool), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkDeviceTool (94055650960976)>, '__doc__': None, '__gsignals__': {}, 'get_hardware_id': gi.FunctionInfo(get_hardware_id), 'get_serial': gi.FunctionInfo(get_serial), 'get_tool_type': gi.FunctionInfo(get_tool_type)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DeviceTool), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkDeviceTool (94915768526256)>, '__doc__': None, '__gsignals__': {}, 'get_hardware_id': gi.FunctionInfo(get_hardware_id), 'get_serial': gi.FunctionInfo(get_serial), 'get_tool_type': gi.FunctionInfo(get_tool_type)})"
     __gdoc__ = 'Object GdkDeviceTool\n\nProperties from GdkDeviceTool:\n  serial -> guint64: Serial\n    Serial number\n  tool-type -> GdkDeviceToolType: Tool type\n    Tool type\n  axes -> GdkAxisFlags: Axes\n    Tool axes\n  hardware-id -> guint64: Hardware ID\n    Hardware ID\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GdkDeviceTool (94055650960976)>'
+    __gtype__ = None # (!) real value is '<GType GdkDeviceTool (94915768526256)>'
     __info__ = ObjectInfo(DeviceTool)
 
 

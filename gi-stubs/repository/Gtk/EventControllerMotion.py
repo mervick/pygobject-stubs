@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -432,12 +432,12 @@ class EventControllerMotion(EventController):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe830cfa7f0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc63a342040>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(EventControllerMotion), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkEventControllerMotion (94846038184480)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(EventControllerMotion), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkEventControllerMotion (93897368462176)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new)})"
     __gdoc__ = 'Object GtkEventControllerMotion\n\nSignals from GtkEventControllerMotion:\n  enter (gdouble, gdouble)\n  leave ()\n  motion (gdouble, gdouble)\n\nProperties from GtkEventController:\n  widget -> GtkWidget: Widget\n    Widget the gesture relates to\n  propagation-phase -> GtkPropagationPhase: Propagation phase\n    Propagation phase at which this controller is run\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkEventControllerMotion (94846038184480)>'
+    __gtype__ = None # (!) real value is '<GType GtkEventControllerMotion (93897368462176)>'
     __info__ = ObjectInfo(EventControllerMotion)
 
 

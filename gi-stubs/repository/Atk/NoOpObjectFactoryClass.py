@@ -128,7 +128,7 @@ class NoOpObjectFactoryClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(NoOpObjectFactoryClass), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'NoOpObjectFactoryClass' objects>, '__weakref__': <attribute '__weakref__' of 'NoOpObjectFactoryClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f0cd819ef90>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(NoOpObjectFactoryClass), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'NoOpObjectFactoryClass' objects>, '__weakref__': <attribute '__weakref__' of 'NoOpObjectFactoryClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f44c6dba3b0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(NoOpObjectFactoryClass)
 

@@ -361,7 +361,7 @@ class SocketProtocol(__gobject.GEnum):
     UDP = 17
     UNKNOWN = -1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'SocketProtocol' objects>, '__doc__': None, '__gtype__': <GType GSocketProtocol (94125582072144)>, '__enum_values__': {-1: <enum G_SOCKET_PROTOCOL_UNKNOWN of type Gio.SocketProtocol>, 0: <enum G_SOCKET_PROTOCOL_DEFAULT of type Gio.SocketProtocol>, 6: <enum G_SOCKET_PROTOCOL_TCP of type Gio.SocketProtocol>, 17: <enum G_SOCKET_PROTOCOL_UDP of type Gio.SocketProtocol>, 132: <enum G_SOCKET_PROTOCOL_SCTP of type Gio.SocketProtocol>}, '__info__': gi.EnumInfo(SocketProtocol), 'UNKNOWN': <enum G_SOCKET_PROTOCOL_UNKNOWN of type Gio.SocketProtocol>, 'DEFAULT': <enum G_SOCKET_PROTOCOL_DEFAULT of type Gio.SocketProtocol>, 'TCP': <enum G_SOCKET_PROTOCOL_TCP of type Gio.SocketProtocol>, 'UDP': <enum G_SOCKET_PROTOCOL_UDP of type Gio.SocketProtocol>, 'SCTP': <enum G_SOCKET_PROTOCOL_SCTP of type Gio.SocketProtocol>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'SocketProtocol' objects>, '__doc__': None, '__gtype__': <GType GSocketProtocol (94269257359344)>, '__enum_values__': {-1: <enum G_SOCKET_PROTOCOL_UNKNOWN of type Gio.SocketProtocol>, 0: <enum G_SOCKET_PROTOCOL_DEFAULT of type Gio.SocketProtocol>, 6: <enum G_SOCKET_PROTOCOL_TCP of type Gio.SocketProtocol>, 17: <enum G_SOCKET_PROTOCOL_UDP of type Gio.SocketProtocol>, 132: <enum G_SOCKET_PROTOCOL_SCTP of type Gio.SocketProtocol>}, '__info__': gi.EnumInfo(SocketProtocol), 'UNKNOWN': <enum G_SOCKET_PROTOCOL_UNKNOWN of type Gio.SocketProtocol>, 'DEFAULT': <enum G_SOCKET_PROTOCOL_DEFAULT of type Gio.SocketProtocol>, 'TCP': <enum G_SOCKET_PROTOCOL_TCP of type Gio.SocketProtocol>, 'UDP': <enum G_SOCKET_PROTOCOL_UDP of type Gio.SocketProtocol>, 'SCTP': <enum G_SOCKET_PROTOCOL_SCTP of type Gio.SocketProtocol>})"
     __enum_values__ = {
         -1: -1,
         0: 0,
@@ -369,7 +369,7 @@ class SocketProtocol(__gobject.GEnum):
         17: 17,
         132: 132,
     }
-    __gtype__ = None # (!) real value is '<GType GSocketProtocol (94125582072144)>'
+    __gtype__ = None # (!) real value is '<GType GSocketProtocol (94269257359344)>'
     __info__ = gi.EnumInfo(SocketProtocol)
 
 

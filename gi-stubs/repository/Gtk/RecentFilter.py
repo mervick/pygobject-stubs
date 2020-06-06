@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -491,12 +491,12 @@ class RecentFilter(__gi_repository_GObject.InitiallyUnowned, Buildable):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe8305760a0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc639d4b3d0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(RecentFilter), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkRecentFilter (94846039069408)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add_age': gi.FunctionInfo(add_age), 'add_application': gi.FunctionInfo(add_application), 'add_custom': gi.FunctionInfo(add_custom), 'add_group': gi.FunctionInfo(add_group), 'add_mime_type': gi.FunctionInfo(add_mime_type), 'add_pattern': gi.FunctionInfo(add_pattern), 'add_pixbuf_formats': gi.FunctionInfo(add_pixbuf_formats), 'filter': gi.FunctionInfo(filter), 'get_name': gi.FunctionInfo(get_name), 'get_needed': gi.FunctionInfo(get_needed), 'set_name': gi.FunctionInfo(set_name)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(RecentFilter), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkRecentFilter (93897369277072)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add_age': gi.FunctionInfo(add_age), 'add_application': gi.FunctionInfo(add_application), 'add_custom': gi.FunctionInfo(add_custom), 'add_group': gi.FunctionInfo(add_group), 'add_mime_type': gi.FunctionInfo(add_mime_type), 'add_pattern': gi.FunctionInfo(add_pattern), 'add_pixbuf_formats': gi.FunctionInfo(add_pixbuf_formats), 'filter': gi.FunctionInfo(filter), 'get_name': gi.FunctionInfo(get_name), 'get_needed': gi.FunctionInfo(get_needed), 'set_name': gi.FunctionInfo(set_name)})"
     __gdoc__ = 'Object GtkRecentFilter\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkRecentFilter (94846039069408)>'
+    __gtype__ = None # (!) real value is '<GType GtkRecentFilter (93897369277072)>'
     __info__ = ObjectInfo(RecentFilter)
 
 

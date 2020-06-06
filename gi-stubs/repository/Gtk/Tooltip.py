@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -441,12 +441,12 @@ class Tooltip(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe82e6647f0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc637ef28e0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Tooltip), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkTooltip (94846037210592)>, '__doc__': None, '__gsignals__': {}, 'trigger_tooltip_query': gi.FunctionInfo(trigger_tooltip_query), 'set_custom': gi.FunctionInfo(set_custom), 'set_icon': gi.FunctionInfo(set_icon), 'set_icon_from_gicon': gi.FunctionInfo(set_icon_from_gicon), 'set_icon_from_icon_name': gi.FunctionInfo(set_icon_from_icon_name), 'set_icon_from_stock': gi.FunctionInfo(set_icon_from_stock), 'set_markup': gi.FunctionInfo(set_markup), 'set_text': gi.FunctionInfo(set_text), 'set_tip_area': gi.FunctionInfo(set_tip_area)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Tooltip), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkTooltip (93897367425808)>, '__doc__': None, '__gsignals__': {}, 'trigger_tooltip_query': gi.FunctionInfo(trigger_tooltip_query), 'set_custom': gi.FunctionInfo(set_custom), 'set_icon': gi.FunctionInfo(set_icon), 'set_icon_from_gicon': gi.FunctionInfo(set_icon_from_gicon), 'set_icon_from_icon_name': gi.FunctionInfo(set_icon_from_icon_name), 'set_icon_from_stock': gi.FunctionInfo(set_icon_from_stock), 'set_markup': gi.FunctionInfo(set_markup), 'set_text': gi.FunctionInfo(set_text), 'set_tip_area': gi.FunctionInfo(set_tip_area)})"
     __gdoc__ = 'Object GtkTooltip\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkTooltip (94846037210592)>'
+    __gtype__ = None # (!) real value is '<GType GtkTooltip (93897367425808)>'
     __info__ = ObjectInfo(Tooltip)
 
 

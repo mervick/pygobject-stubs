@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -376,7 +376,7 @@ class InputHints(__gobject.GFlags):
     VERTICAL_WRITING = 256
     WORD_COMPLETION = 4
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'InputHints' objects>, '__doc__': None, '__gtype__': <GType GtkInputHints (94846038598336)>, '__flags_values__': {0: <flags 0 of type Gtk.InputHints>, 1: <flags GTK_INPUT_HINT_SPELLCHECK of type Gtk.InputHints>, 2: <flags GTK_INPUT_HINT_NO_SPELLCHECK of type Gtk.InputHints>, 4: <flags GTK_INPUT_HINT_WORD_COMPLETION of type Gtk.InputHints>, 8: <flags GTK_INPUT_HINT_LOWERCASE of type Gtk.InputHints>, 16: <flags GTK_INPUT_HINT_UPPERCASE_CHARS of type Gtk.InputHints>, 32: <flags GTK_INPUT_HINT_UPPERCASE_WORDS of type Gtk.InputHints>, 64: <flags GTK_INPUT_HINT_UPPERCASE_SENTENCES of type Gtk.InputHints>, 128: <flags GTK_INPUT_HINT_INHIBIT_OSK of type Gtk.InputHints>, 256: <flags GTK_INPUT_HINT_VERTICAL_WRITING of type Gtk.InputHints>, 512: <flags GTK_INPUT_HINT_EMOJI of type Gtk.InputHints>, 1024: <flags GTK_INPUT_HINT_NO_EMOJI of type Gtk.InputHints>}, '__info__': gi.EnumInfo(InputHints), 'NONE': <flags 0 of type Gtk.InputHints>, 'SPELLCHECK': <flags GTK_INPUT_HINT_SPELLCHECK of type Gtk.InputHints>, 'NO_SPELLCHECK': <flags GTK_INPUT_HINT_NO_SPELLCHECK of type Gtk.InputHints>, 'WORD_COMPLETION': <flags GTK_INPUT_HINT_WORD_COMPLETION of type Gtk.InputHints>, 'LOWERCASE': <flags GTK_INPUT_HINT_LOWERCASE of type Gtk.InputHints>, 'UPPERCASE_CHARS': <flags GTK_INPUT_HINT_UPPERCASE_CHARS of type Gtk.InputHints>, 'UPPERCASE_WORDS': <flags GTK_INPUT_HINT_UPPERCASE_WORDS of type Gtk.InputHints>, 'UPPERCASE_SENTENCES': <flags GTK_INPUT_HINT_UPPERCASE_SENTENCES of type Gtk.InputHints>, 'INHIBIT_OSK': <flags GTK_INPUT_HINT_INHIBIT_OSK of type Gtk.InputHints>, 'VERTICAL_WRITING': <flags GTK_INPUT_HINT_VERTICAL_WRITING of type Gtk.InputHints>, 'EMOJI': <flags GTK_INPUT_HINT_EMOJI of type Gtk.InputHints>, 'NO_EMOJI': <flags GTK_INPUT_HINT_NO_EMOJI of type Gtk.InputHints>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'InputHints' objects>, '__doc__': None, '__gtype__': <GType GtkInputHints (93897368813392)>, '__flags_values__': {0: <flags 0 of type Gtk.InputHints>, 1: <flags GTK_INPUT_HINT_SPELLCHECK of type Gtk.InputHints>, 2: <flags GTK_INPUT_HINT_NO_SPELLCHECK of type Gtk.InputHints>, 4: <flags GTK_INPUT_HINT_WORD_COMPLETION of type Gtk.InputHints>, 8: <flags GTK_INPUT_HINT_LOWERCASE of type Gtk.InputHints>, 16: <flags GTK_INPUT_HINT_UPPERCASE_CHARS of type Gtk.InputHints>, 32: <flags GTK_INPUT_HINT_UPPERCASE_WORDS of type Gtk.InputHints>, 64: <flags GTK_INPUT_HINT_UPPERCASE_SENTENCES of type Gtk.InputHints>, 128: <flags GTK_INPUT_HINT_INHIBIT_OSK of type Gtk.InputHints>, 256: <flags GTK_INPUT_HINT_VERTICAL_WRITING of type Gtk.InputHints>, 512: <flags GTK_INPUT_HINT_EMOJI of type Gtk.InputHints>, 1024: <flags GTK_INPUT_HINT_NO_EMOJI of type Gtk.InputHints>}, '__info__': gi.EnumInfo(InputHints), 'NONE': <flags 0 of type Gtk.InputHints>, 'SPELLCHECK': <flags GTK_INPUT_HINT_SPELLCHECK of type Gtk.InputHints>, 'NO_SPELLCHECK': <flags GTK_INPUT_HINT_NO_SPELLCHECK of type Gtk.InputHints>, 'WORD_COMPLETION': <flags GTK_INPUT_HINT_WORD_COMPLETION of type Gtk.InputHints>, 'LOWERCASE': <flags GTK_INPUT_HINT_LOWERCASE of type Gtk.InputHints>, 'UPPERCASE_CHARS': <flags GTK_INPUT_HINT_UPPERCASE_CHARS of type Gtk.InputHints>, 'UPPERCASE_WORDS': <flags GTK_INPUT_HINT_UPPERCASE_WORDS of type Gtk.InputHints>, 'UPPERCASE_SENTENCES': <flags GTK_INPUT_HINT_UPPERCASE_SENTENCES of type Gtk.InputHints>, 'INHIBIT_OSK': <flags GTK_INPUT_HINT_INHIBIT_OSK of type Gtk.InputHints>, 'VERTICAL_WRITING': <flags GTK_INPUT_HINT_VERTICAL_WRITING of type Gtk.InputHints>, 'EMOJI': <flags GTK_INPUT_HINT_EMOJI of type Gtk.InputHints>, 'NO_EMOJI': <flags GTK_INPUT_HINT_NO_EMOJI of type Gtk.InputHints>})"
     __flags_values__ = {
         0: 0,
         1: 1,
@@ -391,7 +391,7 @@ class InputHints(__gobject.GFlags):
         512: 512,
         1024: 1024,
     }
-    __gtype__ = None # (!) real value is '<GType GtkInputHints (94846038598336)>'
+    __gtype__ = None # (!) real value is '<GType GtkInputHints (93897368813392)>'
     __info__ = gi.EnumInfo(InputHints)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -147,7 +147,7 @@ class ButtonClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ButtonClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ButtonClass' objects>, '__weakref__': <attribute '__weakref__' of 'ButtonClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe8310ad630>, 'pressed': <property object at 0x7fe8310ad720>, 'released': <property object at 0x7fe8310ad810>, 'clicked': <property object at 0x7fe8310ad900>, 'enter': <property object at 0x7fe8310ad9f0>, 'leave': <property object at 0x7fe8310adae0>, 'activate': <property object at 0x7fe8310adbd0>, '_gtk_reserved1': <property object at 0x7fe8310adcc0>, '_gtk_reserved2': <property object at 0x7fe8310addb0>, '_gtk_reserved3': <property object at 0x7fe8310adea0>, '_gtk_reserved4': <property object at 0x7fe8310adf90>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ButtonClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ButtonClass' objects>, '__weakref__': <attribute '__weakref__' of 'ButtonClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a7c3540>, 'pressed': <property object at 0x7fc63a7c3630>, 'released': <property object at 0x7fc63a7c3720>, 'clicked': <property object at 0x7fc63a7c3810>, 'enter': <property object at 0x7fc63a7c3900>, 'leave': <property object at 0x7fc63a7c39f0>, 'activate': <property object at 0x7fc63a7c3ae0>, '_gtk_reserved1': <property object at 0x7fc63a7c3bd0>, '_gtk_reserved2': <property object at 0x7fc63a7c3cc0>, '_gtk_reserved3': <property object at 0x7fc63a7c3db0>, '_gtk_reserved4': <property object at 0x7fc63a7c3ea0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ButtonClass)
 

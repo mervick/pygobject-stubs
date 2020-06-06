@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -359,14 +359,14 @@ class TouchpadGesturePhase(__gobject.GEnum):
     END = 2
     UPDATE = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'TouchpadGesturePhase' objects>, '__doc__': None, '__gtype__': <GType GdkTouchpadGesturePhase (94055651852960)>, '__enum_values__': {0: <enum GDK_TOUCHPAD_GESTURE_PHASE_BEGIN of type Gdk.TouchpadGesturePhase>, 1: <enum GDK_TOUCHPAD_GESTURE_PHASE_UPDATE of type Gdk.TouchpadGesturePhase>, 2: <enum GDK_TOUCHPAD_GESTURE_PHASE_END of type Gdk.TouchpadGesturePhase>, 3: <enum GDK_TOUCHPAD_GESTURE_PHASE_CANCEL of type Gdk.TouchpadGesturePhase>}, '__info__': gi.EnumInfo(TouchpadGesturePhase), 'BEGIN': <enum GDK_TOUCHPAD_GESTURE_PHASE_BEGIN of type Gdk.TouchpadGesturePhase>, 'UPDATE': <enum GDK_TOUCHPAD_GESTURE_PHASE_UPDATE of type Gdk.TouchpadGesturePhase>, 'END': <enum GDK_TOUCHPAD_GESTURE_PHASE_END of type Gdk.TouchpadGesturePhase>, 'CANCEL': <enum GDK_TOUCHPAD_GESTURE_PHASE_CANCEL of type Gdk.TouchpadGesturePhase>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'TouchpadGesturePhase' objects>, '__doc__': None, '__gtype__': <GType GdkTouchpadGesturePhase (94915769429584)>, '__enum_values__': {0: <enum GDK_TOUCHPAD_GESTURE_PHASE_BEGIN of type Gdk.TouchpadGesturePhase>, 1: <enum GDK_TOUCHPAD_GESTURE_PHASE_UPDATE of type Gdk.TouchpadGesturePhase>, 2: <enum GDK_TOUCHPAD_GESTURE_PHASE_END of type Gdk.TouchpadGesturePhase>, 3: <enum GDK_TOUCHPAD_GESTURE_PHASE_CANCEL of type Gdk.TouchpadGesturePhase>}, '__info__': gi.EnumInfo(TouchpadGesturePhase), 'BEGIN': <enum GDK_TOUCHPAD_GESTURE_PHASE_BEGIN of type Gdk.TouchpadGesturePhase>, 'UPDATE': <enum GDK_TOUCHPAD_GESTURE_PHASE_UPDATE of type Gdk.TouchpadGesturePhase>, 'END': <enum GDK_TOUCHPAD_GESTURE_PHASE_END of type Gdk.TouchpadGesturePhase>, 'CANCEL': <enum GDK_TOUCHPAD_GESTURE_PHASE_CANCEL of type Gdk.TouchpadGesturePhase>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GdkTouchpadGesturePhase (94055651852960)>'
+    __gtype__ = None # (!) real value is '<GType GdkTouchpadGesturePhase (94915769429584)>'
     __info__ = gi.EnumInfo(TouchpadGesturePhase)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -125,7 +125,7 @@ class TimeCoord(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TimeCoord), '__module__': 'gi.repository.Gdk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TimeCoord' objects>, '__weakref__': <attribute '__weakref__' of 'TimeCoord' objects>, '__doc__': None, 'time': <property object at 0x7f1e11c324f0>, 'axes': <property object at 0x7f1e11c325e0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TimeCoord), '__module__': 'gi.repository.Gdk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TimeCoord' objects>, '__weakref__': <attribute '__weakref__' of 'TimeCoord' objects>, '__doc__': None, 'time': <property object at 0x7fbaf812fd10>, 'axes': <property object at 0x7fbaf812fe00>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TimeCoord)
 

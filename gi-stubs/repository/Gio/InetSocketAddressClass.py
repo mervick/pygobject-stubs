@@ -124,7 +124,7 @@ class InetSocketAddressClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(InetSocketAddressClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'InetSocketAddressClass' objects>, '__weakref__': <attribute '__weakref__' of 'InetSocketAddressClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28dde9eae0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(InetSocketAddressClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'InetSocketAddressClass' objects>, '__weakref__': <attribute '__weakref__' of 'InetSocketAddressClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b87fffc20>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(InetSocketAddressClass)
 

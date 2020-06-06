@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -361,12 +361,12 @@ class NotebookTab(__gobject.GEnum):
     FIRST = 0
     LAST = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'NotebookTab' objects>, '__doc__': None, '__gtype__': <GType GtkNotebookTab (94846037218736)>, '__enum_values__': {0: <enum GTK_NOTEBOOK_TAB_FIRST of type Gtk.NotebookTab>, 1: <enum GTK_NOTEBOOK_TAB_LAST of type Gtk.NotebookTab>}, '__info__': gi.EnumInfo(NotebookTab), 'FIRST': <enum GTK_NOTEBOOK_TAB_FIRST of type Gtk.NotebookTab>, 'LAST': <enum GTK_NOTEBOOK_TAB_LAST of type Gtk.NotebookTab>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'NotebookTab' objects>, '__doc__': None, '__gtype__': <GType GtkNotebookTab (93897367434016)>, '__enum_values__': {0: <enum GTK_NOTEBOOK_TAB_FIRST of type Gtk.NotebookTab>, 1: <enum GTK_NOTEBOOK_TAB_LAST of type Gtk.NotebookTab>}, '__info__': gi.EnumInfo(NotebookTab), 'FIRST': <enum GTK_NOTEBOOK_TAB_FIRST of type Gtk.NotebookTab>, 'LAST': <enum GTK_NOTEBOOK_TAB_LAST of type Gtk.NotebookTab>})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GtkNotebookTab (94846037218736)>'
+    __gtype__ = None # (!) real value is '<GType GtkNotebookTab (93897367434016)>'
     __info__ = gi.EnumInfo(NotebookTab)
 
 

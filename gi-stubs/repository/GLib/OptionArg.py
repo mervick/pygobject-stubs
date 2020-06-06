@@ -366,7 +366,7 @@ class OptionArg(__gobject.GEnum):
     STRING = 1
     STRING_ARRAY = 5
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'OptionArg' objects>, '__doc__': None, '__gtype__': <GType PyGLibOptionArg (94243599024832)>, '__enum_values__': {0: <enum G_OPTION_ARG_NONE of type GLib.OptionArg>, 1: <enum G_OPTION_ARG_STRING of type GLib.OptionArg>, 2: <enum G_OPTION_ARG_INT of type GLib.OptionArg>, 3: <enum G_OPTION_ARG_CALLBACK of type GLib.OptionArg>, 4: <enum G_OPTION_ARG_FILENAME of type GLib.OptionArg>, 5: <enum G_OPTION_ARG_STRING_ARRAY of type GLib.OptionArg>, 6: <enum G_OPTION_ARG_FILENAME_ARRAY of type GLib.OptionArg>, 7: <enum G_OPTION_ARG_DOUBLE of type GLib.OptionArg>, 8: <enum G_OPTION_ARG_INT64 of type GLib.OptionArg>}, '__info__': gi.EnumInfo(OptionArg), 'NONE': <enum G_OPTION_ARG_NONE of type GLib.OptionArg>, 'STRING': <enum G_OPTION_ARG_STRING of type GLib.OptionArg>, 'INT': <enum G_OPTION_ARG_INT of type GLib.OptionArg>, 'CALLBACK': <enum G_OPTION_ARG_CALLBACK of type GLib.OptionArg>, 'FILENAME': <enum G_OPTION_ARG_FILENAME of type GLib.OptionArg>, 'STRING_ARRAY': <enum G_OPTION_ARG_STRING_ARRAY of type GLib.OptionArg>, 'FILENAME_ARRAY': <enum G_OPTION_ARG_FILENAME_ARRAY of type GLib.OptionArg>, 'DOUBLE': <enum G_OPTION_ARG_DOUBLE of type GLib.OptionArg>, 'INT64': <enum G_OPTION_ARG_INT64 of type GLib.OptionArg>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'OptionArg' objects>, '__doc__': None, '__gtype__': <GType PyGLibOptionArg (94581033802032)>, '__enum_values__': {0: <enum G_OPTION_ARG_NONE of type GLib.OptionArg>, 1: <enum G_OPTION_ARG_STRING of type GLib.OptionArg>, 2: <enum G_OPTION_ARG_INT of type GLib.OptionArg>, 3: <enum G_OPTION_ARG_CALLBACK of type GLib.OptionArg>, 4: <enum G_OPTION_ARG_FILENAME of type GLib.OptionArg>, 5: <enum G_OPTION_ARG_STRING_ARRAY of type GLib.OptionArg>, 6: <enum G_OPTION_ARG_FILENAME_ARRAY of type GLib.OptionArg>, 7: <enum G_OPTION_ARG_DOUBLE of type GLib.OptionArg>, 8: <enum G_OPTION_ARG_INT64 of type GLib.OptionArg>}, '__info__': gi.EnumInfo(OptionArg), 'NONE': <enum G_OPTION_ARG_NONE of type GLib.OptionArg>, 'STRING': <enum G_OPTION_ARG_STRING of type GLib.OptionArg>, 'INT': <enum G_OPTION_ARG_INT of type GLib.OptionArg>, 'CALLBACK': <enum G_OPTION_ARG_CALLBACK of type GLib.OptionArg>, 'FILENAME': <enum G_OPTION_ARG_FILENAME of type GLib.OptionArg>, 'STRING_ARRAY': <enum G_OPTION_ARG_STRING_ARRAY of type GLib.OptionArg>, 'FILENAME_ARRAY': <enum G_OPTION_ARG_FILENAME_ARRAY of type GLib.OptionArg>, 'DOUBLE': <enum G_OPTION_ARG_DOUBLE of type GLib.OptionArg>, 'INT64': <enum G_OPTION_ARG_INT64 of type GLib.OptionArg>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -378,7 +378,7 @@ class OptionArg(__gobject.GEnum):
         7: 7,
         8: 8,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibOptionArg (94243599024832)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibOptionArg (94581033802032)>'
     __info__ = gi.EnumInfo(OptionArg)
 
 

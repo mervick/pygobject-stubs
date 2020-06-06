@@ -132,7 +132,7 @@ class NetworkMonitorInterface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(NetworkMonitorInterface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'NetworkMonitorInterface' objects>, '__weakref__': <attribute '__weakref__' of 'NetworkMonitorInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f28ddeb6bd0>, 'network_changed': <property object at 0x7f28ddeb6cc0>, 'can_reach': <property object at 0x7f28ddeb6db0>, 'can_reach_async': <property object at 0x7f28ddeb6ea0>, 'can_reach_finish': <property object at 0x7f28ddeba040>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(NetworkMonitorInterface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'NetworkMonitorInterface' objects>, '__weakref__': <attribute '__weakref__' of 'NetworkMonitorInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f4b88019d10>, 'network_changed': <property object at 0x7f4b88019e00>, 'can_reach': <property object at 0x7f4b88019ef0>, 'can_reach_async': <property object at 0x7f4b88019f90>, 'can_reach_finish': <property object at 0x7f4b8801b130>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(NetworkMonitorInterface)
 

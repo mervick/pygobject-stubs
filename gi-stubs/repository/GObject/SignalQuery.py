@@ -159,7 +159,7 @@ class SignalQuery(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SignalQuery), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SignalQuery' objects>, '__weakref__': <attribute '__weakref__' of 'SignalQuery' objects>, '__doc__': None, 'signal_id': <property object at 0x7f7c28654900>, 'signal_name': <property object at 0x7f7c286549f0>, 'itype': <property object at 0x7f7c28654ae0>, 'signal_flags': <property object at 0x7f7c28654bd0>, 'return_type': <property object at 0x7f7c28654cc0>, 'n_params': <property object at 0x7f7c28654db0>, 'param_types': <property object at 0x7f7c28654ea0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SignalQuery), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SignalQuery' objects>, '__weakref__': <attribute '__weakref__' of 'SignalQuery' objects>, '__doc__': None, 'signal_id': <property object at 0x7fe46b8c6b80>, 'signal_name': <property object at 0x7fe46b8c6c70>, 'itype': <property object at 0x7fe46b8c6d60>, 'signal_flags': <property object at 0x7fe46b8c6e50>, 'return_type': <property object at 0x7fe46b8c6f40>, 'n_params': <property object at 0x7fe46b8c9090>, 'param_types': <property object at 0x7fe46b8c9180>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(SignalQuery)
 

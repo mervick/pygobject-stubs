@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -147,7 +147,7 @@ class PanedClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PanedClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'PanedClass' objects>, '__weakref__': <attribute '__weakref__' of 'PanedClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe831009900>, 'cycle_child_focus': <property object at 0x7fe831009a40>, 'toggle_handle_focus': <property object at 0x7fe831009b80>, 'move_handle': <property object at 0x7fe831009c70>, 'cycle_handle_focus': <property object at 0x7fe831009db0>, 'accept_position': <property object at 0x7fe831009ea0>, 'cancel_position': <property object at 0x7fe831009f90>, '_gtk_reserved1': <property object at 0x7fe83100b0e0>, '_gtk_reserved2': <property object at 0x7fe83100b1d0>, '_gtk_reserved3': <property object at 0x7fe83100b2c0>, '_gtk_reserved4': <property object at 0x7fe83100b3b0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PanedClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'PanedClass' objects>, '__weakref__': <attribute '__weakref__' of 'PanedClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a71f720>, 'cycle_child_focus': <property object at 0x7fc63a71f860>, 'toggle_handle_focus': <property object at 0x7fc63a71f9a0>, 'move_handle': <property object at 0x7fc63a71fa90>, 'cycle_handle_focus': <property object at 0x7fc63a71fbd0>, 'accept_position': <property object at 0x7fc63a71fcc0>, 'cancel_position': <property object at 0x7fc63a71fdb0>, '_gtk_reserved1': <property object at 0x7fc63a71fea0>, '_gtk_reserved2': <property object at 0x7fc63a71ff90>, '_gtk_reserved3': <property object at 0x7fc63a7200e0>, '_gtk_reserved4': <property object at 0x7fc63a7201d0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(PanedClass)
 

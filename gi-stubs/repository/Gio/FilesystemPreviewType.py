@@ -359,13 +359,13 @@ class FilesystemPreviewType(__gobject.GEnum):
     IF_LOCAL = 1
     NEVER = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'FilesystemPreviewType' objects>, '__doc__': None, '__gtype__': <GType GFilesystemPreviewType (94125582404416)>, '__enum_values__': {0: <enum G_FILESYSTEM_PREVIEW_TYPE_IF_ALWAYS of type Gio.FilesystemPreviewType>, 1: <enum G_FILESYSTEM_PREVIEW_TYPE_IF_LOCAL of type Gio.FilesystemPreviewType>, 2: <enum G_FILESYSTEM_PREVIEW_TYPE_NEVER of type Gio.FilesystemPreviewType>}, '__info__': gi.EnumInfo(FilesystemPreviewType), 'IF_ALWAYS': <enum G_FILESYSTEM_PREVIEW_TYPE_IF_ALWAYS of type Gio.FilesystemPreviewType>, 'IF_LOCAL': <enum G_FILESYSTEM_PREVIEW_TYPE_IF_LOCAL of type Gio.FilesystemPreviewType>, 'NEVER': <enum G_FILESYSTEM_PREVIEW_TYPE_NEVER of type Gio.FilesystemPreviewType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'FilesystemPreviewType' objects>, '__doc__': None, '__gtype__': <GType GFilesystemPreviewType (94269257028432)>, '__enum_values__': {0: <enum G_FILESYSTEM_PREVIEW_TYPE_IF_ALWAYS of type Gio.FilesystemPreviewType>, 1: <enum G_FILESYSTEM_PREVIEW_TYPE_IF_LOCAL of type Gio.FilesystemPreviewType>, 2: <enum G_FILESYSTEM_PREVIEW_TYPE_NEVER of type Gio.FilesystemPreviewType>}, '__info__': gi.EnumInfo(FilesystemPreviewType), 'IF_ALWAYS': <enum G_FILESYSTEM_PREVIEW_TYPE_IF_ALWAYS of type Gio.FilesystemPreviewType>, 'IF_LOCAL': <enum G_FILESYSTEM_PREVIEW_TYPE_IF_LOCAL of type Gio.FilesystemPreviewType>, 'NEVER': <enum G_FILESYSTEM_PREVIEW_TYPE_NEVER of type Gio.FilesystemPreviewType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GFilesystemPreviewType (94125582404416)>'
+    __gtype__ = None # (!) real value is '<GType GFilesystemPreviewType (94269257028432)>'
     __info__ = gi.EnumInfo(FilesystemPreviewType)
 
 

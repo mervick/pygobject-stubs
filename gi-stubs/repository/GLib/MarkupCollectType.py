@@ -368,7 +368,7 @@ class MarkupCollectType(__gobject.GFlags):
     STRING = 1
     TRISTATE = 4
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'MarkupCollectType' objects>, '__doc__': None, '__gtype__': <GType PyGLibMarkupCollectType (94243598999872)>, '__flags_values__': {0: <flags 0 of type GLib.MarkupCollectType>, 1: <flags G_MARKUP_COLLECT_STRING of type GLib.MarkupCollectType>, 2: <flags G_MARKUP_COLLECT_STRDUP of type GLib.MarkupCollectType>, 3: <flags G_MARKUP_COLLECT_STRING | G_MARKUP_COLLECT_STRDUP | G_MARKUP_COLLECT_BOOLEAN of type GLib.MarkupCollectType>, 4: <flags G_MARKUP_COLLECT_TRISTATE of type GLib.MarkupCollectType>, 65536: <flags G_MARKUP_COLLECT_OPTIONAL of type GLib.MarkupCollectType>}, '__info__': gi.EnumInfo(MarkupCollectType), 'INVALID': <flags 0 of type GLib.MarkupCollectType>, 'STRING': <flags G_MARKUP_COLLECT_STRING of type GLib.MarkupCollectType>, 'STRDUP': <flags G_MARKUP_COLLECT_STRDUP of type GLib.MarkupCollectType>, 'BOOLEAN': <flags G_MARKUP_COLLECT_STRING | G_MARKUP_COLLECT_STRDUP | G_MARKUP_COLLECT_BOOLEAN of type GLib.MarkupCollectType>, 'TRISTATE': <flags G_MARKUP_COLLECT_TRISTATE of type GLib.MarkupCollectType>, 'OPTIONAL': <flags G_MARKUP_COLLECT_OPTIONAL of type GLib.MarkupCollectType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'MarkupCollectType' objects>, '__doc__': None, '__gtype__': <GType PyGLibMarkupCollectType (94581033776928)>, '__flags_values__': {0: <flags 0 of type GLib.MarkupCollectType>, 1: <flags G_MARKUP_COLLECT_STRING of type GLib.MarkupCollectType>, 2: <flags G_MARKUP_COLLECT_STRDUP of type GLib.MarkupCollectType>, 3: <flags G_MARKUP_COLLECT_STRING | G_MARKUP_COLLECT_STRDUP | G_MARKUP_COLLECT_BOOLEAN of type GLib.MarkupCollectType>, 4: <flags G_MARKUP_COLLECT_TRISTATE of type GLib.MarkupCollectType>, 65536: <flags G_MARKUP_COLLECT_OPTIONAL of type GLib.MarkupCollectType>}, '__info__': gi.EnumInfo(MarkupCollectType), 'INVALID': <flags 0 of type GLib.MarkupCollectType>, 'STRING': <flags G_MARKUP_COLLECT_STRING of type GLib.MarkupCollectType>, 'STRDUP': <flags G_MARKUP_COLLECT_STRDUP of type GLib.MarkupCollectType>, 'BOOLEAN': <flags G_MARKUP_COLLECT_STRING | G_MARKUP_COLLECT_STRDUP | G_MARKUP_COLLECT_BOOLEAN of type GLib.MarkupCollectType>, 'TRISTATE': <flags G_MARKUP_COLLECT_TRISTATE of type GLib.MarkupCollectType>, 'OPTIONAL': <flags G_MARKUP_COLLECT_OPTIONAL of type GLib.MarkupCollectType>})"
     __flags_values__ = {
         0: 0,
         1: 1,
@@ -377,7 +377,7 @@ class MarkupCollectType(__gobject.GFlags):
         4: 4,
         65536: 65536,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibMarkupCollectType (94243598999872)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibMarkupCollectType (94581033776928)>'
     __info__ = gi.EnumInfo(MarkupCollectType)
 
 

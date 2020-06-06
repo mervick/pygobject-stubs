@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -149,7 +149,7 @@ class CalendarClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(CalendarClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'CalendarClass' objects>, '__weakref__': <attribute '__weakref__' of 'CalendarClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe8310aec70>, 'month_changed': <property object at 0x7fe8310aed60>, 'day_selected': <property object at 0x7fe8310aee50>, 'day_selected_double_click': <property object at 0x7fe8310aef90>, 'prev_month': <property object at 0x7fe8310b20e0>, 'next_month': <property object at 0x7fe8310b21d0>, 'prev_year': <property object at 0x7fe8310b22c0>, 'next_year': <property object at 0x7fe8310b23b0>, '_gtk_reserved1': <property object at 0x7fe8310b24a0>, '_gtk_reserved2': <property object at 0x7fe8310b2590>, '_gtk_reserved3': <property object at 0x7fe8310b2680>, '_gtk_reserved4': <property object at 0x7fe8310b2770>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(CalendarClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'CalendarClass' objects>, '__weakref__': <attribute '__weakref__' of 'CalendarClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a7c5bd0>, 'month_changed': <property object at 0x7fc63a7c5cc0>, 'day_selected': <property object at 0x7fc63a7c5db0>, 'day_selected_double_click': <property object at 0x7fc63a7c5ef0>, 'prev_month': <property object at 0x7fc63a7c7040>, 'next_month': <property object at 0x7fc63a7c7130>, 'prev_year': <property object at 0x7fc63a7c7220>, 'next_year': <property object at 0x7fc63a7c7310>, '_gtk_reserved1': <property object at 0x7fc63a7c7400>, '_gtk_reserved2': <property object at 0x7fc63a7c74f0>, '_gtk_reserved3': <property object at 0x7fc63a7c75e0>, '_gtk_reserved4': <property object at 0x7fc63a7c76d0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(CalendarClass)
 

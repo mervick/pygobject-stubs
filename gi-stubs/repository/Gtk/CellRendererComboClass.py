@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -135,7 +135,7 @@ class CellRendererComboClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(CellRendererComboClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'CellRendererComboClass' objects>, '__weakref__': <attribute '__weakref__' of 'CellRendererComboClass' objects>, '__doc__': None, 'parent': <property object at 0x7fe8310c4d60>, '_gtk_reserved1': <property object at 0x7fe8310c4e50>, '_gtk_reserved2': <property object at 0x7fe8310c4f40>, '_gtk_reserved3': <property object at 0x7fe8310c6090>, '_gtk_reserved4': <property object at 0x7fe8310c6180>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(CellRendererComboClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'CellRendererComboClass' objects>, '__weakref__': <attribute '__weakref__' of 'CellRendererComboClass' objects>, '__doc__': None, 'parent': <property object at 0x7fc63a7d9c70>, '_gtk_reserved1': <property object at 0x7fc63a7d9d60>, '_gtk_reserved2': <property object at 0x7fc63a7d9e50>, '_gtk_reserved3': <property object at 0x7fc63a7d9f40>, '_gtk_reserved4': <property object at 0x7fc63a7db090>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(CellRendererComboClass)
 

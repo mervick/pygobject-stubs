@@ -505,12 +505,12 @@ class VolumeMonitor(VolumeMonitor):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd15b130>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b871ea070>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gio', '__init__': <function _warn_init.<locals>.new_init at 0x7f28de00c430>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gio', '__init__': <function _warn_init.<locals>.new_init at 0x7f4b88165c10>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Object GVolumeMonitor\n\nSignals from GVolumeMonitor:\n  volume-added (GVolume)\n  volume-removed (GVolume)\n  volume-changed (GVolume)\n  mount-added (GMount)\n  mount-removed (GMount)\n  mount-pre-unmount (GMount)\n  mount-changed (GMount)\n  drive-connected (GDrive)\n  drive-disconnected (GDrive)\n  drive-changed (GDrive)\n  drive-eject-button (GDrive)\n  drive-stop-button (GDrive)\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GVolumeMonitor (94125581433712)>'
+    __gtype__ = None # (!) real value is '<GType GVolumeMonitor (94269256039920)>'
     __info__ = ObjectInfo(VolumeMonitor)
 
 

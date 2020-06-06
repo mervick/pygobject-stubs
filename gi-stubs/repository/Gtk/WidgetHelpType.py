@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -361,12 +361,12 @@ class WidgetHelpType(__gobject.GEnum):
     TOOLTIP = 0
     WHATS_THIS = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'WidgetHelpType' objects>, '__doc__': None, '__gtype__': <GType GtkWidgetHelpType (94846037213472)>, '__enum_values__': {0: <enum GTK_WIDGET_HELP_TOOLTIP of type Gtk.WidgetHelpType>, 1: <enum GTK_WIDGET_HELP_WHATS_THIS of type Gtk.WidgetHelpType>}, '__info__': gi.EnumInfo(WidgetHelpType), 'TOOLTIP': <enum GTK_WIDGET_HELP_TOOLTIP of type Gtk.WidgetHelpType>, 'WHATS_THIS': <enum GTK_WIDGET_HELP_WHATS_THIS of type Gtk.WidgetHelpType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'WidgetHelpType' objects>, '__doc__': None, '__gtype__': <GType GtkWidgetHelpType (93897367427952)>, '__enum_values__': {0: <enum GTK_WIDGET_HELP_TOOLTIP of type Gtk.WidgetHelpType>, 1: <enum GTK_WIDGET_HELP_WHATS_THIS of type Gtk.WidgetHelpType>}, '__info__': gi.EnumInfo(WidgetHelpType), 'TOOLTIP': <enum GTK_WIDGET_HELP_TOOLTIP of type Gtk.WidgetHelpType>, 'WHATS_THIS': <enum GTK_WIDGET_HELP_WHATS_THIS of type Gtk.WidgetHelpType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GtkWidgetHelpType (94846037213472)>'
+    __gtype__ = None # (!) real value is '<GType GtkWidgetHelpType (93897367427952)>'
     __info__ = gi.EnumInfo(WidgetHelpType)
 
 

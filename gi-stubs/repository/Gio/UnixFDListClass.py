@@ -134,7 +134,7 @@ class UnixFDListClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(UnixFDListClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'UnixFDListClass' objects>, '__weakref__': <attribute '__weakref__' of 'UnixFDListClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28dd603860>, '_g_reserved1': <property object at 0x7f28dd603950>, '_g_reserved2': <property object at 0x7f28dd603a40>, '_g_reserved3': <property object at 0x7f28dd603b30>, '_g_reserved4': <property object at 0x7f28dd603c20>, '_g_reserved5': <property object at 0x7f28dd603d10>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(UnixFDListClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'UnixFDListClass' objects>, '__weakref__': <attribute '__weakref__' of 'UnixFDListClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b87766b30>, '_g_reserved1': <property object at 0x7f4b87766c20>, '_g_reserved2': <property object at 0x7f4b87766d10>, '_g_reserved3': <property object at 0x7f4b87766e00>, '_g_reserved4': <property object at 0x7f4b87766ef0>, '_g_reserved5': <property object at 0x7f4b87767040>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(UnixFDListClass)
 

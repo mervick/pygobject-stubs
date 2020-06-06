@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -365,7 +365,7 @@ class IconViewDropPosition(__gobject.GEnum):
     DROP_RIGHT = 3
     NO_DROP = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'IconViewDropPosition' objects>, '__doc__': None, '__gtype__': <GType GtkIconViewDropPosition (94846038569664)>, '__enum_values__': {0: <enum GTK_ICON_VIEW_NO_DROP of type Gtk.IconViewDropPosition>, 1: <enum GTK_ICON_VIEW_DROP_INTO of type Gtk.IconViewDropPosition>, 2: <enum GTK_ICON_VIEW_DROP_LEFT of type Gtk.IconViewDropPosition>, 3: <enum GTK_ICON_VIEW_DROP_RIGHT of type Gtk.IconViewDropPosition>, 4: <enum GTK_ICON_VIEW_DROP_ABOVE of type Gtk.IconViewDropPosition>, 5: <enum GTK_ICON_VIEW_DROP_BELOW of type Gtk.IconViewDropPosition>}, '__info__': gi.EnumInfo(IconViewDropPosition), 'NO_DROP': <enum GTK_ICON_VIEW_NO_DROP of type Gtk.IconViewDropPosition>, 'DROP_INTO': <enum GTK_ICON_VIEW_DROP_INTO of type Gtk.IconViewDropPosition>, 'DROP_LEFT': <enum GTK_ICON_VIEW_DROP_LEFT of type Gtk.IconViewDropPosition>, 'DROP_RIGHT': <enum GTK_ICON_VIEW_DROP_RIGHT of type Gtk.IconViewDropPosition>, 'DROP_ABOVE': <enum GTK_ICON_VIEW_DROP_ABOVE of type Gtk.IconViewDropPosition>, 'DROP_BELOW': <enum GTK_ICON_VIEW_DROP_BELOW of type Gtk.IconViewDropPosition>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'IconViewDropPosition' objects>, '__doc__': None, '__gtype__': <GType GtkIconViewDropPosition (93897368785600)>, '__enum_values__': {0: <enum GTK_ICON_VIEW_NO_DROP of type Gtk.IconViewDropPosition>, 1: <enum GTK_ICON_VIEW_DROP_INTO of type Gtk.IconViewDropPosition>, 2: <enum GTK_ICON_VIEW_DROP_LEFT of type Gtk.IconViewDropPosition>, 3: <enum GTK_ICON_VIEW_DROP_RIGHT of type Gtk.IconViewDropPosition>, 4: <enum GTK_ICON_VIEW_DROP_ABOVE of type Gtk.IconViewDropPosition>, 5: <enum GTK_ICON_VIEW_DROP_BELOW of type Gtk.IconViewDropPosition>}, '__info__': gi.EnumInfo(IconViewDropPosition), 'NO_DROP': <enum GTK_ICON_VIEW_NO_DROP of type Gtk.IconViewDropPosition>, 'DROP_INTO': <enum GTK_ICON_VIEW_DROP_INTO of type Gtk.IconViewDropPosition>, 'DROP_LEFT': <enum GTK_ICON_VIEW_DROP_LEFT of type Gtk.IconViewDropPosition>, 'DROP_RIGHT': <enum GTK_ICON_VIEW_DROP_RIGHT of type Gtk.IconViewDropPosition>, 'DROP_ABOVE': <enum GTK_ICON_VIEW_DROP_ABOVE of type Gtk.IconViewDropPosition>, 'DROP_BELOW': <enum GTK_ICON_VIEW_DROP_BELOW of type Gtk.IconViewDropPosition>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -374,7 +374,7 @@ class IconViewDropPosition(__gobject.GEnum):
         4: 4,
         5: 5,
     }
-    __gtype__ = None # (!) real value is '<GType GtkIconViewDropPosition (94846038569664)>'
+    __gtype__ = None # (!) real value is '<GType GtkIconViewDropPosition (93897368785600)>'
     __info__ = gi.EnumInfo(IconViewDropPosition)
 
 

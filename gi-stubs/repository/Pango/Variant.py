@@ -356,12 +356,12 @@ class Variant(__gobject.GEnum):
     NORMAL = 0
     SMALL_CAPS = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'Variant' objects>, '__doc__': None, '__gtype__': <GType PangoVariant (94752681356720)>, '__enum_values__': {0: <enum PANGO_VARIANT_NORMAL of type Pango.Variant>, 1: <enum PANGO_VARIANT_SMALL_CAPS of type Pango.Variant>}, '__info__': gi.EnumInfo(Variant), 'NORMAL': <enum PANGO_VARIANT_NORMAL of type Pango.Variant>, 'SMALL_CAPS': <enum PANGO_VARIANT_SMALL_CAPS of type Pango.Variant>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'Variant' objects>, '__doc__': None, '__gtype__': <GType PangoVariant (94187429576544)>, '__enum_values__': {0: <enum PANGO_VARIANT_NORMAL of type Pango.Variant>, 1: <enum PANGO_VARIANT_SMALL_CAPS of type Pango.Variant>}, '__info__': gi.EnumInfo(Variant), 'NORMAL': <enum PANGO_VARIANT_NORMAL of type Pango.Variant>, 'SMALL_CAPS': <enum PANGO_VARIANT_SMALL_CAPS of type Pango.Variant>})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType PangoVariant (94752681356720)>'
+    __gtype__ = None # (!) real value is '<GType PangoVariant (94187429576544)>'
     __info__ = gi.EnumInfo(Variant)
 
 

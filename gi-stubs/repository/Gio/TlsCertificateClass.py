@@ -128,7 +128,7 @@ class TlsCertificateClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TlsCertificateClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TlsCertificateClass' objects>, '__weakref__': <attribute '__weakref__' of 'TlsCertificateClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28dde73540>, 'verify': <property object at 0x7f28dde73630>, 'padding': <property object at 0x7f28dde73720>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TlsCertificateClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TlsCertificateClass' objects>, '__weakref__': <attribute '__weakref__' of 'TlsCertificateClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b87fd6680>, 'verify': <property object at 0x7f4b87fd6770>, 'padding': <property object at 0x7f4b87fd6860>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TlsCertificateClass)
 

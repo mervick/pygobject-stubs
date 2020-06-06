@@ -133,7 +133,7 @@ class MarkupParser(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(MarkupParser), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'MarkupParser' objects>, '__weakref__': <attribute '__weakref__' of 'MarkupParser' objects>, '__doc__': None, 'start_element': <property object at 0x7f1d2b8ecea0>, 'end_element': <property object at 0x7f1d2b8ecf90>, 'text': <property object at 0x7f1d2b8f00e0>, 'passthrough': <property object at 0x7f1d2b8f01d0>, 'error': <property object at 0x7f1d2b8f02c0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(MarkupParser), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'MarkupParser' objects>, '__weakref__': <attribute '__weakref__' of 'MarkupParser' objects>, '__doc__': None, 'start_element': <property object at 0x7f85134ee0e0>, 'end_element': <property object at 0x7f85134ee1d0>, 'text': <property object at 0x7f85134ee2c0>, 'passthrough': <property object at 0x7f85134ee3b0>, 'error': <property object at 0x7f85134ee4a0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(MarkupParser)
 

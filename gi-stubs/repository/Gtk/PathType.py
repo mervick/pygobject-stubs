@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -362,13 +362,13 @@ class PathType(__gobject.GEnum):
     WIDGET = 0
     WIDGET_CLASS = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PathType' objects>, '__doc__': None, '__gtype__': <GType GtkPathType (94846038853520)>, '__enum_values__': {0: <enum GTK_PATH_WIDGET of type Gtk.PathType>, 1: <enum GTK_PATH_WIDGET_CLASS of type Gtk.PathType>, 2: <enum GTK_PATH_CLASS of type Gtk.PathType>}, '__info__': gi.EnumInfo(PathType), 'WIDGET': <enum GTK_PATH_WIDGET of type Gtk.PathType>, 'WIDGET_CLASS': <enum GTK_PATH_WIDGET_CLASS of type Gtk.PathType>, 'CLASS': <enum GTK_PATH_CLASS of type Gtk.PathType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PathType' objects>, '__doc__': None, '__gtype__': <GType GtkPathType (93897369064112)>, '__enum_values__': {0: <enum GTK_PATH_WIDGET of type Gtk.PathType>, 1: <enum GTK_PATH_WIDGET_CLASS of type Gtk.PathType>, 2: <enum GTK_PATH_CLASS of type Gtk.PathType>}, '__info__': gi.EnumInfo(PathType), 'WIDGET': <enum GTK_PATH_WIDGET of type Gtk.PathType>, 'WIDGET_CLASS': <enum GTK_PATH_WIDGET_CLASS of type Gtk.PathType>, 'CLASS': <enum GTK_PATH_CLASS of type Gtk.PathType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GtkPathType (94846038853520)>'
+    __gtype__ = None # (!) real value is '<GType GtkPathType (93897369064112)>'
     __info__ = gi.EnumInfo(PathType)
 
 

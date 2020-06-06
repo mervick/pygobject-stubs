@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -168,8 +168,8 @@ class RGBA(RGBA):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gdk', '__init__': <function RGBA.__init__ at 0x7f1e122fb280>, '__eq__': <function RGBA.__eq__ at 0x7f1e122fb310>, '__repr__': <function RGBA.__repr__ at 0x7f1e122fb3a0>, '__iter__': <function RGBA.__iter__ at 0x7f1e122fb430>, 'to_color': <function RGBA.to_color at 0x7f1e122fb4c0>, 'from_color': <classmethod object at 0x7f1e122f83d0>, '__doc__': None, '__hash__': None})"
-    __gtype__ = None # (!) real value is '<GType GdkRGBA (94055650610256)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gdk', '__init__': <function RGBA.__init__ at 0x7fbaf87eda60>, '__eq__': <function RGBA.__eq__ at 0x7fbaf87edaf0>, '__repr__': <function RGBA.__repr__ at 0x7fbaf87edb80>, '__iter__': <function RGBA.__iter__ at 0x7fbaf87edc10>, 'to_color': <function RGBA.to_color at 0x7fbaf87edca0>, 'from_color': <classmethod object at 0x7fbaf87f27c0>, '__doc__': None, '__hash__': None})"
+    __gtype__ = None # (!) real value is '<GType GdkRGBA (94915768177216)>'
     __hash__ = None
     __info__ = StructInfo(RGBA)
 

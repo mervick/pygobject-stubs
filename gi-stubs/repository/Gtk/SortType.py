@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -361,12 +361,12 @@ class SortType(__gobject.GEnum):
     ASCENDING = 0
     DESCENDING = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'SortType' objects>, '__doc__': None, '__gtype__': <GType GtkSortType (94846039233104)>, '__enum_values__': {0: <enum GTK_SORT_ASCENDING of type Gtk.SortType>, 1: <enum GTK_SORT_DESCENDING of type Gtk.SortType>}, '__info__': gi.EnumInfo(SortType), 'ASCENDING': <enum GTK_SORT_ASCENDING of type Gtk.SortType>, 'DESCENDING': <enum GTK_SORT_DESCENDING of type Gtk.SortType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'SortType' objects>, '__doc__': None, '__gtype__': <GType GtkSortType (93897369438128)>, '__enum_values__': {0: <enum GTK_SORT_ASCENDING of type Gtk.SortType>, 1: <enum GTK_SORT_DESCENDING of type Gtk.SortType>}, '__info__': gi.EnumInfo(SortType), 'ASCENDING': <enum GTK_SORT_ASCENDING of type Gtk.SortType>, 'DESCENDING': <enum GTK_SORT_DESCENDING of type Gtk.SortType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GtkSortType (94846039233104)>'
+    __gtype__ = None # (!) real value is '<GType GtkSortType (93897369438128)>'
     __info__ = gi.EnumInfo(SortType)
 
 

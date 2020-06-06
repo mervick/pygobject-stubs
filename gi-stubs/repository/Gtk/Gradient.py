@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -163,8 +163,8 @@ class Gradient(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Gradient), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkGradient (94846038443648)>, '__dict__': <attribute '__dict__' of 'Gradient' objects>, '__weakref__': <attribute '__weakref__' of 'Gradient' objects>, '__doc__': None, 'new_linear': gi.FunctionInfo(new_linear), 'new_radial': gi.FunctionInfo(new_radial), 'add_color_stop': gi.FunctionInfo(add_color_stop), 'ref': gi.FunctionInfo(ref), 'resolve': gi.FunctionInfo(resolve), 'resolve_for_context': gi.FunctionInfo(resolve_for_context), 'to_string': gi.FunctionInfo(to_string), 'unref': gi.FunctionInfo(unref)})"
-    __gtype__ = None # (!) real value is '<GType GtkGradient (94846038443648)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Gradient), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkGradient (93897368657536)>, '__dict__': <attribute '__dict__' of 'Gradient' objects>, '__weakref__': <attribute '__weakref__' of 'Gradient' objects>, '__doc__': None, 'new_linear': gi.FunctionInfo(new_linear), 'new_radial': gi.FunctionInfo(new_radial), 'add_color_stop': gi.FunctionInfo(add_color_stop), 'ref': gi.FunctionInfo(ref), 'resolve': gi.FunctionInfo(resolve), 'resolve_for_context': gi.FunctionInfo(resolve_for_context), 'to_string': gi.FunctionInfo(to_string), 'unref': gi.FunctionInfo(unref)})"
+    __gtype__ = None # (!) real value is '<GType GtkGradient (93897368657536)>'
     __info__ = StructInfo(Gradient)
 
 

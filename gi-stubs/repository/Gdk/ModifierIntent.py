@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -362,7 +362,7 @@ class ModifierIntent(__gobject.GEnum):
     PRIMARY_ACCELERATOR = 0
     SHIFT_GROUP = 5
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'ModifierIntent' objects>, '__doc__': None, '__gtype__': <GType GdkModifierIntent (94055651822880)>, '__enum_values__': {0: <enum GDK_MODIFIER_INTENT_PRIMARY_ACCELERATOR of type Gdk.ModifierIntent>, 1: <enum GDK_MODIFIER_INTENT_CONTEXT_MENU of type Gdk.ModifierIntent>, 2: <enum GDK_MODIFIER_INTENT_EXTEND_SELECTION of type Gdk.ModifierIntent>, 3: <enum GDK_MODIFIER_INTENT_MODIFY_SELECTION of type Gdk.ModifierIntent>, 4: <enum GDK_MODIFIER_INTENT_NO_TEXT_INPUT of type Gdk.ModifierIntent>, 5: <enum GDK_MODIFIER_INTENT_SHIFT_GROUP of type Gdk.ModifierIntent>, 6: <enum GDK_MODIFIER_INTENT_DEFAULT_MOD_MASK of type Gdk.ModifierIntent>}, '__info__': gi.EnumInfo(ModifierIntent), 'PRIMARY_ACCELERATOR': <enum GDK_MODIFIER_INTENT_PRIMARY_ACCELERATOR of type Gdk.ModifierIntent>, 'CONTEXT_MENU': <enum GDK_MODIFIER_INTENT_CONTEXT_MENU of type Gdk.ModifierIntent>, 'EXTEND_SELECTION': <enum GDK_MODIFIER_INTENT_EXTEND_SELECTION of type Gdk.ModifierIntent>, 'MODIFY_SELECTION': <enum GDK_MODIFIER_INTENT_MODIFY_SELECTION of type Gdk.ModifierIntent>, 'NO_TEXT_INPUT': <enum GDK_MODIFIER_INTENT_NO_TEXT_INPUT of type Gdk.ModifierIntent>, 'SHIFT_GROUP': <enum GDK_MODIFIER_INTENT_SHIFT_GROUP of type Gdk.ModifierIntent>, 'DEFAULT_MOD_MASK': <enum GDK_MODIFIER_INTENT_DEFAULT_MOD_MASK of type Gdk.ModifierIntent>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'ModifierIntent' objects>, '__doc__': None, '__gtype__': <GType GdkModifierIntent (94915769399296)>, '__enum_values__': {0: <enum GDK_MODIFIER_INTENT_PRIMARY_ACCELERATOR of type Gdk.ModifierIntent>, 1: <enum GDK_MODIFIER_INTENT_CONTEXT_MENU of type Gdk.ModifierIntent>, 2: <enum GDK_MODIFIER_INTENT_EXTEND_SELECTION of type Gdk.ModifierIntent>, 3: <enum GDK_MODIFIER_INTENT_MODIFY_SELECTION of type Gdk.ModifierIntent>, 4: <enum GDK_MODIFIER_INTENT_NO_TEXT_INPUT of type Gdk.ModifierIntent>, 5: <enum GDK_MODIFIER_INTENT_SHIFT_GROUP of type Gdk.ModifierIntent>, 6: <enum GDK_MODIFIER_INTENT_DEFAULT_MOD_MASK of type Gdk.ModifierIntent>}, '__info__': gi.EnumInfo(ModifierIntent), 'PRIMARY_ACCELERATOR': <enum GDK_MODIFIER_INTENT_PRIMARY_ACCELERATOR of type Gdk.ModifierIntent>, 'CONTEXT_MENU': <enum GDK_MODIFIER_INTENT_CONTEXT_MENU of type Gdk.ModifierIntent>, 'EXTEND_SELECTION': <enum GDK_MODIFIER_INTENT_EXTEND_SELECTION of type Gdk.ModifierIntent>, 'MODIFY_SELECTION': <enum GDK_MODIFIER_INTENT_MODIFY_SELECTION of type Gdk.ModifierIntent>, 'NO_TEXT_INPUT': <enum GDK_MODIFIER_INTENT_NO_TEXT_INPUT of type Gdk.ModifierIntent>, 'SHIFT_GROUP': <enum GDK_MODIFIER_INTENT_SHIFT_GROUP of type Gdk.ModifierIntent>, 'DEFAULT_MOD_MASK': <enum GDK_MODIFIER_INTENT_DEFAULT_MOD_MASK of type Gdk.ModifierIntent>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -372,7 +372,7 @@ class ModifierIntent(__gobject.GEnum):
         5: 5,
         6: 6,
     }
-    __gtype__ = None # (!) real value is '<GType GdkModifierIntent (94055651822880)>'
+    __gtype__ = None # (!) real value is '<GType GdkModifierIntent (94915769399296)>'
     __info__ = gi.EnumInfo(ModifierIntent)
 
 

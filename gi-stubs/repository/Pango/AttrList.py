@@ -171,8 +171,8 @@ class AttrList(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AttrList), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoAttrList (94752680787664)>, '__dict__': <attribute '__dict__' of 'AttrList' objects>, '__weakref__': <attribute '__weakref__' of 'AttrList' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'change': gi.FunctionInfo(change), 'copy': gi.FunctionInfo(copy), 'filter': gi.FunctionInfo(filter), 'get_attributes': gi.FunctionInfo(get_attributes), 'get_iterator': gi.FunctionInfo(get_iterator), 'insert': gi.FunctionInfo(insert), 'insert_before': gi.FunctionInfo(insert_before), 'ref': gi.FunctionInfo(ref), 'splice': gi.FunctionInfo(splice), 'unref': gi.FunctionInfo(unref), 'update': gi.FunctionInfo(update), '__new__': <staticmethod object at 0x7f24746df7c0>, '__init__': <function nothing at 0x7f2474a83430>})"
-    __gtype__ = None # (!) real value is '<GType PangoAttrList (94752680787664)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AttrList), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoAttrList (94187429353568)>, '__dict__': <attribute '__dict__' of 'AttrList' objects>, '__weakref__': <attribute '__weakref__' of 'AttrList' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'change': gi.FunctionInfo(change), 'copy': gi.FunctionInfo(copy), 'filter': gi.FunctionInfo(filter), 'get_attributes': gi.FunctionInfo(get_attributes), 'get_iterator': gi.FunctionInfo(get_iterator), 'insert': gi.FunctionInfo(insert), 'insert_before': gi.FunctionInfo(insert_before), 'ref': gi.FunctionInfo(ref), 'splice': gi.FunctionInfo(splice), 'unref': gi.FunctionInfo(unref), 'update': gi.FunctionInfo(update), '__new__': <staticmethod object at 0x7f851787abb0>, '__init__': <function nothing at 0x7f8517c2dee0>})"
+    __gtype__ = None # (!) real value is '<GType PangoAttrList (94187429353568)>'
     __info__ = StructInfo(AttrList)
 
 

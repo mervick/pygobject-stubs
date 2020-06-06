@@ -164,8 +164,8 @@ class FileAttributeMatcher(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FileAttributeMatcher), '__module__': 'gi.repository.Gio', '__gtype__': <GType GFileAttributeMatcher (94125582302000)>, '__dict__': <attribute '__dict__' of 'FileAttributeMatcher' objects>, '__weakref__': <attribute '__weakref__' of 'FileAttributeMatcher' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'enumerate_namespace': gi.FunctionInfo(enumerate_namespace), 'enumerate_next': gi.FunctionInfo(enumerate_next), 'matches': gi.FunctionInfo(matches), 'matches_only': gi.FunctionInfo(matches_only), 'ref': gi.FunctionInfo(ref), 'subtract': gi.FunctionInfo(subtract), 'to_string': gi.FunctionInfo(to_string), 'unref': gi.FunctionInfo(unref), '__new__': <staticmethod object at 0x7f28ddeeb520>, '__init__': <function nothing at 0x7f28de15e430>})"
-    __gtype__ = None # (!) real value is '<GType GFileAttributeMatcher (94125582302000)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FileAttributeMatcher), '__module__': 'gi.repository.Gio', '__gtype__': <GType GFileAttributeMatcher (94269256904432)>, '__dict__': <attribute '__dict__' of 'FileAttributeMatcher' objects>, '__weakref__': <attribute '__weakref__' of 'FileAttributeMatcher' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'enumerate_namespace': gi.FunctionInfo(enumerate_namespace), 'enumerate_next': gi.FunctionInfo(enumerate_next), 'matches': gi.FunctionInfo(matches), 'matches_only': gi.FunctionInfo(matches_only), 'ref': gi.FunctionInfo(ref), 'subtract': gi.FunctionInfo(subtract), 'to_string': gi.FunctionInfo(to_string), 'unref': gi.FunctionInfo(unref), '__new__': <staticmethod object at 0x7f4b8804d910>, '__init__': <function nothing at 0x7f4b882c3ee0>})"
+    __gtype__ = None # (!) real value is '<GType GFileAttributeMatcher (94269256904432)>'
     __info__ = StructInfo(FileAttributeMatcher)
 
 

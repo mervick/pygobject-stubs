@@ -367,7 +367,7 @@ class DBusConnectionFlags(__gobject.GFlags):
     MESSAGE_BUS_CONNECTION = 8
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusConnectionFlags' objects>, '__doc__': None, '__gtype__': <GType GDBusConnectionFlags (94125582095568)>, '__flags_values__': {0: <flags 0 of type Gio.DBusConnectionFlags>, 1: <flags G_DBUS_CONNECTION_FLAGS_AUTHENTICATION_CLIENT of type Gio.DBusConnectionFlags>, 2: <flags G_DBUS_CONNECTION_FLAGS_AUTHENTICATION_SERVER of type Gio.DBusConnectionFlags>, 4: <flags G_DBUS_CONNECTION_FLAGS_AUTHENTICATION_ALLOW_ANONYMOUS of type Gio.DBusConnectionFlags>, 8: <flags G_DBUS_CONNECTION_FLAGS_MESSAGE_BUS_CONNECTION of type Gio.DBusConnectionFlags>, 16: <flags G_DBUS_CONNECTION_FLAGS_DELAY_MESSAGE_PROCESSING of type Gio.DBusConnectionFlags>}, '__info__': gi.EnumInfo(DBusConnectionFlags), 'NONE': <flags 0 of type Gio.DBusConnectionFlags>, 'AUTHENTICATION_CLIENT': <flags G_DBUS_CONNECTION_FLAGS_AUTHENTICATION_CLIENT of type Gio.DBusConnectionFlags>, 'AUTHENTICATION_SERVER': <flags G_DBUS_CONNECTION_FLAGS_AUTHENTICATION_SERVER of type Gio.DBusConnectionFlags>, 'AUTHENTICATION_ALLOW_ANONYMOUS': <flags G_DBUS_CONNECTION_FLAGS_AUTHENTICATION_ALLOW_ANONYMOUS of type Gio.DBusConnectionFlags>, 'MESSAGE_BUS_CONNECTION': <flags G_DBUS_CONNECTION_FLAGS_MESSAGE_BUS_CONNECTION of type Gio.DBusConnectionFlags>, 'DELAY_MESSAGE_PROCESSING': <flags G_DBUS_CONNECTION_FLAGS_DELAY_MESSAGE_PROCESSING of type Gio.DBusConnectionFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusConnectionFlags' objects>, '__doc__': None, '__gtype__': <GType GDBusConnectionFlags (94269256721952)>, '__flags_values__': {0: <flags 0 of type Gio.DBusConnectionFlags>, 1: <flags G_DBUS_CONNECTION_FLAGS_AUTHENTICATION_CLIENT of type Gio.DBusConnectionFlags>, 2: <flags G_DBUS_CONNECTION_FLAGS_AUTHENTICATION_SERVER of type Gio.DBusConnectionFlags>, 4: <flags G_DBUS_CONNECTION_FLAGS_AUTHENTICATION_ALLOW_ANONYMOUS of type Gio.DBusConnectionFlags>, 8: <flags G_DBUS_CONNECTION_FLAGS_MESSAGE_BUS_CONNECTION of type Gio.DBusConnectionFlags>, 16: <flags G_DBUS_CONNECTION_FLAGS_DELAY_MESSAGE_PROCESSING of type Gio.DBusConnectionFlags>}, '__info__': gi.EnumInfo(DBusConnectionFlags), 'NONE': <flags 0 of type Gio.DBusConnectionFlags>, 'AUTHENTICATION_CLIENT': <flags G_DBUS_CONNECTION_FLAGS_AUTHENTICATION_CLIENT of type Gio.DBusConnectionFlags>, 'AUTHENTICATION_SERVER': <flags G_DBUS_CONNECTION_FLAGS_AUTHENTICATION_SERVER of type Gio.DBusConnectionFlags>, 'AUTHENTICATION_ALLOW_ANONYMOUS': <flags G_DBUS_CONNECTION_FLAGS_AUTHENTICATION_ALLOW_ANONYMOUS of type Gio.DBusConnectionFlags>, 'MESSAGE_BUS_CONNECTION': <flags G_DBUS_CONNECTION_FLAGS_MESSAGE_BUS_CONNECTION of type Gio.DBusConnectionFlags>, 'DELAY_MESSAGE_PROCESSING': <flags G_DBUS_CONNECTION_FLAGS_DELAY_MESSAGE_PROCESSING of type Gio.DBusConnectionFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
@@ -376,7 +376,7 @@ class DBusConnectionFlags(__gobject.GFlags):
         8: 8,
         16: 16,
     }
-    __gtype__ = None # (!) real value is '<GType GDBusConnectionFlags (94125582095568)>'
+    __gtype__ = None # (!) real value is '<GType GDBusConnectionFlags (94269256721952)>'
     __info__ = gi.EnumInfo(DBusConnectionFlags)
 
 

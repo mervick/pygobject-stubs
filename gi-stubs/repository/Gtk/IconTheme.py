@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -518,12 +518,12 @@ class IconTheme(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe82fc53370>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc63943ce50>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(IconTheme), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkIconTheme (94846038549328)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add_builtin_icon': gi.FunctionInfo(add_builtin_icon), 'get_default': gi.FunctionInfo(get_default), 'get_for_screen': gi.FunctionInfo(get_for_screen), 'add_resource_path': gi.FunctionInfo(add_resource_path), 'append_search_path': gi.FunctionInfo(append_search_path), 'choose_icon': gi.FunctionInfo(choose_icon), 'choose_icon_for_scale': gi.FunctionInfo(choose_icon_for_scale), 'get_example_icon_name': gi.FunctionInfo(get_example_icon_name), 'get_icon_sizes': gi.FunctionInfo(get_icon_sizes), 'get_search_path': gi.FunctionInfo(get_search_path), 'has_icon': gi.FunctionInfo(has_icon), 'list_contexts': gi.FunctionInfo(list_contexts), 'list_icons': gi.FunctionInfo(list_icons), 'load_icon': gi.FunctionInfo(load_icon), 'load_icon_for_scale': gi.FunctionInfo(load_icon_for_scale), 'load_surface': gi.FunctionInfo(load_surface), 'lookup_by_gicon': gi.FunctionInfo(lookup_by_gicon), 'lookup_by_gicon_for_scale': gi.FunctionInfo(lookup_by_gicon_for_scale), 'lookup_icon': gi.FunctionInfo(lookup_icon), 'lookup_icon_for_scale': gi.FunctionInfo(lookup_icon_for_scale), 'prepend_search_path': gi.FunctionInfo(prepend_search_path), 'rescan_if_needed': gi.FunctionInfo(rescan_if_needed), 'set_custom_theme': gi.FunctionInfo(set_custom_theme), 'set_screen': gi.FunctionInfo(set_screen), 'set_search_path': gi.FunctionInfo(set_search_path), 'do_changed': gi.VFuncInfo(changed), 'parent_instance': <property object at 0x7fe83103ee00>, 'priv': <property object at 0x7fe83103eef0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(IconTheme), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkIconTheme (93897368764240)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add_builtin_icon': gi.FunctionInfo(add_builtin_icon), 'get_default': gi.FunctionInfo(get_default), 'get_for_screen': gi.FunctionInfo(get_for_screen), 'add_resource_path': gi.FunctionInfo(add_resource_path), 'append_search_path': gi.FunctionInfo(append_search_path), 'choose_icon': gi.FunctionInfo(choose_icon), 'choose_icon_for_scale': gi.FunctionInfo(choose_icon_for_scale), 'get_example_icon_name': gi.FunctionInfo(get_example_icon_name), 'get_icon_sizes': gi.FunctionInfo(get_icon_sizes), 'get_search_path': gi.FunctionInfo(get_search_path), 'has_icon': gi.FunctionInfo(has_icon), 'list_contexts': gi.FunctionInfo(list_contexts), 'list_icons': gi.FunctionInfo(list_icons), 'load_icon': gi.FunctionInfo(load_icon), 'load_icon_for_scale': gi.FunctionInfo(load_icon_for_scale), 'load_surface': gi.FunctionInfo(load_surface), 'lookup_by_gicon': gi.FunctionInfo(lookup_by_gicon), 'lookup_by_gicon_for_scale': gi.FunctionInfo(lookup_by_gicon_for_scale), 'lookup_icon': gi.FunctionInfo(lookup_icon), 'lookup_icon_for_scale': gi.FunctionInfo(lookup_icon_for_scale), 'prepend_search_path': gi.FunctionInfo(prepend_search_path), 'rescan_if_needed': gi.FunctionInfo(rescan_if_needed), 'set_custom_theme': gi.FunctionInfo(set_custom_theme), 'set_screen': gi.FunctionInfo(set_screen), 'set_search_path': gi.FunctionInfo(set_search_path), 'do_changed': gi.VFuncInfo(changed), 'parent_instance': <property object at 0x7fc63a753b80>, 'priv': <property object at 0x7fc63a753c70>})"
     __gdoc__ = 'Object GtkIconTheme\n\nSignals from GtkIconTheme:\n  changed ()\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkIconTheme (94846038549328)>'
+    __gtype__ = None # (!) real value is '<GType GtkIconTheme (93897368764240)>'
     __info__ = ObjectInfo(IconTheme)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -559,12 +559,12 @@ class UIManager(UIManager):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe82e6f6670>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc637df16a0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', 'add_ui_from_string': <function UIManager.add_ui_from_string at 0x7fe831d85af0>, 'insert_action_group': <function UIManager.insert_action_group at 0x7fe831d85b80>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', 'add_ui_from_string': <function UIManager.add_ui_from_string at 0x7fc63b4a8310>, 'insert_action_group': <function UIManager.insert_action_group at 0x7fc63b4a83a0>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Object GtkUIManager\n\nSignals from GtkUIManager:\n  connect-proxy (GtkAction, GtkWidget)\n  disconnect-proxy (GtkAction, GtkWidget)\n  pre-activate (GtkAction)\n  post-activate (GtkAction)\n  add-widget (GtkWidget)\n  actions-changed ()\n\nProperties from GtkUIManager:\n  add-tearoffs -> gboolean: Add tearoffs to menus\n    Whether tearoff menu items should be added to menus\n  ui -> gchararray: Merged UI definition\n    An XML string describing the merged UI\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkUIManager (94846036796272)>'
+    __gtype__ = None # (!) real value is '<GType GtkUIManager (93897367006784)>'
     __info__ = ObjectInfo(UIManager)
 
 

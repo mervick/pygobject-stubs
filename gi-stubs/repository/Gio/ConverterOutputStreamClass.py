@@ -134,7 +134,7 @@ class ConverterOutputStreamClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ConverterOutputStreamClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ConverterOutputStreamClass' objects>, '__weakref__': <attribute '__weakref__' of 'ConverterOutputStreamClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28ddf3a360>, '_g_reserved1': <property object at 0x7f28ddf3a450>, '_g_reserved2': <property object at 0x7f28ddf3a540>, '_g_reserved3': <property object at 0x7f28ddf3a630>, '_g_reserved4': <property object at 0x7f28ddf3a720>, '_g_reserved5': <property object at 0x7f28ddf3a810>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ConverterOutputStreamClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ConverterOutputStreamClass' objects>, '__weakref__': <attribute '__weakref__' of 'ConverterOutputStreamClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b8801f590>, '_g_reserved1': <property object at 0x7f4b8801f680>, '_g_reserved2': <property object at 0x7f4b8801f770>, '_g_reserved3': <property object at 0x7f4b8801f860>, '_g_reserved4': <property object at 0x7f4b8801f950>, '_g_reserved5': <property object at 0x7f4b8801fa40>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ConverterOutputStreamClass)
 

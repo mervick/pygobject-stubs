@@ -440,12 +440,12 @@ class DBusServer(__gi_overrides_GObject.Object, Initable):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd4adc40>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b877889a0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DBusServer), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDBusServer (94125582068032)>, '__doc__': None, '__gsignals__': {}, 'new_sync': gi.FunctionInfo(new_sync), 'get_client_address': gi.FunctionInfo(get_client_address), 'get_flags': gi.FunctionInfo(get_flags), 'get_guid': gi.FunctionInfo(get_guid), 'is_active': gi.FunctionInfo(is_active), 'start': gi.FunctionInfo(start), 'stop': gi.FunctionInfo(stop)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DBusServer), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDBusServer (94269256803024)>, '__doc__': None, '__gsignals__': {}, 'new_sync': gi.FunctionInfo(new_sync), 'get_client_address': gi.FunctionInfo(get_client_address), 'get_flags': gi.FunctionInfo(get_flags), 'get_guid': gi.FunctionInfo(get_guid), 'is_active': gi.FunctionInfo(is_active), 'start': gi.FunctionInfo(start), 'stop': gi.FunctionInfo(stop)})"
     __gdoc__ = 'Object GDBusServer\n\nSignals from GDBusServer:\n  new-connection (GDBusConnection) -> gboolean\n\nProperties from GDBusServer:\n  address -> gchararray: Address\n    The address to listen on\n  client-address -> gchararray: Client Address\n    The address clients can use\n  flags -> GDBusServerFlags: Flags\n    Flags for the server\n  guid -> gchararray: GUID\n    The guid of the server\n  active -> gboolean: Active\n    Whether the server is currently active\n  authentication-observer -> GDBusAuthObserver: Authentication Observer\n    Object used to assist in the authentication process\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GDBusServer (94125582068032)>'
+    __gtype__ = None # (!) real value is '<GType GDBusServer (94269256803024)>'
     __info__ = ObjectInfo(DBusServer)
 
 

@@ -361,12 +361,12 @@ class ShapeFlags(__gobject.GFlags):
     NONE = 0
     ROUND_POSITIONS = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'ShapeFlags' objects>, '__doc__': None, '__gtype__': <GType PangoShapeFlags (94752681070736)>, '__flags_values__': {0: <flags 0 of type Pango.ShapeFlags>, 1: <flags PANGO_SHAPE_ROUND_POSITIONS of type Pango.ShapeFlags>}, '__info__': gi.EnumInfo(ShapeFlags), 'NONE': <flags 0 of type Pango.ShapeFlags>, 'ROUND_POSITIONS': <flags PANGO_SHAPE_ROUND_POSITIONS of type Pango.ShapeFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'ShapeFlags' objects>, '__doc__': None, '__gtype__': <GType PangoShapeFlags (94187429419536)>, '__flags_values__': {0: <flags 0 of type Pango.ShapeFlags>, 1: <flags PANGO_SHAPE_ROUND_POSITIONS of type Pango.ShapeFlags>}, '__info__': gi.EnumInfo(ShapeFlags), 'NONE': <flags 0 of type Pango.ShapeFlags>, 'ROUND_POSITIONS': <flags PANGO_SHAPE_ROUND_POSITIONS of type Pango.ShapeFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType PangoShapeFlags (94752681070736)>'
+    __gtype__ = None # (!) real value is '<GType PangoShapeFlags (94187429419536)>'
     __info__ = gi.EnumInfo(ShapeFlags)
 
 

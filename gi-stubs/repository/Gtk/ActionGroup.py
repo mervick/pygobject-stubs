@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -611,12 +611,12 @@ class ActionGroup(ActionGroup):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe830e38850>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc63a52b3a0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', '__init__': <function deprecated_init.<locals>.new_init at 0x7fe831d858b0>, 'add_actions': <function ActionGroup.add_actions at 0x7fe831d85940>, 'add_toggle_actions': <function ActionGroup.add_toggle_actions at 0x7fe831d859d0>, 'add_radio_actions': <function ActionGroup.add_radio_actions at 0x7fe831d85a60>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', '__init__': <function deprecated_init.<locals>.new_init at 0x7fc63b4a80d0>, 'add_actions': <function ActionGroup.add_actions at 0x7fc63b4a8160>, 'add_toggle_actions': <function ActionGroup.add_toggle_actions at 0x7fc63b4a81f0>, 'add_radio_actions': <function ActionGroup.add_radio_actions at 0x7fc63b4a8280>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Object GtkActionGroup\n\nSignals from GtkActionGroup:\n  connect-proxy (GtkAction, GtkWidget)\n  disconnect-proxy (GtkAction, GtkWidget)\n  pre-activate (GtkAction)\n  post-activate (GtkAction)\n\nProperties from GtkActionGroup:\n  name -> gchararray: Name\n    A name for the action group.\n  sensitive -> gboolean: Sensitive\n    Whether the action group is enabled.\n  visible -> gboolean: Visible\n    Whether the action group is visible.\n  accel-group -> GtkAccelGroup: Accelerator Group\n    The accelerator group the actions of this group should use.\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkActionGroup (94846036786736)>'
+    __gtype__ = None # (!) real value is '<GType GtkActionGroup (93897366957616)>'
     __info__ = ObjectInfo(ActionGroup)
 
 

@@ -504,12 +504,12 @@ class ProxyAddress(InetSocketAddress):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd15be80>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b871c1a60>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ProxyAddress), '__module__': 'gi.repository.Gio', '__gtype__': <GType GProxyAddress (94125582626640)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_destination_hostname': gi.FunctionInfo(get_destination_hostname), 'get_destination_port': gi.FunctionInfo(get_destination_port), 'get_destination_protocol': gi.FunctionInfo(get_destination_protocol), 'get_password': gi.FunctionInfo(get_password), 'get_protocol': gi.FunctionInfo(get_protocol), 'get_uri': gi.FunctionInfo(get_uri), 'get_username': gi.FunctionInfo(get_username), 'parent_instance': <property object at 0x7f28dde40ef0>, 'priv': <property object at 0x7f28dde44040>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ProxyAddress), '__module__': 'gi.repository.Gio', '__gtype__': <GType GProxyAddress (94269257257408)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_destination_hostname': gi.FunctionInfo(get_destination_hostname), 'get_destination_port': gi.FunctionInfo(get_destination_port), 'get_destination_protocol': gi.FunctionInfo(get_destination_protocol), 'get_password': gi.FunctionInfo(get_password), 'get_protocol': gi.FunctionInfo(get_protocol), 'get_uri': gi.FunctionInfo(get_uri), 'get_username': gi.FunctionInfo(get_username), 'parent_instance': <property object at 0x7f4b87fa4ef0>, 'priv': <property object at 0x7f4b87fa6040>})"
     __gdoc__ = 'Object GProxyAddress\n\nProperties from GProxyAddress:\n  protocol -> gchararray: Protocol\n    The proxy protocol\n  destination-protocol -> gchararray: Destionation Protocol\n    The proxy destination protocol\n  destination-hostname -> gchararray: Destination Hostname\n    The proxy destination hostname\n  destination-port -> guint: Destination Port\n    The proxy destination port\n  username -> gchararray: Username\n    The proxy username\n  password -> gchararray: Password\n    The proxy password\n  uri -> gchararray: URI\n    The proxy’s URI\n\nProperties from GInetSocketAddress:\n  address -> GInetAddress: Address\n    The address\n  port -> guint: Port\n    The port\n  flowinfo -> guint: Flow info\n    IPv6 flow info\n  scope-id -> guint: Scope ID\n    IPv6 scope ID\n\nProperties from GSocketAddress:\n  family -> GSocketFamily: Address family\n    The family of the socket address\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GProxyAddress (94125582626640)>'
+    __gtype__ = None # (!) real value is '<GType GProxyAddress (94269257257408)>'
     __info__ = ObjectInfo(ProxyAddress)
 
 

@@ -365,14 +365,14 @@ class BusNameOwnerFlags(__gobject.GFlags):
     NONE = 0
     REPLACE = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'BusNameOwnerFlags' objects>, '__doc__': None, '__gtype__': <GType GBusNameOwnerFlags (94125581840592)>, '__flags_values__': {0: <flags 0 of type Gio.BusNameOwnerFlags>, 1: <flags G_BUS_NAME_OWNER_FLAGS_ALLOW_REPLACEMENT of type Gio.BusNameOwnerFlags>, 2: <flags G_BUS_NAME_OWNER_FLAGS_REPLACE of type Gio.BusNameOwnerFlags>, 4: <flags G_BUS_NAME_OWNER_FLAGS_DO_NOT_QUEUE of type Gio.BusNameOwnerFlags>}, '__info__': gi.EnumInfo(BusNameOwnerFlags), 'NONE': <flags 0 of type Gio.BusNameOwnerFlags>, 'ALLOW_REPLACEMENT': <flags G_BUS_NAME_OWNER_FLAGS_ALLOW_REPLACEMENT of type Gio.BusNameOwnerFlags>, 'REPLACE': <flags G_BUS_NAME_OWNER_FLAGS_REPLACE of type Gio.BusNameOwnerFlags>, 'DO_NOT_QUEUE': <flags G_BUS_NAME_OWNER_FLAGS_DO_NOT_QUEUE of type Gio.BusNameOwnerFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'BusNameOwnerFlags' objects>, '__doc__': None, '__gtype__': <GType GBusNameOwnerFlags (94269256349728)>, '__flags_values__': {0: <flags 0 of type Gio.BusNameOwnerFlags>, 1: <flags G_BUS_NAME_OWNER_FLAGS_ALLOW_REPLACEMENT of type Gio.BusNameOwnerFlags>, 2: <flags G_BUS_NAME_OWNER_FLAGS_REPLACE of type Gio.BusNameOwnerFlags>, 4: <flags G_BUS_NAME_OWNER_FLAGS_DO_NOT_QUEUE of type Gio.BusNameOwnerFlags>}, '__info__': gi.EnumInfo(BusNameOwnerFlags), 'NONE': <flags 0 of type Gio.BusNameOwnerFlags>, 'ALLOW_REPLACEMENT': <flags G_BUS_NAME_OWNER_FLAGS_ALLOW_REPLACEMENT of type Gio.BusNameOwnerFlags>, 'REPLACE': <flags G_BUS_NAME_OWNER_FLAGS_REPLACE of type Gio.BusNameOwnerFlags>, 'DO_NOT_QUEUE': <flags G_BUS_NAME_OWNER_FLAGS_DO_NOT_QUEUE of type Gio.BusNameOwnerFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
         2: 2,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType GBusNameOwnerFlags (94125581840592)>'
+    __gtype__ = None # (!) real value is '<GType GBusNameOwnerFlags (94269256349728)>'
     __info__ = gi.EnumInfo(BusNameOwnerFlags)
 
 

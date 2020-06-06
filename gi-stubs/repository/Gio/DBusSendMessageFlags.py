@@ -363,12 +363,12 @@ class DBusSendMessageFlags(__gobject.GFlags):
     NONE = 0
     PRESERVE_SERIAL = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusSendMessageFlags' objects>, '__doc__': None, '__gtype__': <GType GDBusSendMessageFlags (94125582067728)>, '__flags_values__': {0: <flags 0 of type Gio.DBusSendMessageFlags>, 1: <flags G_DBUS_SEND_MESSAGE_FLAGS_PRESERVE_SERIAL of type Gio.DBusSendMessageFlags>}, '__info__': gi.EnumInfo(DBusSendMessageFlags), 'NONE': <flags 0 of type Gio.DBusSendMessageFlags>, 'PRESERVE_SERIAL': <flags G_DBUS_SEND_MESSAGE_FLAGS_PRESERVE_SERIAL of type Gio.DBusSendMessageFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusSendMessageFlags' objects>, '__doc__': None, '__gtype__': <GType GDBusSendMessageFlags (94269256801184)>, '__flags_values__': {0: <flags 0 of type Gio.DBusSendMessageFlags>, 1: <flags G_DBUS_SEND_MESSAGE_FLAGS_PRESERVE_SERIAL of type Gio.DBusSendMessageFlags>}, '__info__': gi.EnumInfo(DBusSendMessageFlags), 'NONE': <flags 0 of type Gio.DBusSendMessageFlags>, 'PRESERVE_SERIAL': <flags G_DBUS_SEND_MESSAGE_FLAGS_PRESERVE_SERIAL of type Gio.DBusSendMessageFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GDBusSendMessageFlags (94125582067728)>'
+    __gtype__ = None # (!) real value is '<GType GDBusSendMessageFlags (94269256801184)>'
     __info__ = gi.EnumInfo(DBusSendMessageFlags)
 
 

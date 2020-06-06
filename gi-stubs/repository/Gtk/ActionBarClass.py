@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -135,7 +135,7 @@ class ActionBarClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ActionBarClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ActionBarClass' objects>, '__weakref__': <attribute '__weakref__' of 'ActionBarClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe8310ec4a0>, '_gtk_reserved1': <property object at 0x7fe8310ec590>, '_gtk_reserved2': <property object at 0x7fe8310ec680>, '_gtk_reserved3': <property object at 0x7fe8310ec770>, '_gtk_reserved4': <property object at 0x7fe8310ec860>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ActionBarClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ActionBarClass' objects>, '__weakref__': <attribute '__weakref__' of 'ActionBarClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a8013b0>, '_gtk_reserved1': <property object at 0x7fc63a8014a0>, '_gtk_reserved2': <property object at 0x7fc63a801590>, '_gtk_reserved3': <property object at 0x7fc63a801680>, '_gtk_reserved4': <property object at 0x7fc63a801770>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ActionBarClass)
 

@@ -128,7 +128,7 @@ class RemoteActionGroupInterface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(RemoteActionGroupInterface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'RemoteActionGroupInterface' objects>, '__weakref__': <attribute '__weakref__' of 'RemoteActionGroupInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f28dde45e00>, 'activate_action_full': <property object at 0x7f28dde45f40>, 'change_action_state_full': <property object at 0x7f28dde47090>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(RemoteActionGroupInterface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'RemoteActionGroupInterface' objects>, '__weakref__': <attribute '__weakref__' of 'RemoteActionGroupInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f4b87fa8ea0>, 'activate_action_full': <property object at 0x7f4b87fa9040>, 'change_action_state_full': <property object at 0x7f4b87fa9130>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(RemoteActionGroupInterface)
 

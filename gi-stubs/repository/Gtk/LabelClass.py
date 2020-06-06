@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -151,7 +151,7 @@ class LabelClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(LabelClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'LabelClass' objects>, '__weakref__': <attribute '__weakref__' of 'LabelClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe83104f810>, 'move_cursor': <property object at 0x7fe83104f900>, 'copy_clipboard': <property object at 0x7fe83104f9f0>, 'populate_popup': <property object at 0x7fe83104fae0>, 'activate_link': <property object at 0x7fe83104fbd0>, '_gtk_reserved1': <property object at 0x7fe83104fcc0>, '_gtk_reserved2': <property object at 0x7fe83104fdb0>, '_gtk_reserved3': <property object at 0x7fe83104fea0>, '_gtk_reserved4': <property object at 0x7fe83104ff90>, '_gtk_reserved5': <property object at 0x7fe8310540e0>, '_gtk_reserved6': <property object at 0x7fe8310541d0>, '_gtk_reserved7': <property object at 0x7fe8310542c0>, '_gtk_reserved8': <property object at 0x7fe8310543b0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(LabelClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'LabelClass' objects>, '__weakref__': <attribute '__weakref__' of 'LabelClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a7684f0>, 'move_cursor': <property object at 0x7fc63a7685e0>, 'copy_clipboard': <property object at 0x7fc63a7686d0>, 'populate_popup': <property object at 0x7fc63a7687c0>, 'activate_link': <property object at 0x7fc63a7688b0>, '_gtk_reserved1': <property object at 0x7fc63a7689a0>, '_gtk_reserved2': <property object at 0x7fc63a768a90>, '_gtk_reserved3': <property object at 0x7fc63a768b80>, '_gtk_reserved4': <property object at 0x7fc63a768c70>, '_gtk_reserved5': <property object at 0x7fc63a768d60>, '_gtk_reserved6': <property object at 0x7fc63a768e50>, '_gtk_reserved7': <property object at 0x7fc63a768f40>, '_gtk_reserved8': <property object at 0x7fc63a76a090>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(LabelClass)
 

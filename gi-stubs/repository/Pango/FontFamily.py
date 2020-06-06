@@ -434,12 +434,12 @@ class FontFamily(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f2474705fd0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f85178cfd30>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FontFamily), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoFontFamily (94752680721728)>, '__doc__': None, '__gsignals__': {}, 'get_name': gi.FunctionInfo(get_name), 'is_monospace': gi.FunctionInfo(is_monospace), 'is_variable': gi.FunctionInfo(is_variable), 'list_faces': gi.FunctionInfo(list_faces), 'do_get_name': gi.VFuncInfo(get_name), 'do_is_monospace': gi.VFuncInfo(is_monospace), 'do_is_variable': gi.VFuncInfo(is_variable), 'do_list_faces': gi.VFuncInfo(list_faces), 'parent_instance': <property object at 0x7f24746eecc0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FontFamily), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoFontFamily (94187428999552)>, '__doc__': None, '__gsignals__': {}, 'get_name': gi.FunctionInfo(get_name), 'is_monospace': gi.FunctionInfo(is_monospace), 'is_variable': gi.FunctionInfo(is_variable), 'list_faces': gi.FunctionInfo(list_faces), 'do_get_name': gi.VFuncInfo(get_name), 'do_is_monospace': gi.VFuncInfo(is_monospace), 'do_is_variable': gi.VFuncInfo(is_variable), 'do_list_faces': gi.VFuncInfo(list_faces), 'parent_instance': <property object at 0x7f8517894a90>})"
     __gdoc__ = 'Object PangoFontFamily\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType PangoFontFamily (94752680721728)>'
+    __gtype__ = None # (!) real value is '<GType PangoFontFamily (94187428999552)>'
     __info__ = ObjectInfo(FontFamily)
 
 

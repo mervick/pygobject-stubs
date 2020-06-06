@@ -161,7 +161,7 @@ class TypeValueTable(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TypeValueTable), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TypeValueTable' objects>, '__weakref__': <attribute '__weakref__' of 'TypeValueTable' objects>, '__doc__': None, 'value_init': <property object at 0x7f7c2865d810>, 'value_free': <property object at 0x7f7c2865d900>, 'value_copy': <property object at 0x7f7c2865d9f0>, 'value_peek_pointer': <property object at 0x7f7c2865db30>, 'collect_format': <property object at 0x7f7c2865dc20>, 'collect_value': <property object at 0x7f7c2865dd10>, 'lcopy_format': <property object at 0x7f7c2865de00>, 'lcopy_value': <property object at 0x7f7c2865def0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TypeValueTable), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TypeValueTable' objects>, '__weakref__': <attribute '__weakref__' of 'TypeValueTable' objects>, '__doc__': None, 'value_init': <property object at 0x7fe46b8cf900>, 'value_free': <property object at 0x7fe46b8cf9f0>, 'value_copy': <property object at 0x7fe46b8cfa90>, 'value_peek_pointer': <property object at 0x7fe46b8cfbd0>, 'collect_format': <property object at 0x7fe46b8cfcc0>, 'collect_value': <property object at 0x7fe46b8cfdb0>, 'lcopy_format': <property object at 0x7fe46b8cfea0>, 'lcopy_value': <property object at 0x7fe46b8cff90>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TypeValueTable)
 

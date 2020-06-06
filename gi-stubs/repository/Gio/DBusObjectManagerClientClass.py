@@ -130,7 +130,7 @@ class DBusObjectManagerClientClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(DBusObjectManagerClientClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'DBusObjectManagerClientClass' objects>, '__weakref__': <attribute '__weakref__' of 'DBusObjectManagerClientClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28dded12c0>, 'interface_proxy_signal': <property object at 0x7f28dded1400>, 'interface_proxy_properties_changed': <property object at 0x7f28dded14f0>, 'padding': <property object at 0x7f28dded15e0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(DBusObjectManagerClientClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'DBusObjectManagerClientClass' objects>, '__weakref__': <attribute '__weakref__' of 'DBusObjectManagerClientClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b88034590>, 'interface_proxy_signal': <property object at 0x7f4b880346d0>, 'interface_proxy_properties_changed': <property object at 0x7f4b880347c0>, 'padding': <property object at 0x7f4b880348b0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(DBusObjectManagerClientClass)
 

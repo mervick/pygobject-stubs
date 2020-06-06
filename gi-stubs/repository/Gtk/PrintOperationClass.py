@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -165,7 +165,7 @@ class PrintOperationClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PrintOperationClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'PrintOperationClass' objects>, '__weakref__': <attribute '__weakref__' of 'PrintOperationClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe831018a90>, 'done': <property object at 0x7fe831018b80>, 'begin_print': <property object at 0x7fe831018c70>, 'paginate': <property object at 0x7fe831018d60>, 'request_page_setup': <property object at 0x7fe831018ea0>, 'draw_page': <property object at 0x7fe831018f90>, 'end_print': <property object at 0x7fe83101a0e0>, 'status_changed': <property object at 0x7fe83101a1d0>, 'create_custom_widget': <property object at 0x7fe83101a310>, 'custom_widget_apply': <property object at 0x7fe83101a450>, 'preview': <property object at 0x7fe83101a540>, 'update_custom_widget': <property object at 0x7fe83101a680>, '_gtk_reserved1': <property object at 0x7fe83101a770>, '_gtk_reserved2': <property object at 0x7fe83101a860>, '_gtk_reserved3': <property object at 0x7fe83101a950>, '_gtk_reserved4': <property object at 0x7fe83101aa40>, '_gtk_reserved5': <property object at 0x7fe83101ab30>, '_gtk_reserved6': <property object at 0x7fe83101ac20>, '_gtk_reserved7': <property object at 0x7fe83101ad10>, '_gtk_reserved8': <property object at 0x7fe83101ae00>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PrintOperationClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'PrintOperationClass' objects>, '__weakref__': <attribute '__weakref__' of 'PrintOperationClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a72d770>, 'done': <property object at 0x7fc63a72d860>, 'begin_print': <property object at 0x7fc63a72d950>, 'paginate': <property object at 0x7fc63a72da40>, 'request_page_setup': <property object at 0x7fc63a72db80>, 'draw_page': <property object at 0x7fc63a72dc70>, 'end_print': <property object at 0x7fc63a72dd60>, 'status_changed': <property object at 0x7fc63a72de50>, 'create_custom_widget': <property object at 0x7fc63a72df90>, 'custom_widget_apply': <property object at 0x7fc63a72f130>, 'preview': <property object at 0x7fc63a72f220>, 'update_custom_widget': <property object at 0x7fc63a72f360>, '_gtk_reserved1': <property object at 0x7fc63a72f450>, '_gtk_reserved2': <property object at 0x7fc63a72f540>, '_gtk_reserved3': <property object at 0x7fc63a72f630>, '_gtk_reserved4': <property object at 0x7fc63a72f720>, '_gtk_reserved5': <property object at 0x7fc63a72f810>, '_gtk_reserved6': <property object at 0x7fc63a72f900>, '_gtk_reserved7': <property object at 0x7fc63a72f9f0>, '_gtk_reserved8': <property object at 0x7fc63a72fae0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(PrintOperationClass)
 

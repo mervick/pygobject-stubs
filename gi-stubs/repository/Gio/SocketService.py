@@ -485,12 +485,12 @@ class SocketService(SocketListener):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd15b670>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b8822d430>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SocketService), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSocketService (94125582792896)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'is_active': gi.FunctionInfo(is_active), 'start': gi.FunctionInfo(start), 'stop': gi.FunctionInfo(stop), 'do_incoming': gi.VFuncInfo(incoming), 'parent_instance': <property object at 0x7f28dde65270>, 'priv': <property object at 0x7f28dde65360>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SocketService), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSocketService (94269257423744)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'is_active': gi.FunctionInfo(is_active), 'start': gi.FunctionInfo(start), 'stop': gi.FunctionInfo(stop), 'do_incoming': gi.VFuncInfo(incoming), 'parent_instance': <property object at 0x7f4b87fc8590>, 'priv': <property object at 0x7f4b87fc8680>})"
     __gdoc__ = 'Object GSocketService\n\nSignals from GSocketService:\n  incoming (GSocketConnection, GObject) -> gboolean\n\nProperties from GSocketService:\n  active -> gboolean: Active\n    Whether the service is currently accepting connections\n\nSignals from GSocketListener:\n  event (GSocketListenerEvent, GSocket)\n\nProperties from GSocketListener:\n  listen-backlog -> gint: Listen backlog\n    outstanding connections in the listen queue\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GSocketService (94125582792896)>'
+    __gtype__ = None # (!) real value is '<GType GSocketService (94269257423744)>'
     __info__ = ObjectInfo(SocketService)
 
 

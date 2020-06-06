@@ -648,12 +648,12 @@ class MemoryOutputStream(OutputStream, PollableOutputStream, Seekable):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd1d5820>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87334190>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(MemoryOutputStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GMemoryOutputStream (94125582493440)>, '__doc__': None, '__gsignals__': {}, 'new_resizable': gi.FunctionInfo(new_resizable), 'get_data': gi.FunctionInfo(get_data), 'get_data_size': gi.FunctionInfo(get_data_size), 'get_size': gi.FunctionInfo(get_size), 'steal_as_bytes': gi.FunctionInfo(steal_as_bytes), 'steal_data': gi.FunctionInfo(steal_data), 'parent_instance': <property object at 0x7f28ddea69a0>, 'priv': <property object at 0x7f28ddea6a90>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(MemoryOutputStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GMemoryOutputStream (94269257108224)>, '__doc__': None, '__gsignals__': {}, 'new_resizable': gi.FunctionInfo(new_resizable), 'get_data': gi.FunctionInfo(get_data), 'get_data_size': gi.FunctionInfo(get_data_size), 'get_size': gi.FunctionInfo(get_size), 'steal_as_bytes': gi.FunctionInfo(steal_as_bytes), 'steal_data': gi.FunctionInfo(steal_data), 'parent_instance': <property object at 0x7f4b88008a40>, 'priv': <property object at 0x7f4b88008b30>})"
     __gdoc__ = 'Object GMemoryOutputStream\n\nProperties from GMemoryOutputStream:\n  data -> gpointer: Data Buffer\n    Pointer to buffer where data will be written.\n  size -> gulong: Data Buffer Size\n    Current size of the data buffer.\n  data-size -> gulong: Data Size\n    Size of data written to the buffer.\n  realloc-function -> gpointer: Memory Reallocation Function\n    Function with realloc semantics called to enlarge the buffer.\n  destroy-function -> gpointer: Destroy Notification Function\n    Function called with the buffer as argument when the stream is destroyed.\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GMemoryOutputStream (94125582493440)>'
+    __gtype__ = None # (!) real value is '<GType GMemoryOutputStream (94269257108224)>'
     __info__ = ObjectInfo(MemoryOutputStream)
 
 

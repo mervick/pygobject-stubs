@@ -132,7 +132,7 @@ class FilenameCompleterClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FilenameCompleterClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FilenameCompleterClass' objects>, '__weakref__': <attribute '__weakref__' of 'FilenameCompleterClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28dde91310>, 'got_completion_data': <property object at 0x7f28dde91450>, '_g_reserved1': <property object at 0x7f28dde91540>, '_g_reserved2': <property object at 0x7f28dde91630>, '_g_reserved3': <property object at 0x7f28dde91720>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FilenameCompleterClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FilenameCompleterClass' objects>, '__weakref__': <attribute '__weakref__' of 'FilenameCompleterClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b87ff25e0>, 'got_completion_data': <property object at 0x7f4b87ff2720>, '_g_reserved1': <property object at 0x7f4b87ff2810>, '_g_reserved2': <property object at 0x7f4b87ff2900>, '_g_reserved3': <property object at 0x7f4b87ff29f0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(FilenameCompleterClass)
 

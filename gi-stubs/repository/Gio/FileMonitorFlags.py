@@ -366,7 +366,7 @@ class FileMonitorFlags(__gobject.GFlags):
     WATCH_MOUNTS = 1
     WATCH_MOVES = 8
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'FileMonitorFlags' objects>, '__doc__': None, '__gtype__': <GType GFileMonitorFlags (94125582384880)>, '__flags_values__': {0: <flags 0 of type Gio.FileMonitorFlags>, 1: <flags G_FILE_MONITOR_WATCH_MOUNTS of type Gio.FileMonitorFlags>, 2: <flags G_FILE_MONITOR_SEND_MOVED of type Gio.FileMonitorFlags>, 4: <flags G_FILE_MONITOR_WATCH_HARD_LINKS of type Gio.FileMonitorFlags>, 8: <flags G_FILE_MONITOR_WATCH_MOVES of type Gio.FileMonitorFlags>}, '__info__': gi.EnumInfo(FileMonitorFlags), 'NONE': <flags 0 of type Gio.FileMonitorFlags>, 'WATCH_MOUNTS': <flags G_FILE_MONITOR_WATCH_MOUNTS of type Gio.FileMonitorFlags>, 'SEND_MOVED': <flags G_FILE_MONITOR_SEND_MOVED of type Gio.FileMonitorFlags>, 'WATCH_HARD_LINKS': <flags G_FILE_MONITOR_WATCH_HARD_LINKS of type Gio.FileMonitorFlags>, 'WATCH_MOVES': <flags G_FILE_MONITOR_WATCH_MOVES of type Gio.FileMonitorFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'FileMonitorFlags' objects>, '__doc__': None, '__gtype__': <GType GFileMonitorFlags (94269257004832)>, '__flags_values__': {0: <flags 0 of type Gio.FileMonitorFlags>, 1: <flags G_FILE_MONITOR_WATCH_MOUNTS of type Gio.FileMonitorFlags>, 2: <flags G_FILE_MONITOR_SEND_MOVED of type Gio.FileMonitorFlags>, 4: <flags G_FILE_MONITOR_WATCH_HARD_LINKS of type Gio.FileMonitorFlags>, 8: <flags G_FILE_MONITOR_WATCH_MOVES of type Gio.FileMonitorFlags>}, '__info__': gi.EnumInfo(FileMonitorFlags), 'NONE': <flags 0 of type Gio.FileMonitorFlags>, 'WATCH_MOUNTS': <flags G_FILE_MONITOR_WATCH_MOUNTS of type Gio.FileMonitorFlags>, 'SEND_MOVED': <flags G_FILE_MONITOR_SEND_MOVED of type Gio.FileMonitorFlags>, 'WATCH_HARD_LINKS': <flags G_FILE_MONITOR_WATCH_HARD_LINKS of type Gio.FileMonitorFlags>, 'WATCH_MOVES': <flags G_FILE_MONITOR_WATCH_MOVES of type Gio.FileMonitorFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
@@ -374,7 +374,7 @@ class FileMonitorFlags(__gobject.GFlags):
         4: 4,
         8: 8,
     }
-    __gtype__ = None # (!) real value is '<GType GFileMonitorFlags (94125582384880)>'
+    __gtype__ = None # (!) real value is '<GType GFileMonitorFlags (94269257004832)>'
     __info__ = gi.EnumInfo(FileMonitorFlags)
 
 

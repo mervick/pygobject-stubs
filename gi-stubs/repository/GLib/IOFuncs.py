@@ -139,7 +139,7 @@ class IOFuncs(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(IOFuncs), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'IOFuncs' objects>, '__weakref__': <attribute '__weakref__' of 'IOFuncs' objects>, '__doc__': None, 'io_read': <property object at 0x7f1d2b8e7040>, 'io_write': <property object at 0x7f1d2b8e7130>, 'io_seek': <property object at 0x7f1d2b8e7220>, 'io_close': <property object at 0x7f1d2b8e7310>, 'io_create_watch': <property object at 0x7f1d2b8e7400>, 'io_free': <property object at 0x7f1d2b8e74f0>, 'io_set_flags': <property object at 0x7f1d2b8e75e0>, 'io_get_flags': <property object at 0x7f1d2b8e76d0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(IOFuncs), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'IOFuncs' objects>, '__weakref__': <attribute '__weakref__' of 'IOFuncs' objects>, '__doc__': None, 'io_read': <property object at 0x7f85134e5090>, 'io_write': <property object at 0x7f85134e5180>, 'io_seek': <property object at 0x7f85134e5270>, 'io_close': <property object at 0x7f85134e5360>, 'io_create_watch': <property object at 0x7f85134e5450>, 'io_free': <property object at 0x7f85134e5540>, 'io_set_flags': <property object at 0x7f85134e5630>, 'io_get_flags': <property object at 0x7f85134e5720>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(IOFuncs)
 

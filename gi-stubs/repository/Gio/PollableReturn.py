@@ -359,13 +359,13 @@ class PollableReturn(__gobject.GEnum):
     OK = 1
     WOULD_BLOCK = -27
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'PollableReturn' objects>, '__doc__': None, '__gtype__': <GType GPollableReturn (94125582612128)>, '__enum_values__': {0: <enum G_POLLABLE_RETURN_FAILED of type Gio.PollableReturn>, 1: <enum G_POLLABLE_RETURN_OK of type Gio.PollableReturn>, -27: <enum G_POLLABLE_RETURN_WOULD_BLOCK of type Gio.PollableReturn>}, '__info__': gi.EnumInfo(PollableReturn), 'FAILED': <enum G_POLLABLE_RETURN_FAILED of type Gio.PollableReturn>, 'OK': <enum G_POLLABLE_RETURN_OK of type Gio.PollableReturn>, 'WOULD_BLOCK': <enum G_POLLABLE_RETURN_WOULD_BLOCK of type Gio.PollableReturn>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'PollableReturn' objects>, '__doc__': None, '__gtype__': <GType GPollableReturn (94269257252944)>, '__enum_values__': {0: <enum G_POLLABLE_RETURN_FAILED of type Gio.PollableReturn>, 1: <enum G_POLLABLE_RETURN_OK of type Gio.PollableReturn>, -27: <enum G_POLLABLE_RETURN_WOULD_BLOCK of type Gio.PollableReturn>}, '__info__': gi.EnumInfo(PollableReturn), 'FAILED': <enum G_POLLABLE_RETURN_FAILED of type Gio.PollableReturn>, 'OK': <enum G_POLLABLE_RETURN_OK of type Gio.PollableReturn>, 'WOULD_BLOCK': <enum G_POLLABLE_RETURN_WOULD_BLOCK of type Gio.PollableReturn>})"
     __enum_values__ = {
         -27: -27,
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GPollableReturn (94125582612128)>'
+    __gtype__ = None # (!) real value is '<GType GPollableReturn (94269257252944)>'
     __info__ = gi.EnumInfo(PollableReturn)
 
 

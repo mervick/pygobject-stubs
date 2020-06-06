@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -732,12 +732,12 @@ class TreeStore(TreeStore, __gi_overrides_Gtk.TreeModel, __gi_overrides_Gtk.Tree
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe82e6f6610>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc637df1940>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', '__init__': <function TreeStore.__init__ at 0x7fe831249af0>, '_do_insert': <function TreeStore._do_insert at 0x7fe831249b80>, 'append': <function TreeStore.append at 0x7fe831249c10>, 'prepend': <function TreeStore.prepend at 0x7fe831249ca0>, 'insert': <function TreeStore.insert at 0x7fe831249d30>, 'insert_before': <function TreeStore.insert_before at 0x7fe831249dc0>, 'insert_after': <function TreeStore.insert_after at 0x7fe831249e50>, 'set_value': <function TreeStore.set_value at 0x7fe831249ee0>, 'set': <function TreeStore.set at 0x7fe831249f70>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', '__init__': <function TreeStore.__init__ at 0x7fc63a969310>, '_do_insert': <function TreeStore._do_insert at 0x7fc63a9693a0>, 'append': <function TreeStore.append at 0x7fc63a969430>, 'prepend': <function TreeStore.prepend at 0x7fc63a9694c0>, 'insert': <function TreeStore.insert at 0x7fc63a969550>, 'insert_before': <function TreeStore.insert_before at 0x7fc63a9695e0>, 'insert_after': <function TreeStore.insert_after at 0x7fc63a969670>, 'set_value': <function TreeStore.set_value at 0x7fc63a969700>, 'set': <function TreeStore.set at 0x7fc63a969790>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Object GtkTreeStore\n\nSignals from GtkTreeModel:\n  row-changed (GtkTreePath, GtkTreeIter)\n  row-inserted (GtkTreePath, GtkTreeIter)\n  row-has-child-toggled (GtkTreePath, GtkTreeIter)\n  row-deleted (GtkTreePath)\n  rows-reordered (GtkTreePath, GtkTreeIter, gpointer)\n\nSignals from GtkTreeSortable:\n  sort-column-changed ()\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkTreeStore (94846037029040)>'
+    __gtype__ = None # (!) real value is '<GType GtkTreeStore (93897367040448)>'
     __info__ = ObjectInfo(TreeStore)
 
 

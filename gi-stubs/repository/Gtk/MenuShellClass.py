@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -155,7 +155,7 @@ class MenuShellClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(MenuShellClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'MenuShellClass' objects>, '__weakref__': <attribute '__weakref__' of 'MenuShellClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830ff0040>, 'submenu_placement': <property object at 0x7fe830ff0180>, 'deactivate': <property object at 0x7fe830ff0270>, 'selection_done': <property object at 0x7fe830ff0360>, 'move_current': <property object at 0x7fe830ff0450>, 'activate_current': <property object at 0x7fe830ff0590>, 'cancel': <property object at 0x7fe830ff0680>, 'select_item': <property object at 0x7fe830ff0770>, 'insert': <property object at 0x7fe830ff0860>, 'get_popup_delay': <property object at 0x7fe830ff0950>, 'move_selected': <property object at 0x7fe830ff0a40>, '_gtk_reserved1': <property object at 0x7fe830ff0b30>, '_gtk_reserved2': <property object at 0x7fe830ff0c20>, '_gtk_reserved3': <property object at 0x7fe830ff0d10>, '_gtk_reserved4': <property object at 0x7fe830ff0e00>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(MenuShellClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'MenuShellClass' objects>, '__weakref__': <attribute '__weakref__' of 'MenuShellClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a705090>, 'submenu_placement': <property object at 0x7fc63a7051d0>, 'deactivate': <property object at 0x7fc63a7052c0>, 'selection_done': <property object at 0x7fc63a7053b0>, 'move_current': <property object at 0x7fc63a7054a0>, 'activate_current': <property object at 0x7fc63a7055e0>, 'cancel': <property object at 0x7fc63a7056d0>, 'select_item': <property object at 0x7fc63a7057c0>, 'insert': <property object at 0x7fc63a7058b0>, 'get_popup_delay': <property object at 0x7fc63a7059a0>, 'move_selected': <property object at 0x7fc63a705a90>, '_gtk_reserved1': <property object at 0x7fc63a705b80>, '_gtk_reserved2': <property object at 0x7fc63a705c70>, '_gtk_reserved3': <property object at 0x7fc63a705d60>, '_gtk_reserved4': <property object at 0x7fc63a705e50>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(MenuShellClass)
 

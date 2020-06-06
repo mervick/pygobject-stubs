@@ -132,7 +132,7 @@ class TlsPasswordClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TlsPasswordClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TlsPasswordClass' objects>, '__weakref__': <attribute '__weakref__' of 'TlsPasswordClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28dd5ff860>, 'get_value': <property object at 0x7f28dd5ff950>, 'set_value': <property object at 0x7f28dd5ffa40>, 'get_default_warning': <property object at 0x7f28dd5ffb80>, 'padding': <property object at 0x7f28dd5ffc70>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TlsPasswordClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TlsPasswordClass' objects>, '__weakref__': <attribute '__weakref__' of 'TlsPasswordClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b877609f0>, 'get_value': <property object at 0x7f4b87760ae0>, 'set_value': <property object at 0x7f4b87760bd0>, 'get_default_warning': <property object at 0x7f4b87760d10>, 'padding': <property object at 0x7f4b87760e00>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TlsPasswordClass)
 

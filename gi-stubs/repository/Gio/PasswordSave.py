@@ -359,13 +359,13 @@ class PasswordSave(__gobject.GEnum):
     NEVER = 0
     PERMANENTLY = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'PasswordSave' objects>, '__doc__': None, '__gtype__': <GType GPasswordSave (94125582606000)>, '__enum_values__': {0: <enum G_PASSWORD_SAVE_NEVER of type Gio.PasswordSave>, 1: <enum G_PASSWORD_SAVE_FOR_SESSION of type Gio.PasswordSave>, 2: <enum G_PASSWORD_SAVE_PERMANENTLY of type Gio.PasswordSave>}, '__info__': gi.EnumInfo(PasswordSave), 'NEVER': <enum G_PASSWORD_SAVE_NEVER of type Gio.PasswordSave>, 'FOR_SESSION': <enum G_PASSWORD_SAVE_FOR_SESSION of type Gio.PasswordSave>, 'PERMANENTLY': <enum G_PASSWORD_SAVE_PERMANENTLY of type Gio.PasswordSave>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'PasswordSave' objects>, '__doc__': None, '__gtype__': <GType GPasswordSave (94269257234016)>, '__enum_values__': {0: <enum G_PASSWORD_SAVE_NEVER of type Gio.PasswordSave>, 1: <enum G_PASSWORD_SAVE_FOR_SESSION of type Gio.PasswordSave>, 2: <enum G_PASSWORD_SAVE_PERMANENTLY of type Gio.PasswordSave>}, '__info__': gi.EnumInfo(PasswordSave), 'NEVER': <enum G_PASSWORD_SAVE_NEVER of type Gio.PasswordSave>, 'FOR_SESSION': <enum G_PASSWORD_SAVE_FOR_SESSION of type Gio.PasswordSave>, 'PERMANENTLY': <enum G_PASSWORD_SAVE_PERMANENTLY of type Gio.PasswordSave>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GPasswordSave (94125582606000)>'
+    __gtype__ = None # (!) real value is '<GType GPasswordSave (94269257234016)>'
     __info__ = gi.EnumInfo(PasswordSave)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -127,7 +127,7 @@ class KeymapKey(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(KeymapKey), '__module__': 'gi.repository.Gdk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'KeymapKey' objects>, '__weakref__': <attribute '__weakref__' of 'KeymapKey' objects>, '__doc__': None, 'keycode': <property object at 0x7f1e11c61680>, 'group': <property object at 0x7f1e11c619a0>, 'level': <property object at 0x7f1e11c61b80>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(KeymapKey), '__module__': 'gi.repository.Gdk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'KeymapKey' objects>, '__weakref__': <attribute '__weakref__' of 'KeymapKey' objects>, '__doc__': None, 'keycode': <property object at 0x7fbaf8164a90>, 'group': <property object at 0x7fbaf815d9f0>, 'level': <property object at 0x7fbaf815db30>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(KeymapKey)
 

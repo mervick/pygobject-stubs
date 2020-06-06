@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -368,14 +368,14 @@ class TargetFlags(__gobject.GFlags):
     SAME_APP = 1
     SAME_WIDGET = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'TargetFlags' objects>, '__doc__': None, '__gtype__': <GType GtkTargetFlags (94846039291440)>, '__flags_values__': {1: <flags GTK_TARGET_SAME_APP of type Gtk.TargetFlags>, 2: <flags GTK_TARGET_SAME_WIDGET of type Gtk.TargetFlags>, 4: <flags GTK_TARGET_OTHER_APP of type Gtk.TargetFlags>, 8: <flags GTK_TARGET_OTHER_WIDGET of type Gtk.TargetFlags>}, '__info__': gi.EnumInfo(TargetFlags), 'SAME_APP': <flags GTK_TARGET_SAME_APP of type Gtk.TargetFlags>, 'SAME_WIDGET': <flags GTK_TARGET_SAME_WIDGET of type Gtk.TargetFlags>, 'OTHER_APP': <flags GTK_TARGET_OTHER_APP of type Gtk.TargetFlags>, 'OTHER_WIDGET': <flags GTK_TARGET_OTHER_WIDGET of type Gtk.TargetFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'TargetFlags' objects>, '__doc__': None, '__gtype__': <GType GtkTargetFlags (93897368761088)>, '__flags_values__': {1: <flags GTK_TARGET_SAME_APP of type Gtk.TargetFlags>, 2: <flags GTK_TARGET_SAME_WIDGET of type Gtk.TargetFlags>, 4: <flags GTK_TARGET_OTHER_APP of type Gtk.TargetFlags>, 8: <flags GTK_TARGET_OTHER_WIDGET of type Gtk.TargetFlags>}, '__info__': gi.EnumInfo(TargetFlags), 'SAME_APP': <flags GTK_TARGET_SAME_APP of type Gtk.TargetFlags>, 'SAME_WIDGET': <flags GTK_TARGET_SAME_WIDGET of type Gtk.TargetFlags>, 'OTHER_APP': <flags GTK_TARGET_OTHER_APP of type Gtk.TargetFlags>, 'OTHER_WIDGET': <flags GTK_TARGET_OTHER_WIDGET of type Gtk.TargetFlags>})"
     __flags_values__ = {
         1: 1,
         2: 2,
         4: 4,
         8: 8,
     }
-    __gtype__ = None # (!) real value is '<GType GtkTargetFlags (94846039291440)>'
+    __gtype__ = None # (!) real value is '<GType GtkTargetFlags (93897368761088)>'
     __info__ = gi.EnumInfo(TargetFlags)
 
 

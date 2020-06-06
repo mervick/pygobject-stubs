@@ -363,12 +363,12 @@ class MountUnmountFlags(__gobject.GFlags):
     FORCE = 1
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'MountUnmountFlags' objects>, '__doc__': None, '__gtype__': <GType GMountUnmountFlags (94125582432528)>, '__flags_values__': {0: <flags 0 of type Gio.MountUnmountFlags>, 1: <flags G_MOUNT_UNMOUNT_FORCE of type Gio.MountUnmountFlags>}, '__info__': gi.EnumInfo(MountUnmountFlags), 'NONE': <flags 0 of type Gio.MountUnmountFlags>, 'FORCE': <flags G_MOUNT_UNMOUNT_FORCE of type Gio.MountUnmountFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'MountUnmountFlags' objects>, '__doc__': None, '__gtype__': <GType GMountUnmountFlags (94269257193808)>, '__flags_values__': {0: <flags 0 of type Gio.MountUnmountFlags>, 1: <flags G_MOUNT_UNMOUNT_FORCE of type Gio.MountUnmountFlags>}, '__info__': gi.EnumInfo(MountUnmountFlags), 'NONE': <flags 0 of type Gio.MountUnmountFlags>, 'FORCE': <flags G_MOUNT_UNMOUNT_FORCE of type Gio.MountUnmountFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GMountUnmountFlags (94125582432528)>'
+    __gtype__ = None # (!) real value is '<GType GMountUnmountFlags (94269257193808)>'
     __info__ = gi.EnumInfo(MountUnmountFlags)
 
 

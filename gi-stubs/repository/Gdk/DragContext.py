@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -455,12 +455,12 @@ class DragContext(DragContext):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f1e11ca3d30>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fbaf8134fd0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gdk', 'finish': <function DragContext.finish at 0x7f1e11dd0700>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gdk', 'finish': <function DragContext.finish at 0x7fbaf82c3ee0>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Object GdkDragContext\n\nSignals from GdkDragContext:\n  cancel (GdkDragCancelReason)\n  drop-performed (gint)\n  dnd-finished ()\n  action-changed (GdkDragAction)\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GdkDragContext (94055650624816)>'
+    __gtype__ = None # (!) real value is '<GType GdkDragContext (94915768191840)>'
     __info__ = ObjectInfo(DragContext)
 
 

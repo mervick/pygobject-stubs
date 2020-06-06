@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -145,7 +145,7 @@ class OverlayClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(OverlayClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'OverlayClass' objects>, '__weakref__': <attribute '__weakref__' of 'OverlayClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe831001d60>, 'get_child_position': <property object at 0x7fe831001ea0>, '_gtk_reserved1': <property object at 0x7fe831001f90>, '_gtk_reserved2': <property object at 0x7fe8310030e0>, '_gtk_reserved3': <property object at 0x7fe8310031d0>, '_gtk_reserved4': <property object at 0x7fe8310032c0>, '_gtk_reserved5': <property object at 0x7fe8310033b0>, '_gtk_reserved6': <property object at 0x7fe8310034a0>, '_gtk_reserved7': <property object at 0x7fe831003590>, '_gtk_reserved8': <property object at 0x7fe831003680>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(OverlayClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'OverlayClass' objects>, '__weakref__': <attribute '__weakref__' of 'OverlayClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a716c70>, 'get_child_position': <property object at 0x7fc63a716db0>, '_gtk_reserved1': <property object at 0x7fc63a716ea0>, '_gtk_reserved2': <property object at 0x7fc63a716f90>, '_gtk_reserved3': <property object at 0x7fc63a7190e0>, '_gtk_reserved4': <property object at 0x7fc63a7191d0>, '_gtk_reserved5': <property object at 0x7fc63a7192c0>, '_gtk_reserved6': <property object at 0x7fc63a7193b0>, '_gtk_reserved7': <property object at 0x7fc63a7194a0>, '_gtk_reserved8': <property object at 0x7fc63a719590>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(OverlayClass)
 

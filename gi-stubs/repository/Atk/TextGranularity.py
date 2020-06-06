@@ -365,7 +365,7 @@ class TextGranularity(__gobject.GEnum):
     SENTENCE = 2
     WORD = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Atk', '__dict__': <attribute '__dict__' of 'TextGranularity' objects>, '__doc__': None, '__gtype__': <GType AtkTextGranularity (93922956077760)>, '__enum_values__': {0: <enum ATK_TEXT_GRANULARITY_CHAR of type Atk.TextGranularity>, 1: <enum ATK_TEXT_GRANULARITY_WORD of type Atk.TextGranularity>, 2: <enum ATK_TEXT_GRANULARITY_SENTENCE of type Atk.TextGranularity>, 3: <enum ATK_TEXT_GRANULARITY_LINE of type Atk.TextGranularity>, 4: <enum ATK_TEXT_GRANULARITY_PARAGRAPH of type Atk.TextGranularity>}, '__info__': gi.EnumInfo(TextGranularity), 'CHAR': <enum ATK_TEXT_GRANULARITY_CHAR of type Atk.TextGranularity>, 'WORD': <enum ATK_TEXT_GRANULARITY_WORD of type Atk.TextGranularity>, 'SENTENCE': <enum ATK_TEXT_GRANULARITY_SENTENCE of type Atk.TextGranularity>, 'LINE': <enum ATK_TEXT_GRANULARITY_LINE of type Atk.TextGranularity>, 'PARAGRAPH': <enum ATK_TEXT_GRANULARITY_PARAGRAPH of type Atk.TextGranularity>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Atk', '__dict__': <attribute '__dict__' of 'TextGranularity' objects>, '__doc__': None, '__gtype__': <GType AtkTextGranularity (94258338249456)>, '__enum_values__': {0: <enum ATK_TEXT_GRANULARITY_CHAR of type Atk.TextGranularity>, 1: <enum ATK_TEXT_GRANULARITY_WORD of type Atk.TextGranularity>, 2: <enum ATK_TEXT_GRANULARITY_SENTENCE of type Atk.TextGranularity>, 3: <enum ATK_TEXT_GRANULARITY_LINE of type Atk.TextGranularity>, 4: <enum ATK_TEXT_GRANULARITY_PARAGRAPH of type Atk.TextGranularity>}, '__info__': gi.EnumInfo(TextGranularity), 'CHAR': <enum ATK_TEXT_GRANULARITY_CHAR of type Atk.TextGranularity>, 'WORD': <enum ATK_TEXT_GRANULARITY_WORD of type Atk.TextGranularity>, 'SENTENCE': <enum ATK_TEXT_GRANULARITY_SENTENCE of type Atk.TextGranularity>, 'LINE': <enum ATK_TEXT_GRANULARITY_LINE of type Atk.TextGranularity>, 'PARAGRAPH': <enum ATK_TEXT_GRANULARITY_PARAGRAPH of type Atk.TextGranularity>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -373,7 +373,7 @@ class TextGranularity(__gobject.GEnum):
         3: 3,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType AtkTextGranularity (93922956077760)>'
+    __gtype__ = None # (!) real value is '<GType AtkTextGranularity (94258338249456)>'
     __info__ = gi.EnumInfo(TextGranularity)
 
 

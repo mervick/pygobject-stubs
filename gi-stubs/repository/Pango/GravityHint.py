@@ -357,13 +357,13 @@ class GravityHint(__gobject.GEnum):
     NATURAL = 0
     STRONG = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'GravityHint' objects>, '__doc__': None, '__gtype__': <GType PangoGravityHint (94752681037184)>, '__enum_values__': {0: <enum PANGO_GRAVITY_HINT_NATURAL of type Pango.GravityHint>, 1: <enum PANGO_GRAVITY_HINT_STRONG of type Pango.GravityHint>, 2: <enum PANGO_GRAVITY_HINT_LINE of type Pango.GravityHint>}, '__info__': gi.EnumInfo(GravityHint), 'NATURAL': <enum PANGO_GRAVITY_HINT_NATURAL of type Pango.GravityHint>, 'STRONG': <enum PANGO_GRAVITY_HINT_STRONG of type Pango.GravityHint>, 'LINE': <enum PANGO_GRAVITY_HINT_LINE of type Pango.GravityHint>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'GravityHint' objects>, '__doc__': None, '__gtype__': <GType PangoGravityHint (94187429274016)>, '__enum_values__': {0: <enum PANGO_GRAVITY_HINT_NATURAL of type Pango.GravityHint>, 1: <enum PANGO_GRAVITY_HINT_STRONG of type Pango.GravityHint>, 2: <enum PANGO_GRAVITY_HINT_LINE of type Pango.GravityHint>}, '__info__': gi.EnumInfo(GravityHint), 'NATURAL': <enum PANGO_GRAVITY_HINT_NATURAL of type Pango.GravityHint>, 'STRONG': <enum PANGO_GRAVITY_HINT_STRONG of type Pango.GravityHint>, 'LINE': <enum PANGO_GRAVITY_HINT_LINE of type Pango.GravityHint>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType PangoGravityHint (94752681037184)>'
+    __gtype__ = None # (!) real value is '<GType PangoGravityHint (94187429274016)>'
     __info__ = gi.EnumInfo(GravityHint)
 
 

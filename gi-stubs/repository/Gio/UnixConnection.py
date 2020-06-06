@@ -537,12 +537,12 @@ class UnixConnection(SocketConnection):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dcf9c370>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b86eb3610>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(UnixConnection), '__module__': 'gi.repository.Gio', '__gtype__': <GType GUnixConnection (94125582925120)>, '__doc__': None, '__gsignals__': {}, 'receive_credentials': gi.FunctionInfo(receive_credentials), 'receive_credentials_async': gi.FunctionInfo(receive_credentials_async), 'receive_credentials_finish': gi.FunctionInfo(receive_credentials_finish), 'receive_fd': gi.FunctionInfo(receive_fd), 'send_credentials': gi.FunctionInfo(send_credentials), 'send_credentials_async': gi.FunctionInfo(send_credentials_async), 'send_credentials_finish': gi.FunctionInfo(send_credentials_finish), 'send_fd': gi.FunctionInfo(send_fd), 'parent_instance': <property object at 0x7f28dd6019a0>, 'priv': <property object at 0x7f28dd601a90>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(UnixConnection), '__module__': 'gi.repository.Gio', '__gtype__': <GType GUnixConnection (94269257553360)>, '__doc__': None, '__gsignals__': {}, 'receive_credentials': gi.FunctionInfo(receive_credentials), 'receive_credentials_async': gi.FunctionInfo(receive_credentials_async), 'receive_credentials_finish': gi.FunctionInfo(receive_credentials_finish), 'receive_fd': gi.FunctionInfo(receive_fd), 'send_credentials': gi.FunctionInfo(send_credentials), 'send_credentials_async': gi.FunctionInfo(send_credentials_async), 'send_credentials_finish': gi.FunctionInfo(send_credentials_finish), 'send_fd': gi.FunctionInfo(send_fd), 'parent_instance': <property object at 0x7f4b87763b30>, 'priv': <property object at 0x7f4b87763c20>})"
     __gdoc__ = 'Object GUnixConnection\n\nProperties from GSocketConnection:\n  socket -> GSocket: Socket\n    The underlying GSocket\n\nProperties from GIOStream:\n  input-stream -> GInputStream: Input stream\n    The GInputStream to read from\n  output-stream -> GOutputStream: Output stream\n    The GOutputStream to write to\n  closed -> gboolean: Closed\n    Is the stream closed\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GUnixConnection (94125582925120)>'
+    __gtype__ = None # (!) real value is '<GType GUnixConnection (94269257553360)>'
     __info__ = ObjectInfo(UnixConnection)
 
 

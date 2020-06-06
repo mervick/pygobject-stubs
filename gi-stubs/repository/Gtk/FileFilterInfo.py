@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -135,7 +135,7 @@ class FileFilterInfo(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FileFilterInfo), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FileFilterInfo' objects>, '__weakref__': <attribute '__weakref__' of 'FileFilterInfo' objects>, '__doc__': None, 'contains': <property object at 0x7fe83108cef0>, 'filename': <property object at 0x7fe83108e040>, 'uri': <property object at 0x7fe83108e130>, 'display_name': <property object at 0x7fe83108e220>, 'mime_type': <property object at 0x7fe83108e310>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FileFilterInfo), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FileFilterInfo' objects>, '__weakref__': <attribute '__weakref__' of 'FileFilterInfo' objects>, '__doc__': None, 'contains': <property object at 0x7fc63a7a1ae0>, 'filename': <property object at 0x7fc63a7a1bd0>, 'uri': <property object at 0x7fc63a7a1cc0>, 'display_name': <property object at 0x7fc63a7a1db0>, 'mime_type': <property object at 0x7fc63a7a1ea0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(FileFilterInfo)
 

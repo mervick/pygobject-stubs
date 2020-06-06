@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -513,12 +513,12 @@ class Clipboard(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe83052b700>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc639bb89a0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Clipboard), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkClipboard (94846038103808)>, '__doc__': None, '__gsignals__': {}, 'get': gi.FunctionInfo(get), 'get_default': gi.FunctionInfo(get_default), 'get_for_display': gi.FunctionInfo(get_for_display), 'clear': gi.FunctionInfo(clear), 'get_display': gi.FunctionInfo(get_display), 'get_owner': gi.FunctionInfo(get_owner), 'request_contents': gi.FunctionInfo(request_contents), 'request_image': gi.FunctionInfo(request_image), 'request_rich_text': gi.FunctionInfo(request_rich_text), 'request_targets': gi.FunctionInfo(request_targets), 'request_text': gi.FunctionInfo(request_text), 'request_uris': gi.FunctionInfo(request_uris), 'set_can_store': gi.FunctionInfo(set_can_store), 'set_image': gi.FunctionInfo(set_image), 'set_text': gi.FunctionInfo(set_text), 'store': gi.FunctionInfo(store), 'wait_for_contents': gi.FunctionInfo(wait_for_contents), 'wait_for_image': gi.FunctionInfo(wait_for_image), 'wait_for_rich_text': gi.FunctionInfo(wait_for_rich_text), 'wait_for_targets': gi.FunctionInfo(wait_for_targets), 'wait_for_text': gi.FunctionInfo(wait_for_text), 'wait_for_uris': gi.FunctionInfo(wait_for_uris), 'wait_is_image_available': gi.FunctionInfo(wait_is_image_available), 'wait_is_rich_text_available': gi.FunctionInfo(wait_is_rich_text_available), 'wait_is_target_available': gi.FunctionInfo(wait_is_target_available), 'wait_is_text_available': gi.FunctionInfo(wait_is_text_available), 'wait_is_uris_available': gi.FunctionInfo(wait_is_uris_available)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Clipboard), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkClipboard (93897368318656)>, '__doc__': None, '__gsignals__': {}, 'get': gi.FunctionInfo(get), 'get_default': gi.FunctionInfo(get_default), 'get_for_display': gi.FunctionInfo(get_for_display), 'clear': gi.FunctionInfo(clear), 'get_display': gi.FunctionInfo(get_display), 'get_owner': gi.FunctionInfo(get_owner), 'request_contents': gi.FunctionInfo(request_contents), 'request_image': gi.FunctionInfo(request_image), 'request_rich_text': gi.FunctionInfo(request_rich_text), 'request_targets': gi.FunctionInfo(request_targets), 'request_text': gi.FunctionInfo(request_text), 'request_uris': gi.FunctionInfo(request_uris), 'set_can_store': gi.FunctionInfo(set_can_store), 'set_image': gi.FunctionInfo(set_image), 'set_text': gi.FunctionInfo(set_text), 'store': gi.FunctionInfo(store), 'wait_for_contents': gi.FunctionInfo(wait_for_contents), 'wait_for_image': gi.FunctionInfo(wait_for_image), 'wait_for_rich_text': gi.FunctionInfo(wait_for_rich_text), 'wait_for_targets': gi.FunctionInfo(wait_for_targets), 'wait_for_text': gi.FunctionInfo(wait_for_text), 'wait_for_uris': gi.FunctionInfo(wait_for_uris), 'wait_is_image_available': gi.FunctionInfo(wait_is_image_available), 'wait_is_rich_text_available': gi.FunctionInfo(wait_is_rich_text_available), 'wait_is_target_available': gi.FunctionInfo(wait_is_target_available), 'wait_is_text_available': gi.FunctionInfo(wait_is_text_available), 'wait_is_uris_available': gi.FunctionInfo(wait_is_uris_available)})"
     __gdoc__ = 'Object GtkClipboard\n\nSignals from GtkClipboard:\n  owner-change (GdkEvent)\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkClipboard (94846038103808)>'
+    __gtype__ = None # (!) real value is '<GType GtkClipboard (93897368318656)>'
     __info__ = ObjectInfo(Clipboard)
 
 

@@ -360,14 +360,14 @@ class NotificationPriority(__gobject.GEnum):
     NORMAL = 0
     URGENT = 3
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'NotificationPriority' objects>, '__doc__': None, '__gtype__': <GType GNotificationPriority (94125582593472)>, '__enum_values__': {0: <enum G_NOTIFICATION_PRIORITY_NORMAL of type Gio.NotificationPriority>, 1: <enum G_NOTIFICATION_PRIORITY_LOW of type Gio.NotificationPriority>, 2: <enum G_NOTIFICATION_PRIORITY_HIGH of type Gio.NotificationPriority>, 3: <enum G_NOTIFICATION_PRIORITY_URGENT of type Gio.NotificationPriority>}, '__info__': gi.EnumInfo(NotificationPriority), 'NORMAL': <enum G_NOTIFICATION_PRIORITY_NORMAL of type Gio.NotificationPriority>, 'LOW': <enum G_NOTIFICATION_PRIORITY_LOW of type Gio.NotificationPriority>, 'HIGH': <enum G_NOTIFICATION_PRIORITY_HIGH of type Gio.NotificationPriority>, 'URGENT': <enum G_NOTIFICATION_PRIORITY_URGENT of type Gio.NotificationPriority>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'NotificationPriority' objects>, '__doc__': None, '__gtype__': <GType GNotificationPriority (94269257224832)>, '__enum_values__': {0: <enum G_NOTIFICATION_PRIORITY_NORMAL of type Gio.NotificationPriority>, 1: <enum G_NOTIFICATION_PRIORITY_LOW of type Gio.NotificationPriority>, 2: <enum G_NOTIFICATION_PRIORITY_HIGH of type Gio.NotificationPriority>, 3: <enum G_NOTIFICATION_PRIORITY_URGENT of type Gio.NotificationPriority>}, '__info__': gi.EnumInfo(NotificationPriority), 'NORMAL': <enum G_NOTIFICATION_PRIORITY_NORMAL of type Gio.NotificationPriority>, 'LOW': <enum G_NOTIFICATION_PRIORITY_LOW of type Gio.NotificationPriority>, 'HIGH': <enum G_NOTIFICATION_PRIORITY_HIGH of type Gio.NotificationPriority>, 'URGENT': <enum G_NOTIFICATION_PRIORITY_URGENT of type Gio.NotificationPriority>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GNotificationPriority (94125582593472)>'
+    __gtype__ = None # (!) real value is '<GType GNotificationPriority (94269257224832)>'
     __info__ = gi.EnumInfo(NotificationPriority)
 
 

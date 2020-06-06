@@ -233,9 +233,9 @@ class ParamSpecFloat(ParamSpec):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ParamSpecFloat), '__module__': 'gi.repository.GObject', '__gtype__': <GType GParamFloat (93895378953728)>, '__doc__': None, '__gsignals__': {}, 'parent_instance': <property object at 0x7f7c28647270>, 'minimum': <property object at 0x7f7c286473b0>, 'maximum': <property object at 0x7f7c286474a0>, 'default_value': <property object at 0x7f7c28647590>, 'epsilon': <property object at 0x7f7c28647680>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ParamSpecFloat), '__module__': 'gi.repository.GObject', '__gtype__': <GType GParamFloat (94184341418864)>, '__doc__': None, '__gsignals__': {}, 'parent_instance': <property object at 0x7fe46b8ba770>, 'minimum': <property object at 0x7fe46b8ba8b0>, 'maximum': <property object at 0x7fe46b8ba9a0>, 'default_value': <property object at 0x7fe46b8baa90>, 'epsilon': <property object at 0x7fe46b8bab80>})"
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GParamFloat (93895378953728)>'
+    __gtype__ = None # (!) real value is '<GType GParamFloat (94184341418864)>'
     __info__ = ObjectInfo(ParamSpecFloat)
 
 

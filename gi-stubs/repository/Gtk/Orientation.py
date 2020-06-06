@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -361,12 +361,12 @@ class Orientation(__gobject.GEnum):
     HORIZONTAL = 0
     VERTICAL = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'Orientation' objects>, '__doc__': None, '__gtype__': <GType GtkOrientation (94846038746032)>, '__enum_values__': {0: <enum GTK_ORIENTATION_HORIZONTAL of type Gtk.Orientation>, 1: <enum GTK_ORIENTATION_VERTICAL of type Gtk.Orientation>}, '__info__': gi.EnumInfo(Orientation), 'HORIZONTAL': <enum GTK_ORIENTATION_HORIZONTAL of type Gtk.Orientation>, 'VERTICAL': <enum GTK_ORIENTATION_VERTICAL of type Gtk.Orientation>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'Orientation' objects>, '__doc__': None, '__gtype__': <GType GtkOrientation (93897368959920)>, '__enum_values__': {0: <enum GTK_ORIENTATION_HORIZONTAL of type Gtk.Orientation>, 1: <enum GTK_ORIENTATION_VERTICAL of type Gtk.Orientation>}, '__info__': gi.EnumInfo(Orientation), 'HORIZONTAL': <enum GTK_ORIENTATION_HORIZONTAL of type Gtk.Orientation>, 'VERTICAL': <enum GTK_ORIENTATION_VERTICAL of type Gtk.Orientation>})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GtkOrientation (94846038746032)>'
+    __gtype__ = None # (!) real value is '<GType GtkOrientation (93897368959920)>'
     __info__ = gi.EnumInfo(Orientation)
 
 

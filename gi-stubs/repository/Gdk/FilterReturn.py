@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -358,13 +358,13 @@ class FilterReturn(__gobject.GEnum):
     REMOVE = 2
     TRANSLATE = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'FilterReturn' objects>, '__doc__': None, '__gtype__': <GType GdkFilterReturn (94055651703712)>, '__enum_values__': {0: <enum GDK_FILTER_CONTINUE of type Gdk.FilterReturn>, 1: <enum GDK_FILTER_TRANSLATE of type Gdk.FilterReturn>, 2: <enum GDK_FILTER_REMOVE of type Gdk.FilterReturn>}, '__info__': gi.EnumInfo(FilterReturn), 'CONTINUE': <enum GDK_FILTER_CONTINUE of type Gdk.FilterReturn>, 'TRANSLATE': <enum GDK_FILTER_TRANSLATE of type Gdk.FilterReturn>, 'REMOVE': <enum GDK_FILTER_REMOVE of type Gdk.FilterReturn>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'FilterReturn' objects>, '__doc__': None, '__gtype__': <GType GdkFilterReturn (94915769031552)>, '__enum_values__': {0: <enum GDK_FILTER_CONTINUE of type Gdk.FilterReturn>, 1: <enum GDK_FILTER_TRANSLATE of type Gdk.FilterReturn>, 2: <enum GDK_FILTER_REMOVE of type Gdk.FilterReturn>}, '__info__': gi.EnumInfo(FilterReturn), 'CONTINUE': <enum GDK_FILTER_CONTINUE of type Gdk.FilterReturn>, 'TRANSLATE': <enum GDK_FILTER_TRANSLATE of type Gdk.FilterReturn>, 'REMOVE': <enum GDK_FILTER_REMOVE of type Gdk.FilterReturn>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GdkFilterReturn (94055651703712)>'
+    __gtype__ = None # (!) real value is '<GType GdkFilterReturn (94915769031552)>'
     __info__ = gi.EnumInfo(FilterReturn)
 
 

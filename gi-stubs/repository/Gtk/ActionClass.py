@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -151,7 +151,7 @@ class ActionClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ActionClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ActionClass' objects>, '__weakref__': <attribute '__weakref__' of 'ActionClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe8310eca90>, 'activate': <property object at 0x7fe8310ecb80>, 'menu_item_type': <property object at 0x7fe8310ecc70>, 'toolbar_item_type': <property object at 0x7fe8310ecdb0>, 'create_menu_item': <property object at 0x7fe8310ecef0>, 'create_tool_item': <property object at 0x7fe8310ee040>, 'connect_proxy': <property object at 0x7fe8310ee0e0>, 'disconnect_proxy': <property object at 0x7fe8310ee220>, 'create_menu': <property object at 0x7fe8310ee310>, '_gtk_reserved1': <property object at 0x7fe8310ee400>, '_gtk_reserved2': <property object at 0x7fe8310ee4f0>, '_gtk_reserved3': <property object at 0x7fe8310ee5e0>, '_gtk_reserved4': <property object at 0x7fe8310ee6d0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ActionClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ActionClass' objects>, '__weakref__': <attribute '__weakref__' of 'ActionClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a8019a0>, 'activate': <property object at 0x7fc63a801a90>, 'menu_item_type': <property object at 0x7fc63a801b80>, 'toolbar_item_type': <property object at 0x7fc63a801cc0>, 'create_menu_item': <property object at 0x7fc63a801e00>, 'create_tool_item': <property object at 0x7fc63a801ef0>, 'connect_proxy': <property object at 0x7fc63a801f90>, 'disconnect_proxy': <property object at 0x7fc63a804130>, 'create_menu': <property object at 0x7fc63a804220>, '_gtk_reserved1': <property object at 0x7fc63a804310>, '_gtk_reserved2': <property object at 0x7fc63a804400>, '_gtk_reserved3': <property object at 0x7fc63a8044f0>, '_gtk_reserved4': <property object at 0x7fc63a8045e0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ActionClass)
 

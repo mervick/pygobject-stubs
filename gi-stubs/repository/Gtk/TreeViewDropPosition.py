@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,14 +363,14 @@ class TreeViewDropPosition(__gobject.GEnum):
     INTO_OR_AFTER = 3
     INTO_OR_BEFORE = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'TreeViewDropPosition' objects>, '__doc__': None, '__gtype__': <GType GtkTreeViewDropPosition (94846039580432)>, '__enum_values__': {0: <enum GTK_TREE_VIEW_DROP_BEFORE of type Gtk.TreeViewDropPosition>, 1: <enum GTK_TREE_VIEW_DROP_AFTER of type Gtk.TreeViewDropPosition>, 2: <enum GTK_TREE_VIEW_DROP_INTO_OR_BEFORE of type Gtk.TreeViewDropPosition>, 3: <enum GTK_TREE_VIEW_DROP_INTO_OR_AFTER of type Gtk.TreeViewDropPosition>}, '__info__': gi.EnumInfo(TreeViewDropPosition), 'BEFORE': <enum GTK_TREE_VIEW_DROP_BEFORE of type Gtk.TreeViewDropPosition>, 'AFTER': <enum GTK_TREE_VIEW_DROP_AFTER of type Gtk.TreeViewDropPosition>, 'INTO_OR_BEFORE': <enum GTK_TREE_VIEW_DROP_INTO_OR_BEFORE of type Gtk.TreeViewDropPosition>, 'INTO_OR_AFTER': <enum GTK_TREE_VIEW_DROP_INTO_OR_AFTER of type Gtk.TreeViewDropPosition>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'TreeViewDropPosition' objects>, '__doc__': None, '__gtype__': <GType GtkTreeViewDropPosition (93897369782736)>, '__enum_values__': {0: <enum GTK_TREE_VIEW_DROP_BEFORE of type Gtk.TreeViewDropPosition>, 1: <enum GTK_TREE_VIEW_DROP_AFTER of type Gtk.TreeViewDropPosition>, 2: <enum GTK_TREE_VIEW_DROP_INTO_OR_BEFORE of type Gtk.TreeViewDropPosition>, 3: <enum GTK_TREE_VIEW_DROP_INTO_OR_AFTER of type Gtk.TreeViewDropPosition>}, '__info__': gi.EnumInfo(TreeViewDropPosition), 'BEFORE': <enum GTK_TREE_VIEW_DROP_BEFORE of type Gtk.TreeViewDropPosition>, 'AFTER': <enum GTK_TREE_VIEW_DROP_AFTER of type Gtk.TreeViewDropPosition>, 'INTO_OR_BEFORE': <enum GTK_TREE_VIEW_DROP_INTO_OR_BEFORE of type Gtk.TreeViewDropPosition>, 'INTO_OR_AFTER': <enum GTK_TREE_VIEW_DROP_INTO_OR_AFTER of type Gtk.TreeViewDropPosition>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkTreeViewDropPosition (94846039580432)>'
+    __gtype__ = None # (!) real value is '<GType GtkTreeViewDropPosition (93897369782736)>'
     __info__ = gi.EnumInfo(TreeViewDropPosition)
 
 

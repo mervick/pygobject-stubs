@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -147,7 +147,7 @@ class WindowClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(WindowClass), '__module__': 'gi.repository.Gdk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'WindowClass' objects>, '__weakref__': <attribute '__weakref__' of 'WindowClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f1e11c38130>, 'pick_embedded_child': <property object at 0x7f1e11c38270>, 'to_embedder': <property object at 0x7f1e11c38360>, 'from_embedder': <property object at 0x7f1e11c38450>, 'create_surface': <property object at 0x7f1e11c38540>, '_gdk_reserved1': <property object at 0x7f1e11c38630>, '_gdk_reserved2': <property object at 0x7f1e11c38720>, '_gdk_reserved3': <property object at 0x7f1e11c38810>, '_gdk_reserved4': <property object at 0x7f1e11c38900>, '_gdk_reserved5': <property object at 0x7f1e11c389f0>, '_gdk_reserved6': <property object at 0x7f1e11c38ae0>, '_gdk_reserved7': <property object at 0x7f1e11c38bd0>, '_gdk_reserved8': <property object at 0x7f1e11c38cc0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(WindowClass), '__module__': 'gi.repository.Gdk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'WindowClass' objects>, '__weakref__': <attribute '__weakref__' of 'WindowClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fbaf8135950>, 'pick_embedded_child': <property object at 0x7fbaf8135a90>, 'to_embedder': <property object at 0x7fbaf8135b80>, 'from_embedder': <property object at 0x7fbaf8135c70>, 'create_surface': <property object at 0x7fbaf8135d60>, '_gdk_reserved1': <property object at 0x7fbaf8135e50>, '_gdk_reserved2': <property object at 0x7fbaf8135f40>, '_gdk_reserved3': <property object at 0x7fbaf8137090>, '_gdk_reserved4': <property object at 0x7fbaf8137180>, '_gdk_reserved5': <property object at 0x7fbaf8137270>, '_gdk_reserved6': <property object at 0x7fbaf8137360>, '_gdk_reserved7': <property object at 0x7fbaf8137450>, '_gdk_reserved8': <property object at 0x7fbaf8137540>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(WindowClass)
 

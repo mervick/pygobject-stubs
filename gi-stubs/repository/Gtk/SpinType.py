@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -366,7 +366,7 @@ class SpinType(__gobject.GEnum):
     STEP_FORWARD = 0
     USER_DEFINED = 6
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'SpinType' objects>, '__doc__': None, '__gtype__': <GType GtkSpinType (94846039242416)>, '__enum_values__': {0: <enum GTK_SPIN_STEP_FORWARD of type Gtk.SpinType>, 1: <enum GTK_SPIN_STEP_BACKWARD of type Gtk.SpinType>, 2: <enum GTK_SPIN_PAGE_FORWARD of type Gtk.SpinType>, 3: <enum GTK_SPIN_PAGE_BACKWARD of type Gtk.SpinType>, 4: <enum GTK_SPIN_HOME of type Gtk.SpinType>, 5: <enum GTK_SPIN_END of type Gtk.SpinType>, 6: <enum GTK_SPIN_USER_DEFINED of type Gtk.SpinType>}, '__info__': gi.EnumInfo(SpinType), 'STEP_FORWARD': <enum GTK_SPIN_STEP_FORWARD of type Gtk.SpinType>, 'STEP_BACKWARD': <enum GTK_SPIN_STEP_BACKWARD of type Gtk.SpinType>, 'PAGE_FORWARD': <enum GTK_SPIN_PAGE_FORWARD of type Gtk.SpinType>, 'PAGE_BACKWARD': <enum GTK_SPIN_PAGE_BACKWARD of type Gtk.SpinType>, 'HOME': <enum GTK_SPIN_HOME of type Gtk.SpinType>, 'END': <enum GTK_SPIN_END of type Gtk.SpinType>, 'USER_DEFINED': <enum GTK_SPIN_USER_DEFINED of type Gtk.SpinType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'SpinType' objects>, '__doc__': None, '__gtype__': <GType GtkSpinType (93897369442176)>, '__enum_values__': {0: <enum GTK_SPIN_STEP_FORWARD of type Gtk.SpinType>, 1: <enum GTK_SPIN_STEP_BACKWARD of type Gtk.SpinType>, 2: <enum GTK_SPIN_PAGE_FORWARD of type Gtk.SpinType>, 3: <enum GTK_SPIN_PAGE_BACKWARD of type Gtk.SpinType>, 4: <enum GTK_SPIN_HOME of type Gtk.SpinType>, 5: <enum GTK_SPIN_END of type Gtk.SpinType>, 6: <enum GTK_SPIN_USER_DEFINED of type Gtk.SpinType>}, '__info__': gi.EnumInfo(SpinType), 'STEP_FORWARD': <enum GTK_SPIN_STEP_FORWARD of type Gtk.SpinType>, 'STEP_BACKWARD': <enum GTK_SPIN_STEP_BACKWARD of type Gtk.SpinType>, 'PAGE_FORWARD': <enum GTK_SPIN_PAGE_FORWARD of type Gtk.SpinType>, 'PAGE_BACKWARD': <enum GTK_SPIN_PAGE_BACKWARD of type Gtk.SpinType>, 'HOME': <enum GTK_SPIN_HOME of type Gtk.SpinType>, 'END': <enum GTK_SPIN_END of type Gtk.SpinType>, 'USER_DEFINED': <enum GTK_SPIN_USER_DEFINED of type Gtk.SpinType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -376,7 +376,7 @@ class SpinType(__gobject.GEnum):
         5: 5,
         6: 6,
     }
-    __gtype__ = None # (!) real value is '<GType GtkSpinType (94846039242416)>'
+    __gtype__ = None # (!) real value is '<GType GtkSpinType (93897369442176)>'
     __info__ = gi.EnumInfo(SpinType)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -500,12 +500,12 @@ class Adjustment(Adjustment):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe830cfaf40>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc63a52bd30>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', '_init': <function deprecated_init.<locals>.new_init at 0x7fe831254d30>, '__init__': <function Adjustment.__init__ at 0x7fe831254dc0>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', '_init': <function deprecated_init.<locals>.new_init at 0x7fc63a972550>, '__init__': <function Adjustment.__init__ at 0x7fc63a9725e0>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Object GtkAdjustment\n\nSignals from GtkAdjustment:\n  changed ()\n  value-changed ()\n\nProperties from GtkAdjustment:\n  value -> gdouble: Value\n    The value of the adjustment\n  lower -> gdouble: Minimum Value\n    The minimum value of the adjustment\n  upper -> gdouble: Maximum Value\n    The maximum value of the adjustment\n  step-increment -> gdouble: Step Increment\n    The step increment of the adjustment\n  page-increment -> gdouble: Page Increment\n    The page increment of the adjustment\n  page-size -> gdouble: Page Size\n    The page size of the adjustment\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkAdjustment (94846037089792)>'
+    __gtype__ = None # (!) real value is '<GType GtkAdjustment (93897367302064)>'
     __info__ = ObjectInfo(Adjustment)
 
 

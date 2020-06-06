@@ -2718,11 +2718,11 @@ pyglib_version = (
 
 _introspection_module = option.GLib
 
-__loader__ = None # (!) real value is '<gi.importer.DynamicImporter object at 0x7f1d2c7219d0>'
+__loader__ = None # (!) real value is '<gi.importer.DynamicImporter object at 0x7f8514329d00>'
 
 __path__ = [
     '/usr/lib64/girepository-1.0/GLib-2.0.typelib',
 ]
 
-__spec__ = None # (!) real value is "ModuleSpec(name='gi.repository.GLib', loader=<gi.importer.DynamicImporter object at 0x7f1d2c7219d0>)"
+__spec__ = None # (!) real value is "ModuleSpec(name='gi.repository.GLib', loader=<gi.importer.DynamicImporter object at 0x7f8514329d00>)"
 

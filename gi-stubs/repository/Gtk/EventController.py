@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -425,12 +425,12 @@ class EventController(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe8305f75b0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc639d4bd30>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(EventController), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkEventController (94846038210400)>, '__doc__': None, '__gsignals__': {}, 'get_propagation_phase': gi.FunctionInfo(get_propagation_phase), 'get_widget': gi.FunctionInfo(get_widget), 'handle_event': gi.FunctionInfo(handle_event), 'reset': gi.FunctionInfo(reset), 'set_propagation_phase': gi.FunctionInfo(set_propagation_phase)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(EventController), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkEventController (93897368454832)>, '__doc__': None, '__gsignals__': {}, 'get_propagation_phase': gi.FunctionInfo(get_propagation_phase), 'get_widget': gi.FunctionInfo(get_widget), 'handle_event': gi.FunctionInfo(handle_event), 'reset': gi.FunctionInfo(reset), 'set_propagation_phase': gi.FunctionInfo(set_propagation_phase)})"
     __gdoc__ = 'Object GtkEventController\n\nProperties from GtkEventController:\n  widget -> GtkWidget: Widget\n    Widget the gesture relates to\n  propagation-phase -> GtkPropagationPhase: Propagation phase\n    Propagation phase at which this controller is run\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkEventController (94846038210400)>'
+    __gtype__ = None # (!) real value is '<GType GtkEventController (93897368454832)>'
     __info__ = ObjectInfo(EventController)
 
 

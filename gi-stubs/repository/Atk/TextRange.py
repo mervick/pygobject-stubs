@@ -140,8 +140,8 @@ class TextRange(__gi.Boxed):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TextRange), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkTextRange (93922955741392)>, '__dict__': <attribute '__dict__' of 'TextRange' objects>, '__weakref__': <attribute '__weakref__' of 'TextRange' objects>, '__doc__': None, 'bounds': <property object at 0x7f0cd81c5130>, 'start_offset': <property object at 0x7f0cd81c5220>, 'end_offset': <property object at 0x7f0cd81c5310>, 'content': <property object at 0x7f0cd81c5400>})"
-    __gtype__ = None # (!) real value is '<GType AtkTextRange (93922955741392)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TextRange), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkTextRange (94258338256624)>, '__dict__': <attribute '__dict__' of 'TextRange' objects>, '__weakref__': <attribute '__weakref__' of 'TextRange' objects>, '__doc__': None, 'bounds': <property object at 0x7f44c6d08db0>, 'start_offset': <property object at 0x7f44c6d08ea0>, 'end_offset': <property object at 0x7f44c6d08f90>, 'content': <property object at 0x7f44c6d090e0>})"
+    __gtype__ = None # (!) real value is '<GType AtkTextRange (94258338256624)>'
     __info__ = StructInfo(TextRange)
 
 

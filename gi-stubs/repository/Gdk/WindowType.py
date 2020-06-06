@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -362,7 +362,7 @@ class WindowType(__gobject.GEnum):
     TEMP = 3
     TOPLEVEL = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'WindowType' objects>, '__doc__': None, '__gtype__': <GType GdkWindowType (94055651864448)>, '__enum_values__': {0: <enum GDK_WINDOW_ROOT of type Gdk.WindowType>, 1: <enum GDK_WINDOW_TOPLEVEL of type Gdk.WindowType>, 2: <enum GDK_WINDOW_CHILD of type Gdk.WindowType>, 3: <enum GDK_WINDOW_TEMP of type Gdk.WindowType>, 4: <enum GDK_WINDOW_FOREIGN of type Gdk.WindowType>, 5: <enum GDK_WINDOW_OFFSCREEN of type Gdk.WindowType>, 6: <enum GDK_WINDOW_SUBSURFACE of type Gdk.WindowType>}, '__info__': gi.EnumInfo(WindowType), 'ROOT': <enum GDK_WINDOW_ROOT of type Gdk.WindowType>, 'TOPLEVEL': <enum GDK_WINDOW_TOPLEVEL of type Gdk.WindowType>, 'CHILD': <enum GDK_WINDOW_CHILD of type Gdk.WindowType>, 'TEMP': <enum GDK_WINDOW_TEMP of type Gdk.WindowType>, 'FOREIGN': <enum GDK_WINDOW_FOREIGN of type Gdk.WindowType>, 'OFFSCREEN': <enum GDK_WINDOW_OFFSCREEN of type Gdk.WindowType>, 'SUBSURFACE': <enum GDK_WINDOW_SUBSURFACE of type Gdk.WindowType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'WindowType' objects>, '__doc__': None, '__gtype__': <GType GdkWindowType (94915768790832)>, '__enum_values__': {0: <enum GDK_WINDOW_ROOT of type Gdk.WindowType>, 1: <enum GDK_WINDOW_TOPLEVEL of type Gdk.WindowType>, 2: <enum GDK_WINDOW_CHILD of type Gdk.WindowType>, 3: <enum GDK_WINDOW_TEMP of type Gdk.WindowType>, 4: <enum GDK_WINDOW_FOREIGN of type Gdk.WindowType>, 5: <enum GDK_WINDOW_OFFSCREEN of type Gdk.WindowType>, 6: <enum GDK_WINDOW_SUBSURFACE of type Gdk.WindowType>}, '__info__': gi.EnumInfo(WindowType), 'ROOT': <enum GDK_WINDOW_ROOT of type Gdk.WindowType>, 'TOPLEVEL': <enum GDK_WINDOW_TOPLEVEL of type Gdk.WindowType>, 'CHILD': <enum GDK_WINDOW_CHILD of type Gdk.WindowType>, 'TEMP': <enum GDK_WINDOW_TEMP of type Gdk.WindowType>, 'FOREIGN': <enum GDK_WINDOW_FOREIGN of type Gdk.WindowType>, 'OFFSCREEN': <enum GDK_WINDOW_OFFSCREEN of type Gdk.WindowType>, 'SUBSURFACE': <enum GDK_WINDOW_SUBSURFACE of type Gdk.WindowType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -372,7 +372,7 @@ class WindowType(__gobject.GEnum):
         5: 5,
         6: 6,
     }
-    __gtype__ = None # (!) real value is '<GType GdkWindowType (94055651864448)>'
+    __gtype__ = None # (!) real value is '<GType GdkWindowType (94915768790832)>'
     __info__ = gi.EnumInfo(WindowType)
 
 

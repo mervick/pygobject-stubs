@@ -428,12 +428,12 @@ class ZlibCompressor(__gi_overrides_GObject.Object, Converter):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28de082f40>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b871c1d60>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ZlibCompressor), '__module__': 'gi.repository.Gio', '__gtype__': <GType GZlibCompressor (94125582994448)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_file_info': gi.FunctionInfo(get_file_info), 'set_file_info': gi.FunctionInfo(set_file_info)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ZlibCompressor), '__module__': 'gi.repository.Gio', '__gtype__': <GType GZlibCompressor (94269257617568)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_file_info': gi.FunctionInfo(get_file_info), 'set_file_info': gi.FunctionInfo(set_file_info)})"
     __gdoc__ = 'Object GZlibCompressor\n\nProperties from GZlibCompressor:\n  format -> GZlibCompressorFormat: compression format\n    The format of the compressed data\n  level -> gint: compression level\n    The level of compression from 0 (no compression) to 9 (most compression), -1 for the default level\n  file-info -> GFileInfo: file info\n    File info\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GZlibCompressor (94125582994448)>'
+    __gtype__ = None # (!) real value is '<GType GZlibCompressor (94269257617568)>'
     __info__ = ObjectInfo(ZlibCompressor)
 
 

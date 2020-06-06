@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -137,7 +137,7 @@ class RecentManagerClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(RecentManagerClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'RecentManagerClass' objects>, '__weakref__': <attribute '__weakref__' of 'RecentManagerClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830fbd810>, 'changed': <property object at 0x7fe830fbd900>, '_gtk_recent1': <property object at 0x7fe830fbd9f0>, '_gtk_recent2': <property object at 0x7fe830fbdae0>, '_gtk_recent3': <property object at 0x7fe830fbdbd0>, '_gtk_recent4': <property object at 0x7fe830fbdcc0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(RecentManagerClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'RecentManagerClass' objects>, '__weakref__': <attribute '__weakref__' of 'RecentManagerClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a6d32c0>, 'changed': <property object at 0x7fc63a6d33b0>, '_gtk_recent1': <property object at 0x7fc63a6d34a0>, '_gtk_recent2': <property object at 0x7fc63a6d3590>, '_gtk_recent3': <property object at 0x7fc63a6d3680>, '_gtk_recent4': <property object at 0x7fc63a6d3770>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(RecentManagerClass)
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -141,7 +141,7 @@ class TextTagTableClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TextTagTableClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TextTagTableClass' objects>, '__weakref__': <attribute '__weakref__' of 'TextTagTableClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830f94900>, 'tag_changed': <property object at 0x7fe830f949f0>, 'tag_added': <property object at 0x7fe830f94ae0>, 'tag_removed': <property object at 0x7fe830f94bd0>, '_gtk_reserved1': <property object at 0x7fe830f94cc0>, '_gtk_reserved2': <property object at 0x7fe830f94db0>, '_gtk_reserved3': <property object at 0x7fe830f94ea0>, '_gtk_reserved4': <property object at 0x7fe830f94f90>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TextTagTableClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TextTagTableClass' objects>, '__weakref__': <attribute '__weakref__' of 'TextTagTableClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a6a9f90>, 'tag_changed': <property object at 0x7fc63a6ab0e0>, 'tag_added': <property object at 0x7fc63a6ab1d0>, 'tag_removed': <property object at 0x7fc63a6ab2c0>, '_gtk_reserved1': <property object at 0x7fc63a6ab3b0>, '_gtk_reserved2': <property object at 0x7fc63a6ab4a0>, '_gtk_reserved3': <property object at 0x7fc63a6ab590>, '_gtk_reserved4': <property object at 0x7fc63a6ab680>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TextTagTableClass)
 

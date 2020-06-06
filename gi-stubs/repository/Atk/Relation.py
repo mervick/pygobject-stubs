@@ -433,12 +433,12 @@ class Relation(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f0cd81d71f0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f44c6e021f0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Relation), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkRelation (93922955996928)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add_target': gi.FunctionInfo(add_target), 'get_relation_type': gi.FunctionInfo(get_relation_type), 'get_target': gi.FunctionInfo(get_target), 'remove_target': gi.FunctionInfo(remove_target), 'parent': <property object at 0x7f0cd81a7860>, 'target': <property object at 0x7f0cd81a7950>, 'relationship': <property object at 0x7f0cd81a7a40>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Relation), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkRelation (94258337956368)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add_target': gi.FunctionInfo(add_target), 'get_relation_type': gi.FunctionInfo(get_relation_type), 'get_target': gi.FunctionInfo(get_target), 'remove_target': gi.FunctionInfo(remove_target), 'parent': <property object at 0x7f44c6dbfdb0>, 'target': <property object at 0x7f44c6dbfea0>, 'relationship': <property object at 0x7f44c6dbff90>})"
     __gdoc__ = 'Object AtkRelation\n\nProperties from AtkRelation:\n  relation-type -> AtkRelationType: Relation Type\n    The type of the relation\n  target -> GValueArray: Target\n    An array of the targets for the relation\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType AtkRelation (93922955996928)>'
+    __gtype__ = None # (!) real value is '<GType AtkRelation (94258337956368)>'
     __info__ = ObjectInfo(Relation)
 
 

@@ -458,12 +458,12 @@ class ThemedIcon(__gi_overrides_GObject.Object, Icon):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28de082310>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b870fb400>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ThemedIcon), '__module__': 'gi.repository.Gio', '__gtype__': <GType GThemedIcon (94125582840704)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_from_names': gi.FunctionInfo(new_from_names), 'new_with_default_fallbacks': gi.FunctionInfo(new_with_default_fallbacks), 'append_name': gi.FunctionInfo(append_name), 'get_names': gi.FunctionInfo(get_names), 'prepend_name': gi.FunctionInfo(prepend_name)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ThemedIcon), '__module__': 'gi.repository.Gio', '__gtype__': <GType GThemedIcon (94269256699456)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_from_names': gi.FunctionInfo(new_from_names), 'new_with_default_fallbacks': gi.FunctionInfo(new_with_default_fallbacks), 'append_name': gi.FunctionInfo(append_name), 'get_names': gi.FunctionInfo(get_names), 'prepend_name': gi.FunctionInfo(prepend_name)})"
     __gdoc__ = 'Object GThemedIcon\n\nProperties from GThemedIcon:\n  name -> gchararray: name\n    The name of the icon\n  names -> GStrv: names\n    An array containing the icon names\n  use-default-fallbacks -> gboolean: use default fallbacks\n    Whether to use default fallbacks found by shortening the name at “-” characters. Ignores names after the first if multiple names are given.\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GThemedIcon (94125582840704)>'
+    __gtype__ = None # (!) real value is '<GType GThemedIcon (94269256699456)>'
     __info__ = ObjectInfo(ThemedIcon)
 
 

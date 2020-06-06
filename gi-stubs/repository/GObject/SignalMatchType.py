@@ -390,7 +390,7 @@ class SignalMatchType(__gobject.GFlags):
     ID = 1
     UNBLOCKED = 32
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GObject', '__dict__': <attribute '__dict__' of 'SignalMatchType' objects>, '__doc__': None, '__gtype__': <GType PyGObjectSignalMatchType (93895379384320)>, '__flags_values__': {1: <flags G_SIGNAL_MATCH_ID of type GObject.SignalMatchType>, 2: <flags G_SIGNAL_MATCH_DETAIL of type GObject.SignalMatchType>, 4: <flags G_SIGNAL_MATCH_CLOSURE of type GObject.SignalMatchType>, 8: <flags G_SIGNAL_MATCH_FUNC of type GObject.SignalMatchType>, 16: <flags G_SIGNAL_MATCH_DATA of type GObject.SignalMatchType>, 32: <flags G_SIGNAL_MATCH_UNBLOCKED of type GObject.SignalMatchType>}, '__info__': gi.EnumInfo(SignalMatchType), 'ID': <flags G_SIGNAL_MATCH_ID of type GObject.SignalMatchType>, 'DETAIL': <flags G_SIGNAL_MATCH_DETAIL of type GObject.SignalMatchType>, 'CLOSURE': <flags G_SIGNAL_MATCH_CLOSURE of type GObject.SignalMatchType>, 'FUNC': <flags G_SIGNAL_MATCH_FUNC of type GObject.SignalMatchType>, 'DATA': <flags G_SIGNAL_MATCH_DATA of type GObject.SignalMatchType>, 'UNBLOCKED': <flags G_SIGNAL_MATCH_UNBLOCKED of type GObject.SignalMatchType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GObject', '__dict__': <attribute '__dict__' of 'SignalMatchType' objects>, '__doc__': None, '__gtype__': <GType PyGObjectSignalMatchType (94184341908912)>, '__flags_values__': {1: <flags G_SIGNAL_MATCH_ID of type GObject.SignalMatchType>, 2: <flags G_SIGNAL_MATCH_DETAIL of type GObject.SignalMatchType>, 4: <flags G_SIGNAL_MATCH_CLOSURE of type GObject.SignalMatchType>, 8: <flags G_SIGNAL_MATCH_FUNC of type GObject.SignalMatchType>, 16: <flags G_SIGNAL_MATCH_DATA of type GObject.SignalMatchType>, 32: <flags G_SIGNAL_MATCH_UNBLOCKED of type GObject.SignalMatchType>}, '__info__': gi.EnumInfo(SignalMatchType), 'ID': <flags G_SIGNAL_MATCH_ID of type GObject.SignalMatchType>, 'DETAIL': <flags G_SIGNAL_MATCH_DETAIL of type GObject.SignalMatchType>, 'CLOSURE': <flags G_SIGNAL_MATCH_CLOSURE of type GObject.SignalMatchType>, 'FUNC': <flags G_SIGNAL_MATCH_FUNC of type GObject.SignalMatchType>, 'DATA': <flags G_SIGNAL_MATCH_DATA of type GObject.SignalMatchType>, 'UNBLOCKED': <flags G_SIGNAL_MATCH_UNBLOCKED of type GObject.SignalMatchType>})"
     __flags_values__ = {
         1: 1,
         2: 2,
@@ -399,7 +399,7 @@ class SignalMatchType(__gobject.GFlags):
         16: 16,
         32: 32,
     }
-    __gtype__ = None # (!) real value is '<GType PyGObjectSignalMatchType (93895379384320)>'
+    __gtype__ = None # (!) real value is '<GType PyGObjectSignalMatchType (94184341908912)>'
     __info__ = gi.EnumInfo(SignalMatchType)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -552,12 +552,12 @@ class GestureStylus(GestureSingle):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe830e147f0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc63a5fcd30>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(GestureStylus), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkGestureStylus (94846038436816)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_axes': gi.FunctionInfo(get_axes), 'get_axis': gi.FunctionInfo(get_axis), 'get_device_tool': gi.FunctionInfo(get_device_tool)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(GestureStylus), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkGestureStylus (93897368650704)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_axes': gi.FunctionInfo(get_axes), 'get_axis': gi.FunctionInfo(get_axis), 'get_device_tool': gi.FunctionInfo(get_device_tool)})"
     __gdoc__ = 'Object GtkGestureStylus\n\nSignals from GtkGestureStylus:\n  motion (gdouble, gdouble)\n  proximity (gdouble, gdouble)\n  down (gdouble, gdouble)\n  up (gdouble, gdouble)\n\nProperties from GtkGestureSingle:\n  touch-only -> gboolean: Handle only touch events\n    Whether the gesture handles only touch events\n  exclusive -> gboolean: Whether the gesture is exclusive\n    Whether the gesture is exclusive\n  button -> guint: Button number\n    Button number to listen to\n\nSignals from GtkGesture:\n  update (GdkEventSequence)\n  cancel (GdkEventSequence)\n  begin (GdkEventSequence)\n  end (GdkEventSequence)\n  sequence-state-changed (GdkEventSequence, GtkEventSequenceState)\n\nProperties from GtkGesture:\n  n-points -> guint: Number of points\n    Number of points needed to trigger the gesture\n  window -> GdkWindow: GdkWindow to receive events about\n    GdkWindow to receive events about\n\nProperties from GtkEventController:\n  widget -> GtkWidget: Widget\n    Widget the gesture relates to\n  propagation-phase -> GtkPropagationPhase: Propagation phase\n    Propagation phase at which this controller is run\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkGestureStylus (94846038436816)>'
+    __gtype__ = None # (!) real value is '<GType GtkGestureStylus (93897368650704)>'
     __info__ = ObjectInfo(GestureStylus)
 
 

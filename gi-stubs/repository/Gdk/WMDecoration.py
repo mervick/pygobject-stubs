@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -367,7 +367,7 @@ class WMDecoration(__gobject.GFlags):
     RESIZEH = 4
     TITLE = 8
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'WMDecoration' objects>, '__doc__': None, '__gtype__': <GType GdkWMDecoration (94055651859072)>, '__flags_values__': {1: <flags GDK_DECOR_ALL of type Gdk.WMDecoration>, 2: <flags GDK_DECOR_BORDER of type Gdk.WMDecoration>, 4: <flags GDK_DECOR_RESIZEH of type Gdk.WMDecoration>, 8: <flags GDK_DECOR_TITLE of type Gdk.WMDecoration>, 16: <flags GDK_DECOR_MENU of type Gdk.WMDecoration>, 32: <flags GDK_DECOR_MINIMIZE of type Gdk.WMDecoration>, 64: <flags GDK_DECOR_MAXIMIZE of type Gdk.WMDecoration>}, '__info__': gi.EnumInfo(WMDecoration), 'ALL': <flags GDK_DECOR_ALL of type Gdk.WMDecoration>, 'BORDER': <flags GDK_DECOR_BORDER of type Gdk.WMDecoration>, 'RESIZEH': <flags GDK_DECOR_RESIZEH of type Gdk.WMDecoration>, 'TITLE': <flags GDK_DECOR_TITLE of type Gdk.WMDecoration>, 'MENU': <flags GDK_DECOR_MENU of type Gdk.WMDecoration>, 'MINIMIZE': <flags GDK_DECOR_MINIMIZE of type Gdk.WMDecoration>, 'MAXIMIZE': <flags GDK_DECOR_MAXIMIZE of type Gdk.WMDecoration>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'WMDecoration' objects>, '__doc__': None, '__gtype__': <GType GdkWMDecoration (94915769435696)>, '__flags_values__': {1: <flags GDK_DECOR_ALL of type Gdk.WMDecoration>, 2: <flags GDK_DECOR_BORDER of type Gdk.WMDecoration>, 4: <flags GDK_DECOR_RESIZEH of type Gdk.WMDecoration>, 8: <flags GDK_DECOR_TITLE of type Gdk.WMDecoration>, 16: <flags GDK_DECOR_MENU of type Gdk.WMDecoration>, 32: <flags GDK_DECOR_MINIMIZE of type Gdk.WMDecoration>, 64: <flags GDK_DECOR_MAXIMIZE of type Gdk.WMDecoration>}, '__info__': gi.EnumInfo(WMDecoration), 'ALL': <flags GDK_DECOR_ALL of type Gdk.WMDecoration>, 'BORDER': <flags GDK_DECOR_BORDER of type Gdk.WMDecoration>, 'RESIZEH': <flags GDK_DECOR_RESIZEH of type Gdk.WMDecoration>, 'TITLE': <flags GDK_DECOR_TITLE of type Gdk.WMDecoration>, 'MENU': <flags GDK_DECOR_MENU of type Gdk.WMDecoration>, 'MINIMIZE': <flags GDK_DECOR_MINIMIZE of type Gdk.WMDecoration>, 'MAXIMIZE': <flags GDK_DECOR_MAXIMIZE of type Gdk.WMDecoration>})"
     __flags_values__ = {
         1: 1,
         2: 2,
@@ -377,7 +377,7 @@ class WMDecoration(__gobject.GFlags):
         32: 32,
         64: 64,
     }
-    __gtype__ = None # (!) real value is '<GType GdkWMDecoration (94055651859072)>'
+    __gtype__ = None # (!) real value is '<GType GdkWMDecoration (94915769435696)>'
     __info__ = gi.EnumInfo(WMDecoration)
 
 

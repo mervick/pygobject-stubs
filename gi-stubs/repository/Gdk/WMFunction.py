@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -366,7 +366,7 @@ class WMFunction(__gobject.GFlags):
     MOVE = 4
     RESIZE = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'WMFunction' objects>, '__doc__': None, '__gtype__': <GType GdkWMFunction (94055651860960)>, '__flags_values__': {1: <flags GDK_FUNC_ALL of type Gdk.WMFunction>, 2: <flags GDK_FUNC_RESIZE of type Gdk.WMFunction>, 4: <flags GDK_FUNC_MOVE of type Gdk.WMFunction>, 8: <flags GDK_FUNC_MINIMIZE of type Gdk.WMFunction>, 16: <flags GDK_FUNC_MAXIMIZE of type Gdk.WMFunction>, 32: <flags GDK_FUNC_CLOSE of type Gdk.WMFunction>}, '__info__': gi.EnumInfo(WMFunction), 'ALL': <flags GDK_FUNC_ALL of type Gdk.WMFunction>, 'RESIZE': <flags GDK_FUNC_RESIZE of type Gdk.WMFunction>, 'MOVE': <flags GDK_FUNC_MOVE of type Gdk.WMFunction>, 'MINIMIZE': <flags GDK_FUNC_MINIMIZE of type Gdk.WMFunction>, 'MAXIMIZE': <flags GDK_FUNC_MAXIMIZE of type Gdk.WMFunction>, 'CLOSE': <flags GDK_FUNC_CLOSE of type Gdk.WMFunction>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'WMFunction' objects>, '__doc__': None, '__gtype__': <GType GdkWMFunction (94915769437536)>, '__flags_values__': {1: <flags GDK_FUNC_ALL of type Gdk.WMFunction>, 2: <flags GDK_FUNC_RESIZE of type Gdk.WMFunction>, 4: <flags GDK_FUNC_MOVE of type Gdk.WMFunction>, 8: <flags GDK_FUNC_MINIMIZE of type Gdk.WMFunction>, 16: <flags GDK_FUNC_MAXIMIZE of type Gdk.WMFunction>, 32: <flags GDK_FUNC_CLOSE of type Gdk.WMFunction>}, '__info__': gi.EnumInfo(WMFunction), 'ALL': <flags GDK_FUNC_ALL of type Gdk.WMFunction>, 'RESIZE': <flags GDK_FUNC_RESIZE of type Gdk.WMFunction>, 'MOVE': <flags GDK_FUNC_MOVE of type Gdk.WMFunction>, 'MINIMIZE': <flags GDK_FUNC_MINIMIZE of type Gdk.WMFunction>, 'MAXIMIZE': <flags GDK_FUNC_MAXIMIZE of type Gdk.WMFunction>, 'CLOSE': <flags GDK_FUNC_CLOSE of type Gdk.WMFunction>})"
     __flags_values__ = {
         1: 1,
         2: 2,
@@ -375,7 +375,7 @@ class WMFunction(__gobject.GFlags):
         16: 16,
         32: 32,
     }
-    __gtype__ = None # (!) real value is '<GType GdkWMFunction (94055651860960)>'
+    __gtype__ = None # (!) real value is '<GType GdkWMFunction (94915769437536)>'
     __info__ = gi.EnumInfo(WMFunction)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -137,7 +137,7 @@ class ExpanderClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ExpanderClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ExpanderClass' objects>, '__weakref__': <attribute '__weakref__' of 'ExpanderClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe831083950>, 'activate': <property object at 0x7fe831083a40>, '_gtk_reserved1': <property object at 0x7fe831083b30>, '_gtk_reserved2': <property object at 0x7fe831083c20>, '_gtk_reserved3': <property object at 0x7fe831083d10>, '_gtk_reserved4': <property object at 0x7fe831083e00>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ExpanderClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ExpanderClass' objects>, '__weakref__': <attribute '__weakref__' of 'ExpanderClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a79a630>, 'activate': <property object at 0x7fc63a79a720>, '_gtk_reserved1': <property object at 0x7fc63a79a810>, '_gtk_reserved2': <property object at 0x7fc63a79a900>, '_gtk_reserved3': <property object at 0x7fc63a79a9f0>, '_gtk_reserved4': <property object at 0x7fc63a79aae0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ExpanderClass)
 

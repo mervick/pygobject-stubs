@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -367,13 +367,13 @@ class TextSearchFlags(__gobject.GFlags):
     TEXT_ONLY = 2
     VISIBLE_ONLY = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'TextSearchFlags' objects>, '__doc__': None, '__gtype__': <GType GtkTextSearchFlags (94846039410368)>, '__flags_values__': {1: <flags GTK_TEXT_SEARCH_VISIBLE_ONLY of type Gtk.TextSearchFlags>, 2: <flags GTK_TEXT_SEARCH_TEXT_ONLY of type Gtk.TextSearchFlags>, 4: <flags GTK_TEXT_SEARCH_CASE_INSENSITIVE of type Gtk.TextSearchFlags>}, '__info__': gi.EnumInfo(TextSearchFlags), 'VISIBLE_ONLY': <flags GTK_TEXT_SEARCH_VISIBLE_ONLY of type Gtk.TextSearchFlags>, 'TEXT_ONLY': <flags GTK_TEXT_SEARCH_TEXT_ONLY of type Gtk.TextSearchFlags>, 'CASE_INSENSITIVE': <flags GTK_TEXT_SEARCH_CASE_INSENSITIVE of type Gtk.TextSearchFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'TextSearchFlags' objects>, '__doc__': None, '__gtype__': <GType GtkTextSearchFlags (93897369611968)>, '__flags_values__': {1: <flags GTK_TEXT_SEARCH_VISIBLE_ONLY of type Gtk.TextSearchFlags>, 2: <flags GTK_TEXT_SEARCH_TEXT_ONLY of type Gtk.TextSearchFlags>, 4: <flags GTK_TEXT_SEARCH_CASE_INSENSITIVE of type Gtk.TextSearchFlags>}, '__info__': gi.EnumInfo(TextSearchFlags), 'VISIBLE_ONLY': <flags GTK_TEXT_SEARCH_VISIBLE_ONLY of type Gtk.TextSearchFlags>, 'TEXT_ONLY': <flags GTK_TEXT_SEARCH_TEXT_ONLY of type Gtk.TextSearchFlags>, 'CASE_INSENSITIVE': <flags GTK_TEXT_SEARCH_CASE_INSENSITIVE of type Gtk.TextSearchFlags>})"
     __flags_values__ = {
         1: 1,
         2: 2,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType GtkTextSearchFlags (94846039410368)>'
+    __gtype__ = None # (!) real value is '<GType GtkTextSearchFlags (93897369611968)>'
     __info__ = gi.EnumInfo(TextSearchFlags)
 
 

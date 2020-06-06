@@ -432,12 +432,12 @@ class ProxyAddressEnumerator(SocketAddressEnumerator):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd07c280>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b871ea400>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ProxyAddressEnumerator), '__module__': 'gi.repository.Gio', '__gtype__': <GType GProxyAddressEnumerator (94125582632576)>, '__doc__': None, '__gsignals__': {}, 'parent_instance': <property object at 0x7f28dde44590>, 'priv': <property object at 0x7f28dde44680>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ProxyAddressEnumerator), '__module__': 'gi.repository.Gio', '__gtype__': <GType GProxyAddressEnumerator (94269257262512)>, '__doc__': None, '__gsignals__': {}, 'parent_instance': <property object at 0x7f4b87fa6540>, 'priv': <property object at 0x7f4b87fa6630>})"
     __gdoc__ = 'Object GProxyAddressEnumerator\n\nProperties from GProxyAddressEnumerator:\n  uri -> gchararray: URI\n    The destination URI, use none:// for generic socket\n  default-port -> guint: Default port\n    The default port to use if uri does not specify one\n  connectable -> GSocketConnectable: Connectable\n    The connectable being enumerated.\n  proxy-resolver -> GProxyResolver: Proxy resolver\n    The proxy resolver to use.\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GProxyAddressEnumerator (94125582632576)>'
+    __gtype__ = None # (!) real value is '<GType GProxyAddressEnumerator (94269257262512)>'
     __info__ = ObjectInfo(ProxyAddressEnumerator)
 
 

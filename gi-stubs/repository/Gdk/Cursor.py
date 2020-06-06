@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -444,12 +444,12 @@ class Cursor(Cursor):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f1e11c39a30>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fbaf8134bb0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gdk', '__new__': <staticmethod object at 0x7f1e122f8c10>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gdk', '__new__': <staticmethod object at 0x7fbaf82a1040>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Object GdkCursor\n\nProperties from GdkCursor:\n  cursor-type -> GdkCursorType: Cursor type\n    Standard cursor type\n  display -> GdkDisplay: Display\n    Display of this cursor\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GdkCursor (94055650811872)>'
+    __gtype__ = None # (!) real value is '<GType GdkCursor (94915768242032)>'
     __info__ = ObjectInfo(Cursor)
 
 

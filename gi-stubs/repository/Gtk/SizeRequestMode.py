@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -362,13 +362,13 @@ class SizeRequestMode(__gobject.GEnum):
     HEIGHT_FOR_WIDTH = 0
     WIDTH_FOR_HEIGHT = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'SizeRequestMode' objects>, '__doc__': None, '__gtype__': <GType GtkSizeRequestMode (94846039211696)>, '__enum_values__': {0: <enum GTK_SIZE_REQUEST_HEIGHT_FOR_WIDTH of type Gtk.SizeRequestMode>, 1: <enum GTK_SIZE_REQUEST_WIDTH_FOR_HEIGHT of type Gtk.SizeRequestMode>, 2: <enum GTK_SIZE_REQUEST_CONSTANT_SIZE of type Gtk.SizeRequestMode>}, '__info__': gi.EnumInfo(SizeRequestMode), 'HEIGHT_FOR_WIDTH': <enum GTK_SIZE_REQUEST_HEIGHT_FOR_WIDTH of type Gtk.SizeRequestMode>, 'WIDTH_FOR_HEIGHT': <enum GTK_SIZE_REQUEST_WIDTH_FOR_HEIGHT of type Gtk.SizeRequestMode>, 'CONSTANT_SIZE': <enum GTK_SIZE_REQUEST_CONSTANT_SIZE of type Gtk.SizeRequestMode>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'SizeRequestMode' objects>, '__doc__': None, '__gtype__': <GType GtkSizeRequestMode (93897368686256)>, '__enum_values__': {0: <enum GTK_SIZE_REQUEST_HEIGHT_FOR_WIDTH of type Gtk.SizeRequestMode>, 1: <enum GTK_SIZE_REQUEST_WIDTH_FOR_HEIGHT of type Gtk.SizeRequestMode>, 2: <enum GTK_SIZE_REQUEST_CONSTANT_SIZE of type Gtk.SizeRequestMode>}, '__info__': gi.EnumInfo(SizeRequestMode), 'HEIGHT_FOR_WIDTH': <enum GTK_SIZE_REQUEST_HEIGHT_FOR_WIDTH of type Gtk.SizeRequestMode>, 'WIDTH_FOR_HEIGHT': <enum GTK_SIZE_REQUEST_WIDTH_FOR_HEIGHT of type Gtk.SizeRequestMode>, 'CONSTANT_SIZE': <enum GTK_SIZE_REQUEST_CONSTANT_SIZE of type Gtk.SizeRequestMode>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GtkSizeRequestMode (94846039211696)>'
+    __gtype__ = None # (!) real value is '<GType GtkSizeRequestMode (93897368686256)>'
     __info__ = gi.EnumInfo(SizeRequestMode)
 
 

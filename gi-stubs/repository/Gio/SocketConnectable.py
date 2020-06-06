@@ -127,10 +127,10 @@ class SocketConnectable(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(SocketConnectable), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSocketConnectable (94125582461056)>, '__dict__': <attribute '__dict__' of 'SocketConnectable' objects>, '__weakref__': <attribute '__weakref__' of 'SocketConnectable' objects>, '__doc__': None, '__gsignals__': {}, 'enumerate': gi.FunctionInfo(enumerate), 'proxy_enumerate': gi.FunctionInfo(proxy_enumerate), 'to_string': gi.FunctionInfo(to_string)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(SocketConnectable), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSocketConnectable (94269256798112)>, '__dict__': <attribute '__dict__' of 'SocketConnectable' objects>, '__weakref__': <attribute '__weakref__' of 'SocketConnectable' objects>, '__doc__': None, '__gsignals__': {}, 'enumerate': gi.FunctionInfo(enumerate), 'proxy_enumerate': gi.FunctionInfo(proxy_enumerate), 'to_string': gi.FunctionInfo(to_string)})"
     __gdoc__ = 'Interface GSocketConnectable\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GSocketConnectable (94125582461056)>'
+    __gtype__ = None # (!) real value is '<GType GSocketConnectable (94269256798112)>'
     __info__ = InterfaceInfo(SocketConnectable)
 
 

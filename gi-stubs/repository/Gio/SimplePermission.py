@@ -477,12 +477,12 @@ class SimplePermission(Permission):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dcf9c190>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b871c1220>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SimplePermission), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSimplePermission (94125582719408)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SimplePermission), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSimplePermission (94269257351648)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new)})"
     __gdoc__ = 'Object GSimplePermission\n\nProperties from GPermission:\n  allowed -> gboolean: Is allowed\n    If the caller is allowed to perform the action\n  can-acquire -> gboolean: Can acquire\n    If calling g_permission_acquire() makes sense\n  can-release -> gboolean: Can release\n    If calling g_permission_release() makes sense\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GSimplePermission (94125582719408)>'
+    __gtype__ = None # (!) real value is '<GType GSimplePermission (94269257351648)>'
     __info__ = ObjectInfo(SimplePermission)
 
 

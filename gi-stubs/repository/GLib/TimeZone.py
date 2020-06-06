@@ -180,8 +180,8 @@ class TimeZone(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TimeZone), '__module__': 'gi.repository.GLib', '__gtype__': <GType GTimeZone (94243599121952)>, '__dict__': <attribute '__dict__' of 'TimeZone' objects>, '__weakref__': <attribute '__weakref__' of 'TimeZone' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'new_local': gi.FunctionInfo(new_local), 'new_offset': gi.FunctionInfo(new_offset), 'new_utc': gi.FunctionInfo(new_utc), 'adjust_time': gi.FunctionInfo(adjust_time), 'find_interval': gi.FunctionInfo(find_interval), 'get_abbreviation': gi.FunctionInfo(get_abbreviation), 'get_identifier': gi.FunctionInfo(get_identifier), 'get_offset': gi.FunctionInfo(get_offset), 'is_dst': gi.FunctionInfo(is_dst), 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref), '__new__': <staticmethod object at 0x7f1d2b9cfbe0>, '__init__': <function nothing at 0x7f1d2baee430>})"
-    __gtype__ = None # (!) real value is '<GType GTimeZone (94243599121952)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TimeZone), '__module__': 'gi.repository.GLib', '__gtype__': <GType GTimeZone (94581033900816)>, '__dict__': <attribute '__dict__' of 'TimeZone' objects>, '__weakref__': <attribute '__weakref__' of 'TimeZone' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'new_local': gi.FunctionInfo(new_local), 'new_offset': gi.FunctionInfo(new_offset), 'new_utc': gi.FunctionInfo(new_utc), 'adjust_time': gi.FunctionInfo(adjust_time), 'find_interval': gi.FunctionInfo(find_interval), 'get_abbreviation': gi.FunctionInfo(get_abbreviation), 'get_identifier': gi.FunctionInfo(get_identifier), 'get_offset': gi.FunctionInfo(get_offset), 'is_dst': gi.FunctionInfo(is_dst), 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref), '__new__': <staticmethod object at 0x7f85134ffa30>, '__init__': <function nothing at 0x7f85136ebee0>})"
+    __gtype__ = None # (!) real value is '<GType GTimeZone (94581033900816)>'
     __info__ = StructInfo(TimeZone)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -437,12 +437,12 @@ class FrameClock(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f1e11c39970>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fbaf808e2e0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FrameClock), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkFrameClock (94055650965328)>, '__doc__': None, '__gsignals__': {}, 'begin_updating': gi.FunctionInfo(begin_updating), 'end_updating': gi.FunctionInfo(end_updating), 'get_current_timings': gi.FunctionInfo(get_current_timings), 'get_frame_counter': gi.FunctionInfo(get_frame_counter), 'get_frame_time': gi.FunctionInfo(get_frame_time), 'get_history_start': gi.FunctionInfo(get_history_start), 'get_refresh_info': gi.FunctionInfo(get_refresh_info), 'get_timings': gi.FunctionInfo(get_timings), 'request_phase': gi.FunctionInfo(request_phase)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FrameClock), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkFrameClock (94915768535536)>, '__doc__': None, '__gsignals__': {}, 'begin_updating': gi.FunctionInfo(begin_updating), 'end_updating': gi.FunctionInfo(end_updating), 'get_current_timings': gi.FunctionInfo(get_current_timings), 'get_frame_counter': gi.FunctionInfo(get_frame_counter), 'get_frame_time': gi.FunctionInfo(get_frame_time), 'get_history_start': gi.FunctionInfo(get_history_start), 'get_refresh_info': gi.FunctionInfo(get_refresh_info), 'get_timings': gi.FunctionInfo(get_timings), 'request_phase': gi.FunctionInfo(request_phase)})"
     __gdoc__ = 'Object GdkFrameClock\n\nSignals from GdkFrameClock:\n  flush-events ()\n  before-paint ()\n  update ()\n  layout ()\n  paint ()\n  after-paint ()\n  resume-events ()\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GdkFrameClock (94055650965328)>'
+    __gtype__ = None # (!) real value is '<GType GdkFrameClock (94915768535536)>'
     __info__ = ObjectInfo(FrameClock)
 
 

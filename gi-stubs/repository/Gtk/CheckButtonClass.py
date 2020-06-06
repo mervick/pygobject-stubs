@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -137,7 +137,7 @@ class CheckButtonClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(CheckButtonClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'CheckButtonClass' objects>, '__weakref__': <attribute '__weakref__' of 'CheckButtonClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe8310d1400>, 'draw_indicator': <property object at 0x7fe8310d14f0>, '_gtk_reserved1': <property object at 0x7fe8310d15e0>, '_gtk_reserved2': <property object at 0x7fe8310d16d0>, '_gtk_reserved3': <property object at 0x7fe8310d17c0>, '_gtk_reserved4': <property object at 0x7fe8310d18b0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(CheckButtonClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'CheckButtonClass' objects>, '__weakref__': <attribute '__weakref__' of 'CheckButtonClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a7e6360>, 'draw_indicator': <property object at 0x7fc63a7e6450>, '_gtk_reserved1': <property object at 0x7fc63a7e6540>, '_gtk_reserved2': <property object at 0x7fc63a7e6630>, '_gtk_reserved3': <property object at 0x7fc63a7e6720>, '_gtk_reserved4': <property object at 0x7fc63a7e6810>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(CheckButtonClass)
 

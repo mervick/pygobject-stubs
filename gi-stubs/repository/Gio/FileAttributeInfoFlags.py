@@ -364,13 +364,13 @@ class FileAttributeInfoFlags(__gobject.GFlags):
     COPY_WITH_FILE = 1
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'FileAttributeInfoFlags' objects>, '__doc__': None, '__gtype__': <GType GFileAttributeInfoFlags (94125582281600)>, '__flags_values__': {0: <flags 0 of type Gio.FileAttributeInfoFlags>, 1: <flags G_FILE_ATTRIBUTE_INFO_COPY_WITH_FILE of type Gio.FileAttributeInfoFlags>, 2: <flags G_FILE_ATTRIBUTE_INFO_COPY_WHEN_MOVED of type Gio.FileAttributeInfoFlags>}, '__info__': gi.EnumInfo(FileAttributeInfoFlags), 'NONE': <flags 0 of type Gio.FileAttributeInfoFlags>, 'COPY_WITH_FILE': <flags G_FILE_ATTRIBUTE_INFO_COPY_WITH_FILE of type Gio.FileAttributeInfoFlags>, 'COPY_WHEN_MOVED': <flags G_FILE_ATTRIBUTE_INFO_COPY_WHEN_MOVED of type Gio.FileAttributeInfoFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'FileAttributeInfoFlags' objects>, '__doc__': None, '__gtype__': <GType GFileAttributeInfoFlags (94269256726608)>, '__flags_values__': {0: <flags 0 of type Gio.FileAttributeInfoFlags>, 1: <flags G_FILE_ATTRIBUTE_INFO_COPY_WITH_FILE of type Gio.FileAttributeInfoFlags>, 2: <flags G_FILE_ATTRIBUTE_INFO_COPY_WHEN_MOVED of type Gio.FileAttributeInfoFlags>}, '__info__': gi.EnumInfo(FileAttributeInfoFlags), 'NONE': <flags 0 of type Gio.FileAttributeInfoFlags>, 'COPY_WITH_FILE': <flags G_FILE_ATTRIBUTE_INFO_COPY_WITH_FILE of type Gio.FileAttributeInfoFlags>, 'COPY_WHEN_MOVED': <flags G_FILE_ATTRIBUTE_INFO_COPY_WHEN_MOVED of type Gio.FileAttributeInfoFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GFileAttributeInfoFlags (94125582281600)>'
+    __gtype__ = None # (!) real value is '<GType GFileAttributeInfoFlags (94269256726608)>'
     __info__ = gi.EnumInfo(FileAttributeInfoFlags)
 
 

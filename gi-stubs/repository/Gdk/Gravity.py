@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -365,7 +365,7 @@ class Gravity(__gobject.GEnum):
     STATIC = 10
     WEST = 4
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'Gravity' objects>, '__doc__': None, '__gtype__': <GType GdkGravity (94055651040880)>, '__enum_values__': {1: <enum GDK_GRAVITY_NORTH_WEST of type Gdk.Gravity>, 2: <enum GDK_GRAVITY_NORTH of type Gdk.Gravity>, 3: <enum GDK_GRAVITY_NORTH_EAST of type Gdk.Gravity>, 4: <enum GDK_GRAVITY_WEST of type Gdk.Gravity>, 5: <enum GDK_GRAVITY_CENTER of type Gdk.Gravity>, 6: <enum GDK_GRAVITY_EAST of type Gdk.Gravity>, 7: <enum GDK_GRAVITY_SOUTH_WEST of type Gdk.Gravity>, 8: <enum GDK_GRAVITY_SOUTH of type Gdk.Gravity>, 9: <enum GDK_GRAVITY_SOUTH_EAST of type Gdk.Gravity>, 10: <enum GDK_GRAVITY_STATIC of type Gdk.Gravity>}, '__info__': gi.EnumInfo(Gravity), 'NORTH_WEST': <enum GDK_GRAVITY_NORTH_WEST of type Gdk.Gravity>, 'NORTH': <enum GDK_GRAVITY_NORTH of type Gdk.Gravity>, 'NORTH_EAST': <enum GDK_GRAVITY_NORTH_EAST of type Gdk.Gravity>, 'WEST': <enum GDK_GRAVITY_WEST of type Gdk.Gravity>, 'CENTER': <enum GDK_GRAVITY_CENTER of type Gdk.Gravity>, 'EAST': <enum GDK_GRAVITY_EAST of type Gdk.Gravity>, 'SOUTH_WEST': <enum GDK_GRAVITY_SOUTH_WEST of type Gdk.Gravity>, 'SOUTH': <enum GDK_GRAVITY_SOUTH of type Gdk.Gravity>, 'SOUTH_EAST': <enum GDK_GRAVITY_SOUTH_EAST of type Gdk.Gravity>, 'STATIC': <enum GDK_GRAVITY_STATIC of type Gdk.Gravity>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'Gravity' objects>, '__doc__': None, '__gtype__': <GType GdkGravity (94915768820272)>, '__enum_values__': {1: <enum GDK_GRAVITY_NORTH_WEST of type Gdk.Gravity>, 2: <enum GDK_GRAVITY_NORTH of type Gdk.Gravity>, 3: <enum GDK_GRAVITY_NORTH_EAST of type Gdk.Gravity>, 4: <enum GDK_GRAVITY_WEST of type Gdk.Gravity>, 5: <enum GDK_GRAVITY_CENTER of type Gdk.Gravity>, 6: <enum GDK_GRAVITY_EAST of type Gdk.Gravity>, 7: <enum GDK_GRAVITY_SOUTH_WEST of type Gdk.Gravity>, 8: <enum GDK_GRAVITY_SOUTH of type Gdk.Gravity>, 9: <enum GDK_GRAVITY_SOUTH_EAST of type Gdk.Gravity>, 10: <enum GDK_GRAVITY_STATIC of type Gdk.Gravity>}, '__info__': gi.EnumInfo(Gravity), 'NORTH_WEST': <enum GDK_GRAVITY_NORTH_WEST of type Gdk.Gravity>, 'NORTH': <enum GDK_GRAVITY_NORTH of type Gdk.Gravity>, 'NORTH_EAST': <enum GDK_GRAVITY_NORTH_EAST of type Gdk.Gravity>, 'WEST': <enum GDK_GRAVITY_WEST of type Gdk.Gravity>, 'CENTER': <enum GDK_GRAVITY_CENTER of type Gdk.Gravity>, 'EAST': <enum GDK_GRAVITY_EAST of type Gdk.Gravity>, 'SOUTH_WEST': <enum GDK_GRAVITY_SOUTH_WEST of type Gdk.Gravity>, 'SOUTH': <enum GDK_GRAVITY_SOUTH of type Gdk.Gravity>, 'SOUTH_EAST': <enum GDK_GRAVITY_SOUTH_EAST of type Gdk.Gravity>, 'STATIC': <enum GDK_GRAVITY_STATIC of type Gdk.Gravity>})"
     __enum_values__ = {
         1: 1,
         2: 2,
@@ -378,7 +378,7 @@ class Gravity(__gobject.GEnum):
         9: 9,
         10: 10,
     }
-    __gtype__ = None # (!) real value is '<GType GdkGravity (94055651040880)>'
+    __gtype__ = None # (!) real value is '<GType GdkGravity (94915768820272)>'
     __info__ = gi.EnumInfo(Gravity)
 
 

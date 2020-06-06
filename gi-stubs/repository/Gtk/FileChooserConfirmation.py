@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -362,13 +362,13 @@ class FileChooserConfirmation(__gobject.GEnum):
     CONFIRM = 0
     SELECT_AGAIN = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'FileChooserConfirmation' objects>, '__doc__': None, '__gtype__': <GType GtkFileChooserConfirmation (94846038283296)>, '__enum_values__': {0: <enum GTK_FILE_CHOOSER_CONFIRMATION_CONFIRM of type Gtk.FileChooserConfirmation>, 1: <enum GTK_FILE_CHOOSER_CONFIRMATION_ACCEPT_FILENAME of type Gtk.FileChooserConfirmation>, 2: <enum GTK_FILE_CHOOSER_CONFIRMATION_SELECT_AGAIN of type Gtk.FileChooserConfirmation>}, '__info__': gi.EnumInfo(FileChooserConfirmation), 'CONFIRM': <enum GTK_FILE_CHOOSER_CONFIRMATION_CONFIRM of type Gtk.FileChooserConfirmation>, 'ACCEPT_FILENAME': <enum GTK_FILE_CHOOSER_CONFIRMATION_ACCEPT_FILENAME of type Gtk.FileChooserConfirmation>, 'SELECT_AGAIN': <enum GTK_FILE_CHOOSER_CONFIRMATION_SELECT_AGAIN of type Gtk.FileChooserConfirmation>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'FileChooserConfirmation' objects>, '__doc__': None, '__gtype__': <GType GtkFileChooserConfirmation (93897368500992)>, '__enum_values__': {0: <enum GTK_FILE_CHOOSER_CONFIRMATION_CONFIRM of type Gtk.FileChooserConfirmation>, 1: <enum GTK_FILE_CHOOSER_CONFIRMATION_ACCEPT_FILENAME of type Gtk.FileChooserConfirmation>, 2: <enum GTK_FILE_CHOOSER_CONFIRMATION_SELECT_AGAIN of type Gtk.FileChooserConfirmation>}, '__info__': gi.EnumInfo(FileChooserConfirmation), 'CONFIRM': <enum GTK_FILE_CHOOSER_CONFIRMATION_CONFIRM of type Gtk.FileChooserConfirmation>, 'ACCEPT_FILENAME': <enum GTK_FILE_CHOOSER_CONFIRMATION_ACCEPT_FILENAME of type Gtk.FileChooserConfirmation>, 'SELECT_AGAIN': <enum GTK_FILE_CHOOSER_CONFIRMATION_SELECT_AGAIN of type Gtk.FileChooserConfirmation>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GtkFileChooserConfirmation (94846038283296)>'
+    __gtype__ = None # (!) real value is '<GType GtkFileChooserConfirmation (93897368500992)>'
     __info__ = gi.EnumInfo(FileChooserConfirmation)
 
 

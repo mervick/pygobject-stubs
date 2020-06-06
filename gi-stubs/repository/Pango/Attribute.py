@@ -145,8 +145,8 @@ class Attribute(__gi.Boxed):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Attribute), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoAttribute (94752680731952)>, '__dict__': <attribute '__dict__' of 'Attribute' objects>, '__weakref__': <attribute '__weakref__' of 'Attribute' objects>, '__doc__': None, 'klass': <property object at 0x7f24746e7630>, 'start_index': <property object at 0x7f24746e7720>, 'end_index': <property object at 0x7f24747913b0>, 'copy': gi.FunctionInfo(copy), 'destroy': gi.FunctionInfo(destroy), 'equal': gi.FunctionInfo(equal), 'init': gi.FunctionInfo(init)})"
-    __gtype__ = None # (!) real value is '<GType PangoAttribute (94752680731952)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Attribute), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoAttribute (94187428969408)>, '__dict__': <attribute '__dict__' of 'Attribute' objects>, '__weakref__': <attribute '__weakref__' of 'Attribute' objects>, '__doc__': None, 'klass': <property object at 0x7f85178863b0>, 'start_index': <property object at 0x7f85178864a0>, 'end_index': <property object at 0x7f8517886590>, 'copy': gi.FunctionInfo(copy), 'destroy': gi.FunctionInfo(destroy), 'equal': gi.FunctionInfo(equal), 'init': gi.FunctionInfo(init)})"
+    __gtype__ = None # (!) real value is '<GType PangoAttribute (94187428969408)>'
     __info__ = StructInfo(Attribute)
 
 

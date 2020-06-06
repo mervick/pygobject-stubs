@@ -449,12 +449,12 @@ class Emblem(__gi_overrides_GObject.Object, Icon):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd616bb0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87563850>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Emblem), '__module__': 'gi.repository.Gio', '__gtype__': <GType GEmblem (94125582254016)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_with_origin': gi.FunctionInfo(new_with_origin), 'get_icon': gi.FunctionInfo(get_icon), 'get_origin': gi.FunctionInfo(get_origin)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Emblem), '__module__': 'gi.repository.Gio', '__gtype__': <GType GEmblem (94269256882016)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_with_origin': gi.FunctionInfo(new_with_origin), 'get_icon': gi.FunctionInfo(get_icon), 'get_origin': gi.FunctionInfo(get_origin)})"
     __gdoc__ = 'Object GEmblem\n\nProperties from GEmblem:\n  icon -> GObject: The icon of the emblem\n    The actual icon of the emblem\n  origin -> GEmblemOrigin: GEmblem’s origin\n    Tells which origin the emblem is derived from\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GEmblem (94125582254016)>'
+    __gtype__ = None # (!) real value is '<GType GEmblem (94269256882016)>'
     __info__ = ObjectInfo(Emblem)
 
 

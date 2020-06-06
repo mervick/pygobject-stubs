@@ -451,12 +451,12 @@ class AppLaunchContext(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd62d460>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87775c40>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(AppLaunchContext), '__module__': 'gi.repository.Gio', '__gtype__': <GType GAppLaunchContext (94125581535280)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_display': gi.FunctionInfo(get_display), 'get_environment': gi.FunctionInfo(get_environment), 'get_startup_notify_id': gi.FunctionInfo(get_startup_notify_id), 'launch_failed': gi.FunctionInfo(launch_failed), 'setenv': gi.FunctionInfo(setenv), 'unsetenv': gi.FunctionInfo(unsetenv), 'do_get_display': gi.VFuncInfo(get_display), 'do_get_startup_notify_id': gi.VFuncInfo(get_startup_notify_id), 'do_launch_failed': gi.VFuncInfo(launch_failed), 'do_launched': gi.VFuncInfo(launched), 'parent_instance': <property object at 0x7f28ddf18f40>, 'priv': <property object at 0x7f28ddf19090>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(AppLaunchContext), '__module__': 'gi.repository.Gio', '__gtype__': <GType GAppLaunchContext (94269256170912)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_display': gi.FunctionInfo(get_display), 'get_environment': gi.FunctionInfo(get_environment), 'get_startup_notify_id': gi.FunctionInfo(get_startup_notify_id), 'launch_failed': gi.FunctionInfo(launch_failed), 'setenv': gi.FunctionInfo(setenv), 'unsetenv': gi.FunctionInfo(unsetenv), 'do_get_display': gi.VFuncInfo(get_display), 'do_get_startup_notify_id': gi.VFuncInfo(get_startup_notify_id), 'do_launch_failed': gi.VFuncInfo(launch_failed), 'do_launched': gi.VFuncInfo(launched), 'parent_instance': <property object at 0x7f4b88078ef0>, 'priv': <property object at 0x7f4b8807a040>})"
     __gdoc__ = 'Object GAppLaunchContext\n\nSignals from GAppLaunchContext:\n  launch-failed (gchararray)\n  launched (GAppInfo, GVariant)\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GAppLaunchContext (94125581535280)>'
+    __gtype__ = None # (!) real value is '<GType GAppLaunchContext (94269256170912)>'
     __info__ = ObjectInfo(AppLaunchContext)
 
 

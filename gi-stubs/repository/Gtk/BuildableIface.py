@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -147,7 +147,7 @@ class BuildableIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(BuildableIface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'BuildableIface' objects>, '__weakref__': <attribute '__weakref__' of 'BuildableIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7fe8310a5180>, 'set_name': <property object at 0x7fe8310a5270>, 'get_name': <property object at 0x7fe8310a5360>, 'add_child': <property object at 0x7fe8310a5450>, 'set_buildable_property': <property object at 0x7fe8310a5590>, 'construct_child': <property object at 0x7fe8310a5630>, 'custom_tag_start': <property object at 0x7fe8310a5770>, 'custom_tag_end': <property object at 0x7fe8310a5810>, 'custom_finished': <property object at 0x7fe8310a5900>, 'parser_finished': <property object at 0x7fe8310a59f0>, 'get_internal_child': <property object at 0x7fe8310a5b30>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(BuildableIface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'BuildableIface' objects>, '__weakref__': <attribute '__weakref__' of 'BuildableIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7fc63a7bd040>, 'set_name': <property object at 0x7fc63a7bd130>, 'get_name': <property object at 0x7fc63a7bd220>, 'add_child': <property object at 0x7fc63a7bd310>, 'set_buildable_property': <property object at 0x7fc63a7bd450>, 'construct_child': <property object at 0x7fc63a7bd4f0>, 'custom_tag_start': <property object at 0x7fc63a7bd630>, 'custom_tag_end': <property object at 0x7fc63a7bd6d0>, 'custom_finished': <property object at 0x7fc63a7bd7c0>, 'parser_finished': <property object at 0x7fc63a7bd8b0>, 'get_internal_child': <property object at 0x7fc63a7bd9f0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(BuildableIface)
 

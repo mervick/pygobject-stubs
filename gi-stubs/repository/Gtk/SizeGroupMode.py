@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,14 +363,14 @@ class SizeGroupMode(__gobject.GEnum):
     NONE = 0
     VERTICAL = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'SizeGroupMode' objects>, '__doc__': None, '__gtype__': <GType GtkSizeGroupMode (94846036840256)>, '__enum_values__': {0: <enum GTK_SIZE_GROUP_NONE of type Gtk.SizeGroupMode>, 1: <enum GTK_SIZE_GROUP_HORIZONTAL of type Gtk.SizeGroupMode>, 2: <enum GTK_SIZE_GROUP_VERTICAL of type Gtk.SizeGroupMode>, 3: <enum GTK_SIZE_GROUP_BOTH of type Gtk.SizeGroupMode>}, '__info__': gi.EnumInfo(SizeGroupMode), 'NONE': <enum GTK_SIZE_GROUP_NONE of type Gtk.SizeGroupMode>, 'HORIZONTAL': <enum GTK_SIZE_GROUP_HORIZONTAL of type Gtk.SizeGroupMode>, 'VERTICAL': <enum GTK_SIZE_GROUP_VERTICAL of type Gtk.SizeGroupMode>, 'BOTH': <enum GTK_SIZE_GROUP_BOTH of type Gtk.SizeGroupMode>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'SizeGroupMode' objects>, '__doc__': None, '__gtype__': <GType GtkSizeGroupMode (93897367040592)>, '__enum_values__': {0: <enum GTK_SIZE_GROUP_NONE of type Gtk.SizeGroupMode>, 1: <enum GTK_SIZE_GROUP_HORIZONTAL of type Gtk.SizeGroupMode>, 2: <enum GTK_SIZE_GROUP_VERTICAL of type Gtk.SizeGroupMode>, 3: <enum GTK_SIZE_GROUP_BOTH of type Gtk.SizeGroupMode>}, '__info__': gi.EnumInfo(SizeGroupMode), 'NONE': <enum GTK_SIZE_GROUP_NONE of type Gtk.SizeGroupMode>, 'HORIZONTAL': <enum GTK_SIZE_GROUP_HORIZONTAL of type Gtk.SizeGroupMode>, 'VERTICAL': <enum GTK_SIZE_GROUP_VERTICAL of type Gtk.SizeGroupMode>, 'BOTH': <enum GTK_SIZE_GROUP_BOTH of type Gtk.SizeGroupMode>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkSizeGroupMode (94846036840256)>'
+    __gtype__ = None # (!) real value is '<GType GtkSizeGroupMode (93897367040592)>'
     __info__ = gi.EnumInfo(SizeGroupMode)
 
 

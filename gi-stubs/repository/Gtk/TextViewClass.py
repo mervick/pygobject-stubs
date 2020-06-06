@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -163,7 +163,7 @@ class TextViewClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TextViewClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TextViewClass' objects>, '__weakref__': <attribute '__weakref__' of 'TextViewClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830f98540>, 'populate_popup': <property object at 0x7fe830f98630>, 'move_cursor': <property object at 0x7fe830f98720>, 'set_anchor': <property object at 0x7fe830f98810>, 'insert_at_cursor': <property object at 0x7fe830f98950>, 'delete_from_cursor': <property object at 0x7fe830f98a40>, 'backspace': <property object at 0x7fe830f98ae0>, 'cut_clipboard': <property object at 0x7fe830f98bd0>, 'copy_clipboard': <property object at 0x7fe830f98cc0>, 'paste_clipboard': <property object at 0x7fe830f98db0>, 'toggle_overwrite': <property object at 0x7fe830f98ef0>, 'create_buffer': <property object at 0x7fe830f98f90>, 'draw_layer': <property object at 0x7fe830f990e0>, 'extend_selection': <property object at 0x7fe830f99220>, 'insert_emoji': <property object at 0x7fe830f99310>, '_gtk_reserved1': <property object at 0x7fe830f99400>, '_gtk_reserved2': <property object at 0x7fe830f994f0>, '_gtk_reserved3': <property object at 0x7fe830f995e0>, '_gtk_reserved4': <property object at 0x7fe830f996d0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TextViewClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TextViewClass' objects>, '__weakref__': <attribute '__weakref__' of 'TextViewClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a6aec20>, 'populate_popup': <property object at 0x7fc63a6aed10>, 'move_cursor': <property object at 0x7fc63a6aee00>, 'set_anchor': <property object at 0x7fc63a6aeef0>, 'insert_at_cursor': <property object at 0x7fc63a6b0090>, 'delete_from_cursor': <property object at 0x7fc63a6b0180>, 'backspace': <property object at 0x7fc63a6b0220>, 'cut_clipboard': <property object at 0x7fc63a6b0310>, 'copy_clipboard': <property object at 0x7fc63a6b0400>, 'paste_clipboard': <property object at 0x7fc63a6b04f0>, 'toggle_overwrite': <property object at 0x7fc63a6b0630>, 'create_buffer': <property object at 0x7fc63a6b06d0>, 'draw_layer': <property object at 0x7fc63a6b07c0>, 'extend_selection': <property object at 0x7fc63a6b0900>, 'insert_emoji': <property object at 0x7fc63a6b09f0>, '_gtk_reserved1': <property object at 0x7fc63a6b0ae0>, '_gtk_reserved2': <property object at 0x7fc63a6b0bd0>, '_gtk_reserved3': <property object at 0x7fc63a6b0cc0>, '_gtk_reserved4': <property object at 0x7fc63a6b0db0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TextViewClass)
 

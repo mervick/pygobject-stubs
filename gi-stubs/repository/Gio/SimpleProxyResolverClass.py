@@ -134,7 +134,7 @@ class SimpleProxyResolverClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SimpleProxyResolverClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SimpleProxyResolverClass' objects>, '__weakref__': <attribute '__weakref__' of 'SimpleProxyResolverClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28dde560e0>, '_g_reserved1': <property object at 0x7f28dde561d0>, '_g_reserved2': <property object at 0x7f28dde562c0>, '_g_reserved3': <property object at 0x7f28dde563b0>, '_g_reserved4': <property object at 0x7f28dde564a0>, '_g_reserved5': <property object at 0x7f28dde56590>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SimpleProxyResolverClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SimpleProxyResolverClass' objects>, '__weakref__': <attribute '__weakref__' of 'SimpleProxyResolverClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b87fb84f0>, '_g_reserved1': <property object at 0x7f4b87fb85e0>, '_g_reserved2': <property object at 0x7f4b87fb86d0>, '_g_reserved3': <property object at 0x7f4b87fb87c0>, '_g_reserved4': <property object at 0x7f4b87fb88b0>, '_g_reserved5': <property object at 0x7f4b87fb89a0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(SimpleProxyResolverClass)
 

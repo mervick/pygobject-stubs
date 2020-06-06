@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -365,7 +365,7 @@ class DragResult(__gobject.GEnum):
     TIMEOUT_EXPIRED = 3
     USER_CANCELLED = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'DragResult' objects>, '__doc__': None, '__gtype__': <GType GtkDragResult (94846037208832)>, '__enum_values__': {0: <enum GTK_DRAG_RESULT_SUCCESS of type Gtk.DragResult>, 1: <enum GTK_DRAG_RESULT_NO_TARGET of type Gtk.DragResult>, 2: <enum GTK_DRAG_RESULT_USER_CANCELLED of type Gtk.DragResult>, 3: <enum GTK_DRAG_RESULT_TIMEOUT_EXPIRED of type Gtk.DragResult>, 4: <enum GTK_DRAG_RESULT_GRAB_BROKEN of type Gtk.DragResult>, 5: <enum GTK_DRAG_RESULT_ERROR of type Gtk.DragResult>}, '__info__': gi.EnumInfo(DragResult), 'SUCCESS': <enum GTK_DRAG_RESULT_SUCCESS of type Gtk.DragResult>, 'NO_TARGET': <enum GTK_DRAG_RESULT_NO_TARGET of type Gtk.DragResult>, 'USER_CANCELLED': <enum GTK_DRAG_RESULT_USER_CANCELLED of type Gtk.DragResult>, 'TIMEOUT_EXPIRED': <enum GTK_DRAG_RESULT_TIMEOUT_EXPIRED of type Gtk.DragResult>, 'GRAB_BROKEN': <enum GTK_DRAG_RESULT_GRAB_BROKEN of type Gtk.DragResult>, 'ERROR': <enum GTK_DRAG_RESULT_ERROR of type Gtk.DragResult>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'DragResult' objects>, '__doc__': None, '__gtype__': <GType GtkDragResult (93897367421616)>, '__enum_values__': {0: <enum GTK_DRAG_RESULT_SUCCESS of type Gtk.DragResult>, 1: <enum GTK_DRAG_RESULT_NO_TARGET of type Gtk.DragResult>, 2: <enum GTK_DRAG_RESULT_USER_CANCELLED of type Gtk.DragResult>, 3: <enum GTK_DRAG_RESULT_TIMEOUT_EXPIRED of type Gtk.DragResult>, 4: <enum GTK_DRAG_RESULT_GRAB_BROKEN of type Gtk.DragResult>, 5: <enum GTK_DRAG_RESULT_ERROR of type Gtk.DragResult>}, '__info__': gi.EnumInfo(DragResult), 'SUCCESS': <enum GTK_DRAG_RESULT_SUCCESS of type Gtk.DragResult>, 'NO_TARGET': <enum GTK_DRAG_RESULT_NO_TARGET of type Gtk.DragResult>, 'USER_CANCELLED': <enum GTK_DRAG_RESULT_USER_CANCELLED of type Gtk.DragResult>, 'TIMEOUT_EXPIRED': <enum GTK_DRAG_RESULT_TIMEOUT_EXPIRED of type Gtk.DragResult>, 'GRAB_BROKEN': <enum GTK_DRAG_RESULT_GRAB_BROKEN of type Gtk.DragResult>, 'ERROR': <enum GTK_DRAG_RESULT_ERROR of type Gtk.DragResult>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -374,7 +374,7 @@ class DragResult(__gobject.GEnum):
         4: 4,
         5: 5,
     }
-    __gtype__ = None # (!) real value is '<GType GtkDragResult (94846037208832)>'
+    __gtype__ = None # (!) real value is '<GType GtkDragResult (93897367421616)>'
     __info__ = gi.EnumInfo(DragResult)
 
 

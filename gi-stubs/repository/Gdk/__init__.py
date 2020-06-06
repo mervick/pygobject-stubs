@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -3215,11 +3215,11 @@ TARGET_STRING = None # (!) real value is 'Gdk.Atom.intern("STRING", False)'
 
 _introspection_module = None # (!) real value is "<IntrospectionModule 'Gdk' from '/usr/lib64/girepository-1.0/Gdk-3.0.typelib'>"
 
-__loader__ = None # (!) real value is '<gi.importer.DynamicImporter object at 0x7f1e1308e9d0>'
+__loader__ = None # (!) real value is '<gi.importer.DynamicImporter object at 0x7fbaf9597d00>'
 
 __path__ = [
     '/usr/lib64/girepository-1.0/Gdk-3.0.typelib',
 ]
 
-__spec__ = None # (!) real value is "ModuleSpec(name='gi.repository.Gdk', loader=<gi.importer.DynamicImporter object at 0x7f1e1308e9d0>)"
+__spec__ = None # (!) real value is "ModuleSpec(name='gi.repository.Gdk', loader=<gi.importer.DynamicImporter object at 0x7fbaf9597d00>)"
 

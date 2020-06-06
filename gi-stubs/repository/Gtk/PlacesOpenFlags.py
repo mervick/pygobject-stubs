@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -367,13 +367,13 @@ class PlacesOpenFlags(__gobject.GFlags):
     NEW_WINDOW = 4
     NORMAL = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PlacesOpenFlags' objects>, '__doc__': None, '__gtype__': <GType GtkPlacesOpenFlags (94846038847376)>, '__flags_values__': {1: <flags GTK_PLACES_OPEN_NORMAL of type Gtk.PlacesOpenFlags>, 2: <flags GTK_PLACES_OPEN_NEW_TAB of type Gtk.PlacesOpenFlags>, 4: <flags GTK_PLACES_OPEN_NEW_WINDOW of type Gtk.PlacesOpenFlags>}, '__info__': gi.EnumInfo(PlacesOpenFlags), 'NORMAL': <flags GTK_PLACES_OPEN_NORMAL of type Gtk.PlacesOpenFlags>, 'NEW_TAB': <flags GTK_PLACES_OPEN_NEW_TAB of type Gtk.PlacesOpenFlags>, 'NEW_WINDOW': <flags GTK_PLACES_OPEN_NEW_WINDOW of type Gtk.PlacesOpenFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PlacesOpenFlags' objects>, '__doc__': None, '__gtype__': <GType GtkPlacesOpenFlags (93897368967712)>, '__flags_values__': {1: <flags GTK_PLACES_OPEN_NORMAL of type Gtk.PlacesOpenFlags>, 2: <flags GTK_PLACES_OPEN_NEW_TAB of type Gtk.PlacesOpenFlags>, 4: <flags GTK_PLACES_OPEN_NEW_WINDOW of type Gtk.PlacesOpenFlags>}, '__info__': gi.EnumInfo(PlacesOpenFlags), 'NORMAL': <flags GTK_PLACES_OPEN_NORMAL of type Gtk.PlacesOpenFlags>, 'NEW_TAB': <flags GTK_PLACES_OPEN_NEW_TAB of type Gtk.PlacesOpenFlags>, 'NEW_WINDOW': <flags GTK_PLACES_OPEN_NEW_WINDOW of type Gtk.PlacesOpenFlags>})"
     __flags_values__ = {
         1: 1,
         2: 2,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType GtkPlacesOpenFlags (94846038847376)>'
+    __gtype__ = None # (!) real value is '<GType GtkPlacesOpenFlags (93897368967712)>'
     __info__ = gi.EnumInfo(PlacesOpenFlags)
 
 

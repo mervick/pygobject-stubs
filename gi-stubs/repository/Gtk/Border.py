@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -150,8 +150,8 @@ class Border(__gi.Boxed):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Border), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkBorder (94846037217968)>, '__dict__': <attribute '__dict__' of 'Border' objects>, '__weakref__': <attribute '__weakref__' of 'Border' objects>, '__doc__': None, 'left': <property object at 0x7fe8310a4220>, 'right': <property object at 0x7fe8310a4310>, 'top': <property object at 0x7fe8310a4400>, 'bottom': <property object at 0x7fe8310a44f0>, 'new': gi.FunctionInfo(new), 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free), '__new__': <staticmethod object at 0x7fe83111dd90>, '__init__': <function nothing at 0x7fe832514430>})"
-    __gtype__ = None # (!) real value is '<GType GtkBorder (94846037217968)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Border), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkBorder (93897367432960)>, '__dict__': <attribute '__dict__' of 'Border' objects>, '__weakref__': <attribute '__weakref__' of 'Border' objects>, '__doc__': None, 'left': <property object at 0x7fc63a7bc0e0>, 'right': <property object at 0x7fc63a7bc1d0>, 'top': <property object at 0x7fc63a7bc2c0>, 'bottom': <property object at 0x7fc63a7bc3b0>, 'new': gi.FunctionInfo(new), 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free), '__new__': <staticmethod object at 0x7fc63a7b91c0>, '__init__': <function nothing at 0x7fc63bc2eee0>})"
+    __gtype__ = None # (!) real value is '<GType GtkBorder (93897367432960)>'
     __info__ = StructInfo(Border)
 
 

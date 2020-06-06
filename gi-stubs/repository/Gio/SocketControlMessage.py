@@ -442,12 +442,12 @@ class SocketControlMessage(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dcf9c910>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b871c19d0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SocketControlMessage), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSocketControlMessage (94125582757744)>, '__doc__': None, '__gsignals__': {}, 'deserialize': gi.FunctionInfo(deserialize), 'get_level': gi.FunctionInfo(get_level), 'get_msg_type': gi.FunctionInfo(get_msg_type), 'get_size': gi.FunctionInfo(get_size), 'serialize': gi.FunctionInfo(serialize), 'do_get_level': gi.VFuncInfo(get_level), 'do_get_size': gi.VFuncInfo(get_size), 'do_get_type': gi.VFuncInfo(get_type), 'do_serialize': gi.VFuncInfo(serialize), 'parent_instance': <property object at 0x7f28dde60a90>, 'priv': <property object at 0x7f28dde60b80>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SocketControlMessage), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSocketControlMessage (94269257373504)>, '__doc__': None, '__gsignals__': {}, 'deserialize': gi.FunctionInfo(deserialize), 'get_level': gi.FunctionInfo(get_level), 'get_msg_type': gi.FunctionInfo(get_msg_type), 'get_size': gi.FunctionInfo(get_size), 'serialize': gi.FunctionInfo(serialize), 'do_get_level': gi.VFuncInfo(get_level), 'do_get_size': gi.VFuncInfo(get_size), 'do_get_type': gi.VFuncInfo(get_type), 'do_serialize': gi.VFuncInfo(serialize), 'parent_instance': <property object at 0x7f4b897f2ef0>, 'priv': <property object at 0x7f4b87fc1e50>})"
     __gdoc__ = 'Object GSocketControlMessage\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GSocketControlMessage (94125582757744)>'
+    __gtype__ = None # (!) real value is '<GType GSocketControlMessage (94269257373504)>'
     __info__ = ObjectInfo(SocketControlMessage)
 
 

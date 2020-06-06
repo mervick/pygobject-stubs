@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -135,7 +135,7 @@ class EventPadButton(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EventPadButton), '__module__': 'gi.repository.Gdk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EventPadButton' objects>, '__weakref__': <attribute '__weakref__' of 'EventPadButton' objects>, '__doc__': None, 'type': <property object at 0x7f1e11c624f0>, 'window': <property object at 0x7f1e11c625e0>, 'send_event': <property object at 0x7f1e11c626d0>, 'time': <property object at 0x7f1e11c627c0>, 'group': <property object at 0x7f1e11c628b0>, 'button': <property object at 0x7f1e11c629a0>, 'mode': <property object at 0x7f1e11c62a90>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EventPadButton), '__module__': 'gi.repository.Gdk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EventPadButton' objects>, '__weakref__': <attribute '__weakref__' of 'EventPadButton' objects>, '__doc__': None, 'type': <property object at 0x7fbaf8161a40>, 'window': <property object at 0x7fbaf8161b30>, 'send_event': <property object at 0x7fbaf8161c20>, 'time': <property object at 0x7fbaf8161d10>, 'group': <property object at 0x7fbaf8161e00>, 'button': <property object at 0x7fbaf8161ef0>, 'mode': <property object at 0x7fbaf8162040>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(EventPadButton)
 

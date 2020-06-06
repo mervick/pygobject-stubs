@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -367,7 +367,7 @@ class ShortcutType(__gobject.GEnum):
     GESTURE_TWO_FINGER_SWIPE_LEFT = 5
     GESTURE_TWO_FINGER_SWIPE_RIGHT = 6
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ShortcutType' objects>, '__doc__': None, '__gtype__': <GType GtkShortcutType (94846039211840)>, '__enum_values__': {0: <enum GTK_SHORTCUT_ACCELERATOR of type Gtk.ShortcutType>, 1: <enum GTK_SHORTCUT_GESTURE_PINCH of type Gtk.ShortcutType>, 2: <enum GTK_SHORTCUT_GESTURE_STRETCH of type Gtk.ShortcutType>, 3: <enum GTK_SHORTCUT_GESTURE_ROTATE_CLOCKWISE of type Gtk.ShortcutType>, 4: <enum GTK_SHORTCUT_GESTURE_ROTATE_COUNTERCLOCKWISE of type Gtk.ShortcutType>, 5: <enum GTK_SHORTCUT_GESTURE_TWO_FINGER_SWIPE_LEFT of type Gtk.ShortcutType>, 6: <enum GTK_SHORTCUT_GESTURE_TWO_FINGER_SWIPE_RIGHT of type Gtk.ShortcutType>, 7: <enum GTK_SHORTCUT_GESTURE of type Gtk.ShortcutType>}, '__info__': gi.EnumInfo(ShortcutType), 'ACCELERATOR': <enum GTK_SHORTCUT_ACCELERATOR of type Gtk.ShortcutType>, 'GESTURE_PINCH': <enum GTK_SHORTCUT_GESTURE_PINCH of type Gtk.ShortcutType>, 'GESTURE_STRETCH': <enum GTK_SHORTCUT_GESTURE_STRETCH of type Gtk.ShortcutType>, 'GESTURE_ROTATE_CLOCKWISE': <enum GTK_SHORTCUT_GESTURE_ROTATE_CLOCKWISE of type Gtk.ShortcutType>, 'GESTURE_ROTATE_COUNTERCLOCKWISE': <enum GTK_SHORTCUT_GESTURE_ROTATE_COUNTERCLOCKWISE of type Gtk.ShortcutType>, 'GESTURE_TWO_FINGER_SWIPE_LEFT': <enum GTK_SHORTCUT_GESTURE_TWO_FINGER_SWIPE_LEFT of type Gtk.ShortcutType>, 'GESTURE_TWO_FINGER_SWIPE_RIGHT': <enum GTK_SHORTCUT_GESTURE_TWO_FINGER_SWIPE_RIGHT of type Gtk.ShortcutType>, 'GESTURE': <enum GTK_SHORTCUT_GESTURE of type Gtk.ShortcutType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ShortcutType' objects>, '__doc__': None, '__gtype__': <GType GtkShortcutType (93897369413440)>, '__enum_values__': {0: <enum GTK_SHORTCUT_ACCELERATOR of type Gtk.ShortcutType>, 1: <enum GTK_SHORTCUT_GESTURE_PINCH of type Gtk.ShortcutType>, 2: <enum GTK_SHORTCUT_GESTURE_STRETCH of type Gtk.ShortcutType>, 3: <enum GTK_SHORTCUT_GESTURE_ROTATE_CLOCKWISE of type Gtk.ShortcutType>, 4: <enum GTK_SHORTCUT_GESTURE_ROTATE_COUNTERCLOCKWISE of type Gtk.ShortcutType>, 5: <enum GTK_SHORTCUT_GESTURE_TWO_FINGER_SWIPE_LEFT of type Gtk.ShortcutType>, 6: <enum GTK_SHORTCUT_GESTURE_TWO_FINGER_SWIPE_RIGHT of type Gtk.ShortcutType>, 7: <enum GTK_SHORTCUT_GESTURE of type Gtk.ShortcutType>}, '__info__': gi.EnumInfo(ShortcutType), 'ACCELERATOR': <enum GTK_SHORTCUT_ACCELERATOR of type Gtk.ShortcutType>, 'GESTURE_PINCH': <enum GTK_SHORTCUT_GESTURE_PINCH of type Gtk.ShortcutType>, 'GESTURE_STRETCH': <enum GTK_SHORTCUT_GESTURE_STRETCH of type Gtk.ShortcutType>, 'GESTURE_ROTATE_CLOCKWISE': <enum GTK_SHORTCUT_GESTURE_ROTATE_CLOCKWISE of type Gtk.ShortcutType>, 'GESTURE_ROTATE_COUNTERCLOCKWISE': <enum GTK_SHORTCUT_GESTURE_ROTATE_COUNTERCLOCKWISE of type Gtk.ShortcutType>, 'GESTURE_TWO_FINGER_SWIPE_LEFT': <enum GTK_SHORTCUT_GESTURE_TWO_FINGER_SWIPE_LEFT of type Gtk.ShortcutType>, 'GESTURE_TWO_FINGER_SWIPE_RIGHT': <enum GTK_SHORTCUT_GESTURE_TWO_FINGER_SWIPE_RIGHT of type Gtk.ShortcutType>, 'GESTURE': <enum GTK_SHORTCUT_GESTURE of type Gtk.ShortcutType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -378,7 +378,7 @@ class ShortcutType(__gobject.GEnum):
         6: 6,
         7: 7,
     }
-    __gtype__ = None # (!) real value is '<GType GtkShortcutType (94846039211840)>'
+    __gtype__ = None # (!) real value is '<GType GtkShortcutType (93897369413440)>'
     __info__ = gi.EnumInfo(ShortcutType)
 
 

@@ -412,12 +412,12 @@ class EngineShape(Engine):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f2474649580>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f85178a99d0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(EngineShape), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoEngineShape (94752681127200)>, '__doc__': None, '__gsignals__': {}, 'do_covers': gi.VFuncInfo(covers), 'do_script_shape': gi.VFuncInfo(script_shape), 'parent_instance': <property object at 0x7f24746ec040>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(EngineShape), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoEngineShape (94187429170864)>, '__doc__': None, '__gsignals__': {}, 'do_covers': gi.VFuncInfo(covers), 'do_script_shape': gi.VFuncInfo(script_shape), 'parent_instance': <property object at 0x7f8517891d60>})"
     __gdoc__ = 'Object PangoEngineShape\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType PangoEngineShape (94752681127200)>'
+    __gtype__ = None # (!) real value is '<GType PangoEngineShape (94187429170864)>'
     __info__ = ObjectInfo(EngineShape)
 
 

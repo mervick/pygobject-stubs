@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -368,7 +368,7 @@ class FrameClockPhase(__gobject.GFlags):
     RESUME_EVENTS = 32
     UPDATE = 4
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'FrameClockPhase' objects>, '__doc__': None, '__gtype__': <GType GdkFrameClockPhase (94055651072192)>, '__flags_values__': {0: <flags 0 of type Gdk.FrameClockPhase>, 1: <flags GDK_FRAME_CLOCK_PHASE_FLUSH_EVENTS of type Gdk.FrameClockPhase>, 2: <flags GDK_FRAME_CLOCK_PHASE_BEFORE_PAINT of type Gdk.FrameClockPhase>, 4: <flags GDK_FRAME_CLOCK_PHASE_UPDATE of type Gdk.FrameClockPhase>, 8: <flags GDK_FRAME_CLOCK_PHASE_LAYOUT of type Gdk.FrameClockPhase>, 16: <flags GDK_FRAME_CLOCK_PHASE_PAINT of type Gdk.FrameClockPhase>, 32: <flags GDK_FRAME_CLOCK_PHASE_RESUME_EVENTS of type Gdk.FrameClockPhase>, 64: <flags GDK_FRAME_CLOCK_PHASE_AFTER_PAINT of type Gdk.FrameClockPhase>}, '__info__': gi.EnumInfo(FrameClockPhase), 'NONE': <flags 0 of type Gdk.FrameClockPhase>, 'FLUSH_EVENTS': <flags GDK_FRAME_CLOCK_PHASE_FLUSH_EVENTS of type Gdk.FrameClockPhase>, 'BEFORE_PAINT': <flags GDK_FRAME_CLOCK_PHASE_BEFORE_PAINT of type Gdk.FrameClockPhase>, 'UPDATE': <flags GDK_FRAME_CLOCK_PHASE_UPDATE of type Gdk.FrameClockPhase>, 'LAYOUT': <flags GDK_FRAME_CLOCK_PHASE_LAYOUT of type Gdk.FrameClockPhase>, 'PAINT': <flags GDK_FRAME_CLOCK_PHASE_PAINT of type Gdk.FrameClockPhase>, 'RESUME_EVENTS': <flags GDK_FRAME_CLOCK_PHASE_RESUME_EVENTS of type Gdk.FrameClockPhase>, 'AFTER_PAINT': <flags GDK_FRAME_CLOCK_PHASE_AFTER_PAINT of type Gdk.FrameClockPhase>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'FrameClockPhase' objects>, '__doc__': None, '__gtype__': <GType GdkFrameClockPhase (94915769281072)>, '__flags_values__': {0: <flags 0 of type Gdk.FrameClockPhase>, 1: <flags GDK_FRAME_CLOCK_PHASE_FLUSH_EVENTS of type Gdk.FrameClockPhase>, 2: <flags GDK_FRAME_CLOCK_PHASE_BEFORE_PAINT of type Gdk.FrameClockPhase>, 4: <flags GDK_FRAME_CLOCK_PHASE_UPDATE of type Gdk.FrameClockPhase>, 8: <flags GDK_FRAME_CLOCK_PHASE_LAYOUT of type Gdk.FrameClockPhase>, 16: <flags GDK_FRAME_CLOCK_PHASE_PAINT of type Gdk.FrameClockPhase>, 32: <flags GDK_FRAME_CLOCK_PHASE_RESUME_EVENTS of type Gdk.FrameClockPhase>, 64: <flags GDK_FRAME_CLOCK_PHASE_AFTER_PAINT of type Gdk.FrameClockPhase>}, '__info__': gi.EnumInfo(FrameClockPhase), 'NONE': <flags 0 of type Gdk.FrameClockPhase>, 'FLUSH_EVENTS': <flags GDK_FRAME_CLOCK_PHASE_FLUSH_EVENTS of type Gdk.FrameClockPhase>, 'BEFORE_PAINT': <flags GDK_FRAME_CLOCK_PHASE_BEFORE_PAINT of type Gdk.FrameClockPhase>, 'UPDATE': <flags GDK_FRAME_CLOCK_PHASE_UPDATE of type Gdk.FrameClockPhase>, 'LAYOUT': <flags GDK_FRAME_CLOCK_PHASE_LAYOUT of type Gdk.FrameClockPhase>, 'PAINT': <flags GDK_FRAME_CLOCK_PHASE_PAINT of type Gdk.FrameClockPhase>, 'RESUME_EVENTS': <flags GDK_FRAME_CLOCK_PHASE_RESUME_EVENTS of type Gdk.FrameClockPhase>, 'AFTER_PAINT': <flags GDK_FRAME_CLOCK_PHASE_AFTER_PAINT of type Gdk.FrameClockPhase>})"
     __flags_values__ = {
         0: 0,
         1: 1,
@@ -379,7 +379,7 @@ class FrameClockPhase(__gobject.GFlags):
         32: 32,
         64: 64,
     }
-    __gtype__ = None # (!) real value is '<GType GdkFrameClockPhase (94055651072192)>'
+    __gtype__ = None # (!) real value is '<GType GdkFrameClockPhase (94915769281072)>'
     __info__ = gi.EnumInfo(FrameClockPhase)
 
 

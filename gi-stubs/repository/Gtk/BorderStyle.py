@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -369,7 +369,7 @@ class BorderStyle(__gobject.GEnum):
     RIDGE = 9
     SOLID = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'BorderStyle' objects>, '__doc__': None, '__gtype__': <GType GtkBorderStyle (94846037350608)>, '__enum_values__': {0: <enum GTK_BORDER_STYLE_NONE of type Gtk.BorderStyle>, 1: <enum GTK_BORDER_STYLE_SOLID of type Gtk.BorderStyle>, 2: <enum GTK_BORDER_STYLE_INSET of type Gtk.BorderStyle>, 3: <enum GTK_BORDER_STYLE_OUTSET of type Gtk.BorderStyle>, 4: <enum GTK_BORDER_STYLE_HIDDEN of type Gtk.BorderStyle>, 5: <enum GTK_BORDER_STYLE_DOTTED of type Gtk.BorderStyle>, 6: <enum GTK_BORDER_STYLE_DASHED of type Gtk.BorderStyle>, 7: <enum GTK_BORDER_STYLE_DOUBLE of type Gtk.BorderStyle>, 8: <enum GTK_BORDER_STYLE_GROOVE of type Gtk.BorderStyle>, 9: <enum GTK_BORDER_STYLE_RIDGE of type Gtk.BorderStyle>}, '__info__': gi.EnumInfo(BorderStyle), 'NONE': <enum GTK_BORDER_STYLE_NONE of type Gtk.BorderStyle>, 'SOLID': <enum GTK_BORDER_STYLE_SOLID of type Gtk.BorderStyle>, 'INSET': <enum GTK_BORDER_STYLE_INSET of type Gtk.BorderStyle>, 'OUTSET': <enum GTK_BORDER_STYLE_OUTSET of type Gtk.BorderStyle>, 'HIDDEN': <enum GTK_BORDER_STYLE_HIDDEN of type Gtk.BorderStyle>, 'DOTTED': <enum GTK_BORDER_STYLE_DOTTED of type Gtk.BorderStyle>, 'DASHED': <enum GTK_BORDER_STYLE_DASHED of type Gtk.BorderStyle>, 'DOUBLE': <enum GTK_BORDER_STYLE_DOUBLE of type Gtk.BorderStyle>, 'GROOVE': <enum GTK_BORDER_STYLE_GROOVE of type Gtk.BorderStyle>, 'RIDGE': <enum GTK_BORDER_STYLE_RIDGE of type Gtk.BorderStyle>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'BorderStyle' objects>, '__doc__': None, '__gtype__': <GType GtkBorderStyle (93897367852832)>, '__enum_values__': {0: <enum GTK_BORDER_STYLE_NONE of type Gtk.BorderStyle>, 1: <enum GTK_BORDER_STYLE_SOLID of type Gtk.BorderStyle>, 2: <enum GTK_BORDER_STYLE_INSET of type Gtk.BorderStyle>, 3: <enum GTK_BORDER_STYLE_OUTSET of type Gtk.BorderStyle>, 4: <enum GTK_BORDER_STYLE_HIDDEN of type Gtk.BorderStyle>, 5: <enum GTK_BORDER_STYLE_DOTTED of type Gtk.BorderStyle>, 6: <enum GTK_BORDER_STYLE_DASHED of type Gtk.BorderStyle>, 7: <enum GTK_BORDER_STYLE_DOUBLE of type Gtk.BorderStyle>, 8: <enum GTK_BORDER_STYLE_GROOVE of type Gtk.BorderStyle>, 9: <enum GTK_BORDER_STYLE_RIDGE of type Gtk.BorderStyle>}, '__info__': gi.EnumInfo(BorderStyle), 'NONE': <enum GTK_BORDER_STYLE_NONE of type Gtk.BorderStyle>, 'SOLID': <enum GTK_BORDER_STYLE_SOLID of type Gtk.BorderStyle>, 'INSET': <enum GTK_BORDER_STYLE_INSET of type Gtk.BorderStyle>, 'OUTSET': <enum GTK_BORDER_STYLE_OUTSET of type Gtk.BorderStyle>, 'HIDDEN': <enum GTK_BORDER_STYLE_HIDDEN of type Gtk.BorderStyle>, 'DOTTED': <enum GTK_BORDER_STYLE_DOTTED of type Gtk.BorderStyle>, 'DASHED': <enum GTK_BORDER_STYLE_DASHED of type Gtk.BorderStyle>, 'DOUBLE': <enum GTK_BORDER_STYLE_DOUBLE of type Gtk.BorderStyle>, 'GROOVE': <enum GTK_BORDER_STYLE_GROOVE of type Gtk.BorderStyle>, 'RIDGE': <enum GTK_BORDER_STYLE_RIDGE of type Gtk.BorderStyle>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -382,7 +382,7 @@ class BorderStyle(__gobject.GEnum):
         8: 8,
         9: 9,
     }
-    __gtype__ = None # (!) real value is '<GType GtkBorderStyle (94846037350608)>'
+    __gtype__ = None # (!) real value is '<GType GtkBorderStyle (93897367852832)>'
     __info__ = gi.EnumInfo(BorderStyle)
 
 

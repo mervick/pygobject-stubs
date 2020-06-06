@@ -459,12 +459,12 @@ class TlsPassword(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd07c430>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b8822d2b0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(TlsPassword), '__module__': 'gi.repository.Gio', '__gtype__': <GType GTlsPassword (94125582906928)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_description': gi.FunctionInfo(get_description), 'get_flags': gi.FunctionInfo(get_flags), 'get_value': gi.FunctionInfo(get_value), 'get_warning': gi.FunctionInfo(get_warning), 'set_description': gi.FunctionInfo(set_description), 'set_flags': gi.FunctionInfo(set_flags), 'set_value': gi.FunctionInfo(set_value), 'set_value_full': gi.FunctionInfo(set_value_full), 'set_warning': gi.FunctionInfo(set_warning), 'do_get_default_warning': gi.VFuncInfo(get_default_warning), 'do_get_value': gi.VFuncInfo(get_value), 'do_set_value': gi.VFuncInfo(set_value), 'parent_instance': <property object at 0x7f28dd5ff540>, 'priv': <property object at 0x7f28dd5ff680>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(TlsPassword), '__module__': 'gi.repository.Gio', '__gtype__': <GType GTlsPassword (94269257542240)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_description': gi.FunctionInfo(get_description), 'get_flags': gi.FunctionInfo(get_flags), 'get_value': gi.FunctionInfo(get_value), 'get_warning': gi.FunctionInfo(get_warning), 'set_description': gi.FunctionInfo(set_description), 'set_flags': gi.FunctionInfo(set_flags), 'set_value': gi.FunctionInfo(set_value), 'set_value_full': gi.FunctionInfo(set_value_full), 'set_warning': gi.FunctionInfo(set_warning), 'do_get_default_warning': gi.VFuncInfo(get_default_warning), 'do_get_value': gi.VFuncInfo(get_value), 'do_set_value': gi.VFuncInfo(set_value), 'parent_instance': <property object at 0x7f4b877606d0>, 'priv': <property object at 0x7f4b87760810>})"
     __gdoc__ = 'Object GTlsPassword\n\nProperties from GTlsPassword:\n  flags -> GTlsPasswordFlags: Flags\n    Flags about the password\n  description -> gchararray: Description\n    Description of what the password is for\n  warning -> gchararray: Warning\n    Warning about the password\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GTlsPassword (94125582906928)>'
+    __gtype__ = None # (!) real value is '<GType GTlsPassword (94269257542240)>'
     __info__ = ObjectInfo(TlsPassword)
 
 

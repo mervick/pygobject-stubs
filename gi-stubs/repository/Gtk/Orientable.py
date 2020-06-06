@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -126,10 +126,10 @@ class Orientable(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Orientable), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkOrientable (94846036169344)>, '__dict__': <attribute '__dict__' of 'Orientable' objects>, '__weakref__': <attribute '__weakref__' of 'Orientable' objects>, '__doc__': None, '__gsignals__': {}, 'get_orientation': gi.FunctionInfo(get_orientation), 'set_orientation': gi.FunctionInfo(set_orientation)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Orientable), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkOrientable (93897367027552)>, '__dict__': <attribute '__dict__' of 'Orientable' objects>, '__weakref__': <attribute '__weakref__' of 'Orientable' objects>, '__doc__': None, '__gsignals__': {}, 'get_orientation': gi.FunctionInfo(get_orientation), 'set_orientation': gi.FunctionInfo(set_orientation)})"
     __gdoc__ = 'Interface GtkOrientable\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkOrientable (94846036169344)>'
+    __gtype__ = None # (!) real value is '<GType GtkOrientable (93897367027552)>'
     __info__ = InterfaceInfo(Orientable)
 
 

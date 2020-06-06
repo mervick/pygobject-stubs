@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -142,10 +142,10 @@ class Activatable(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Activatable), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkActivatable (94846036843312)>, '__dict__': <attribute '__dict__' of 'Activatable' objects>, '__weakref__': <attribute '__weakref__' of 'Activatable' objects>, '__doc__': None, '__gsignals__': {}, 'do_set_related_action': gi.FunctionInfo(do_set_related_action), 'get_related_action': gi.FunctionInfo(get_related_action), 'get_use_action_appearance': gi.FunctionInfo(get_use_action_appearance), 'set_related_action': gi.FunctionInfo(set_related_action), 'set_use_action_appearance': gi.FunctionInfo(set_use_action_appearance), 'sync_action_properties': gi.FunctionInfo(sync_action_properties)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Activatable), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkActivatable (93897367049296)>, '__dict__': <attribute '__dict__' of 'Activatable' objects>, '__weakref__': <attribute '__weakref__' of 'Activatable' objects>, '__doc__': None, '__gsignals__': {}, 'do_set_related_action': gi.FunctionInfo(do_set_related_action), 'get_related_action': gi.FunctionInfo(get_related_action), 'get_use_action_appearance': gi.FunctionInfo(get_use_action_appearance), 'set_related_action': gi.FunctionInfo(set_related_action), 'set_use_action_appearance': gi.FunctionInfo(set_use_action_appearance), 'sync_action_properties': gi.FunctionInfo(sync_action_properties)})"
     __gdoc__ = 'Interface GtkActivatable\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkActivatable (94846036843312)>'
+    __gtype__ = None # (!) real value is '<GType GtkActivatable (93897367049296)>'
     __info__ = InterfaceInfo(Activatable)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -647,12 +647,12 @@ class TreeModelSort(TreeModelSort):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe82e8a3f40>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc638066220>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', '__init__': <function deprecated_init.<locals>.new_init at 0x7fe8312414c0>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', '__init__': <function deprecated_init.<locals>.new_init at 0x7fc63a960ca0>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Object GtkTreeModelSort\n\nProperties from GtkTreeModelSort:\n  model -> GtkTreeModel: TreeModelSort Model\n    The model for the TreeModelSort to sort\n\nSignals from GtkTreeModel:\n  row-changed (GtkTreePath, GtkTreeIter)\n  row-inserted (GtkTreePath, GtkTreeIter)\n  row-has-child-toggled (GtkTreePath, GtkTreeIter)\n  row-deleted (GtkTreePath)\n  rows-reordered (GtkTreePath, GtkTreeIter, gpointer)\n\nSignals from GtkTreeSortable:\n  sort-column-changed ()\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkTreeModelSort (94846036971184)>'
+    __gtype__ = None # (!) real value is '<GType GtkTreeModelSort (93897367180384)>'
     __info__ = ObjectInfo(TreeModelSort)
 
 

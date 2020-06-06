@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -165,7 +165,7 @@ class NotebookClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(NotebookClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'NotebookClass' objects>, '__weakref__': <attribute '__weakref__' of 'NotebookClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830ffa540>, 'switch_page': <property object at 0x7fe830ffa630>, 'select_page': <property object at 0x7fe830ffa720>, 'focus_tab': <property object at 0x7fe830ffa810>, 'change_current_page': <property object at 0x7fe830ffa950>, 'move_focus_out': <property object at 0x7fe830ffaa40>, 'reorder_tab': <property object at 0x7fe830ffab30>, 'insert_page': <property object at 0x7fe830ffac20>, 'create_window': <property object at 0x7fe830ffad10>, 'page_reordered': <property object at 0x7fe830ffae00>, 'page_removed': <property object at 0x7fe830ffaef0>, 'page_added': <property object at 0x7fe830ffc040>, '_gtk_reserved1': <property object at 0x7fe830ffc130>, '_gtk_reserved2': <property object at 0x7fe830ffc220>, '_gtk_reserved3': <property object at 0x7fe830ffc310>, '_gtk_reserved4': <property object at 0x7fe830ffc400>, '_gtk_reserved5': <property object at 0x7fe830ffc4f0>, '_gtk_reserved6': <property object at 0x7fe830ffc5e0>, '_gtk_reserved7': <property object at 0x7fe830ffc6d0>, '_gtk_reserved8': <property object at 0x7fe830ffc7c0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(NotebookClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'NotebookClass' objects>, '__weakref__': <attribute '__weakref__' of 'NotebookClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a710400>, 'switch_page': <property object at 0x7fc63a7104f0>, 'select_page': <property object at 0x7fc63a7105e0>, 'focus_tab': <property object at 0x7fc63a7106d0>, 'change_current_page': <property object at 0x7fc63a710810>, 'move_focus_out': <property object at 0x7fc63a710900>, 'reorder_tab': <property object at 0x7fc63a7109f0>, 'insert_page': <property object at 0x7fc63a710ae0>, 'create_window': <property object at 0x7fc63a710bd0>, 'page_reordered': <property object at 0x7fc63a710cc0>, 'page_removed': <property object at 0x7fc63a710db0>, 'page_added': <property object at 0x7fc63a710ea0>, '_gtk_reserved1': <property object at 0x7fc63a710f90>, '_gtk_reserved2': <property object at 0x7fc63a7120e0>, '_gtk_reserved3': <property object at 0x7fc63a7121d0>, '_gtk_reserved4': <property object at 0x7fc63a7122c0>, '_gtk_reserved5': <property object at 0x7fc63a7123b0>, '_gtk_reserved6': <property object at 0x7fc63a7124a0>, '_gtk_reserved7': <property object at 0x7fc63a712590>, '_gtk_reserved8': <property object at 0x7fc63a712680>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(NotebookClass)
 

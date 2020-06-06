@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -129,7 +129,7 @@ class PopoverMenuClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PopoverMenuClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'PopoverMenuClass' objects>, '__weakref__': <attribute '__weakref__' of 'PopoverMenuClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe831015130>, 'reserved': <property object at 0x7fe831015220>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PopoverMenuClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'PopoverMenuClass' objects>, '__weakref__': <attribute '__weakref__' of 'PopoverMenuClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a728ea0>, 'reserved': <property object at 0x7fc63a728f90>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(PopoverMenuClass)
 

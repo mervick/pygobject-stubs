@@ -363,7 +363,7 @@ class SliceConfig(__gobject.GEnum):
     CONTENTION_COUNTER = 6
     WORKING_SET_MSECS = 3
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'SliceConfig' objects>, '__doc__': None, '__gtype__': <GType PyGLibSliceConfig (94243598457104)>, '__enum_values__': {1: <enum G_SLICE_CONFIG_ALWAYS_MALLOC of type GLib.SliceConfig>, 2: <enum G_SLICE_CONFIG_BYPASS_MAGAZINES of type GLib.SliceConfig>, 3: <enum G_SLICE_CONFIG_WORKING_SET_MSECS of type GLib.SliceConfig>, 4: <enum G_SLICE_CONFIG_COLOR_INCREMENT of type GLib.SliceConfig>, 5: <enum G_SLICE_CONFIG_CHUNK_SIZES of type GLib.SliceConfig>, 6: <enum G_SLICE_CONFIG_CONTENTION_COUNTER of type GLib.SliceConfig>}, '__info__': gi.EnumInfo(SliceConfig), 'ALWAYS_MALLOC': <enum G_SLICE_CONFIG_ALWAYS_MALLOC of type GLib.SliceConfig>, 'BYPASS_MAGAZINES': <enum G_SLICE_CONFIG_BYPASS_MAGAZINES of type GLib.SliceConfig>, 'WORKING_SET_MSECS': <enum G_SLICE_CONFIG_WORKING_SET_MSECS of type GLib.SliceConfig>, 'COLOR_INCREMENT': <enum G_SLICE_CONFIG_COLOR_INCREMENT of type GLib.SliceConfig>, 'CHUNK_SIZES': <enum G_SLICE_CONFIG_CHUNK_SIZES of type GLib.SliceConfig>, 'CONTENTION_COUNTER': <enum G_SLICE_CONFIG_CONTENTION_COUNTER of type GLib.SliceConfig>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'SliceConfig' objects>, '__doc__': None, '__gtype__': <GType PyGLibSliceConfig (94581033194384)>, '__enum_values__': {1: <enum G_SLICE_CONFIG_ALWAYS_MALLOC of type GLib.SliceConfig>, 2: <enum G_SLICE_CONFIG_BYPASS_MAGAZINES of type GLib.SliceConfig>, 3: <enum G_SLICE_CONFIG_WORKING_SET_MSECS of type GLib.SliceConfig>, 4: <enum G_SLICE_CONFIG_COLOR_INCREMENT of type GLib.SliceConfig>, 5: <enum G_SLICE_CONFIG_CHUNK_SIZES of type GLib.SliceConfig>, 6: <enum G_SLICE_CONFIG_CONTENTION_COUNTER of type GLib.SliceConfig>}, '__info__': gi.EnumInfo(SliceConfig), 'ALWAYS_MALLOC': <enum G_SLICE_CONFIG_ALWAYS_MALLOC of type GLib.SliceConfig>, 'BYPASS_MAGAZINES': <enum G_SLICE_CONFIG_BYPASS_MAGAZINES of type GLib.SliceConfig>, 'WORKING_SET_MSECS': <enum G_SLICE_CONFIG_WORKING_SET_MSECS of type GLib.SliceConfig>, 'COLOR_INCREMENT': <enum G_SLICE_CONFIG_COLOR_INCREMENT of type GLib.SliceConfig>, 'CHUNK_SIZES': <enum G_SLICE_CONFIG_CHUNK_SIZES of type GLib.SliceConfig>, 'CONTENTION_COUNTER': <enum G_SLICE_CONFIG_CONTENTION_COUNTER of type GLib.SliceConfig>})"
     __enum_values__ = {
         1: 1,
         2: 2,
@@ -372,7 +372,7 @@ class SliceConfig(__gobject.GEnum):
         5: 5,
         6: 6,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibSliceConfig (94243598457104)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibSliceConfig (94581033194384)>'
     __info__ = gi.EnumInfo(SliceConfig)
 
 

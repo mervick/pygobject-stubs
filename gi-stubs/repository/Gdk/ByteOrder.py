@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -357,12 +357,12 @@ class ByteOrder(__gobject.GEnum):
     LSB_FIRST = 0
     MSB_FIRST = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'ByteOrder' objects>, '__doc__': None, '__gtype__': <GType GdkByteOrder (94055651432256)>, '__enum_values__': {0: <enum GDK_LSB_FIRST of type Gdk.ByteOrder>, 1: <enum GDK_MSB_FIRST of type Gdk.ByteOrder>}, '__info__': gi.EnumInfo(ByteOrder), 'LSB_FIRST': <enum GDK_LSB_FIRST of type Gdk.ByteOrder>, 'MSB_FIRST': <enum GDK_MSB_FIRST of type Gdk.ByteOrder>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'ByteOrder' objects>, '__doc__': None, '__gtype__': <GType GdkByteOrder (94915768998832)>, '__enum_values__': {0: <enum GDK_LSB_FIRST of type Gdk.ByteOrder>, 1: <enum GDK_MSB_FIRST of type Gdk.ByteOrder>}, '__info__': gi.EnumInfo(ByteOrder), 'LSB_FIRST': <enum GDK_LSB_FIRST of type Gdk.ByteOrder>, 'MSB_FIRST': <enum GDK_MSB_FIRST of type Gdk.ByteOrder>})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GdkByteOrder (94055651432256)>'
+    __gtype__ = None # (!) real value is '<GType GdkByteOrder (94915768998832)>'
     __info__ = gi.EnumInfo(ByteOrder)
 
 

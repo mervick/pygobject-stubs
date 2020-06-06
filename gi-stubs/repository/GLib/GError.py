@@ -153,7 +153,7 @@ class GError(RuntimeError):
 
 
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__init__': <function GError.__init__ at 0x7f1d2c749430>, '__str__': <function GError.__str__ at 0x7f1d2c7494c0>, '__repr__': <function GError.__repr__ at 0x7f1d2c749550>, 'copy': <function GError.copy at 0x7f1d2c7495e0>, 'matches': <function gerror_matches at 0x7f1d2baf3e50>, 'new_literal': <staticmethod object at 0x7f1d2c743880>, '__weakref__': <attribute '__weakref__' of 'Error' objects>, '__doc__': None, '__gtype__': <GType GError (94243598060592)>})"
-    __gtype__ = None # (!) real value is '<GType GError (94243598060592)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__init__': <function GError.__init__ at 0x7f8514342f70>, '__str__': <function GError.__str__ at 0x7f8513c5f040>, '__repr__': <function GError.__repr__ at 0x7f8513c5f0d0>, 'copy': <function GError.copy at 0x7f8513c5f160>, 'matches': <function gerror_matches at 0x7f85136f3670>, 'new_literal': <staticmethod object at 0x7f8514349400>, '__weakref__': <attribute '__weakref__' of 'Error' objects>, '__doc__': None, '__gtype__': <GType GError (94581032840208)>})"
+    __gtype__ = None # (!) real value is '<GType GError (94581032840208)>'
 
 

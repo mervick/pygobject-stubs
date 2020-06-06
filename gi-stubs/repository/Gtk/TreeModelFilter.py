@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -634,12 +634,12 @@ class TreeModelFilter(TreeModelFilter):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe82e8a37c0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc637ef2610>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', 'set_visible_func': <function TreeModelFilter.set_visible_func at 0x7fe8311e1790>, 'set_value': <function TreeModelFilter.set_value at 0x7fe8311e1820>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', 'set_visible_func': <function TreeModelFilter.set_visible_func at 0x7fc63a972f70>, 'set_value': <function TreeModelFilter.set_value at 0x7fc63a905040>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Object GtkTreeModelFilter\n\nProperties from GtkTreeModelFilter:\n  child-model -> GtkTreeModel: The child model\n    The model for the filtermodel to filter\n  virtual-root -> GtkTreePath: The virtual root\n    The virtual root (relative to the child model) for this filtermodel\n\nSignals from GtkTreeModel:\n  row-changed (GtkTreePath, GtkTreeIter)\n  row-inserted (GtkTreePath, GtkTreeIter)\n  row-has-child-toggled (GtkTreePath, GtkTreeIter)\n  row-deleted (GtkTreePath)\n  rows-reordered (GtkTreePath, GtkTreeIter, gpointer)\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkTreeModelFilter (94846037144752)>'
+    __gtype__ = None # (!) real value is '<GType GtkTreeModelFilter (93897367355568)>'
     __info__ = ObjectInfo(TreeModelFilter)
 
 

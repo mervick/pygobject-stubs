@@ -466,12 +466,12 @@ class UnixFDMessage(SocketControlMessage):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28de0826a0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b8822dfd0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(UnixFDMessage), '__module__': 'gi.repository.Gio', '__gtype__': <GType GUnixFDMessage (94125582942208)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_with_fd_list': gi.FunctionInfo(new_with_fd_list), 'append_fd': gi.FunctionInfo(append_fd), 'get_fd_list': gi.FunctionInfo(get_fd_list), 'steal_fds': gi.FunctionInfo(steal_fds), 'parent_instance': <property object at 0x7f28dd606090>, 'priv': <property object at 0x7f28dd606180>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(UnixFDMessage), '__module__': 'gi.repository.Gio', '__gtype__': <GType GUnixFDMessage (94269257571328)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_with_fd_list': gi.FunctionInfo(new_with_fd_list), 'append_fd': gi.FunctionInfo(append_fd), 'get_fd_list': gi.FunctionInfo(get_fd_list), 'steal_fds': gi.FunctionInfo(steal_fds), 'parent_instance': <property object at 0x7f4b87767360>, 'priv': <property object at 0x7f4b87767450>})"
     __gdoc__ = 'Object GUnixFDMessage\n\nProperties from GUnixFDMessage:\n  fd-list -> GUnixFDList: file descriptor list\n    The GUnixFDList object to send with the message\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GUnixFDMessage (94125582942208)>'
+    __gtype__ = None # (!) real value is '<GType GUnixFDMessage (94269257571328)>'
     __info__ = ObjectInfo(UnixFDMessage)
 
 

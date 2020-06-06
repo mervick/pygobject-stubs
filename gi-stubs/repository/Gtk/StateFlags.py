@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -378,7 +378,7 @@ class StateFlags(__gobject.GFlags):
     SELECTED = 4
     VISITED = 1024
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'StateFlags' objects>, '__doc__': None, '__gtype__': <GType GtkStateFlags (94846037190240)>, '__flags_values__': {0: <flags 0 of type Gtk.StateFlags>, 1: <flags GTK_STATE_FLAG_ACTIVE of type Gtk.StateFlags>, 2: <flags GTK_STATE_FLAG_PRELIGHT of type Gtk.StateFlags>, 4: <flags GTK_STATE_FLAG_SELECTED of type Gtk.StateFlags>, 8: <flags GTK_STATE_FLAG_INSENSITIVE of type Gtk.StateFlags>, 16: <flags GTK_STATE_FLAG_INCONSISTENT of type Gtk.StateFlags>, 32: <flags GTK_STATE_FLAG_FOCUSED of type Gtk.StateFlags>, 64: <flags GTK_STATE_FLAG_BACKDROP of type Gtk.StateFlags>, 128: <flags GTK_STATE_FLAG_DIR_LTR of type Gtk.StateFlags>, 256: <flags GTK_STATE_FLAG_DIR_RTL of type Gtk.StateFlags>, 512: <flags GTK_STATE_FLAG_LINK of type Gtk.StateFlags>, 1024: <flags GTK_STATE_FLAG_VISITED of type Gtk.StateFlags>, 2048: <flags GTK_STATE_FLAG_CHECKED of type Gtk.StateFlags>, 4096: <flags GTK_STATE_FLAG_DROP_ACTIVE of type Gtk.StateFlags>}, '__info__': gi.EnumInfo(StateFlags), 'NORMAL': <flags 0 of type Gtk.StateFlags>, 'ACTIVE': <flags GTK_STATE_FLAG_ACTIVE of type Gtk.StateFlags>, 'PRELIGHT': <flags GTK_STATE_FLAG_PRELIGHT of type Gtk.StateFlags>, 'SELECTED': <flags GTK_STATE_FLAG_SELECTED of type Gtk.StateFlags>, 'INSENSITIVE': <flags GTK_STATE_FLAG_INSENSITIVE of type Gtk.StateFlags>, 'INCONSISTENT': <flags GTK_STATE_FLAG_INCONSISTENT of type Gtk.StateFlags>, 'FOCUSED': <flags GTK_STATE_FLAG_FOCUSED of type Gtk.StateFlags>, 'BACKDROP': <flags GTK_STATE_FLAG_BACKDROP of type Gtk.StateFlags>, 'DIR_LTR': <flags GTK_STATE_FLAG_DIR_LTR of type Gtk.StateFlags>, 'DIR_RTL': <flags GTK_STATE_FLAG_DIR_RTL of type Gtk.StateFlags>, 'LINK': <flags GTK_STATE_FLAG_LINK of type Gtk.StateFlags>, 'VISITED': <flags GTK_STATE_FLAG_VISITED of type Gtk.StateFlags>, 'CHECKED': <flags GTK_STATE_FLAG_CHECKED of type Gtk.StateFlags>, 'DROP_ACTIVE': <flags GTK_STATE_FLAG_DROP_ACTIVE of type Gtk.StateFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'StateFlags' objects>, '__doc__': None, '__gtype__': <GType GtkStateFlags (93897367403168)>, '__flags_values__': {0: <flags 0 of type Gtk.StateFlags>, 1: <flags GTK_STATE_FLAG_ACTIVE of type Gtk.StateFlags>, 2: <flags GTK_STATE_FLAG_PRELIGHT of type Gtk.StateFlags>, 4: <flags GTK_STATE_FLAG_SELECTED of type Gtk.StateFlags>, 8: <flags GTK_STATE_FLAG_INSENSITIVE of type Gtk.StateFlags>, 16: <flags GTK_STATE_FLAG_INCONSISTENT of type Gtk.StateFlags>, 32: <flags GTK_STATE_FLAG_FOCUSED of type Gtk.StateFlags>, 64: <flags GTK_STATE_FLAG_BACKDROP of type Gtk.StateFlags>, 128: <flags GTK_STATE_FLAG_DIR_LTR of type Gtk.StateFlags>, 256: <flags GTK_STATE_FLAG_DIR_RTL of type Gtk.StateFlags>, 512: <flags GTK_STATE_FLAG_LINK of type Gtk.StateFlags>, 1024: <flags GTK_STATE_FLAG_VISITED of type Gtk.StateFlags>, 2048: <flags GTK_STATE_FLAG_CHECKED of type Gtk.StateFlags>, 4096: <flags GTK_STATE_FLAG_DROP_ACTIVE of type Gtk.StateFlags>}, '__info__': gi.EnumInfo(StateFlags), 'NORMAL': <flags 0 of type Gtk.StateFlags>, 'ACTIVE': <flags GTK_STATE_FLAG_ACTIVE of type Gtk.StateFlags>, 'PRELIGHT': <flags GTK_STATE_FLAG_PRELIGHT of type Gtk.StateFlags>, 'SELECTED': <flags GTK_STATE_FLAG_SELECTED of type Gtk.StateFlags>, 'INSENSITIVE': <flags GTK_STATE_FLAG_INSENSITIVE of type Gtk.StateFlags>, 'INCONSISTENT': <flags GTK_STATE_FLAG_INCONSISTENT of type Gtk.StateFlags>, 'FOCUSED': <flags GTK_STATE_FLAG_FOCUSED of type Gtk.StateFlags>, 'BACKDROP': <flags GTK_STATE_FLAG_BACKDROP of type Gtk.StateFlags>, 'DIR_LTR': <flags GTK_STATE_FLAG_DIR_LTR of type Gtk.StateFlags>, 'DIR_RTL': <flags GTK_STATE_FLAG_DIR_RTL of type Gtk.StateFlags>, 'LINK': <flags GTK_STATE_FLAG_LINK of type Gtk.StateFlags>, 'VISITED': <flags GTK_STATE_FLAG_VISITED of type Gtk.StateFlags>, 'CHECKED': <flags GTK_STATE_FLAG_CHECKED of type Gtk.StateFlags>, 'DROP_ACTIVE': <flags GTK_STATE_FLAG_DROP_ACTIVE of type Gtk.StateFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
@@ -395,7 +395,7 @@ class StateFlags(__gobject.GFlags):
         2048: 2048,
         4096: 4096,
     }
-    __gtype__ = None # (!) real value is '<GType GtkStateFlags (94846037190240)>'
+    __gtype__ = None # (!) real value is '<GType GtkStateFlags (93897367403168)>'
     __info__ = gi.EnumInfo(StateFlags)
 
 

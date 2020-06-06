@@ -359,13 +359,13 @@ class FileAttributeStatus(__gobject.GEnum):
     SET = 1
     UNSET = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'FileAttributeStatus' objects>, '__doc__': None, '__gtype__': <GType GFileAttributeStatus (94125582097856)>, '__enum_values__': {0: <enum G_FILE_ATTRIBUTE_STATUS_UNSET of type Gio.FileAttributeStatus>, 1: <enum G_FILE_ATTRIBUTE_STATUS_SET of type Gio.FileAttributeStatus>, 2: <enum G_FILE_ATTRIBUTE_STATUS_ERROR_SETTING of type Gio.FileAttributeStatus>}, '__info__': gi.EnumInfo(FileAttributeStatus), 'UNSET': <enum G_FILE_ATTRIBUTE_STATUS_UNSET of type Gio.FileAttributeStatus>, 'SET': <enum G_FILE_ATTRIBUTE_STATUS_SET of type Gio.FileAttributeStatus>, 'ERROR_SETTING': <enum G_FILE_ATTRIBUTE_STATUS_ERROR_SETTING of type Gio.FileAttributeStatus>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'FileAttributeStatus' objects>, '__doc__': None, '__gtype__': <GType GFileAttributeStatus (94269256724080)>, '__enum_values__': {0: <enum G_FILE_ATTRIBUTE_STATUS_UNSET of type Gio.FileAttributeStatus>, 1: <enum G_FILE_ATTRIBUTE_STATUS_SET of type Gio.FileAttributeStatus>, 2: <enum G_FILE_ATTRIBUTE_STATUS_ERROR_SETTING of type Gio.FileAttributeStatus>}, '__info__': gi.EnumInfo(FileAttributeStatus), 'UNSET': <enum G_FILE_ATTRIBUTE_STATUS_UNSET of type Gio.FileAttributeStatus>, 'SET': <enum G_FILE_ATTRIBUTE_STATUS_SET of type Gio.FileAttributeStatus>, 'ERROR_SETTING': <enum G_FILE_ATTRIBUTE_STATUS_ERROR_SETTING of type Gio.FileAttributeStatus>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GFileAttributeStatus (94125582097856)>'
+    __gtype__ = None # (!) real value is '<GType GFileAttributeStatus (94269256724080)>'
     __info__ = gi.EnumInfo(FileAttributeStatus)
 
 

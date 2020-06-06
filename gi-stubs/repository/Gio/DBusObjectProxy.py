@@ -432,12 +432,12 @@ class DBusObjectProxy(__gi_overrides_GObject.Object, DBusObject):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd521370>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b875638b0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DBusObjectProxy), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDBusObjectProxy (94125582154000)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_connection': gi.FunctionInfo(get_connection), 'parent_instance': <property object at 0x7f28dded2b30>, 'priv': <property object at 0x7f28dded2c20>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DBusObjectProxy), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDBusObjectProxy (94269256780560)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_connection': gi.FunctionInfo(get_connection), 'parent_instance': <property object at 0x7f4b88037e00>, 'priv': <property object at 0x7f4b88037ef0>})"
     __gdoc__ = 'Object GDBusObjectProxy\n\nProperties from GDBusObjectProxy:\n  g-object-path -> gchararray: Object Path\n    The object path of the proxy\n  g-connection -> GDBusConnection: Connection\n    The connection of the proxy\n\nSignals from GDBusObject:\n  interface-added (GDBusInterface)\n  interface-removed (GDBusInterface)\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GDBusObjectProxy (94125582154000)>'
+    __gtype__ = None # (!) real value is '<GType GDBusObjectProxy (94269256780560)>'
     __info__ = ObjectInfo(DBusObjectProxy)
 
 

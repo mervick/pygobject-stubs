@@ -360,14 +360,14 @@ class EmblemOrigin(__gobject.GEnum):
     TAG = 3
     UNKNOWN = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'EmblemOrigin' objects>, '__doc__': None, '__gtype__': <GType GEmblemOrigin (94125582256288)>, '__enum_values__': {0: <enum G_EMBLEM_ORIGIN_UNKNOWN of type Gio.EmblemOrigin>, 1: <enum G_EMBLEM_ORIGIN_DEVICE of type Gio.EmblemOrigin>, 2: <enum G_EMBLEM_ORIGIN_LIVEMETADATA of type Gio.EmblemOrigin>, 3: <enum G_EMBLEM_ORIGIN_TAG of type Gio.EmblemOrigin>}, '__info__': gi.EnumInfo(EmblemOrigin), 'UNKNOWN': <enum G_EMBLEM_ORIGIN_UNKNOWN of type Gio.EmblemOrigin>, 'DEVICE': <enum G_EMBLEM_ORIGIN_DEVICE of type Gio.EmblemOrigin>, 'LIVEMETADATA': <enum G_EMBLEM_ORIGIN_LIVEMETADATA of type Gio.EmblemOrigin>, 'TAG': <enum G_EMBLEM_ORIGIN_TAG of type Gio.EmblemOrigin>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'EmblemOrigin' objects>, '__doc__': None, '__gtype__': <GType GEmblemOrigin (94269256887296)>, '__enum_values__': {0: <enum G_EMBLEM_ORIGIN_UNKNOWN of type Gio.EmblemOrigin>, 1: <enum G_EMBLEM_ORIGIN_DEVICE of type Gio.EmblemOrigin>, 2: <enum G_EMBLEM_ORIGIN_LIVEMETADATA of type Gio.EmblemOrigin>, 3: <enum G_EMBLEM_ORIGIN_TAG of type Gio.EmblemOrigin>}, '__info__': gi.EnumInfo(EmblemOrigin), 'UNKNOWN': <enum G_EMBLEM_ORIGIN_UNKNOWN of type Gio.EmblemOrigin>, 'DEVICE': <enum G_EMBLEM_ORIGIN_DEVICE of type Gio.EmblemOrigin>, 'LIVEMETADATA': <enum G_EMBLEM_ORIGIN_LIVEMETADATA of type Gio.EmblemOrigin>, 'TAG': <enum G_EMBLEM_ORIGIN_TAG of type Gio.EmblemOrigin>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GEmblemOrigin (94125582256288)>'
+    __gtype__ = None # (!) real value is '<GType GEmblemOrigin (94269256887296)>'
     __info__ = gi.EnumInfo(EmblemOrigin)
 
 

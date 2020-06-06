@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -154,10 +154,10 @@ class Scrollable(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Scrollable), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkScrollable (94846036921376)>, '__dict__': <attribute '__dict__' of 'Scrollable' objects>, '__weakref__': <attribute '__weakref__' of 'Scrollable' objects>, '__doc__': None, '__gsignals__': {}, 'get_border': gi.FunctionInfo(get_border), 'get_hadjustment': gi.FunctionInfo(get_hadjustment), 'get_hscroll_policy': gi.FunctionInfo(get_hscroll_policy), 'get_vadjustment': gi.FunctionInfo(get_vadjustment), 'get_vscroll_policy': gi.FunctionInfo(get_vscroll_policy), 'set_hadjustment': gi.FunctionInfo(set_hadjustment), 'set_hscroll_policy': gi.FunctionInfo(set_hscroll_policy), 'set_vadjustment': gi.FunctionInfo(set_vadjustment), 'set_vscroll_policy': gi.FunctionInfo(set_vscroll_policy)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Scrollable), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkScrollable (93897367128720)>, '__dict__': <attribute '__dict__' of 'Scrollable' objects>, '__weakref__': <attribute '__weakref__' of 'Scrollable' objects>, '__doc__': None, '__gsignals__': {}, 'get_border': gi.FunctionInfo(get_border), 'get_hadjustment': gi.FunctionInfo(get_hadjustment), 'get_hscroll_policy': gi.FunctionInfo(get_hscroll_policy), 'get_vadjustment': gi.FunctionInfo(get_vadjustment), 'get_vscroll_policy': gi.FunctionInfo(get_vscroll_policy), 'set_hadjustment': gi.FunctionInfo(set_hadjustment), 'set_hscroll_policy': gi.FunctionInfo(set_hscroll_policy), 'set_vadjustment': gi.FunctionInfo(set_vadjustment), 'set_vscroll_policy': gi.FunctionInfo(set_vscroll_policy)})"
     __gdoc__ = 'Interface GtkScrollable\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkScrollable (94846036921376)>'
+    __gtype__ = None # (!) real value is '<GType GtkScrollable (93897367128720)>'
     __info__ = InterfaceInfo(Scrollable)
 
 

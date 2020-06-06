@@ -144,7 +144,7 @@ class StaticResource(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(StaticResource), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'StaticResource' objects>, '__weakref__': <attribute '__weakref__' of 'StaticResource' objects>, '__doc__': None, 'data': <property object at 0x7f28dde681d0>, 'data_len': <property object at 0x7f28dde682c0>, 'resource': <property object at 0x7f28dde683b0>, 'next': <property object at 0x7f28dde684a0>, 'padding': <property object at 0x7f28dde68590>, 'fini': gi.FunctionInfo(fini), 'get_resource': gi.FunctionInfo(get_resource), 'init': gi.FunctionInfo(init)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(StaticResource), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'StaticResource' objects>, '__weakref__': <attribute '__weakref__' of 'StaticResource' objects>, '__doc__': None, 'data': <property object at 0x7f4b87fc94a0>, 'data_len': <property object at 0x7f4b87fc9590>, 'resource': <property object at 0x7f4b87fc9680>, 'next': <property object at 0x7f4b87fc9770>, 'padding': <property object at 0x7f4b87fc9860>, 'fini': gi.FunctionInfo(fini), 'get_resource': gi.FunctionInfo(get_resource), 'init': gi.FunctionInfo(init)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(StaticResource)
 

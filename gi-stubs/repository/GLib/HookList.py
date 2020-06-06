@@ -153,7 +153,7 @@ class HookList(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(HookList), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'HookList' objects>, '__weakref__': <attribute '__weakref__' of 'HookList' objects>, '__doc__': None, 'seq_id': <property object at 0x7f1d2b963310>, 'hook_size': <property object at 0x7f1d2b9633b0>, 'is_setup': <property object at 0x7f1d2b9634a0>, 'hooks': <property object at 0x7f1d2b963590>, 'dummy3': <property object at 0x7f1d2b963680>, 'finalize_hook': <property object at 0x7f1d2b963770>, 'dummy': <property object at 0x7f1d2b963860>, 'clear': gi.FunctionInfo(clear), 'init': gi.FunctionInfo(init), 'invoke': gi.FunctionInfo(invoke), 'invoke_check': gi.FunctionInfo(invoke_check)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(HookList), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'HookList' objects>, '__weakref__': <attribute '__weakref__' of 'HookList' objects>, '__doc__': None, 'seq_id': <property object at 0x7f85134e3310>, 'hook_size': <property object at 0x7f85134e33b0>, 'is_setup': <property object at 0x7f85134e34a0>, 'hooks': <property object at 0x7f85134e3590>, 'dummy3': <property object at 0x7f85134e3680>, 'finalize_hook': <property object at 0x7f85134e3770>, 'dummy': <property object at 0x7f85134e3860>, 'clear': gi.FunctionInfo(clear), 'init': gi.FunctionInfo(init), 'invoke': gi.FunctionInfo(invoke), 'invoke_check': gi.FunctionInfo(invoke_check)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(HookList)
 

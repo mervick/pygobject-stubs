@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -738,12 +738,12 @@ class LevelBarAccessible(WidgetAccessible, __gi_repository_Atk.Value):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe82fc53eb0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc63a2cfd60>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(LevelBarAccessible), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkLevelBarAccessible (94846038637264)>, '__doc__': None, '__gsignals__': {}, 'parent': <property object at 0x7fe831055630>, 'priv': <property object at 0x7fe831055720>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(LevelBarAccessible), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkLevelBarAccessible (93897368856288)>, '__doc__': None, '__gsignals__': {}, 'parent': <property object at 0x7fc63a76c360>, 'priv': <property object at 0x7fc63a76c450>})"
     __gdoc__ = 'Object GtkLevelBarAccessible\n\nSignals from AtkComponent:\n  bounds-changed (AtkRectangle)\n\nSignals from AtkValue:\n  value-changed (gdouble, gchararray)\n\nSignals from AtkComponent:\n  bounds-changed (AtkRectangle)\n\nProperties from GtkAccessible:\n  widget -> GtkWidget: Widget\n    The widget referenced by this accessible.\n\nSignals from AtkObject:\n  children-changed (guint, gpointer)\n  focus-event (gboolean)\n  property-change (gpointer)\n  state-change (gchararray, gboolean)\n  visible-data-changed ()\n  active-descendant-changed (gpointer)\n\nProperties from AtkObject:\n  accessible-name -> gchararray: Accessible Name\n    Object instance’s name formatted for assistive technology access\n  accessible-description -> gchararray: Accessible Description\n    Description of an object, formatted for assistive technology access\n  accessible-parent -> AtkObject: Accessible Parent\n    Parent of the current accessible as returned by atk_object_get_parent()\n  accessible-value -> gdouble: Accessible Value\n    Is used to notify that the value has changed\n  accessible-role -> AtkRole: Accessible Role\n    The accessible role of this object\n  accessible-component-layer -> gint: Accessible Layer\n    The accessible layer of this object\n  accessible-component-mdi-zorder -> gint: Accessible MDI Value\n    The accessible MDI value of this object\n  accessible-table-caption -> gchararray: Accessible Table Caption\n    Is used to notify that the table caption has changed; this property should not be used. accessible-table-caption-object should be used instead\n  accessible-table-column-description -> gchararray: Accessible Table Column Description\n    Is used to notify that the table column description has changed\n  accessible-table-column-header -> AtkObject: Accessible Table Column Header\n    Is used to notify that the table column header has changed\n  accessible-table-row-description -> gchararray: Accessible Table Row Description\n    Is used to notify that the table row description has changed\n  accessible-table-row-header -> AtkObject: Accessible Table Row Header\n    Is used to notify that the table row header has changed\n  accessible-table-summary -> AtkObject: Accessible Table Summary\n    Is used to notify that the table summary has changed\n  accessible-table-caption-object -> AtkObject: Accessible Table Caption Object\n    Is used to notify that the table caption has changed\n  accessible-hypertext-nlinks -> gint: Number of Accessible Hypertext Links\n    The number of links which the current AtkHypertext has\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkLevelBarAccessible (94846038637264)>'
+    __gtype__ = None # (!) real value is '<GType GtkLevelBarAccessible (93897368856288)>'
     __info__ = ObjectInfo(LevelBarAccessible)
 
 

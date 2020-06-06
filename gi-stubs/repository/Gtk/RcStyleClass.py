@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -143,7 +143,7 @@ class RcStyleClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(RcStyleClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'RcStyleClass' objects>, '__weakref__': <attribute '__weakref__' of 'RcStyleClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830fb14f0>, 'create_rc_style': <property object at 0x7fe830fb15e0>, 'parse': <property object at 0x7fe830fb16d0>, 'merge': <property object at 0x7fe830fb17c0>, 'create_style': <property object at 0x7fe830fb18b0>, '_gtk_reserved1': <property object at 0x7fe830fb19a0>, '_gtk_reserved2': <property object at 0x7fe830fb1a90>, '_gtk_reserved3': <property object at 0x7fe830fb1b80>, '_gtk_reserved4': <property object at 0x7fe830fb1c70>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(RcStyleClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'RcStyleClass' objects>, '__weakref__': <attribute '__weakref__' of 'RcStyleClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a6c82c0>, 'create_rc_style': <property object at 0x7fc63a6c83b0>, 'parse': <property object at 0x7fc63a6c84a0>, 'merge': <property object at 0x7fc63a6c8590>, 'create_style': <property object at 0x7fc63a6c8680>, '_gtk_reserved1': <property object at 0x7fc63a6c8770>, '_gtk_reserved2': <property object at 0x7fc63a6c8860>, '_gtk_reserved3': <property object at 0x7fc63a6c8950>, '_gtk_reserved4': <property object at 0x7fc63a6c8a40>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(RcStyleClass)
 

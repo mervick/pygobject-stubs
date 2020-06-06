@@ -139,10 +139,10 @@ class Image(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Image), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkImage (93922955502032)>, '__dict__': <attribute '__dict__' of 'Image' objects>, '__weakref__': <attribute '__weakref__' of 'Image' objects>, '__doc__': None, '__gsignals__': {}, 'get_image_description': gi.FunctionInfo(get_image_description), 'get_image_locale': gi.FunctionInfo(get_image_locale), 'get_image_position': gi.FunctionInfo(get_image_position), 'get_image_size': gi.FunctionInfo(get_image_size), 'set_image_description': gi.FunctionInfo(set_image_description)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Image), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkImage (94258337793728)>, '__dict__': <attribute '__dict__' of 'Image' objects>, '__weakref__': <attribute '__weakref__' of 'Image' objects>, '__doc__': None, '__gsignals__': {}, 'get_image_description': gi.FunctionInfo(get_image_description), 'get_image_locale': gi.FunctionInfo(get_image_locale), 'get_image_position': gi.FunctionInfo(get_image_position), 'get_image_size': gi.FunctionInfo(get_image_size), 'set_image_description': gi.FunctionInfo(set_image_description)})"
     __gdoc__ = 'Interface AtkImage\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType AtkImage (93922955502032)>'
+    __gtype__ = None # (!) real value is '<GType AtkImage (94258337793728)>'
     __info__ = InterfaceInfo(Image)
 
 

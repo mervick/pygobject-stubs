@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -366,12 +366,12 @@ class ToolPaletteDragTargets(__gobject.GFlags):
     GROUPS = 2
     ITEMS = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ToolPaletteDragTargets' objects>, '__doc__': None, '__gtype__': <GType GtkToolPaletteDragTargets (94846039515024)>, '__flags_values__': {1: <flags GTK_TOOL_PALETTE_DRAG_ITEMS of type Gtk.ToolPaletteDragTargets>, 2: <flags GTK_TOOL_PALETTE_DRAG_GROUPS of type Gtk.ToolPaletteDragTargets>}, '__info__': gi.EnumInfo(ToolPaletteDragTargets), 'ITEMS': <flags GTK_TOOL_PALETTE_DRAG_ITEMS of type Gtk.ToolPaletteDragTargets>, 'GROUPS': <flags GTK_TOOL_PALETTE_DRAG_GROUPS of type Gtk.ToolPaletteDragTargets>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ToolPaletteDragTargets' objects>, '__doc__': None, '__gtype__': <GType GtkToolPaletteDragTargets (93897367452320)>, '__flags_values__': {1: <flags GTK_TOOL_PALETTE_DRAG_ITEMS of type Gtk.ToolPaletteDragTargets>, 2: <flags GTK_TOOL_PALETTE_DRAG_GROUPS of type Gtk.ToolPaletteDragTargets>}, '__info__': gi.EnumInfo(ToolPaletteDragTargets), 'ITEMS': <flags GTK_TOOL_PALETTE_DRAG_ITEMS of type Gtk.ToolPaletteDragTargets>, 'GROUPS': <flags GTK_TOOL_PALETTE_DRAG_GROUPS of type Gtk.ToolPaletteDragTargets>})"
     __flags_values__ = {
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GtkToolPaletteDragTargets (94846039515024)>'
+    __gtype__ = None # (!) real value is '<GType GtkToolPaletteDragTargets (93897367452320)>'
     __info__ = gi.EnumInfo(ToolPaletteDragTargets)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -361,7 +361,7 @@ class VisualType(__gobject.GEnum):
     STATIC_GRAY = 0
     TRUE_COLOR = 4
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'VisualType' objects>, '__doc__': None, '__gtype__': <GType GdkVisualType (94055651857040)>, '__enum_values__': {0: <enum GDK_VISUAL_STATIC_GRAY of type Gdk.VisualType>, 1: <enum GDK_VISUAL_GRAYSCALE of type Gdk.VisualType>, 2: <enum GDK_VISUAL_STATIC_COLOR of type Gdk.VisualType>, 3: <enum GDK_VISUAL_PSEUDO_COLOR of type Gdk.VisualType>, 4: <enum GDK_VISUAL_TRUE_COLOR of type Gdk.VisualType>, 5: <enum GDK_VISUAL_DIRECT_COLOR of type Gdk.VisualType>}, '__info__': gi.EnumInfo(VisualType), 'STATIC_GRAY': <enum GDK_VISUAL_STATIC_GRAY of type Gdk.VisualType>, 'GRAYSCALE': <enum GDK_VISUAL_GRAYSCALE of type Gdk.VisualType>, 'STATIC_COLOR': <enum GDK_VISUAL_STATIC_COLOR of type Gdk.VisualType>, 'PSEUDO_COLOR': <enum GDK_VISUAL_PSEUDO_COLOR of type Gdk.VisualType>, 'TRUE_COLOR': <enum GDK_VISUAL_TRUE_COLOR of type Gdk.VisualType>, 'DIRECT_COLOR': <enum GDK_VISUAL_DIRECT_COLOR of type Gdk.VisualType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'VisualType' objects>, '__doc__': None, '__gtype__': <GType GdkVisualType (94915769433664)>, '__enum_values__': {0: <enum GDK_VISUAL_STATIC_GRAY of type Gdk.VisualType>, 1: <enum GDK_VISUAL_GRAYSCALE of type Gdk.VisualType>, 2: <enum GDK_VISUAL_STATIC_COLOR of type Gdk.VisualType>, 3: <enum GDK_VISUAL_PSEUDO_COLOR of type Gdk.VisualType>, 4: <enum GDK_VISUAL_TRUE_COLOR of type Gdk.VisualType>, 5: <enum GDK_VISUAL_DIRECT_COLOR of type Gdk.VisualType>}, '__info__': gi.EnumInfo(VisualType), 'STATIC_GRAY': <enum GDK_VISUAL_STATIC_GRAY of type Gdk.VisualType>, 'GRAYSCALE': <enum GDK_VISUAL_GRAYSCALE of type Gdk.VisualType>, 'STATIC_COLOR': <enum GDK_VISUAL_STATIC_COLOR of type Gdk.VisualType>, 'PSEUDO_COLOR': <enum GDK_VISUAL_PSEUDO_COLOR of type Gdk.VisualType>, 'TRUE_COLOR': <enum GDK_VISUAL_TRUE_COLOR of type Gdk.VisualType>, 'DIRECT_COLOR': <enum GDK_VISUAL_DIRECT_COLOR of type Gdk.VisualType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -370,7 +370,7 @@ class VisualType(__gobject.GEnum):
         4: 4,
         5: 5,
     }
-    __gtype__ = None # (!) real value is '<GType GdkVisualType (94055651857040)>'
+    __gtype__ = None # (!) real value is '<GType GdkVisualType (94915769433664)>'
     __info__ = gi.EnumInfo(VisualType)
 
 

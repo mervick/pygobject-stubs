@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,14 +363,14 @@ class PolicyType(__gobject.GEnum):
     EXTERNAL = 3
     NEVER = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PolicyType' objects>, '__doc__': None, '__gtype__': <GType GtkPolicyType (94846038865648)>, '__enum_values__': {0: <enum GTK_POLICY_ALWAYS of type Gtk.PolicyType>, 1: <enum GTK_POLICY_AUTOMATIC of type Gtk.PolicyType>, 2: <enum GTK_POLICY_NEVER of type Gtk.PolicyType>, 3: <enum GTK_POLICY_EXTERNAL of type Gtk.PolicyType>}, '__info__': gi.EnumInfo(PolicyType), 'ALWAYS': <enum GTK_POLICY_ALWAYS of type Gtk.PolicyType>, 'AUTOMATIC': <enum GTK_POLICY_AUTOMATIC of type Gtk.PolicyType>, 'NEVER': <enum GTK_POLICY_NEVER of type Gtk.PolicyType>, 'EXTERNAL': <enum GTK_POLICY_EXTERNAL of type Gtk.PolicyType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PolicyType' objects>, '__doc__': None, '__gtype__': <GType GtkPolicyType (93897369076624)>, '__enum_values__': {0: <enum GTK_POLICY_ALWAYS of type Gtk.PolicyType>, 1: <enum GTK_POLICY_AUTOMATIC of type Gtk.PolicyType>, 2: <enum GTK_POLICY_NEVER of type Gtk.PolicyType>, 3: <enum GTK_POLICY_EXTERNAL of type Gtk.PolicyType>}, '__info__': gi.EnumInfo(PolicyType), 'ALWAYS': <enum GTK_POLICY_ALWAYS of type Gtk.PolicyType>, 'AUTOMATIC': <enum GTK_POLICY_AUTOMATIC of type Gtk.PolicyType>, 'NEVER': <enum GTK_POLICY_NEVER of type Gtk.PolicyType>, 'EXTERNAL': <enum GTK_POLICY_EXTERNAL of type Gtk.PolicyType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkPolicyType (94846038865648)>'
+    __gtype__ = None # (!) real value is '<GType GtkPolicyType (93897369076624)>'
     __info__ = gi.EnumInfo(PolicyType)
 
 

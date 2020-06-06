@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -139,7 +139,7 @@ class TreeModelFilterClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TreeModelFilterClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TreeModelFilterClass' objects>, '__weakref__': <attribute '__weakref__' of 'TreeModelFilterClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830f2f450>, 'visible': <property object at 0x7fe830f2f540>, 'modify': <property object at 0x7fe830f2f630>, '_gtk_reserved1': <property object at 0x7fe830f2f720>, '_gtk_reserved2': <property object at 0x7fe830f2f810>, '_gtk_reserved3': <property object at 0x7fe830f2f900>, '_gtk_reserved4': <property object at 0x7fe830f2f9f0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TreeModelFilterClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TreeModelFilterClass' objects>, '__weakref__': <attribute '__weakref__' of 'TreeModelFilterClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a645bd0>, 'visible': <property object at 0x7fc63a645cc0>, 'modify': <property object at 0x7fc63a645db0>, '_gtk_reserved1': <property object at 0x7fc63a645ea0>, '_gtk_reserved2': <property object at 0x7fc63a645f90>, '_gtk_reserved3': <property object at 0x7fc63a6460e0>, '_gtk_reserved4': <property object at 0x7fc63a6461d0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TreeModelFilterClass)
 

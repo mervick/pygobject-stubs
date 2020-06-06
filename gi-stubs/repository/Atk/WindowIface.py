@@ -128,7 +128,7 @@ class WindowIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(WindowIface), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'WindowIface' objects>, '__weakref__': <attribute '__weakref__' of 'WindowIface' objects>, '__doc__': None, 'parent': <property object at 0x7f0cd81c86d0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(WindowIface), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'WindowIface' objects>, '__weakref__': <attribute '__weakref__' of 'WindowIface' objects>, '__doc__': None, 'parent': <property object at 0x7f44c6d0b4f0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(WindowIface)
 

@@ -476,12 +476,12 @@ class IOModule(__gi_repository_GObject.TypeModule):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd310370>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87462af0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(IOModule), '__module__': 'gi.repository.Gio', '__gtype__': <GType GIOModule (94125582419664)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'query': gi.FunctionInfo(query), 'load': gi.FunctionInfo(load), 'unload': gi.FunctionInfo(unload)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(IOModule), '__module__': 'gi.repository.Gio', '__gtype__': <GType GIOModule (94269257047776)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'query': gi.FunctionInfo(query), 'load': gi.FunctionInfo(load), 'unload': gi.FunctionInfo(unload)})"
     __gdoc__ = 'Object GIOModule\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GIOModule (94125582419664)>'
+    __gtype__ = None # (!) real value is '<GType GIOModule (94269257047776)>'
     __info__ = ObjectInfo(IOModule)
 
 

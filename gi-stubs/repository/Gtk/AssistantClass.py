@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -145,7 +145,7 @@ class AssistantClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AssistantClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AssistantClass' objects>, '__weakref__': <attribute '__weakref__' of 'AssistantClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe83111b270>, 'prepare': <property object at 0x7fe83111b360>, 'apply': <property object at 0x7fe83111b450>, 'close': <property object at 0x7fe83111b540>, 'cancel': <property object at 0x7fe83111b630>, '_gtk_reserved1': <property object at 0x7fe83111b720>, '_gtk_reserved2': <property object at 0x7fe83111b810>, '_gtk_reserved3': <property object at 0x7fe83111b900>, '_gtk_reserved4': <property object at 0x7fe83111b9f0>, '_gtk_reserved5': <property object at 0x7fe83111bae0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AssistantClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AssistantClass' objects>, '__weakref__': <attribute '__weakref__' of 'AssistantClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a8320e0>, 'prepare': <property object at 0x7fc63a8321d0>, 'apply': <property object at 0x7fc63a8322c0>, 'close': <property object at 0x7fc63a8323b0>, 'cancel': <property object at 0x7fc63a8324a0>, '_gtk_reserved1': <property object at 0x7fc63a832590>, '_gtk_reserved2': <property object at 0x7fc63a832680>, '_gtk_reserved3': <property object at 0x7fc63a832770>, '_gtk_reserved4': <property object at 0x7fc63a832860>, '_gtk_reserved5': <property object at 0x7fc63a832950>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(AssistantClass)
 

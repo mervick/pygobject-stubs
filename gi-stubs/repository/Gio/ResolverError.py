@@ -363,13 +363,13 @@ class ResolverError(__gobject.GEnum):
     NOT_FOUND = 0
     TEMPORARY_FAILURE = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'ResolverError' objects>, '__doc__': None, '__gtype__': <GType GResolverError (94125582650128)>, '__enum_values__': {0: <enum G_RESOLVER_ERROR_NOT_FOUND of type Gio.ResolverError>, 1: <enum G_RESOLVER_ERROR_TEMPORARY_FAILURE of type Gio.ResolverError>, 2: <enum G_RESOLVER_ERROR_INTERNAL of type Gio.ResolverError>}, '__info__': gi.EnumInfo(ResolverError), 'NOT_FOUND': <enum G_RESOLVER_ERROR_NOT_FOUND of type Gio.ResolverError>, 'TEMPORARY_FAILURE': <enum G_RESOLVER_ERROR_TEMPORARY_FAILURE of type Gio.ResolverError>, 'INTERNAL': <enum G_RESOLVER_ERROR_INTERNAL of type Gio.ResolverError>, 'quark': gi.FunctionInfo(quark)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'ResolverError' objects>, '__doc__': None, '__gtype__': <GType GResolverError (94269257279280)>, '__enum_values__': {0: <enum G_RESOLVER_ERROR_NOT_FOUND of type Gio.ResolverError>, 1: <enum G_RESOLVER_ERROR_TEMPORARY_FAILURE of type Gio.ResolverError>, 2: <enum G_RESOLVER_ERROR_INTERNAL of type Gio.ResolverError>}, '__info__': gi.EnumInfo(ResolverError), 'NOT_FOUND': <enum G_RESOLVER_ERROR_NOT_FOUND of type Gio.ResolverError>, 'TEMPORARY_FAILURE': <enum G_RESOLVER_ERROR_TEMPORARY_FAILURE of type Gio.ResolverError>, 'INTERNAL': <enum G_RESOLVER_ERROR_INTERNAL of type Gio.ResolverError>, 'quark': gi.FunctionInfo(quark)})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GResolverError (94125582650128)>'
+    __gtype__ = None # (!) real value is '<GType GResolverError (94269257279280)>'
     __info__ = gi.EnumInfo(ResolverError)
 
 

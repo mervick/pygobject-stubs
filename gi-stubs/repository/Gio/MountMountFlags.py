@@ -362,11 +362,11 @@ class MountMountFlags(__gobject.GFlags):
 
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'MountMountFlags' objects>, '__doc__': None, '__gtype__': <GType GMountMountFlags (94125582546768)>, '__flags_values__': {0: <flags 0 of type Gio.MountMountFlags>}, '__info__': gi.EnumInfo(MountMountFlags), 'NONE': <flags 0 of type Gio.MountMountFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'MountMountFlags' objects>, '__doc__': None, '__gtype__': <GType GMountMountFlags (94269257085136)>, '__flags_values__': {0: <flags 0 of type Gio.MountMountFlags>}, '__info__': gi.EnumInfo(MountMountFlags), 'NONE': <flags 0 of type Gio.MountMountFlags>})"
     __flags_values__ = {
         0: 0,
     }
-    __gtype__ = None # (!) real value is '<GType GMountMountFlags (94125582546768)>'
+    __gtype__ = None # (!) real value is '<GType GMountMountFlags (94269257085136)>'
     __info__ = gi.EnumInfo(MountMountFlags)
 
 

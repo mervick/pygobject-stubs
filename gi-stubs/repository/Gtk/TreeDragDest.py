@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -126,10 +126,10 @@ class TreeDragDest(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(TreeDragDest), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkTreeDragDest (94846037016832)>, '__dict__': <attribute '__dict__' of 'TreeDragDest' objects>, '__weakref__': <attribute '__weakref__' of 'TreeDragDest' objects>, '__doc__': None, '__gsignals__': {}, 'drag_data_received': gi.FunctionInfo(drag_data_received), 'row_drop_possible': gi.FunctionInfo(row_drop_possible)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(TreeDragDest), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkTreeDragDest (93897367168368)>, '__dict__': <attribute '__dict__' of 'TreeDragDest' objects>, '__weakref__': <attribute '__weakref__' of 'TreeDragDest' objects>, '__doc__': None, '__gsignals__': {}, 'drag_data_received': gi.FunctionInfo(drag_data_received), 'row_drop_possible': gi.FunctionInfo(row_drop_possible)})"
     __gdoc__ = 'Interface GtkTreeDragDest\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkTreeDragDest (94846037016832)>'
+    __gtype__ = None # (!) real value is '<GType GtkTreeDragDest (93897367168368)>'
     __info__ = InterfaceInfo(TreeDragDest)
 
 

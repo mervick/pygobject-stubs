@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -417,12 +417,12 @@ class DrawingContext(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f1e11b4f040>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fbaf808e3a0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DrawingContext), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkDrawingContext (94055651455808)>, '__doc__': None, '__gsignals__': {}, 'get_cairo_context': gi.FunctionInfo(get_cairo_context), 'get_clip': gi.FunctionInfo(get_clip), 'get_window': gi.FunctionInfo(get_window), 'is_valid': gi.FunctionInfo(is_valid)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DrawingContext), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkDrawingContext (94915768142608)>, '__doc__': None, '__gsignals__': {}, 'get_cairo_context': gi.FunctionInfo(get_cairo_context), 'get_clip': gi.FunctionInfo(get_clip), 'get_window': gi.FunctionInfo(get_window), 'is_valid': gi.FunctionInfo(is_valid)})"
     __gdoc__ = 'Object GdkDrawingContext\n\nProperties from GdkDrawingContext:\n  window -> GdkWindow: Window\n    The window that created the context\n  clip -> CairoRegion: Clip\n    The clip region of the context\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GdkDrawingContext (94055651455808)>'
+    __gtype__ = None # (!) real value is '<GType GdkDrawingContext (94915768142608)>'
     __info__ = ObjectInfo(DrawingContext)
 
 

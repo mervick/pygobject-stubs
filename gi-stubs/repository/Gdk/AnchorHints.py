@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -369,7 +369,7 @@ class AnchorHints(__gobject.GFlags):
     SLIDE_X = 4
     SLIDE_Y = 8
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'AnchorHints' objects>, '__doc__': None, '__gtype__': <GType GdkAnchorHints (94055651414016)>, '__flags_values__': {1: <flags GDK_ANCHOR_FLIP_X of type Gdk.AnchorHints>, 2: <flags GDK_ANCHOR_FLIP_Y of type Gdk.AnchorHints>, 4: <flags GDK_ANCHOR_SLIDE_X of type Gdk.AnchorHints>, 8: <flags GDK_ANCHOR_SLIDE_Y of type Gdk.AnchorHints>, 16: <flags GDK_ANCHOR_RESIZE_X of type Gdk.AnchorHints>, 32: <flags GDK_ANCHOR_RESIZE_Y of type Gdk.AnchorHints>, 3: <flags GDK_ANCHOR_FLIP_X | GDK_ANCHOR_FLIP_Y | GDK_ANCHOR_FLIP of type Gdk.AnchorHints>, 12: <flags GDK_ANCHOR_SLIDE_X | GDK_ANCHOR_SLIDE_Y | GDK_ANCHOR_SLIDE of type Gdk.AnchorHints>, 48: <flags GDK_ANCHOR_RESIZE_X | GDK_ANCHOR_RESIZE_Y | GDK_ANCHOR_RESIZE of type Gdk.AnchorHints>}, '__info__': gi.EnumInfo(AnchorHints), 'FLIP_X': <flags GDK_ANCHOR_FLIP_X of type Gdk.AnchorHints>, 'FLIP_Y': <flags GDK_ANCHOR_FLIP_Y of type Gdk.AnchorHints>, 'SLIDE_X': <flags GDK_ANCHOR_SLIDE_X of type Gdk.AnchorHints>, 'SLIDE_Y': <flags GDK_ANCHOR_SLIDE_Y of type Gdk.AnchorHints>, 'RESIZE_X': <flags GDK_ANCHOR_RESIZE_X of type Gdk.AnchorHints>, 'RESIZE_Y': <flags GDK_ANCHOR_RESIZE_Y of type Gdk.AnchorHints>, 'FLIP': <flags GDK_ANCHOR_FLIP_X | GDK_ANCHOR_FLIP_Y | GDK_ANCHOR_FLIP of type Gdk.AnchorHints>, 'SLIDE': <flags GDK_ANCHOR_SLIDE_X | GDK_ANCHOR_SLIDE_Y | GDK_ANCHOR_SLIDE of type Gdk.AnchorHints>, 'RESIZE': <flags GDK_ANCHOR_RESIZE_X | GDK_ANCHOR_RESIZE_Y | GDK_ANCHOR_RESIZE of type Gdk.AnchorHints>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'AnchorHints' objects>, '__doc__': None, '__gtype__': <GType GdkAnchorHints (94915768983328)>, '__flags_values__': {1: <flags GDK_ANCHOR_FLIP_X of type Gdk.AnchorHints>, 2: <flags GDK_ANCHOR_FLIP_Y of type Gdk.AnchorHints>, 4: <flags GDK_ANCHOR_SLIDE_X of type Gdk.AnchorHints>, 8: <flags GDK_ANCHOR_SLIDE_Y of type Gdk.AnchorHints>, 16: <flags GDK_ANCHOR_RESIZE_X of type Gdk.AnchorHints>, 32: <flags GDK_ANCHOR_RESIZE_Y of type Gdk.AnchorHints>, 3: <flags GDK_ANCHOR_FLIP_X | GDK_ANCHOR_FLIP_Y | GDK_ANCHOR_FLIP of type Gdk.AnchorHints>, 12: <flags GDK_ANCHOR_SLIDE_X | GDK_ANCHOR_SLIDE_Y | GDK_ANCHOR_SLIDE of type Gdk.AnchorHints>, 48: <flags GDK_ANCHOR_RESIZE_X | GDK_ANCHOR_RESIZE_Y | GDK_ANCHOR_RESIZE of type Gdk.AnchorHints>}, '__info__': gi.EnumInfo(AnchorHints), 'FLIP_X': <flags GDK_ANCHOR_FLIP_X of type Gdk.AnchorHints>, 'FLIP_Y': <flags GDK_ANCHOR_FLIP_Y of type Gdk.AnchorHints>, 'SLIDE_X': <flags GDK_ANCHOR_SLIDE_X of type Gdk.AnchorHints>, 'SLIDE_Y': <flags GDK_ANCHOR_SLIDE_Y of type Gdk.AnchorHints>, 'RESIZE_X': <flags GDK_ANCHOR_RESIZE_X of type Gdk.AnchorHints>, 'RESIZE_Y': <flags GDK_ANCHOR_RESIZE_Y of type Gdk.AnchorHints>, 'FLIP': <flags GDK_ANCHOR_FLIP_X | GDK_ANCHOR_FLIP_Y | GDK_ANCHOR_FLIP of type Gdk.AnchorHints>, 'SLIDE': <flags GDK_ANCHOR_SLIDE_X | GDK_ANCHOR_SLIDE_Y | GDK_ANCHOR_SLIDE of type Gdk.AnchorHints>, 'RESIZE': <flags GDK_ANCHOR_RESIZE_X | GDK_ANCHOR_RESIZE_Y | GDK_ANCHOR_RESIZE of type Gdk.AnchorHints>})"
     __flags_values__ = {
         1: 1,
         2: 2,
@@ -381,7 +381,7 @@ class AnchorHints(__gobject.GFlags):
         32: 32,
         48: 48,
     }
-    __gtype__ = None # (!) real value is '<GType GdkAnchorHints (94055651414016)>'
+    __gtype__ = None # (!) real value is '<GType GdkAnchorHints (94915768983328)>'
     __info__ = gi.EnumInfo(AnchorHints)
 
 

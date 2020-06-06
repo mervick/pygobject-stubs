@@ -136,7 +136,7 @@ class HypertextIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(HypertextIface), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'HypertextIface' objects>, '__weakref__': <attribute '__weakref__' of 'HypertextIface' objects>, '__doc__': None, 'parent': <property object at 0x7f0cd7be6400>, 'get_link': <property object at 0x7f0cd7be64f0>, 'get_n_links': <property object at 0x7f0cd7be65e0>, 'get_link_index': <property object at 0x7f0cd7be66d0>, 'link_selected': <property object at 0x7f0cd7be67c0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(HypertextIface), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'HypertextIface' objects>, '__weakref__': <attribute '__weakref__' of 'HypertextIface' objects>, '__doc__': None, 'parent': <property object at 0x7f44c6dad810>, 'get_link': <property object at 0x7f44c6dad900>, 'get_n_links': <property object at 0x7f44c6dad9f0>, 'get_link_index': <property object at 0x7f44c6dadae0>, 'link_selected': <property object at 0x7f44c6dadbd0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(HypertextIface)
 

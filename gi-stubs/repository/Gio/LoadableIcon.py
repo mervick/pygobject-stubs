@@ -127,10 +127,10 @@ class LoadableIcon(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(LoadableIcon), '__module__': 'gi.repository.Gio', '__gtype__': <GType GLoadableIcon (94125581873392)>, '__dict__': <attribute '__dict__' of 'LoadableIcon' objects>, '__weakref__': <attribute '__weakref__' of 'LoadableIcon' objects>, '__doc__': None, '__gsignals__': {}, 'load': gi.FunctionInfo(load), 'load_async': gi.FunctionInfo(load_async), 'load_finish': gi.FunctionInfo(load_finish)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(LoadableIcon), '__module__': 'gi.repository.Gio', '__gtype__': <GType GLoadableIcon (94269256449504)>, '__dict__': <attribute '__dict__' of 'LoadableIcon' objects>, '__weakref__': <attribute '__weakref__' of 'LoadableIcon' objects>, '__doc__': None, '__gsignals__': {}, 'load': gi.FunctionInfo(load), 'load_async': gi.FunctionInfo(load_async), 'load_finish': gi.FunctionInfo(load_finish)})"
     __gdoc__ = 'Interface GLoadableIcon\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GLoadableIcon (94125581873392)>'
+    __gtype__ = None # (!) real value is '<GType GLoadableIcon (94269256449504)>'
     __info__ = InterfaceInfo(LoadableIcon)
 
 

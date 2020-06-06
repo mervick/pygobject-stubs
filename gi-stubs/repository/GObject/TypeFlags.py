@@ -386,12 +386,12 @@ class TypeFlags(__gobject.GFlags):
     ABSTRACT = 16
     VALUE_ABSTRACT = 32
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GObject', '__dict__': <attribute '__dict__' of 'TypeFlags' objects>, '__doc__': None, '__gtype__': <GType PyGObjectTypeFlags (93895379339632)>, '__flags_values__': {16: <flags G_TYPE_FLAG_ABSTRACT of type GObject.TypeFlags>, 32: <flags G_TYPE_FLAG_VALUE_ABSTRACT of type GObject.TypeFlags>}, '__info__': gi.EnumInfo(TypeFlags), 'ABSTRACT': <flags G_TYPE_FLAG_ABSTRACT of type GObject.TypeFlags>, 'VALUE_ABSTRACT': <flags G_TYPE_FLAG_VALUE_ABSTRACT of type GObject.TypeFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GObject', '__dict__': <attribute '__dict__' of 'TypeFlags' objects>, '__doc__': None, '__gtype__': <GType PyGObjectTypeFlags (94184341832352)>, '__flags_values__': {16: <flags G_TYPE_FLAG_ABSTRACT of type GObject.TypeFlags>, 32: <flags G_TYPE_FLAG_VALUE_ABSTRACT of type GObject.TypeFlags>}, '__info__': gi.EnumInfo(TypeFlags), 'ABSTRACT': <flags G_TYPE_FLAG_ABSTRACT of type GObject.TypeFlags>, 'VALUE_ABSTRACT': <flags G_TYPE_FLAG_VALUE_ABSTRACT of type GObject.TypeFlags>})"
     __flags_values__ = {
         16: 16,
         32: 32,
     }
-    __gtype__ = None # (!) real value is '<GType PyGObjectTypeFlags (93895379339632)>'
+    __gtype__ = None # (!) real value is '<GType PyGObjectTypeFlags (94184341832352)>'
     __info__ = gi.EnumInfo(TypeFlags)
 
 

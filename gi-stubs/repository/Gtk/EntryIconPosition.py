@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -361,12 +361,12 @@ class EntryIconPosition(__gobject.GEnum):
     PRIMARY = 0
     SECONDARY = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'EntryIconPosition' objects>, '__doc__': None, '__gtype__': <GType GtkEntryIconPosition (94846038236928)>, '__enum_values__': {0: <enum GTK_ENTRY_ICON_PRIMARY of type Gtk.EntryIconPosition>, 1: <enum GTK_ENTRY_ICON_SECONDARY of type Gtk.EntryIconPosition>}, '__info__': gi.EnumInfo(EntryIconPosition), 'PRIMARY': <enum GTK_ENTRY_ICON_PRIMARY of type Gtk.EntryIconPosition>, 'SECONDARY': <enum GTK_ENTRY_ICON_SECONDARY of type Gtk.EntryIconPosition>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'EntryIconPosition' objects>, '__doc__': None, '__gtype__': <GType GtkEntryIconPosition (93897368451952)>, '__enum_values__': {0: <enum GTK_ENTRY_ICON_PRIMARY of type Gtk.EntryIconPosition>, 1: <enum GTK_ENTRY_ICON_SECONDARY of type Gtk.EntryIconPosition>}, '__info__': gi.EnumInfo(EntryIconPosition), 'PRIMARY': <enum GTK_ENTRY_ICON_PRIMARY of type Gtk.EntryIconPosition>, 'SECONDARY': <enum GTK_ENTRY_ICON_SECONDARY of type Gtk.EntryIconPosition>})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GtkEntryIconPosition (94846038236928)>'
+    __gtype__ = None # (!) real value is '<GType GtkEntryIconPosition (93897368451952)>'
     __info__ = gi.EnumInfo(EntryIconPosition)
 
 

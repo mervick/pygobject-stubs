@@ -484,12 +484,12 @@ class TypeModule(__gi_overrides_GObject.Object, TypePlugin):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f7c2863c490>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe46b8a8d60>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(TypeModule), '__module__': 'gi.repository.GObject', '__gtype__': <GType GTypeModule (93895379523648)>, '__doc__': None, '__gsignals__': {}, 'add_interface': gi.FunctionInfo(add_interface), 'register_enum': gi.FunctionInfo(register_enum), 'register_flags': gi.FunctionInfo(register_flags), 'register_type': gi.FunctionInfo(register_type), 'set_name': gi.FunctionInfo(set_name), 'unuse': gi.FunctionInfo(unuse), 'use': gi.FunctionInfo(use), 'do_load': gi.VFuncInfo(load), 'do_unload': gi.VFuncInfo(unload), 'parent_instance': <property object at 0x7f7c2865b090>, 'use_count': <property object at 0x7f7c2865b180>, 'type_infos': <property object at 0x7f7c2865b270>, 'interface_infos': <property object at 0x7f7c2865b360>, 'name': <property object at 0x7f7c2865b450>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(TypeModule), '__module__': 'gi.repository.GObject', '__gtype__': <GType GTypeModule (94184342295280)>, '__doc__': None, '__gsignals__': {}, 'add_interface': gi.FunctionInfo(add_interface), 'register_enum': gi.FunctionInfo(register_enum), 'register_flags': gi.FunctionInfo(register_flags), 'register_type': gi.FunctionInfo(register_type), 'set_name': gi.FunctionInfo(set_name), 'unuse': gi.FunctionInfo(unuse), 'use': gi.FunctionInfo(use), 'do_load': gi.VFuncInfo(load), 'do_unload': gi.VFuncInfo(unload), 'parent_instance': <property object at 0x7fe46b8cd220>, 'use_count': <property object at 0x7fe46b8cd310>, 'type_infos': <property object at 0x7fe46b8cd400>, 'interface_infos': <property object at 0x7fe46b8cd4f0>, 'name': <property object at 0x7fe46b8cd5e0>})"
     __gdoc__ = 'Object GTypeModule\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GTypeModule (93895379523648)>'
+    __gtype__ = None # (!) real value is '<GType GTypeModule (94184342295280)>'
     __info__ = ObjectInfo(TypeModule)
 
 

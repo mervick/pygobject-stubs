@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -358,13 +358,13 @@ class PropMode(__gobject.GEnum):
     PREPEND = 1
     REPLACE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'PropMode' objects>, '__doc__': None, '__gtype__': <GType GdkPropMode (94055651835632)>, '__enum_values__': {0: <enum GDK_PROP_MODE_REPLACE of type Gdk.PropMode>, 1: <enum GDK_PROP_MODE_PREPEND of type Gdk.PropMode>, 2: <enum GDK_PROP_MODE_APPEND of type Gdk.PropMode>}, '__info__': gi.EnumInfo(PropMode), 'REPLACE': <enum GDK_PROP_MODE_REPLACE of type Gdk.PropMode>, 'PREPEND': <enum GDK_PROP_MODE_PREPEND of type Gdk.PropMode>, 'APPEND': <enum GDK_PROP_MODE_APPEND of type Gdk.PropMode>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'PropMode' objects>, '__doc__': None, '__gtype__': <GType GdkPropMode (94915769412352)>, '__enum_values__': {0: <enum GDK_PROP_MODE_REPLACE of type Gdk.PropMode>, 1: <enum GDK_PROP_MODE_PREPEND of type Gdk.PropMode>, 2: <enum GDK_PROP_MODE_APPEND of type Gdk.PropMode>}, '__info__': gi.EnumInfo(PropMode), 'REPLACE': <enum GDK_PROP_MODE_REPLACE of type Gdk.PropMode>, 'PREPEND': <enum GDK_PROP_MODE_PREPEND of type Gdk.PropMode>, 'APPEND': <enum GDK_PROP_MODE_APPEND of type Gdk.PropMode>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GdkPropMode (94055651835632)>'
+    __gtype__ = None # (!) real value is '<GType GdkPropMode (94915769412352)>'
     __info__ = gi.EnumInfo(PropMode)
 
 

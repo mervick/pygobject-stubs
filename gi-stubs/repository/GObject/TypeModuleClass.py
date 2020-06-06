@@ -159,7 +159,7 @@ class TypeModuleClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TypeModuleClass), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TypeModuleClass' objects>, '__weakref__': <attribute '__weakref__' of 'TypeModuleClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f7c2865b5e0>, 'load': <property object at 0x7f7c2865b6d0>, 'unload': <property object at 0x7f7c2865b7c0>, 'reserved1': <property object at 0x7f7c2865b8b0>, 'reserved2': <property object at 0x7f7c2865b9a0>, 'reserved3': <property object at 0x7f7c2865ba90>, 'reserved4': <property object at 0x7f7c2865bb80>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TypeModuleClass), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TypeModuleClass' objects>, '__weakref__': <attribute '__weakref__' of 'TypeModuleClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe46b8cd770>, 'load': <property object at 0x7fe46b8cd860>, 'unload': <property object at 0x7fe46b8cd900>, 'reserved1': <property object at 0x7fe46b8cd9f0>, 'reserved2': <property object at 0x7fe46b8cdae0>, 'reserved3': <property object at 0x7fe46b8cdbd0>, 'reserved4': <property object at 0x7fe46b8cdcc0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TypeModuleClass)
 

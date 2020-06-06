@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -127,7 +127,7 @@ class MenuShellAccessibleClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(MenuShellAccessibleClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'MenuShellAccessibleClass' objects>, '__weakref__': <attribute '__weakref__' of 'MenuShellAccessibleClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830fedd10>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(MenuShellAccessibleClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'MenuShellAccessibleClass' objects>, '__weakref__': <attribute '__weakref__' of 'MenuShellAccessibleClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a701d60>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(MenuShellAccessibleClass)
 

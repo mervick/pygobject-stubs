@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -147,7 +147,7 @@ class EventTouchpadSwipe(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EventTouchpadSwipe), '__module__': 'gi.repository.Gdk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EventTouchpadSwipe' objects>, '__weakref__': <attribute '__weakref__' of 'EventTouchpadSwipe' objects>, '__doc__': None, 'type': <property object at 0x7f1e11c65270>, 'window': <property object at 0x7f1e11c65360>, 'send_event': <property object at 0x7f1e11c65450>, 'phase': <property object at 0x7f1e11c65540>, 'n_fingers': <property object at 0x7f1e11c65630>, 'time': <property object at 0x7f1e11c65720>, 'x': <property object at 0x7f1e11c65810>, 'y': <property object at 0x7f1e11c65900>, 'dx': <property object at 0x7f1e11c659f0>, 'dy': <property object at 0x7f1e11c65ae0>, 'x_root': <property object at 0x7f1e11c65bd0>, 'y_root': <property object at 0x7f1e11c65cc0>, 'state': <property object at 0x7f1e11c65db0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EventTouchpadSwipe), '__module__': 'gi.repository.Gdk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EventTouchpadSwipe' objects>, '__weakref__': <attribute '__weakref__' of 'EventTouchpadSwipe' objects>, '__doc__': None, 'type': <property object at 0x7fbaf81637c0>, 'window': <property object at 0x7fbaf81638b0>, 'send_event': <property object at 0x7fbaf81639a0>, 'phase': <property object at 0x7fbaf8163a90>, 'n_fingers': <property object at 0x7fbaf8163b80>, 'time': <property object at 0x7fbaf8163c70>, 'x': <property object at 0x7fbaf8163d60>, 'y': <property object at 0x7fbaf8163e50>, 'dx': <property object at 0x7fbaf8163f40>, 'dy': <property object at 0x7fbaf8164090>, 'x_root': <property object at 0x7fbaf8164180>, 'y_root': <property object at 0x7fbaf8164270>, 'state': <property object at 0x7fbaf8164360>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(EventTouchpadSwipe)
 

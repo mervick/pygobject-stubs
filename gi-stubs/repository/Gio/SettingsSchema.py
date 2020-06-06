@@ -153,8 +153,8 @@ class SettingsSchema(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SettingsSchema), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSettingsSchema (94125582694288)>, '__dict__': <attribute '__dict__' of 'SettingsSchema' objects>, '__weakref__': <attribute '__weakref__' of 'SettingsSchema' objects>, '__doc__': None, 'get_id': gi.FunctionInfo(get_id), 'get_key': gi.FunctionInfo(get_key), 'get_path': gi.FunctionInfo(get_path), 'has_key': gi.FunctionInfo(has_key), 'list_children': gi.FunctionInfo(list_children), 'list_keys': gi.FunctionInfo(list_keys), 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref)})"
-    __gtype__ = None # (!) real value is '<GType GSettingsSchema (94125582694288)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SettingsSchema), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSettingsSchema (94269257323904)>, '__dict__': <attribute '__dict__' of 'SettingsSchema' objects>, '__weakref__': <attribute '__weakref__' of 'SettingsSchema' objects>, '__doc__': None, 'get_id': gi.FunctionInfo(get_id), 'get_key': gi.FunctionInfo(get_key), 'get_path': gi.FunctionInfo(get_path), 'has_key': gi.FunctionInfo(has_key), 'list_children': gi.FunctionInfo(list_children), 'list_keys': gi.FunctionInfo(list_keys), 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref)})"
+    __gtype__ = None # (!) real value is '<GType GSettingsSchema (94269257323904)>'
     __info__ = StructInfo(SettingsSchema)
 
 

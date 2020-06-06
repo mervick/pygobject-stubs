@@ -360,14 +360,14 @@ class DataStreamNewlineType(__gobject.GEnum):
     CR_LF = 2
     LF = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DataStreamNewlineType' objects>, '__doc__': None, '__gtype__': <GType GDataStreamNewlineType (94125582204112)>, '__enum_values__': {0: <enum G_DATA_STREAM_NEWLINE_TYPE_LF of type Gio.DataStreamNewlineType>, 1: <enum G_DATA_STREAM_NEWLINE_TYPE_CR of type Gio.DataStreamNewlineType>, 2: <enum G_DATA_STREAM_NEWLINE_TYPE_CR_LF of type Gio.DataStreamNewlineType>, 3: <enum G_DATA_STREAM_NEWLINE_TYPE_ANY of type Gio.DataStreamNewlineType>}, '__info__': gi.EnumInfo(DataStreamNewlineType), 'LF': <enum G_DATA_STREAM_NEWLINE_TYPE_LF of type Gio.DataStreamNewlineType>, 'CR': <enum G_DATA_STREAM_NEWLINE_TYPE_CR of type Gio.DataStreamNewlineType>, 'CR_LF': <enum G_DATA_STREAM_NEWLINE_TYPE_CR_LF of type Gio.DataStreamNewlineType>, 'ANY': <enum G_DATA_STREAM_NEWLINE_TYPE_ANY of type Gio.DataStreamNewlineType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DataStreamNewlineType' objects>, '__doc__': None, '__gtype__': <GType GDataStreamNewlineType (94269256833408)>, '__enum_values__': {0: <enum G_DATA_STREAM_NEWLINE_TYPE_LF of type Gio.DataStreamNewlineType>, 1: <enum G_DATA_STREAM_NEWLINE_TYPE_CR of type Gio.DataStreamNewlineType>, 2: <enum G_DATA_STREAM_NEWLINE_TYPE_CR_LF of type Gio.DataStreamNewlineType>, 3: <enum G_DATA_STREAM_NEWLINE_TYPE_ANY of type Gio.DataStreamNewlineType>}, '__info__': gi.EnumInfo(DataStreamNewlineType), 'LF': <enum G_DATA_STREAM_NEWLINE_TYPE_LF of type Gio.DataStreamNewlineType>, 'CR': <enum G_DATA_STREAM_NEWLINE_TYPE_CR of type Gio.DataStreamNewlineType>, 'CR_LF': <enum G_DATA_STREAM_NEWLINE_TYPE_CR_LF of type Gio.DataStreamNewlineType>, 'ANY': <enum G_DATA_STREAM_NEWLINE_TYPE_ANY of type Gio.DataStreamNewlineType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GDataStreamNewlineType (94125582204112)>'
+    __gtype__ = None # (!) real value is '<GType GDataStreamNewlineType (94269256833408)>'
     __info__ = gi.EnumInfo(DataStreamNewlineType)
 
 

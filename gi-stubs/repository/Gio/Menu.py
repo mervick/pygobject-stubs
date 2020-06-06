@@ -533,12 +533,12 @@ class Menu(MenuModel):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd3103a0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b873b94c0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Menu), '__module__': 'gi.repository.Gio', '__gtype__': <GType GMenu (94125582487232)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'append': gi.FunctionInfo(append), 'append_item': gi.FunctionInfo(append_item), 'append_section': gi.FunctionInfo(append_section), 'append_submenu': gi.FunctionInfo(append_submenu), 'freeze': gi.FunctionInfo(freeze), 'insert': gi.FunctionInfo(insert), 'insert_item': gi.FunctionInfo(insert_item), 'insert_section': gi.FunctionInfo(insert_section), 'insert_submenu': gi.FunctionInfo(insert_submenu), 'prepend': gi.FunctionInfo(prepend), 'prepend_item': gi.FunctionInfo(prepend_item), 'prepend_section': gi.FunctionInfo(prepend_section), 'prepend_submenu': gi.FunctionInfo(prepend_submenu), 'remove': gi.FunctionInfo(remove), 'remove_all': gi.FunctionInfo(remove_all)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Menu), '__module__': 'gi.repository.Gio', '__gtype__': <GType GMenu (94269257116368)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'append': gi.FunctionInfo(append), 'append_item': gi.FunctionInfo(append_item), 'append_section': gi.FunctionInfo(append_section), 'append_submenu': gi.FunctionInfo(append_submenu), 'freeze': gi.FunctionInfo(freeze), 'insert': gi.FunctionInfo(insert), 'insert_item': gi.FunctionInfo(insert_item), 'insert_section': gi.FunctionInfo(insert_section), 'insert_submenu': gi.FunctionInfo(insert_submenu), 'prepend': gi.FunctionInfo(prepend), 'prepend_item': gi.FunctionInfo(prepend_item), 'prepend_section': gi.FunctionInfo(prepend_section), 'prepend_submenu': gi.FunctionInfo(prepend_submenu), 'remove': gi.FunctionInfo(remove), 'remove_all': gi.FunctionInfo(remove_all)})"
     __gdoc__ = 'Object GMenu\n\nSignals from GMenuModel:\n  items-changed (gint, gint, gint)\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GMenu (94125582487232)>'
+    __gtype__ = None # (!) real value is '<GType GMenu (94269257116368)>'
     __info__ = ObjectInfo(Menu)
 
 

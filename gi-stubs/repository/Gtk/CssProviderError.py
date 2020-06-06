@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -369,7 +369,7 @@ class CssProviderError(__gobject.GEnum):
     SYNTAX = 1
     UNKNOWN_VALUE = 5
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'CssProviderError' objects>, '__doc__': None, '__gtype__': <GType GtkCssProviderError (94846038159024)>, '__enum_values__': {0: <enum GTK_CSS_PROVIDER_ERROR_FAILED of type Gtk.CssProviderError>, 1: <enum GTK_CSS_PROVIDER_ERROR_SYNTAX of type Gtk.CssProviderError>, 2: <enum GTK_CSS_PROVIDER_ERROR_IMPORT of type Gtk.CssProviderError>, 3: <enum GTK_CSS_PROVIDER_ERROR_NAME of type Gtk.CssProviderError>, 4: <enum GTK_CSS_PROVIDER_ERROR_DEPRECATED of type Gtk.CssProviderError>, 5: <enum GTK_CSS_PROVIDER_ERROR_UNKNOWN_VALUE of type Gtk.CssProviderError>}, '__info__': gi.EnumInfo(CssProviderError), 'FAILED': <enum GTK_CSS_PROVIDER_ERROR_FAILED of type Gtk.CssProviderError>, 'SYNTAX': <enum GTK_CSS_PROVIDER_ERROR_SYNTAX of type Gtk.CssProviderError>, 'IMPORT': <enum GTK_CSS_PROVIDER_ERROR_IMPORT of type Gtk.CssProviderError>, 'NAME': <enum GTK_CSS_PROVIDER_ERROR_NAME of type Gtk.CssProviderError>, 'DEPRECATED': <enum GTK_CSS_PROVIDER_ERROR_DEPRECATED of type Gtk.CssProviderError>, 'UNKNOWN_VALUE': <enum GTK_CSS_PROVIDER_ERROR_UNKNOWN_VALUE of type Gtk.CssProviderError>, 'quark': gi.FunctionInfo(quark)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'CssProviderError' objects>, '__doc__': None, '__gtype__': <GType GtkCssProviderError (93897368373872)>, '__enum_values__': {0: <enum GTK_CSS_PROVIDER_ERROR_FAILED of type Gtk.CssProviderError>, 1: <enum GTK_CSS_PROVIDER_ERROR_SYNTAX of type Gtk.CssProviderError>, 2: <enum GTK_CSS_PROVIDER_ERROR_IMPORT of type Gtk.CssProviderError>, 3: <enum GTK_CSS_PROVIDER_ERROR_NAME of type Gtk.CssProviderError>, 4: <enum GTK_CSS_PROVIDER_ERROR_DEPRECATED of type Gtk.CssProviderError>, 5: <enum GTK_CSS_PROVIDER_ERROR_UNKNOWN_VALUE of type Gtk.CssProviderError>}, '__info__': gi.EnumInfo(CssProviderError), 'FAILED': <enum GTK_CSS_PROVIDER_ERROR_FAILED of type Gtk.CssProviderError>, 'SYNTAX': <enum GTK_CSS_PROVIDER_ERROR_SYNTAX of type Gtk.CssProviderError>, 'IMPORT': <enum GTK_CSS_PROVIDER_ERROR_IMPORT of type Gtk.CssProviderError>, 'NAME': <enum GTK_CSS_PROVIDER_ERROR_NAME of type Gtk.CssProviderError>, 'DEPRECATED': <enum GTK_CSS_PROVIDER_ERROR_DEPRECATED of type Gtk.CssProviderError>, 'UNKNOWN_VALUE': <enum GTK_CSS_PROVIDER_ERROR_UNKNOWN_VALUE of type Gtk.CssProviderError>, 'quark': gi.FunctionInfo(quark)})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -378,7 +378,7 @@ class CssProviderError(__gobject.GEnum):
         4: 4,
         5: 5,
     }
-    __gtype__ = None # (!) real value is '<GType GtkCssProviderError (94846038159024)>'
+    __gtype__ = None # (!) real value is '<GType GtkCssProviderError (93897368373872)>'
     __info__ = gi.EnumInfo(CssProviderError)
 
 

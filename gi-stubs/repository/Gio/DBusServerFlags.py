@@ -364,13 +364,13 @@ class DBusServerFlags(__gobject.GFlags):
     NONE = 0
     RUN_IN_THREAD = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusServerFlags' objects>, '__doc__': None, '__gtype__': <GType GDBusServerFlags (94125582180400)>, '__flags_values__': {0: <flags 0 of type Gio.DBusServerFlags>, 1: <flags G_DBUS_SERVER_FLAGS_RUN_IN_THREAD of type Gio.DBusServerFlags>, 2: <flags G_DBUS_SERVER_FLAGS_AUTHENTICATION_ALLOW_ANONYMOUS of type Gio.DBusServerFlags>}, '__info__': gi.EnumInfo(DBusServerFlags), 'NONE': <flags 0 of type Gio.DBusServerFlags>, 'RUN_IN_THREAD': <flags G_DBUS_SERVER_FLAGS_RUN_IN_THREAD of type Gio.DBusServerFlags>, 'AUTHENTICATION_ALLOW_ANONYMOUS': <flags G_DBUS_SERVER_FLAGS_AUTHENTICATION_ALLOW_ANONYMOUS of type Gio.DBusServerFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusServerFlags' objects>, '__doc__': None, '__gtype__': <GType GDBusServerFlags (94269256804560)>, '__flags_values__': {0: <flags 0 of type Gio.DBusServerFlags>, 1: <flags G_DBUS_SERVER_FLAGS_RUN_IN_THREAD of type Gio.DBusServerFlags>, 2: <flags G_DBUS_SERVER_FLAGS_AUTHENTICATION_ALLOW_ANONYMOUS of type Gio.DBusServerFlags>}, '__info__': gi.EnumInfo(DBusServerFlags), 'NONE': <flags 0 of type Gio.DBusServerFlags>, 'RUN_IN_THREAD': <flags G_DBUS_SERVER_FLAGS_RUN_IN_THREAD of type Gio.DBusServerFlags>, 'AUTHENTICATION_ALLOW_ANONYMOUS': <flags G_DBUS_SERVER_FLAGS_AUTHENTICATION_ALLOW_ANONYMOUS of type Gio.DBusServerFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GDBusServerFlags (94125582180400)>'
+    __gtype__ = None # (!) real value is '<GType GDBusServerFlags (94269256804560)>'
     __info__ = gi.EnumInfo(DBusServerFlags)
 
 

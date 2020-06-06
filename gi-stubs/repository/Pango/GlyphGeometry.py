@@ -126,7 +126,7 @@ class GlyphGeometry(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(GlyphGeometry), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'GlyphGeometry' objects>, '__weakref__': <attribute '__weakref__' of 'GlyphGeometry' objects>, '__doc__': None, 'width': <property object at 0x7f24746f54a0>, 'x_offset': <property object at 0x7f24746f5590>, 'y_offset': <property object at 0x7f24746f5680>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(GlyphGeometry), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'GlyphGeometry' objects>, '__weakref__': <attribute '__weakref__' of 'GlyphGeometry' objects>, '__doc__': None, 'width': <property object at 0x7f851789b220>, 'x_offset': <property object at 0x7f851789b310>, 'y_offset': <property object at 0x7f851789b400>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(GlyphGeometry)
 

@@ -128,7 +128,7 @@ class RegistryClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(RegistryClass), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'RegistryClass' objects>, '__weakref__': <attribute '__weakref__' of 'RegistryClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f0cd81a7680>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(RegistryClass), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'RegistryClass' objects>, '__weakref__': <attribute '__weakref__' of 'RegistryClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f44c6dbfb80>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(RegistryClass)
 

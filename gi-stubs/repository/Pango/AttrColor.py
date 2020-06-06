@@ -124,7 +124,7 @@ class AttrColor(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AttrColor), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AttrColor' objects>, '__weakref__': <attribute '__weakref__' of 'AttrColor' objects>, '__doc__': None, 'attr': <property object at 0x7f24746ded60>, 'color': <property object at 0x7f24746dee50>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AttrColor), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AttrColor' objects>, '__weakref__': <attribute '__weakref__' of 'AttrColor' objects>, '__doc__': None, 'attr': <property object at 0x7f8517880b80>, 'color': <property object at 0x7f8517880c70>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(AttrColor)
 

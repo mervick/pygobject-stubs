@@ -1019,9 +1019,9 @@ TYPE_FLAGS = None # (!) real value is '<GType GFlags (52)>'
 
 TYPE_FLOAT = None # (!) real value is '<GType gfloat (56)>'
 
-TYPE_GSTRING = None # (!) real value is '<GType GString (93895378965616)>'
+TYPE_GSTRING = None # (!) real value is '<GType GString (94184341431568)>'
 
-TYPE_GTYPE = None # (!) real value is '<GType GType (93895378959344)>'
+TYPE_GTYPE = None # (!) real value is '<GType GType (94184341424592)>'
 
 TYPE_INT = None # (!) real value is '<GType gint (24)>'
 
@@ -1041,11 +1041,11 @@ TYPE_PARAM = None # (!) real value is '<GType GParam (76)>'
 
 TYPE_POINTER = None # (!) real value is '<GType gpointer (68)>'
 
-TYPE_PYOBJECT = None # (!) real value is '<GType PyObject (93895378949056)>'
+TYPE_PYOBJECT = None # (!) real value is '<GType PyObject (94184341414544)>'
 
 TYPE_STRING = None # (!) real value is '<GType gchararray (64)>'
 
-TYPE_STRV = None # (!) real value is '<GType GStrv (93895378974208)>'
+TYPE_STRV = None # (!) real value is '<GType GStrv (94184341431232)>'
 
 TYPE_UCHAR = None # (!) real value is '<GType guchar (16)>'
 
@@ -1057,17 +1057,17 @@ TYPE_ULONG = None # (!) real value is '<GType gulong (36)>'
 
 TYPE_UNICHAR = TYPE_UINT
 
-TYPE_VALUE = None # (!) real value is '<GType GValue (93895379331568)>'
+TYPE_VALUE = None # (!) real value is '<GType GValue (94184341797360)>'
 
 TYPE_VARIANT = None # (!) real value is '<GType GVariant (84)>'
 
 _introspection_module = None # (!) real value is "<IntrospectionModule 'GObject' from '/usr/lib64/girepository-1.0/GObject-2.0.typelib'>"
 
-__loader__ = None # (!) real value is '<gi.importer.DynamicImporter object at 0x7f7c2947a9d0>'
+__loader__ = None # (!) real value is '<gi.importer.DynamicImporter object at 0x7fe46c6f8d00>'
 
 __path__ = [
     '/usr/lib64/girepository-1.0/GObject-2.0.typelib',
 ]
 
-__spec__ = None # (!) real value is "ModuleSpec(name='gi.repository.GObject', loader=<gi.importer.DynamicImporter object at 0x7f7c2947a9d0>)"
+__spec__ = None # (!) real value is "ModuleSpec(name='gi.repository.GObject', loader=<gi.importer.DynamicImporter object at 0x7fe46c6f8d00>)"
 

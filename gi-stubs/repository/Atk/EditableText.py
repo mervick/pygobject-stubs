@@ -147,10 +147,10 @@ class EditableText(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(EditableText), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkEditableText (93922956178752)>, '__dict__': <attribute '__dict__' of 'EditableText' objects>, '__weakref__': <attribute '__weakref__' of 'EditableText' objects>, '__doc__': None, '__gsignals__': {}, 'copy_text': gi.FunctionInfo(copy_text), 'cut_text': gi.FunctionInfo(cut_text), 'delete_text': gi.FunctionInfo(delete_text), 'insert_text': gi.FunctionInfo(insert_text), 'paste_text': gi.FunctionInfo(paste_text), 'set_run_attributes': gi.FunctionInfo(set_run_attributes), 'set_text_contents': gi.FunctionInfo(set_text_contents)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(EditableText), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkEditableText (94258337624176)>, '__dict__': <attribute '__dict__' of 'EditableText' objects>, '__weakref__': <attribute '__weakref__' of 'EditableText' objects>, '__doc__': None, '__gsignals__': {}, 'copy_text': gi.FunctionInfo(copy_text), 'cut_text': gi.FunctionInfo(cut_text), 'delete_text': gi.FunctionInfo(delete_text), 'insert_text': gi.FunctionInfo(insert_text), 'paste_text': gi.FunctionInfo(paste_text), 'set_run_attributes': gi.FunctionInfo(set_run_attributes), 'set_text_contents': gi.FunctionInfo(set_text_contents)})"
     __gdoc__ = 'Interface AtkEditableText\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType AtkEditableText (93922956178752)>'
+    __gtype__ = None # (!) real value is '<GType AtkEditableText (94258337624176)>'
     __info__ = InterfaceInfo(EditableText)
 
 

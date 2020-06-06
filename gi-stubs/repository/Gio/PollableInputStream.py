@@ -131,10 +131,10 @@ class PollableInputStream(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(PollableInputStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GPollableInputStream (94125581280256)>, '__dict__': <attribute '__dict__' of 'PollableInputStream' objects>, '__weakref__': <attribute '__weakref__' of 'PollableInputStream' objects>, '__doc__': None, '__gsignals__': {}, 'can_poll': gi.FunctionInfo(can_poll), 'create_source': gi.FunctionInfo(create_source), 'is_readable': gi.FunctionInfo(is_readable), 'read_nonblocking': gi.FunctionInfo(read_nonblocking)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(PollableInputStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GPollableInputStream (94269256699664)>, '__dict__': <attribute '__dict__' of 'PollableInputStream' objects>, '__weakref__': <attribute '__weakref__' of 'PollableInputStream' objects>, '__doc__': None, '__gsignals__': {}, 'can_poll': gi.FunctionInfo(can_poll), 'create_source': gi.FunctionInfo(create_source), 'is_readable': gi.FunctionInfo(is_readable), 'read_nonblocking': gi.FunctionInfo(read_nonblocking)})"
     __gdoc__ = 'Interface GPollableInputStream\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GPollableInputStream (94125581280256)>'
+    __gtype__ = None # (!) real value is '<GType GPollableInputStream (94269256699664)>'
     __info__ = InterfaceInfo(PollableInputStream)
 
 

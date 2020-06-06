@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -166,10 +166,10 @@ class CellAccessibleParent(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(CellAccessibleParent), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkCellAccessibleParent (94846038016096)>, '__dict__': <attribute '__dict__' of 'CellAccessibleParent' objects>, '__weakref__': <attribute '__weakref__' of 'CellAccessibleParent' objects>, '__doc__': None, '__gsignals__': {}, 'activate': gi.FunctionInfo(activate), 'edit': gi.FunctionInfo(edit), 'expand_collapse': gi.FunctionInfo(expand_collapse), 'get_cell_area': gi.FunctionInfo(get_cell_area), 'get_cell_extents': gi.FunctionInfo(get_cell_extents), 'get_cell_position': gi.FunctionInfo(get_cell_position), 'get_child_index': gi.FunctionInfo(get_child_index), 'get_column_header_cells': gi.FunctionInfo(get_column_header_cells), 'get_renderer_state': gi.FunctionInfo(get_renderer_state), 'get_row_header_cells': gi.FunctionInfo(get_row_header_cells), 'grab_focus': gi.FunctionInfo(grab_focus), 'update_relationset': gi.FunctionInfo(update_relationset)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(CellAccessibleParent), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkCellAccessibleParent (93897368230960)>, '__dict__': <attribute '__dict__' of 'CellAccessibleParent' objects>, '__weakref__': <attribute '__weakref__' of 'CellAccessibleParent' objects>, '__doc__': None, '__gsignals__': {}, 'activate': gi.FunctionInfo(activate), 'edit': gi.FunctionInfo(edit), 'expand_collapse': gi.FunctionInfo(expand_collapse), 'get_cell_area': gi.FunctionInfo(get_cell_area), 'get_cell_extents': gi.FunctionInfo(get_cell_extents), 'get_cell_position': gi.FunctionInfo(get_cell_position), 'get_child_index': gi.FunctionInfo(get_child_index), 'get_column_header_cells': gi.FunctionInfo(get_column_header_cells), 'get_renderer_state': gi.FunctionInfo(get_renderer_state), 'get_row_header_cells': gi.FunctionInfo(get_row_header_cells), 'grab_focus': gi.FunctionInfo(grab_focus), 'update_relationset': gi.FunctionInfo(update_relationset)})"
     __gdoc__ = 'Interface GtkCellAccessibleParent\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkCellAccessibleParent (94846038016096)>'
+    __gtype__ = None # (!) real value is '<GType GtkCellAccessibleParent (93897368230960)>'
     __info__ = InterfaceInfo(CellAccessibleParent)
 
 

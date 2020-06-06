@@ -361,7 +361,7 @@ class ResolverRecordType(__gobject.GEnum):
     SRV = 1
     TXT = 3
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'ResolverRecordType' objects>, '__doc__': None, '__gtype__': <GType GResolverRecordType (94125582071952)>, '__enum_values__': {1: <enum G_RESOLVER_RECORD_SRV of type Gio.ResolverRecordType>, 2: <enum G_RESOLVER_RECORD_MX of type Gio.ResolverRecordType>, 3: <enum G_RESOLVER_RECORD_TXT of type Gio.ResolverRecordType>, 4: <enum G_RESOLVER_RECORD_SOA of type Gio.ResolverRecordType>, 5: <enum G_RESOLVER_RECORD_NS of type Gio.ResolverRecordType>}, '__info__': gi.EnumInfo(ResolverRecordType), 'SRV': <enum G_RESOLVER_RECORD_SRV of type Gio.ResolverRecordType>, 'MX': <enum G_RESOLVER_RECORD_MX of type Gio.ResolverRecordType>, 'TXT': <enum G_RESOLVER_RECORD_TXT of type Gio.ResolverRecordType>, 'SOA': <enum G_RESOLVER_RECORD_SOA of type Gio.ResolverRecordType>, 'NS': <enum G_RESOLVER_RECORD_NS of type Gio.ResolverRecordType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'ResolverRecordType' objects>, '__doc__': None, '__gtype__': <GType GResolverRecordType (94269256697824)>, '__enum_values__': {1: <enum G_RESOLVER_RECORD_SRV of type Gio.ResolverRecordType>, 2: <enum G_RESOLVER_RECORD_MX of type Gio.ResolverRecordType>, 3: <enum G_RESOLVER_RECORD_TXT of type Gio.ResolverRecordType>, 4: <enum G_RESOLVER_RECORD_SOA of type Gio.ResolverRecordType>, 5: <enum G_RESOLVER_RECORD_NS of type Gio.ResolverRecordType>}, '__info__': gi.EnumInfo(ResolverRecordType), 'SRV': <enum G_RESOLVER_RECORD_SRV of type Gio.ResolverRecordType>, 'MX': <enum G_RESOLVER_RECORD_MX of type Gio.ResolverRecordType>, 'TXT': <enum G_RESOLVER_RECORD_TXT of type Gio.ResolverRecordType>, 'SOA': <enum G_RESOLVER_RECORD_SOA of type Gio.ResolverRecordType>, 'NS': <enum G_RESOLVER_RECORD_NS of type Gio.ResolverRecordType>})"
     __enum_values__ = {
         1: 1,
         2: 2,
@@ -369,7 +369,7 @@ class ResolverRecordType(__gobject.GEnum):
         4: 4,
         5: 5,
     }
-    __gtype__ = None # (!) real value is '<GType GResolverRecordType (94125582071952)>'
+    __gtype__ = None # (!) real value is '<GType GResolverRecordType (94269256697824)>'
     __info__ = gi.EnumInfo(ResolverRecordType)
 
 

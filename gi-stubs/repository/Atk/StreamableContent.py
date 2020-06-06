@@ -135,10 +135,10 @@ class StreamableContent(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(StreamableContent), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkStreamableContent (93922956052976)>, '__dict__': <attribute '__dict__' of 'StreamableContent' objects>, '__weakref__': <attribute '__weakref__' of 'StreamableContent' objects>, '__doc__': None, '__gsignals__': {}, 'get_mime_type': gi.FunctionInfo(get_mime_type), 'get_n_mime_types': gi.FunctionInfo(get_n_mime_types), 'get_stream': gi.FunctionInfo(get_stream), 'get_uri': gi.FunctionInfo(get_uri)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(StreamableContent), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkStreamableContent (94258338204720)>, '__dict__': <attribute '__dict__' of 'StreamableContent' objects>, '__weakref__': <attribute '__weakref__' of 'StreamableContent' objects>, '__doc__': None, '__gsignals__': {}, 'get_mime_type': gi.FunctionInfo(get_mime_type), 'get_n_mime_types': gi.FunctionInfo(get_n_mime_types), 'get_stream': gi.FunctionInfo(get_stream), 'get_uri': gi.FunctionInfo(get_uri)})"
     __gdoc__ = 'Interface AtkStreamableContent\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType AtkStreamableContent (93922956052976)>'
+    __gtype__ = None # (!) real value is '<GType AtkStreamableContent (94258338204720)>'
     __info__ = InterfaceInfo(StreamableContent)
 
 

@@ -135,10 +135,10 @@ class Proxy(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Proxy), '__module__': 'gi.repository.Gio', '__gtype__': <GType GProxy (94125582592032)>, '__dict__': <attribute '__dict__' of 'Proxy' objects>, '__weakref__': <attribute '__weakref__' of 'Proxy' objects>, '__doc__': None, '__gsignals__': {}, 'get_default_for_protocol': gi.FunctionInfo(get_default_for_protocol), 'connect': gi.FunctionInfo(connect), 'connect_async': gi.FunctionInfo(connect_async), 'connect_finish': gi.FunctionInfo(connect_finish), 'supports_hostname': gi.FunctionInfo(supports_hostname)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Proxy), '__module__': 'gi.repository.Gio', '__gtype__': <GType GProxy (94269257221248)>, '__dict__': <attribute '__dict__' of 'Proxy' objects>, '__weakref__': <attribute '__weakref__' of 'Proxy' objects>, '__doc__': None, '__gsignals__': {}, 'get_default_for_protocol': gi.FunctionInfo(get_default_for_protocol), 'connect': gi.FunctionInfo(connect), 'connect_async': gi.FunctionInfo(connect_async), 'connect_finish': gi.FunctionInfo(connect_finish), 'supports_hostname': gi.FunctionInfo(supports_hostname)})"
     __gdoc__ = 'Interface GProxy\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GProxy (94125582592032)>'
+    __gtype__ = None # (!) real value is '<GType GProxy (94269257221248)>'
     __info__ = InterfaceInfo(Proxy)
 
 

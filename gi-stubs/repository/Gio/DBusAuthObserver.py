@@ -415,12 +415,12 @@ class DBusAuthObserver(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd521190>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87732070>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DBusAuthObserver), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDBusAuthObserver (94125582092128)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'allow_mechanism': gi.FunctionInfo(allow_mechanism), 'authorize_authenticated_peer': gi.FunctionInfo(authorize_authenticated_peer)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DBusAuthObserver), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDBusAuthObserver (94269256718352)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'allow_mechanism': gi.FunctionInfo(allow_mechanism), 'authorize_authenticated_peer': gi.FunctionInfo(authorize_authenticated_peer)})"
     __gdoc__ = 'Object GDBusAuthObserver\n\nSignals from GDBusAuthObserver:\n  authorize-authenticated-peer (GIOStream, GCredentials) -> gboolean\n  allow-mechanism (gchararray) -> gboolean\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GDBusAuthObserver (94125582092128)>'
+    __gtype__ = None # (!) real value is '<GType GDBusAuthObserver (94269256718352)>'
     __info__ = ObjectInfo(DBusAuthObserver)
 
 

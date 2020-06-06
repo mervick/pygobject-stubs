@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -367,7 +367,7 @@ class NumberUpLayout(__gobject.GEnum):
     TBLR = 4
     TBRL = 5
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'NumberUpLayout' objects>, '__doc__': None, '__gtype__': <GType GtkNumberUpLayout (94846038770336)>, '__enum_values__': {0: <enum GTK_NUMBER_UP_LAYOUT_LEFT_TO_RIGHT_TOP_TO_BOTTOM of type Gtk.NumberUpLayout>, 1: <enum GTK_NUMBER_UP_LAYOUT_LEFT_TO_RIGHT_BOTTOM_TO_TOP of type Gtk.NumberUpLayout>, 2: <enum GTK_NUMBER_UP_LAYOUT_RIGHT_TO_LEFT_TOP_TO_BOTTOM of type Gtk.NumberUpLayout>, 3: <enum GTK_NUMBER_UP_LAYOUT_RIGHT_TO_LEFT_BOTTOM_TO_TOP of type Gtk.NumberUpLayout>, 4: <enum GTK_NUMBER_UP_LAYOUT_TOP_TO_BOTTOM_LEFT_TO_RIGHT of type Gtk.NumberUpLayout>, 5: <enum GTK_NUMBER_UP_LAYOUT_TOP_TO_BOTTOM_RIGHT_TO_LEFT of type Gtk.NumberUpLayout>, 6: <enum GTK_NUMBER_UP_LAYOUT_BOTTOM_TO_TOP_LEFT_TO_RIGHT of type Gtk.NumberUpLayout>, 7: <enum GTK_NUMBER_UP_LAYOUT_BOTTOM_TO_TOP_RIGHT_TO_LEFT of type Gtk.NumberUpLayout>}, '__info__': gi.EnumInfo(NumberUpLayout), 'LRTB': <enum GTK_NUMBER_UP_LAYOUT_LEFT_TO_RIGHT_TOP_TO_BOTTOM of type Gtk.NumberUpLayout>, 'LRBT': <enum GTK_NUMBER_UP_LAYOUT_LEFT_TO_RIGHT_BOTTOM_TO_TOP of type Gtk.NumberUpLayout>, 'RLTB': <enum GTK_NUMBER_UP_LAYOUT_RIGHT_TO_LEFT_TOP_TO_BOTTOM of type Gtk.NumberUpLayout>, 'RLBT': <enum GTK_NUMBER_UP_LAYOUT_RIGHT_TO_LEFT_BOTTOM_TO_TOP of type Gtk.NumberUpLayout>, 'TBLR': <enum GTK_NUMBER_UP_LAYOUT_TOP_TO_BOTTOM_LEFT_TO_RIGHT of type Gtk.NumberUpLayout>, 'TBRL': <enum GTK_NUMBER_UP_LAYOUT_TOP_TO_BOTTOM_RIGHT_TO_LEFT of type Gtk.NumberUpLayout>, 'BTLR': <enum GTK_NUMBER_UP_LAYOUT_BOTTOM_TO_TOP_LEFT_TO_RIGHT of type Gtk.NumberUpLayout>, 'BTRL': <enum GTK_NUMBER_UP_LAYOUT_BOTTOM_TO_TOP_RIGHT_TO_LEFT of type Gtk.NumberUpLayout>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'NumberUpLayout' objects>, '__doc__': None, '__gtype__': <GType GtkNumberUpLayout (93897368752688)>, '__enum_values__': {0: <enum GTK_NUMBER_UP_LAYOUT_LEFT_TO_RIGHT_TOP_TO_BOTTOM of type Gtk.NumberUpLayout>, 1: <enum GTK_NUMBER_UP_LAYOUT_LEFT_TO_RIGHT_BOTTOM_TO_TOP of type Gtk.NumberUpLayout>, 2: <enum GTK_NUMBER_UP_LAYOUT_RIGHT_TO_LEFT_TOP_TO_BOTTOM of type Gtk.NumberUpLayout>, 3: <enum GTK_NUMBER_UP_LAYOUT_RIGHT_TO_LEFT_BOTTOM_TO_TOP of type Gtk.NumberUpLayout>, 4: <enum GTK_NUMBER_UP_LAYOUT_TOP_TO_BOTTOM_LEFT_TO_RIGHT of type Gtk.NumberUpLayout>, 5: <enum GTK_NUMBER_UP_LAYOUT_TOP_TO_BOTTOM_RIGHT_TO_LEFT of type Gtk.NumberUpLayout>, 6: <enum GTK_NUMBER_UP_LAYOUT_BOTTOM_TO_TOP_LEFT_TO_RIGHT of type Gtk.NumberUpLayout>, 7: <enum GTK_NUMBER_UP_LAYOUT_BOTTOM_TO_TOP_RIGHT_TO_LEFT of type Gtk.NumberUpLayout>}, '__info__': gi.EnumInfo(NumberUpLayout), 'LRTB': <enum GTK_NUMBER_UP_LAYOUT_LEFT_TO_RIGHT_TOP_TO_BOTTOM of type Gtk.NumberUpLayout>, 'LRBT': <enum GTK_NUMBER_UP_LAYOUT_LEFT_TO_RIGHT_BOTTOM_TO_TOP of type Gtk.NumberUpLayout>, 'RLTB': <enum GTK_NUMBER_UP_LAYOUT_RIGHT_TO_LEFT_TOP_TO_BOTTOM of type Gtk.NumberUpLayout>, 'RLBT': <enum GTK_NUMBER_UP_LAYOUT_RIGHT_TO_LEFT_BOTTOM_TO_TOP of type Gtk.NumberUpLayout>, 'TBLR': <enum GTK_NUMBER_UP_LAYOUT_TOP_TO_BOTTOM_LEFT_TO_RIGHT of type Gtk.NumberUpLayout>, 'TBRL': <enum GTK_NUMBER_UP_LAYOUT_TOP_TO_BOTTOM_RIGHT_TO_LEFT of type Gtk.NumberUpLayout>, 'BTLR': <enum GTK_NUMBER_UP_LAYOUT_BOTTOM_TO_TOP_LEFT_TO_RIGHT of type Gtk.NumberUpLayout>, 'BTRL': <enum GTK_NUMBER_UP_LAYOUT_BOTTOM_TO_TOP_RIGHT_TO_LEFT of type Gtk.NumberUpLayout>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -378,7 +378,7 @@ class NumberUpLayout(__gobject.GEnum):
         6: 6,
         7: 7,
     }
-    __gtype__ = None # (!) real value is '<GType GtkNumberUpLayout (94846038770336)>'
+    __gtype__ = None # (!) real value is '<GType GtkNumberUpLayout (93897368752688)>'
     __info__ = gi.EnumInfo(NumberUpLayout)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -175,8 +175,8 @@ class SymbolicColor(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SymbolicColor), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkSymbolicColor (94846039358224)>, '__dict__': <attribute '__dict__' of 'SymbolicColor' objects>, '__weakref__': <attribute '__weakref__' of 'SymbolicColor' objects>, '__doc__': None, 'new_alpha': gi.FunctionInfo(new_alpha), 'new_literal': gi.FunctionInfo(new_literal), 'new_mix': gi.FunctionInfo(new_mix), 'new_name': gi.FunctionInfo(new_name), 'new_shade': gi.FunctionInfo(new_shade), 'new_win32': gi.FunctionInfo(new_win32), 'ref': gi.FunctionInfo(ref), 'resolve': gi.FunctionInfo(resolve), 'to_string': gi.FunctionInfo(to_string), 'unref': gi.FunctionInfo(unref)})"
-    __gtype__ = None # (!) real value is '<GType GtkSymbolicColor (94846039358224)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SymbolicColor), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkSymbolicColor (93897369559824)>, '__dict__': <attribute '__dict__' of 'SymbolicColor' objects>, '__weakref__': <attribute '__weakref__' of 'SymbolicColor' objects>, '__doc__': None, 'new_alpha': gi.FunctionInfo(new_alpha), 'new_literal': gi.FunctionInfo(new_literal), 'new_mix': gi.FunctionInfo(new_mix), 'new_name': gi.FunctionInfo(new_name), 'new_shade': gi.FunctionInfo(new_shade), 'new_win32': gi.FunctionInfo(new_win32), 'ref': gi.FunctionInfo(ref), 'resolve': gi.FunctionInfo(resolve), 'to_string': gi.FunctionInfo(to_string), 'unref': gi.FunctionInfo(unref)})"
+    __gtype__ = None # (!) real value is '<GType GtkSymbolicColor (93897369559824)>'
     __info__ = StructInfo(SymbolicColor)
 
 

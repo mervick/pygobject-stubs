@@ -362,11 +362,11 @@ class ResourceLookupFlags(__gobject.GFlags):
 
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'ResourceLookupFlags' objects>, '__doc__': None, '__gtype__': <GType GResourceLookupFlags (94125582272912)>, '__flags_values__': {0: <flags 0 of type Gio.ResourceLookupFlags>}, '__info__': gi.EnumInfo(ResourceLookupFlags), 'NONE': <flags 0 of type Gio.ResourceLookupFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'ResourceLookupFlags' objects>, '__doc__': None, '__gtype__': <GType GResourceLookupFlags (94269257283472)>, '__flags_values__': {0: <flags 0 of type Gio.ResourceLookupFlags>}, '__info__': gi.EnumInfo(ResourceLookupFlags), 'NONE': <flags 0 of type Gio.ResourceLookupFlags>})"
     __flags_values__ = {
         0: 0,
     }
-    __gtype__ = None # (!) real value is '<GType GResourceLookupFlags (94125582272912)>'
+    __gtype__ = None # (!) real value is '<GType GResourceLookupFlags (94269257283472)>'
     __info__ = gi.EnumInfo(ResourceLookupFlags)
 
 

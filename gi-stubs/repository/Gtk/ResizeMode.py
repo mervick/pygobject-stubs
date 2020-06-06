@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -362,13 +362,13 @@ class ResizeMode(__gobject.GEnum):
     PARENT = 0
     QUEUE = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ResizeMode' objects>, '__doc__': None, '__gtype__': <GType GtkResizeMode (94846037221120)>, '__enum_values__': {0: <enum GTK_RESIZE_PARENT of type Gtk.ResizeMode>, 1: <enum GTK_RESIZE_QUEUE of type Gtk.ResizeMode>, 2: <enum GTK_RESIZE_IMMEDIATE of type Gtk.ResizeMode>}, '__info__': gi.EnumInfo(ResizeMode), 'PARENT': <enum GTK_RESIZE_PARENT of type Gtk.ResizeMode>, 'QUEUE': <enum GTK_RESIZE_QUEUE of type Gtk.ResizeMode>, 'IMMEDIATE': <enum GTK_RESIZE_IMMEDIATE of type Gtk.ResizeMode>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ResizeMode' objects>, '__doc__': None, '__gtype__': <GType GtkResizeMode (93897367436112)>, '__enum_values__': {0: <enum GTK_RESIZE_PARENT of type Gtk.ResizeMode>, 1: <enum GTK_RESIZE_QUEUE of type Gtk.ResizeMode>, 2: <enum GTK_RESIZE_IMMEDIATE of type Gtk.ResizeMode>}, '__info__': gi.EnumInfo(ResizeMode), 'PARENT': <enum GTK_RESIZE_PARENT of type Gtk.ResizeMode>, 'QUEUE': <enum GTK_RESIZE_QUEUE of type Gtk.ResizeMode>, 'IMMEDIATE': <enum GTK_RESIZE_IMMEDIATE of type Gtk.ResizeMode>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GtkResizeMode (94846037221120)>'
+    __gtype__ = None # (!) real value is '<GType GtkResizeMode (93897367436112)>'
     __info__ = gi.EnumInfo(ResizeMode)
 
 

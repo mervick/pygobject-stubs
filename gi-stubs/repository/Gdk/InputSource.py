@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -364,7 +364,7 @@ class InputSource(__gobject.GEnum):
     TOUCHSCREEN = 5
     TRACKPOINT = 7
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'InputSource' objects>, '__doc__': None, '__gtype__': <GType GdkInputSource (94055650959712)>, '__enum_values__': {0: <enum GDK_SOURCE_MOUSE of type Gdk.InputSource>, 1: <enum GDK_SOURCE_PEN of type Gdk.InputSource>, 2: <enum GDK_SOURCE_ERASER of type Gdk.InputSource>, 3: <enum GDK_SOURCE_CURSOR of type Gdk.InputSource>, 4: <enum GDK_SOURCE_KEYBOARD of type Gdk.InputSource>, 5: <enum GDK_SOURCE_TOUCHSCREEN of type Gdk.InputSource>, 6: <enum GDK_SOURCE_TOUCHPAD of type Gdk.InputSource>, 7: <enum GDK_SOURCE_TRACKPOINT of type Gdk.InputSource>, 8: <enum GDK_SOURCE_TABLET_PAD of type Gdk.InputSource>}, '__info__': gi.EnumInfo(InputSource), 'MOUSE': <enum GDK_SOURCE_MOUSE of type Gdk.InputSource>, 'PEN': <enum GDK_SOURCE_PEN of type Gdk.InputSource>, 'ERASER': <enum GDK_SOURCE_ERASER of type Gdk.InputSource>, 'CURSOR': <enum GDK_SOURCE_CURSOR of type Gdk.InputSource>, 'KEYBOARD': <enum GDK_SOURCE_KEYBOARD of type Gdk.InputSource>, 'TOUCHSCREEN': <enum GDK_SOURCE_TOUCHSCREEN of type Gdk.InputSource>, 'TOUCHPAD': <enum GDK_SOURCE_TOUCHPAD of type Gdk.InputSource>, 'TRACKPOINT': <enum GDK_SOURCE_TRACKPOINT of type Gdk.InputSource>, 'TABLET_PAD': <enum GDK_SOURCE_TABLET_PAD of type Gdk.InputSource>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'InputSource' objects>, '__doc__': None, '__gtype__': <GType GdkInputSource (94915768525072)>, '__enum_values__': {0: <enum GDK_SOURCE_MOUSE of type Gdk.InputSource>, 1: <enum GDK_SOURCE_PEN of type Gdk.InputSource>, 2: <enum GDK_SOURCE_ERASER of type Gdk.InputSource>, 3: <enum GDK_SOURCE_CURSOR of type Gdk.InputSource>, 4: <enum GDK_SOURCE_KEYBOARD of type Gdk.InputSource>, 5: <enum GDK_SOURCE_TOUCHSCREEN of type Gdk.InputSource>, 6: <enum GDK_SOURCE_TOUCHPAD of type Gdk.InputSource>, 7: <enum GDK_SOURCE_TRACKPOINT of type Gdk.InputSource>, 8: <enum GDK_SOURCE_TABLET_PAD of type Gdk.InputSource>}, '__info__': gi.EnumInfo(InputSource), 'MOUSE': <enum GDK_SOURCE_MOUSE of type Gdk.InputSource>, 'PEN': <enum GDK_SOURCE_PEN of type Gdk.InputSource>, 'ERASER': <enum GDK_SOURCE_ERASER of type Gdk.InputSource>, 'CURSOR': <enum GDK_SOURCE_CURSOR of type Gdk.InputSource>, 'KEYBOARD': <enum GDK_SOURCE_KEYBOARD of type Gdk.InputSource>, 'TOUCHSCREEN': <enum GDK_SOURCE_TOUCHSCREEN of type Gdk.InputSource>, 'TOUCHPAD': <enum GDK_SOURCE_TOUCHPAD of type Gdk.InputSource>, 'TRACKPOINT': <enum GDK_SOURCE_TRACKPOINT of type Gdk.InputSource>, 'TABLET_PAD': <enum GDK_SOURCE_TABLET_PAD of type Gdk.InputSource>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -376,7 +376,7 @@ class InputSource(__gobject.GEnum):
         7: 7,
         8: 8,
     }
-    __gtype__ = None # (!) real value is '<GType GdkInputSource (94055650959712)>'
+    __gtype__ = None # (!) real value is '<GType GdkInputSource (94915768525072)>'
     __info__ = gi.EnumInfo(InputSource)
 
 

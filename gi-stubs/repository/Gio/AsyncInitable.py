@@ -131,10 +131,10 @@ class AsyncInitable(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(AsyncInitable), '__module__': 'gi.repository.Gio', '__gtype__': <GType GAsyncInitable (94125581506608)>, '__dict__': <attribute '__dict__' of 'AsyncInitable' objects>, '__weakref__': <attribute '__weakref__' of 'AsyncInitable' objects>, '__doc__': None, '__gsignals__': {}, 'newv_async': gi.FunctionInfo(newv_async), 'init_async': gi.FunctionInfo(init_async), 'init_finish': gi.FunctionInfo(init_finish), 'new_finish': gi.FunctionInfo(new_finish)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(AsyncInitable), '__module__': 'gi.repository.Gio', '__gtype__': <GType GAsyncInitable (94269256141232)>, '__dict__': <attribute '__dict__' of 'AsyncInitable' objects>, '__weakref__': <attribute '__weakref__' of 'AsyncInitable' objects>, '__doc__': None, '__gsignals__': {}, 'newv_async': gi.FunctionInfo(newv_async), 'init_async': gi.FunctionInfo(init_async), 'init_finish': gi.FunctionInfo(init_finish), 'new_finish': gi.FunctionInfo(new_finish)})"
     __gdoc__ = 'Interface GAsyncInitable\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GAsyncInitable (94125581506608)>'
+    __gtype__ = None # (!) real value is '<GType GAsyncInitable (94269256141232)>'
     __info__ = InterfaceInfo(AsyncInitable)
 
 

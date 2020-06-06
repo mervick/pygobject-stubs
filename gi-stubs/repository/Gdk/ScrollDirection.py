@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -360,7 +360,7 @@ class ScrollDirection(__gobject.GEnum):
     SMOOTH = 4
     UP = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'ScrollDirection' objects>, '__doc__': None, '__gtype__': <GType GdkScrollDirection (94055651295952)>, '__enum_values__': {0: <enum GDK_SCROLL_UP of type Gdk.ScrollDirection>, 1: <enum GDK_SCROLL_DOWN of type Gdk.ScrollDirection>, 2: <enum GDK_SCROLL_LEFT of type Gdk.ScrollDirection>, 3: <enum GDK_SCROLL_RIGHT of type Gdk.ScrollDirection>, 4: <enum GDK_SCROLL_SMOOTH of type Gdk.ScrollDirection>}, '__info__': gi.EnumInfo(ScrollDirection), 'UP': <enum GDK_SCROLL_UP of type Gdk.ScrollDirection>, 'DOWN': <enum GDK_SCROLL_DOWN of type Gdk.ScrollDirection>, 'LEFT': <enum GDK_SCROLL_LEFT of type Gdk.ScrollDirection>, 'RIGHT': <enum GDK_SCROLL_RIGHT of type Gdk.ScrollDirection>, 'SMOOTH': <enum GDK_SCROLL_SMOOTH of type Gdk.ScrollDirection>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'ScrollDirection' objects>, '__doc__': None, '__gtype__': <GType GdkScrollDirection (94915769405312)>, '__enum_values__': {0: <enum GDK_SCROLL_UP of type Gdk.ScrollDirection>, 1: <enum GDK_SCROLL_DOWN of type Gdk.ScrollDirection>, 2: <enum GDK_SCROLL_LEFT of type Gdk.ScrollDirection>, 3: <enum GDK_SCROLL_RIGHT of type Gdk.ScrollDirection>, 4: <enum GDK_SCROLL_SMOOTH of type Gdk.ScrollDirection>}, '__info__': gi.EnumInfo(ScrollDirection), 'UP': <enum GDK_SCROLL_UP of type Gdk.ScrollDirection>, 'DOWN': <enum GDK_SCROLL_DOWN of type Gdk.ScrollDirection>, 'LEFT': <enum GDK_SCROLL_LEFT of type Gdk.ScrollDirection>, 'RIGHT': <enum GDK_SCROLL_RIGHT of type Gdk.ScrollDirection>, 'SMOOTH': <enum GDK_SCROLL_SMOOTH of type Gdk.ScrollDirection>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -368,7 +368,7 @@ class ScrollDirection(__gobject.GEnum):
         3: 3,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType GdkScrollDirection (94055651295952)>'
+    __gtype__ = None # (!) real value is '<GType GdkScrollDirection (94915769405312)>'
     __info__ = gi.EnumInfo(ScrollDirection)
 
 

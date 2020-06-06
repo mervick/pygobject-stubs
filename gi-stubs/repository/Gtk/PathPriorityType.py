@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -365,7 +365,7 @@ class PathPriorityType(__gobject.GEnum):
     RC = 12
     THEME = 10
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PathPriorityType' objects>, '__doc__': None, '__gtype__': <GType GtkPathPriorityType (94846038754064)>, '__enum_values__': {0: <enum GTK_PATH_PRIO_LOWEST of type Gtk.PathPriorityType>, 4: <enum GTK_PATH_PRIO_GTK of type Gtk.PathPriorityType>, 8: <enum GTK_PATH_PRIO_APPLICATION of type Gtk.PathPriorityType>, 10: <enum GTK_PATH_PRIO_THEME of type Gtk.PathPriorityType>, 12: <enum GTK_PATH_PRIO_RC of type Gtk.PathPriorityType>, 15: <enum GTK_PATH_PRIO_HIGHEST of type Gtk.PathPriorityType>}, '__info__': gi.EnumInfo(PathPriorityType), 'LOWEST': <enum GTK_PATH_PRIO_LOWEST of type Gtk.PathPriorityType>, 'GTK': <enum GTK_PATH_PRIO_GTK of type Gtk.PathPriorityType>, 'APPLICATION': <enum GTK_PATH_PRIO_APPLICATION of type Gtk.PathPriorityType>, 'THEME': <enum GTK_PATH_PRIO_THEME of type Gtk.PathPriorityType>, 'RC': <enum GTK_PATH_PRIO_RC of type Gtk.PathPriorityType>, 'HIGHEST': <enum GTK_PATH_PRIO_HIGHEST of type Gtk.PathPriorityType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PathPriorityType' objects>, '__doc__': None, '__gtype__': <GType GtkPathPriorityType (93897369060032)>, '__enum_values__': {0: <enum GTK_PATH_PRIO_LOWEST of type Gtk.PathPriorityType>, 4: <enum GTK_PATH_PRIO_GTK of type Gtk.PathPriorityType>, 8: <enum GTK_PATH_PRIO_APPLICATION of type Gtk.PathPriorityType>, 10: <enum GTK_PATH_PRIO_THEME of type Gtk.PathPriorityType>, 12: <enum GTK_PATH_PRIO_RC of type Gtk.PathPriorityType>, 15: <enum GTK_PATH_PRIO_HIGHEST of type Gtk.PathPriorityType>}, '__info__': gi.EnumInfo(PathPriorityType), 'LOWEST': <enum GTK_PATH_PRIO_LOWEST of type Gtk.PathPriorityType>, 'GTK': <enum GTK_PATH_PRIO_GTK of type Gtk.PathPriorityType>, 'APPLICATION': <enum GTK_PATH_PRIO_APPLICATION of type Gtk.PathPriorityType>, 'THEME': <enum GTK_PATH_PRIO_THEME of type Gtk.PathPriorityType>, 'RC': <enum GTK_PATH_PRIO_RC of type Gtk.PathPriorityType>, 'HIGHEST': <enum GTK_PATH_PRIO_HIGHEST of type Gtk.PathPriorityType>})"
     __enum_values__ = {
         0: 0,
         4: 4,
@@ -374,7 +374,7 @@ class PathPriorityType(__gobject.GEnum):
         12: 12,
         15: 15,
     }
-    __gtype__ = None # (!) real value is '<GType GtkPathPriorityType (94846038754064)>'
+    __gtype__ = None # (!) real value is '<GType GtkPathPriorityType (93897369060032)>'
     __info__ = gi.EnumInfo(PathPriorityType)
 
 

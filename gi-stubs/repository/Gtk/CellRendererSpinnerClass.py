@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -135,7 +135,7 @@ class CellRendererSpinnerClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(CellRendererSpinnerClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'CellRendererSpinnerClass' objects>, '__weakref__': <attribute '__weakref__' of 'CellRendererSpinnerClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe8310ca5e0>, '_gtk_reserved1': <property object at 0x7fe8310ca6d0>, '_gtk_reserved2': <property object at 0x7fe8310ca7c0>, '_gtk_reserved3': <property object at 0x7fe8310ca8b0>, '_gtk_reserved4': <property object at 0x7fe8310ca9a0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(CellRendererSpinnerClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'CellRendererSpinnerClass' objects>, '__weakref__': <attribute '__weakref__' of 'CellRendererSpinnerClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a7df4f0>, '_gtk_reserved1': <property object at 0x7fc63a7df5e0>, '_gtk_reserved2': <property object at 0x7fc63a7df6d0>, '_gtk_reserved3': <property object at 0x7fc63a7df7c0>, '_gtk_reserved4': <property object at 0x7fc63a7df8b0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(CellRendererSpinnerClass)
 

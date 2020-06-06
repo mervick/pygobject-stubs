@@ -149,7 +149,7 @@ class ObjectConstructParam(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ObjectConstructParam), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ObjectConstructParam' objects>, '__weakref__': <attribute '__weakref__' of 'ObjectConstructParam' objects>, '__doc__': None, 'pspec': <property object at 0x7f7c286417c0>, 'value': <property object at 0x7f7c286418b0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ObjectConstructParam), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ObjectConstructParam' objects>, '__weakref__': <attribute '__weakref__' of 'ObjectConstructParam' objects>, '__doc__': None, 'pspec': <property object at 0x7fe46b8b5cc0>, 'value': <property object at 0x7fe46b8b5db0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ObjectConstructParam)
 

@@ -169,7 +169,7 @@ class TypeInterface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TypeInterface), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TypeInterface' objects>, '__weakref__': <attribute '__weakref__' of 'TypeInterface' objects>, '__doc__': None, 'g_type': <property object at 0x7f7c28658c20>, 'g_instance_type': <property object at 0x7f7c28658d10>, 'peek_parent': gi.FunctionInfo(peek_parent), 'add_prerequisite': gi.FunctionInfo(add_prerequisite), 'get_plugin': gi.FunctionInfo(get_plugin), 'peek': gi.FunctionInfo(peek), 'prerequisites': gi.FunctionInfo(prerequisites)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TypeInterface), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TypeInterface' objects>, '__weakref__': <attribute '__weakref__' of 'TypeInterface' objects>, '__doc__': None, 'g_type': <property object at 0x7fe46b8ccdb0>, 'g_instance_type': <property object at 0x7fe46b8ccea0>, 'peek_parent': gi.FunctionInfo(peek_parent), 'add_prerequisite': gi.FunctionInfo(add_prerequisite), 'get_plugin': gi.FunctionInfo(get_plugin), 'peek': gi.FunctionInfo(peek), 'prerequisites': gi.FunctionInfo(prerequisites)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TypeInterface)
 

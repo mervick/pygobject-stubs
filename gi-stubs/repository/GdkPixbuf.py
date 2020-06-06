@@ -475,11 +475,11 @@ class Colorspace(__gobject.GEnum):
 
     RGB = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GdkPixbuf', '__dict__': <attribute '__dict__' of 'Colorspace' objects>, '__doc__': None, '__gtype__': <GType GdkColorspace (94625400004240)>, '__enum_values__': {0: <enum GDK_COLORSPACE_RGB of type GdkPixbuf.Colorspace>}, '__info__': gi.EnumInfo(Colorspace), 'RGB': <enum GDK_COLORSPACE_RGB of type GdkPixbuf.Colorspace>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GdkPixbuf', '__dict__': <attribute '__dict__' of 'Colorspace' objects>, '__doc__': None, '__gtype__': <GType GdkColorspace (94226102100912)>, '__enum_values__': {0: <enum GDK_COLORSPACE_RGB of type GdkPixbuf.Colorspace>}, '__info__': gi.EnumInfo(Colorspace), 'RGB': <enum GDK_COLORSPACE_RGB of type GdkPixbuf.Colorspace>})"
     __enum_values__ = {
         0: 0,
     }
-    __gtype__ = None # (!) real value is '<GType GdkColorspace (94625400004240)>'
+    __gtype__ = None # (!) real value is '<GType GdkColorspace (94226102100912)>'
     __info__ = gi.EnumInfo(Colorspace)
 
 
@@ -830,14 +830,14 @@ class InterpType(__gobject.GEnum):
     NEAREST = 0
     TILES = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GdkPixbuf', '__dict__': <attribute '__dict__' of 'InterpType' objects>, '__doc__': None, '__gtype__': <GType GdkInterpType (94625399991008)>, '__enum_values__': {0: <enum GDK_INTERP_NEAREST of type GdkPixbuf.InterpType>, 1: <enum GDK_INTERP_TILES of type GdkPixbuf.InterpType>, 2: <enum GDK_INTERP_BILINEAR of type GdkPixbuf.InterpType>, 3: <enum GDK_INTERP_HYPER of type GdkPixbuf.InterpType>}, '__info__': gi.EnumInfo(InterpType), 'NEAREST': <enum GDK_INTERP_NEAREST of type GdkPixbuf.InterpType>, 'TILES': <enum GDK_INTERP_TILES of type GdkPixbuf.InterpType>, 'BILINEAR': <enum GDK_INTERP_BILINEAR of type GdkPixbuf.InterpType>, 'HYPER': <enum GDK_INTERP_HYPER of type GdkPixbuf.InterpType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GdkPixbuf', '__dict__': <attribute '__dict__' of 'InterpType' objects>, '__doc__': None, '__gtype__': <GType GdkInterpType (94226102449776)>, '__enum_values__': {0: <enum GDK_INTERP_NEAREST of type GdkPixbuf.InterpType>, 1: <enum GDK_INTERP_TILES of type GdkPixbuf.InterpType>, 2: <enum GDK_INTERP_BILINEAR of type GdkPixbuf.InterpType>, 3: <enum GDK_INTERP_HYPER of type GdkPixbuf.InterpType>}, '__info__': gi.EnumInfo(InterpType), 'NEAREST': <enum GDK_INTERP_NEAREST of type GdkPixbuf.InterpType>, 'TILES': <enum GDK_INTERP_TILES of type GdkPixbuf.InterpType>, 'BILINEAR': <enum GDK_INTERP_BILINEAR of type GdkPixbuf.InterpType>, 'HYPER': <enum GDK_INTERP_HYPER of type GdkPixbuf.InterpType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GdkInterpType (94625399991008)>'
+    __gtype__ = None # (!) real value is '<GType GdkInterpType (94226102449776)>'
     __info__ = gi.EnumInfo(InterpType)
 
 
@@ -1510,12 +1510,12 @@ class Pixbuf(Pixbuf):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f42c3d9ffd0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f8ffc1fb160>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.GdkPixbuf', 'new_from_data': <classmethod object at 0x7f42c458c790>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.GdkPixbuf', 'new_from_data': <classmethod object at 0x7f8ffd17c8e0>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Object GdkPixbuf\n\nProperties from GdkPixbuf:\n  colorspace -> GdkColorspace: Colorspace\n    The colorspace in which the samples are interpreted\n  n-channels -> gint: Number of Channels\n    The number of samples per pixel\n  has-alpha -> gboolean: Has Alpha\n    Whether the pixbuf has an alpha channel\n  bits-per-sample -> gint: Bits per Sample\n    The number of bits per sample\n  width -> gint: Width\n    The number of columns of the pixbuf\n  height -> gint: Height\n    The number of rows of the pixbuf\n  rowstride -> gint: Rowstride\n    The number of bytes between the start of a row and the start of the next row\n  pixels -> gpointer: Pixels\n    A pointer to the pixel data of the pixbuf\n  pixel-bytes -> GBytes: Pixel Bytes\n    Readonly pixel data\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GdkPixbuf (94625399955248)>'
+    __gtype__ = None # (!) real value is '<GType GdkPixbuf (94226102035136)>'
     __info__ = ObjectInfo(Pixbuf)
 
 
@@ -1864,12 +1864,12 @@ class PixbufAlphaMode(__gobject.GEnum):
     BILEVEL = 0
     FULL = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GdkPixbuf', '__dict__': <attribute '__dict__' of 'PixbufAlphaMode' objects>, '__doc__': None, '__gtype__': <GType GdkPixbufAlphaMode (94625400370880)>, '__enum_values__': {0: <enum GDK_PIXBUF_ALPHA_BILEVEL of type GdkPixbuf.PixbufAlphaMode>, 1: <enum GDK_PIXBUF_ALPHA_FULL of type GdkPixbuf.PixbufAlphaMode>}, '__info__': gi.EnumInfo(PixbufAlphaMode), 'BILEVEL': <enum GDK_PIXBUF_ALPHA_BILEVEL of type GdkPixbuf.PixbufAlphaMode>, 'FULL': <enum GDK_PIXBUF_ALPHA_FULL of type GdkPixbuf.PixbufAlphaMode>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GdkPixbuf', '__dict__': <attribute '__dict__' of 'PixbufAlphaMode' objects>, '__doc__': None, '__gtype__': <GType GdkPixbufAlphaMode (94226102451008)>, '__enum_values__': {0: <enum GDK_PIXBUF_ALPHA_BILEVEL of type GdkPixbuf.PixbufAlphaMode>, 1: <enum GDK_PIXBUF_ALPHA_FULL of type GdkPixbuf.PixbufAlphaMode>}, '__info__': gi.EnumInfo(PixbufAlphaMode), 'BILEVEL': <enum GDK_PIXBUF_ALPHA_BILEVEL of type GdkPixbuf.PixbufAlphaMode>, 'FULL': <enum GDK_PIXBUF_ALPHA_FULL of type GdkPixbuf.PixbufAlphaMode>})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GdkPixbufAlphaMode (94625400370880)>'
+    __gtype__ = None # (!) real value is '<GType GdkPixbufAlphaMode (94226102451008)>'
     __info__ = gi.EnumInfo(PixbufAlphaMode)
 
 
@@ -2306,12 +2306,12 @@ class PixbufAnimation(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f42c3d7bf70>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f8ffc207be0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(PixbufAnimation), '__module__': 'gi.repository.GdkPixbuf', '__gtype__': <GType GdkPixbufAnimation (94625400372640)>, '__doc__': None, '__gsignals__': {}, 'new_from_file': gi.FunctionInfo(new_from_file), 'new_from_resource': gi.FunctionInfo(new_from_resource), 'new_from_stream': gi.FunctionInfo(new_from_stream), 'new_from_stream_finish': gi.FunctionInfo(new_from_stream_finish), 'new_from_stream_async': gi.FunctionInfo(new_from_stream_async), 'get_height': gi.FunctionInfo(get_height), 'get_iter': gi.FunctionInfo(get_iter), 'get_static_image': gi.FunctionInfo(get_static_image), 'get_width': gi.FunctionInfo(get_width), 'is_static_image': gi.FunctionInfo(is_static_image)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(PixbufAnimation), '__module__': 'gi.repository.GdkPixbuf', '__gtype__': <GType GdkPixbufAnimation (94226102081488)>, '__doc__': None, '__gsignals__': {}, 'new_from_file': gi.FunctionInfo(new_from_file), 'new_from_resource': gi.FunctionInfo(new_from_resource), 'new_from_stream': gi.FunctionInfo(new_from_stream), 'new_from_stream_finish': gi.FunctionInfo(new_from_stream_finish), 'new_from_stream_async': gi.FunctionInfo(new_from_stream_async), 'get_height': gi.FunctionInfo(get_height), 'get_iter': gi.FunctionInfo(get_iter), 'get_static_image': gi.FunctionInfo(get_static_image), 'get_width': gi.FunctionInfo(get_width), 'is_static_image': gi.FunctionInfo(is_static_image)})"
     __gdoc__ = 'Object GdkPixbufAnimation\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GdkPixbufAnimation (94625400372640)>'
+    __gtype__ = None # (!) real value is '<GType GdkPixbufAnimation (94226102081488)>'
     __info__ = ObjectInfo(PixbufAnimation)
 
 
@@ -2720,12 +2720,12 @@ class PixbufAnimationIter(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f42c3d49e80>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f8ffc1fb9a0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(PixbufAnimationIter), '__module__': 'gi.repository.GdkPixbuf', '__gtype__': <GType GdkPixbufAnimationIter (94625400373776)>, '__doc__': None, '__gsignals__': {}, 'advance': gi.FunctionInfo(advance), 'get_delay_time': gi.FunctionInfo(get_delay_time), 'get_pixbuf': gi.FunctionInfo(get_pixbuf), 'on_currently_loading_frame': gi.FunctionInfo(on_currently_loading_frame)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(PixbufAnimationIter), '__module__': 'gi.repository.GdkPixbuf', '__gtype__': <GType GdkPixbufAnimationIter (94226102052352)>, '__doc__': None, '__gsignals__': {}, 'advance': gi.FunctionInfo(advance), 'get_delay_time': gi.FunctionInfo(get_delay_time), 'get_pixbuf': gi.FunctionInfo(get_pixbuf), 'on_currently_loading_frame': gi.FunctionInfo(on_currently_loading_frame)})"
     __gdoc__ = 'Object GdkPixbufAnimationIter\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GdkPixbufAnimationIter (94625400373776)>'
+    __gtype__ = None # (!) real value is '<GType GdkPixbufAnimationIter (94226102052352)>'
     __info__ = ObjectInfo(PixbufAnimationIter)
 
 
@@ -3083,7 +3083,7 @@ class PixbufError(__gobject.GEnum):
     UNKNOWN_TYPE = 3
     UNSUPPORTED_OPERATION = 4
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GdkPixbuf', '__dict__': <attribute '__dict__' of 'PixbufError' objects>, '__doc__': None, '__gtype__': <GType GdkPixbufError (94625400013312)>, '__enum_values__': {0: <enum GDK_PIXBUF_ERROR_CORRUPT_IMAGE of type GdkPixbuf.PixbufError>, 1: <enum GDK_PIXBUF_ERROR_INSUFFICIENT_MEMORY of type GdkPixbuf.PixbufError>, 2: <enum GDK_PIXBUF_ERROR_BAD_OPTION of type GdkPixbuf.PixbufError>, 3: <enum GDK_PIXBUF_ERROR_UNKNOWN_TYPE of type GdkPixbuf.PixbufError>, 4: <enum GDK_PIXBUF_ERROR_UNSUPPORTED_OPERATION of type GdkPixbuf.PixbufError>, 5: <enum GDK_PIXBUF_ERROR_FAILED of type GdkPixbuf.PixbufError>, 6: <enum GDK_PIXBUF_ERROR_INCOMPLETE_ANIMATION of type GdkPixbuf.PixbufError>}, '__info__': gi.EnumInfo(PixbufError), 'CORRUPT_IMAGE': <enum GDK_PIXBUF_ERROR_CORRUPT_IMAGE of type GdkPixbuf.PixbufError>, 'INSUFFICIENT_MEMORY': <enum GDK_PIXBUF_ERROR_INSUFFICIENT_MEMORY of type GdkPixbuf.PixbufError>, 'BAD_OPTION': <enum GDK_PIXBUF_ERROR_BAD_OPTION of type GdkPixbuf.PixbufError>, 'UNKNOWN_TYPE': <enum GDK_PIXBUF_ERROR_UNKNOWN_TYPE of type GdkPixbuf.PixbufError>, 'UNSUPPORTED_OPERATION': <enum GDK_PIXBUF_ERROR_UNSUPPORTED_OPERATION of type GdkPixbuf.PixbufError>, 'FAILED': <enum GDK_PIXBUF_ERROR_FAILED of type GdkPixbuf.PixbufError>, 'INCOMPLETE_ANIMATION': <enum GDK_PIXBUF_ERROR_INCOMPLETE_ANIMATION of type GdkPixbuf.PixbufError>, 'quark': gi.FunctionInfo(quark)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GdkPixbuf', '__dict__': <attribute '__dict__' of 'PixbufError' objects>, '__doc__': None, '__gtype__': <GType GdkPixbufError (94226102452768)>, '__enum_values__': {0: <enum GDK_PIXBUF_ERROR_CORRUPT_IMAGE of type GdkPixbuf.PixbufError>, 1: <enum GDK_PIXBUF_ERROR_INSUFFICIENT_MEMORY of type GdkPixbuf.PixbufError>, 2: <enum GDK_PIXBUF_ERROR_BAD_OPTION of type GdkPixbuf.PixbufError>, 3: <enum GDK_PIXBUF_ERROR_UNKNOWN_TYPE of type GdkPixbuf.PixbufError>, 4: <enum GDK_PIXBUF_ERROR_UNSUPPORTED_OPERATION of type GdkPixbuf.PixbufError>, 5: <enum GDK_PIXBUF_ERROR_FAILED of type GdkPixbuf.PixbufError>, 6: <enum GDK_PIXBUF_ERROR_INCOMPLETE_ANIMATION of type GdkPixbuf.PixbufError>}, '__info__': gi.EnumInfo(PixbufError), 'CORRUPT_IMAGE': <enum GDK_PIXBUF_ERROR_CORRUPT_IMAGE of type GdkPixbuf.PixbufError>, 'INSUFFICIENT_MEMORY': <enum GDK_PIXBUF_ERROR_INSUFFICIENT_MEMORY of type GdkPixbuf.PixbufError>, 'BAD_OPTION': <enum GDK_PIXBUF_ERROR_BAD_OPTION of type GdkPixbuf.PixbufError>, 'UNKNOWN_TYPE': <enum GDK_PIXBUF_ERROR_UNKNOWN_TYPE of type GdkPixbuf.PixbufError>, 'UNSUPPORTED_OPERATION': <enum GDK_PIXBUF_ERROR_UNSUPPORTED_OPERATION of type GdkPixbuf.PixbufError>, 'FAILED': <enum GDK_PIXBUF_ERROR_FAILED of type GdkPixbuf.PixbufError>, 'INCOMPLETE_ANIMATION': <enum GDK_PIXBUF_ERROR_INCOMPLETE_ANIMATION of type GdkPixbuf.PixbufError>, 'quark': gi.FunctionInfo(quark)})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -3093,7 +3093,7 @@ class PixbufError(__gobject.GEnum):
         5: 5,
         6: 6,
     }
-    __gtype__ = None # (!) real value is '<GType GdkPixbufError (94625400013312)>'
+    __gtype__ = None # (!) real value is '<GType GdkPixbufError (94226102452768)>'
     __info__ = gi.EnumInfo(PixbufError)
 
 
@@ -3250,8 +3250,8 @@ class PixbufFormat(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PixbufFormat), '__module__': 'gi.repository.GdkPixbuf', '__gtype__': <GType GdkPixbufFormat (94625400024464)>, '__dict__': <attribute '__dict__' of 'PixbufFormat' objects>, '__weakref__': <attribute '__weakref__' of 'PixbufFormat' objects>, '__doc__': None, 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free), 'get_description': gi.FunctionInfo(get_description), 'get_extensions': gi.FunctionInfo(get_extensions), 'get_license': gi.FunctionInfo(get_license), 'get_mime_types': gi.FunctionInfo(get_mime_types), 'get_name': gi.FunctionInfo(get_name), 'is_disabled': gi.FunctionInfo(is_disabled), 'is_save_option_supported': gi.FunctionInfo(is_save_option_supported), 'is_scalable': gi.FunctionInfo(is_scalable), 'is_writable': gi.FunctionInfo(is_writable), 'set_disabled': gi.FunctionInfo(set_disabled)})"
-    __gtype__ = None # (!) real value is '<GType GdkPixbufFormat (94625400024464)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PixbufFormat), '__module__': 'gi.repository.GdkPixbuf', '__gtype__': <GType GdkPixbufFormat (94226102065744)>, '__dict__': <attribute '__dict__' of 'PixbufFormat' objects>, '__weakref__': <attribute '__weakref__' of 'PixbufFormat' objects>, '__doc__': None, 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free), 'get_description': gi.FunctionInfo(get_description), 'get_extensions': gi.FunctionInfo(get_extensions), 'get_license': gi.FunctionInfo(get_license), 'get_mime_types': gi.FunctionInfo(get_mime_types), 'get_name': gi.FunctionInfo(get_name), 'is_disabled': gi.FunctionInfo(is_disabled), 'is_save_option_supported': gi.FunctionInfo(is_save_option_supported), 'is_scalable': gi.FunctionInfo(is_scalable), 'is_writable': gi.FunctionInfo(is_writable), 'set_disabled': gi.FunctionInfo(set_disabled)})"
+    __gtype__ = None # (!) real value is '<GType GdkPixbufFormat (94226102065744)>'
     __info__ = StructInfo(PixbufFormat)
 
 
@@ -3707,12 +3707,12 @@ class PixbufLoader(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f42c3d29970>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f8ffc207a90>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(PixbufLoader), '__module__': 'gi.repository.GdkPixbuf', '__gtype__': <GType GdkPixbufLoader (94625400379312)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_with_mime_type': gi.FunctionInfo(new_with_mime_type), 'new_with_type': gi.FunctionInfo(new_with_type), 'close': gi.FunctionInfo(close), 'get_animation': gi.FunctionInfo(get_animation), 'get_format': gi.FunctionInfo(get_format), 'get_pixbuf': gi.FunctionInfo(get_pixbuf), 'set_size': gi.FunctionInfo(set_size), 'write': gi.FunctionInfo(write), 'write_bytes': gi.FunctionInfo(write_bytes), 'do_area_prepared': gi.VFuncInfo(area_prepared), 'do_area_updated': gi.VFuncInfo(area_updated), 'do_closed': gi.VFuncInfo(closed), 'do_size_prepared': gi.VFuncInfo(size_prepared), 'parent_instance': <property object at 0x7f42c3d8a3b0>, 'priv': <property object at 0x7f42c3d8a400>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(PixbufLoader), '__module__': 'gi.repository.GdkPixbuf', '__gtype__': <GType GdkPixbufLoader (94226102073856)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_with_mime_type': gi.FunctionInfo(new_with_mime_type), 'new_with_type': gi.FunctionInfo(new_with_type), 'close': gi.FunctionInfo(close), 'get_animation': gi.FunctionInfo(get_animation), 'get_format': gi.FunctionInfo(get_format), 'get_pixbuf': gi.FunctionInfo(get_pixbuf), 'set_size': gi.FunctionInfo(set_size), 'write': gi.FunctionInfo(write), 'write_bytes': gi.FunctionInfo(write_bytes), 'do_area_prepared': gi.VFuncInfo(area_prepared), 'do_area_updated': gi.VFuncInfo(area_updated), 'do_closed': gi.VFuncInfo(closed), 'do_size_prepared': gi.VFuncInfo(size_prepared), 'parent_instance': <property object at 0x7f8ffc235d10>, 'priv': <property object at 0x7f8ffc235d60>})"
     __gdoc__ = 'Object GdkPixbufLoader\n\nSignals from GdkPixbufLoader:\n  size-prepared (gint, gint)\n  area-prepared ()\n  area-updated (gint, gint, gint, gint)\n  closed ()\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GdkPixbufLoader (94625400379312)>'
+    __gtype__ = None # (!) real value is '<GType GdkPixbufLoader (94226102073856)>'
     __info__ = ObjectInfo(PixbufLoader)
 
 
@@ -3835,7 +3835,7 @@ class PixbufLoaderClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PixbufLoaderClass), '__module__': 'gi.repository.GdkPixbuf', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'PixbufLoaderClass' objects>, '__weakref__': <attribute '__weakref__' of 'PixbufLoaderClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f42c3d8a4f0>, 'size_prepared': <property object at 0x7f42c3d8a540>, 'area_prepared': <property object at 0x7f42c3d8a630>, 'area_updated': <property object at 0x7f42c3d8a720>, 'closed': <property object at 0x7f42c3d8a810>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PixbufLoaderClass), '__module__': 'gi.repository.GdkPixbuf', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'PixbufLoaderClass' objects>, '__weakref__': <attribute '__weakref__' of 'PixbufLoaderClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f8ffc235e50>, 'size_prepared': <property object at 0x7f8ffc235ea0>, 'area_prepared': <property object at 0x7f8ffc235f90>, 'area_updated': <property object at 0x7f8ffc20a0e0>, 'closed': <property object at 0x7f8ffc20a1d0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(PixbufLoaderClass)
 
@@ -4187,14 +4187,14 @@ class PixbufRotation(__gobject.GEnum):
     NONE = 0
     UPSIDEDOWN = 180
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GdkPixbuf', '__dict__': <attribute '__dict__' of 'PixbufRotation' objects>, '__doc__': None, '__gtype__': <GType GdkPixbufRotation (94625399988416)>, '__enum_values__': {0: <enum GDK_PIXBUF_ROTATE_NONE of type GdkPixbuf.PixbufRotation>, 90: <enum GDK_PIXBUF_ROTATE_COUNTERCLOCKWISE of type GdkPixbuf.PixbufRotation>, 180: <enum GDK_PIXBUF_ROTATE_UPSIDEDOWN of type GdkPixbuf.PixbufRotation>, 270: <enum GDK_PIXBUF_ROTATE_CLOCKWISE of type GdkPixbuf.PixbufRotation>}, '__info__': gi.EnumInfo(PixbufRotation), 'NONE': <enum GDK_PIXBUF_ROTATE_NONE of type GdkPixbuf.PixbufRotation>, 'COUNTERCLOCKWISE': <enum GDK_PIXBUF_ROTATE_COUNTERCLOCKWISE of type GdkPixbuf.PixbufRotation>, 'UPSIDEDOWN': <enum GDK_PIXBUF_ROTATE_UPSIDEDOWN of type GdkPixbuf.PixbufRotation>, 'CLOCKWISE': <enum GDK_PIXBUF_ROTATE_CLOCKWISE of type GdkPixbuf.PixbufRotation>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GdkPixbuf', '__dict__': <attribute '__dict__' of 'PixbufRotation' objects>, '__doc__': None, '__gtype__': <GType GdkPixbufRotation (94226102068976)>, '__enum_values__': {0: <enum GDK_PIXBUF_ROTATE_NONE of type GdkPixbuf.PixbufRotation>, 90: <enum GDK_PIXBUF_ROTATE_COUNTERCLOCKWISE of type GdkPixbuf.PixbufRotation>, 180: <enum GDK_PIXBUF_ROTATE_UPSIDEDOWN of type GdkPixbuf.PixbufRotation>, 270: <enum GDK_PIXBUF_ROTATE_CLOCKWISE of type GdkPixbuf.PixbufRotation>}, '__info__': gi.EnumInfo(PixbufRotation), 'NONE': <enum GDK_PIXBUF_ROTATE_NONE of type GdkPixbuf.PixbufRotation>, 'COUNTERCLOCKWISE': <enum GDK_PIXBUF_ROTATE_COUNTERCLOCKWISE of type GdkPixbuf.PixbufRotation>, 'UPSIDEDOWN': <enum GDK_PIXBUF_ROTATE_UPSIDEDOWN of type GdkPixbuf.PixbufRotation>, 'CLOCKWISE': <enum GDK_PIXBUF_ROTATE_CLOCKWISE of type GdkPixbuf.PixbufRotation>})"
     __enum_values__ = {
         0: 0,
         90: 90,
         180: 180,
         270: 270,
     }
-    __gtype__ = None # (!) real value is '<GType GdkPixbufRotation (94625399988416)>'
+    __gtype__ = None # (!) real value is '<GType GdkPixbufRotation (94226102068976)>'
     __info__ = gi.EnumInfo(PixbufRotation)
 
 
@@ -4644,12 +4644,12 @@ class PixbufSimpleAnim(PixbufAnimation):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f42c3d9ffd0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f8ffc21bb20>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(PixbufSimpleAnim), '__module__': 'gi.repository.GdkPixbuf', '__gtype__': <GType GdkPixbufSimpleAnim (94625399988528)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add_frame': gi.FunctionInfo(add_frame), 'get_loop': gi.FunctionInfo(get_loop), 'set_loop': gi.FunctionInfo(set_loop)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(PixbufSimpleAnim), '__module__': 'gi.repository.GdkPixbuf', '__gtype__': <GType GdkPixbufSimpleAnim (94226102245360)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add_frame': gi.FunctionInfo(add_frame), 'get_loop': gi.FunctionInfo(get_loop), 'set_loop': gi.FunctionInfo(set_loop)})"
     __gdoc__ = 'Object GdkPixbufSimpleAnim\n\nProperties from GdkPixbufSimpleAnim:\n  loop -> gboolean: Loop\n    Whether the animation should loop when it reaches the end\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GdkPixbufSimpleAnim (94625399988528)>'
+    __gtype__ = None # (!) real value is '<GType GdkPixbufSimpleAnim (94226102245360)>'
     __info__ = ObjectInfo(PixbufSimpleAnim)
 
 
@@ -5165,12 +5165,12 @@ class PixbufSimpleAnimIter(PixbufAnimationIter):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f42c3d498e0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f8ffc1dcf70>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(PixbufSimpleAnimIter), '__module__': 'gi.repository.GdkPixbuf', '__gtype__': <GType GdkPixbufSimpleAnimIter (94625399968496)>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(PixbufSimpleAnimIter), '__module__': 'gi.repository.GdkPixbuf', '__gtype__': <GType GdkPixbufSimpleAnimIter (94226102297664)>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Object GdkPixbufSimpleAnimIter\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GdkPixbufSimpleAnimIter (94625399968496)>'
+    __gtype__ = None # (!) real value is '<GType GdkPixbufSimpleAnimIter (94226102297664)>'
     __info__ = ObjectInfo(PixbufSimpleAnimIter)
 
 
@@ -5285,11 +5285,11 @@ class __class__(__gi_overrides.OverridesProxyModule):
 
 _introspection_module = None # (!) real value is "<IntrospectionModule 'GdkPixbuf' from '/usr/lib64/girepository-1.0/GdkPixbuf-2.0.typelib'>"
 
-__loader__ = None # (!) real value is '<gi.importer.DynamicImporter object at 0x7f42c4c079d0>'
+__loader__ = None # (!) real value is '<gi.importer.DynamicImporter object at 0x7f8ffd0d1d00>'
 
 __path__ = [
     '/usr/lib64/girepository-1.0/GdkPixbuf-2.0.typelib',
 ]
 
-__spec__ = None # (!) real value is "ModuleSpec(name='gi.repository.GdkPixbuf', loader=<gi.importer.DynamicImporter object at 0x7f42c4c079d0>)"
+__spec__ = None # (!) real value is "ModuleSpec(name='gi.repository.GdkPixbuf', loader=<gi.importer.DynamicImporter object at 0x7f8ffd0d1d00>)"
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -362,13 +362,13 @@ class PageSet(__gobject.GEnum):
     EVEN = 1
     ODD = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PageSet' objects>, '__doc__': None, '__gtype__': <GType GtkPageSet (94846038829408)>, '__enum_values__': {0: <enum GTK_PAGE_SET_ALL of type Gtk.PageSet>, 1: <enum GTK_PAGE_SET_EVEN of type Gtk.PageSet>, 2: <enum GTK_PAGE_SET_ODD of type Gtk.PageSet>}, '__info__': gi.EnumInfo(PageSet), 'ALL': <enum GTK_PAGE_SET_ALL of type Gtk.PageSet>, 'EVEN': <enum GTK_PAGE_SET_EVEN of type Gtk.PageSet>, 'ODD': <enum GTK_PAGE_SET_ODD of type Gtk.PageSet>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PageSet' objects>, '__doc__': None, '__gtype__': <GType GtkPageSet (93897369043904)>, '__enum_values__': {0: <enum GTK_PAGE_SET_ALL of type Gtk.PageSet>, 1: <enum GTK_PAGE_SET_EVEN of type Gtk.PageSet>, 2: <enum GTK_PAGE_SET_ODD of type Gtk.PageSet>}, '__info__': gi.EnumInfo(PageSet), 'ALL': <enum GTK_PAGE_SET_ALL of type Gtk.PageSet>, 'EVEN': <enum GTK_PAGE_SET_EVEN of type Gtk.PageSet>, 'ODD': <enum GTK_PAGE_SET_ODD of type Gtk.PageSet>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GtkPageSet (94846038829408)>'
+    __gtype__ = None # (!) real value is '<GType GtkPageSet (93897369043904)>'
     __info__ = gi.EnumInfo(PageSet)
 
 

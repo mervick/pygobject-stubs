@@ -134,7 +134,7 @@ class IconIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(IconIface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'IconIface' objects>, '__weakref__': <attribute '__weakref__' of 'IconIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f28dde9aef0>, 'hash': <property object at 0x7f28dde9c040>, 'equal': <property object at 0x7f28dde9c130>, 'to_tokens': <property object at 0x7f28dde9c220>, 'from_tokens': <property object at 0x7f28dde9c310>, 'serialize': <property object at 0x7f28dde9c400>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(IconIface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'IconIface' objects>, '__weakref__': <attribute '__weakref__' of 'IconIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f4b87ffe1d0>, 'hash': <property object at 0x7f4b87ffe2c0>, 'equal': <property object at 0x7f4b87ffe3b0>, 'to_tokens': <property object at 0x7f4b87ffe4a0>, 'from_tokens': <property object at 0x7f4b87ffe590>, 'serialize': <property object at 0x7f4b87ffe680>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(IconIface)
 

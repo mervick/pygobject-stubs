@@ -428,12 +428,12 @@ class Misc(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f0cd7bce5b0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f44c6d28100>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Misc), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkMisc (93922956223744)>, '__doc__': None, '__gsignals__': {}, 'get_instance': gi.FunctionInfo(get_instance), 'threads_enter': gi.FunctionInfo(threads_enter), 'threads_leave': gi.FunctionInfo(threads_leave), 'do_threads_enter': gi.VFuncInfo(threads_enter), 'do_threads_leave': gi.VFuncInfo(threads_leave), 'parent': <property object at 0x7f0cd7bebf90>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Misc), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkMisc (94258337614960)>, '__doc__': None, '__gsignals__': {}, 'get_instance': gi.FunctionInfo(get_instance), 'threads_enter': gi.FunctionInfo(threads_enter), 'threads_leave': gi.FunctionInfo(threads_leave), 'do_threads_enter': gi.VFuncInfo(threads_enter), 'do_threads_leave': gi.VFuncInfo(threads_leave), 'parent': <property object at 0x7f44c6db3400>})"
     __gdoc__ = 'Object AtkMisc\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType AtkMisc (93922956223744)>'
+    __gtype__ = None # (!) real value is '<GType AtkMisc (94258337614960)>'
     __info__ = ObjectInfo(Misc)
 
 

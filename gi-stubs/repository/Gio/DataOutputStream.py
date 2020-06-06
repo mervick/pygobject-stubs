@@ -668,12 +668,12 @@ class DataOutputStream(FilterOutputStream, Seekable):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd521160>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b880c3cd0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DataOutputStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDataOutputStream (94125582194608)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_byte_order': gi.FunctionInfo(get_byte_order), 'put_byte': gi.FunctionInfo(put_byte), 'put_int16': gi.FunctionInfo(put_int16), 'put_int32': gi.FunctionInfo(put_int32), 'put_int64': gi.FunctionInfo(put_int64), 'put_string': gi.FunctionInfo(put_string), 'put_uint16': gi.FunctionInfo(put_uint16), 'put_uint32': gi.FunctionInfo(put_uint32), 'put_uint64': gi.FunctionInfo(put_uint64), 'set_byte_order': gi.FunctionInfo(set_byte_order), 'parent_instance': <property object at 0x7f28ddedcb80>, 'priv': <property object at 0x7f28ddedccc0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DataOutputStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDataOutputStream (94269256823888)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_byte_order': gi.FunctionInfo(get_byte_order), 'put_byte': gi.FunctionInfo(put_byte), 'put_int16': gi.FunctionInfo(put_int16), 'put_int32': gi.FunctionInfo(put_int32), 'put_int64': gi.FunctionInfo(put_int64), 'put_string': gi.FunctionInfo(put_string), 'put_uint16': gi.FunctionInfo(put_uint16), 'put_uint32': gi.FunctionInfo(put_uint32), 'put_uint64': gi.FunctionInfo(put_uint64), 'set_byte_order': gi.FunctionInfo(set_byte_order), 'parent_instance': <property object at 0x7f4b89457ef0>, 'priv': <property object at 0x7f4b88040ef0>})"
     __gdoc__ = 'Object GDataOutputStream\n\nProperties from GDataOutputStream:\n  byte-order -> GDataStreamByteOrder: Byte order\n    The byte order\n\nProperties from GFilterOutputStream:\n  base-stream -> GOutputStream: The Filter Base Stream\n    The underlying base stream on which the io ops will be done.\n  close-base-stream -> gboolean: Close Base Stream\n    If the base stream should be closed when the filter stream is closed.\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GDataOutputStream (94125582194608)>'
+    __gtype__ = None # (!) real value is '<GType GDataOutputStream (94269256823888)>'
     __info__ = ObjectInfo(DataOutputStream)
 
 

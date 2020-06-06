@@ -134,7 +134,7 @@ class SeekableIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SeekableIface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SeekableIface' objects>, '__weakref__': <attribute '__weakref__' of 'SeekableIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f28dde4bc20>, 'tell': <property object at 0x7f28dde4bd10>, 'can_seek': <property object at 0x7f28dde4be00>, 'seek': <property object at 0x7f28dde4bef0>, 'can_truncate': <property object at 0x7f28dde50040>, 'truncate_fn': <property object at 0x7f28dde50130>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SeekableIface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SeekableIface' objects>, '__weakref__': <attribute '__weakref__' of 'SeekableIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f4b87fade00>, 'tell': <property object at 0x7f4b87fadef0>, 'can_seek': <property object at 0x7f4b87fb1040>, 'seek': <property object at 0x7f4b87fb1130>, 'can_truncate': <property object at 0x7f4b87fb1220>, 'truncate_fn': <property object at 0x7f4b87fb1310>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(SeekableIface)
 

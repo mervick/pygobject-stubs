@@ -134,7 +134,7 @@ class FontFaceClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FontFaceClass), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FontFaceClass' objects>, '__weakref__': <attribute '__weakref__' of 'FontFaceClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f24746ee4a0>, 'get_face_name': <property object at 0x7f24746ee590>, 'describe': <property object at 0x7f24746ee680>, 'list_sizes': <property object at 0x7f24746ee770>, 'is_synthesized': <property object at 0x7f24746ee860>, '_pango_reserved3': <property object at 0x7f24746ee9a0>, '_pango_reserved4': <property object at 0x7f24746eeae0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FontFaceClass), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FontFaceClass' objects>, '__weakref__': <attribute '__weakref__' of 'FontFaceClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f8517894270>, 'get_face_name': <property object at 0x7f8517894360>, 'describe': <property object at 0x7f8517894450>, 'list_sizes': <property object at 0x7f8517894540>, 'is_synthesized': <property object at 0x7f8517894630>, '_pango_reserved3': <property object at 0x7f8517894770>, '_pango_reserved4': <property object at 0x7f85178948b0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(FontFaceClass)
 

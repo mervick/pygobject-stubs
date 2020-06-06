@@ -126,7 +126,7 @@ class MemoryMonitorInterface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(MemoryMonitorInterface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'MemoryMonitorInterface' objects>, '__weakref__': <attribute '__weakref__' of 'MemoryMonitorInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f28ddea6400>, 'low_memory_warning': <property object at 0x7f28ddea6540>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(MemoryMonitorInterface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'MemoryMonitorInterface' objects>, '__weakref__': <attribute '__weakref__' of 'MemoryMonitorInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f4b880084a0>, 'low_memory_warning': <property object at 0x7f4b880085e0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(MemoryMonitorInterface)
 

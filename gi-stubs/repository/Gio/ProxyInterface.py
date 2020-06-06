@@ -132,7 +132,7 @@ class ProxyInterface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ProxyInterface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ProxyInterface' objects>, '__weakref__': <attribute '__weakref__' of 'ProxyInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f28dde452c0>, 'connect': <property object at 0x7f28dde453b0>, 'connect_async': <property object at 0x7f28dde454a0>, 'connect_finish': <property object at 0x7f28dde45590>, 'supports_hostname': <property object at 0x7f28dde456d0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ProxyInterface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ProxyInterface' objects>, '__weakref__': <attribute '__weakref__' of 'ProxyInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f4b87fa82c0>, 'connect': <property object at 0x7f4b87fa83b0>, 'connect_async': <property object at 0x7f4b87fa84a0>, 'connect_finish': <property object at 0x7f4b87fa8590>, 'supports_hostname': <property object at 0x7f4b87fa86d0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ProxyInterface)
 

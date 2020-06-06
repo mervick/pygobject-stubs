@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -226,8 +226,8 @@ class RecentInfo(RecentInfo):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', 'get_application_info': <function strip_boolean_result.<locals>.wrapped at 0x7fe831222d30>, '__doc__': None})"
-    __gtype__ = None # (!) real value is '<GType GtkRecentInfo (94846036948480)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', 'get_application_info': <function strip_boolean_result.<locals>.wrapped at 0x7fc63a945550>, '__doc__': None})"
+    __gtype__ = None # (!) real value is '<GType GtkRecentInfo (93897367148368)>'
     __info__ = StructInfo(RecentInfo)
 
 

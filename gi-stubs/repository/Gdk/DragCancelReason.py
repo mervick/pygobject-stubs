@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -358,13 +358,13 @@ class DragCancelReason(__gobject.GEnum):
     NO_TARGET = 0
     USER_CANCELLED = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'DragCancelReason' objects>, '__doc__': None, '__gtype__': <GType GdkDragCancelReason (94055651101856)>, '__enum_values__': {0: <enum GDK_DRAG_CANCEL_NO_TARGET of type Gdk.DragCancelReason>, 1: <enum GDK_DRAG_CANCEL_USER_CANCELLED of type Gdk.DragCancelReason>, 2: <enum GDK_DRAG_CANCEL_ERROR of type Gdk.DragCancelReason>}, '__info__': gi.EnumInfo(DragCancelReason), 'NO_TARGET': <enum GDK_DRAG_CANCEL_NO_TARGET of type Gdk.DragCancelReason>, 'USER_CANCELLED': <enum GDK_DRAG_CANCEL_USER_CANCELLED of type Gdk.DragCancelReason>, 'ERROR': <enum GDK_DRAG_CANCEL_ERROR of type Gdk.DragCancelReason>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'DragCancelReason' objects>, '__doc__': None, '__gtype__': <GType GdkDragCancelReason (94915769006560)>, '__enum_values__': {0: <enum GDK_DRAG_CANCEL_NO_TARGET of type Gdk.DragCancelReason>, 1: <enum GDK_DRAG_CANCEL_USER_CANCELLED of type Gdk.DragCancelReason>, 2: <enum GDK_DRAG_CANCEL_ERROR of type Gdk.DragCancelReason>}, '__info__': gi.EnumInfo(DragCancelReason), 'NO_TARGET': <enum GDK_DRAG_CANCEL_NO_TARGET of type Gdk.DragCancelReason>, 'USER_CANCELLED': <enum GDK_DRAG_CANCEL_USER_CANCELLED of type Gdk.DragCancelReason>, 'ERROR': <enum GDK_DRAG_CANCEL_ERROR of type Gdk.DragCancelReason>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GdkDragCancelReason (94055651101856)>'
+    __gtype__ = None # (!) real value is '<GType GdkDragCancelReason (94915769006560)>'
     __info__ = gi.EnumInfo(DragCancelReason)
 
 

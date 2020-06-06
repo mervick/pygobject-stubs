@@ -138,7 +138,7 @@ class SocketListenerClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SocketListenerClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SocketListenerClass' objects>, '__weakref__': <attribute '__weakref__' of 'SocketListenerClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28dde62f40>, 'changed': <property object at 0x7f28dde64090>, 'event': <property object at 0x7f28dde64180>, '_g_reserved2': <property object at 0x7f28dde64270>, '_g_reserved3': <property object at 0x7f28dde64360>, '_g_reserved4': <property object at 0x7f28dde64450>, '_g_reserved5': <property object at 0x7f28dde64540>, '_g_reserved6': <property object at 0x7f28dde64630>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SocketListenerClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SocketListenerClass' objects>, '__weakref__': <attribute '__weakref__' of 'SocketListenerClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b87fc5270>, 'changed': <property object at 0x7f4b87fc5360>, 'event': <property object at 0x7f4b87fc5450>, '_g_reserved2': <property object at 0x7f4b87fc5540>, '_g_reserved3': <property object at 0x7f4b87fc5630>, '_g_reserved4': <property object at 0x7f4b87fc5720>, '_g_reserved5': <property object at 0x7f4b87fc5810>, '_g_reserved6': <property object at 0x7f4b87fc5900>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(SocketListenerClass)
 

@@ -361,14 +361,14 @@ class IOError(__gobject.GEnum):
     NONE = 0
     UNKNOWN = 3
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'IOError' objects>, '__doc__': None, '__gtype__': <GType PyGLibIOError (94243598971824)>, '__enum_values__': {0: <enum G_IO_ERROR_NONE of type GLib.IOError>, 1: <enum G_IO_ERROR_AGAIN of type GLib.IOError>, 2: <enum G_IO_ERROR_INVAL of type GLib.IOError>, 3: <enum G_IO_ERROR_UNKNOWN of type GLib.IOError>}, '__info__': gi.EnumInfo(IOError), 'NONE': <enum G_IO_ERROR_NONE of type GLib.IOError>, 'AGAIN': <enum G_IO_ERROR_AGAIN of type GLib.IOError>, 'INVAL': <enum G_IO_ERROR_INVAL of type GLib.IOError>, 'UNKNOWN': <enum G_IO_ERROR_UNKNOWN of type GLib.IOError>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'IOError' objects>, '__doc__': None, '__gtype__': <GType PyGLibIOError (94581033748688)>, '__enum_values__': {0: <enum G_IO_ERROR_NONE of type GLib.IOError>, 1: <enum G_IO_ERROR_AGAIN of type GLib.IOError>, 2: <enum G_IO_ERROR_INVAL of type GLib.IOError>, 3: <enum G_IO_ERROR_UNKNOWN of type GLib.IOError>}, '__info__': gi.EnumInfo(IOError), 'NONE': <enum G_IO_ERROR_NONE of type GLib.IOError>, 'AGAIN': <enum G_IO_ERROR_AGAIN of type GLib.IOError>, 'INVAL': <enum G_IO_ERROR_INVAL of type GLib.IOError>, 'UNKNOWN': <enum G_IO_ERROR_UNKNOWN of type GLib.IOError>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibIOError (94243598971824)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibIOError (94581033748688)>'
     __info__ = gi.EnumInfo(IOError)
 
 

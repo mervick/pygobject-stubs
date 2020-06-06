@@ -453,12 +453,12 @@ class NetworkAddress(__gi_overrides_GObject.Object, SocketConnectable):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd25a580>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b871ea2b0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(NetworkAddress), '__module__': 'gi.repository.Gio', '__gtype__': <GType GNetworkAddress (94125582575216)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_loopback': gi.FunctionInfo(new_loopback), 'parse': gi.FunctionInfo(parse), 'parse_uri': gi.FunctionInfo(parse_uri), 'get_hostname': gi.FunctionInfo(get_hostname), 'get_port': gi.FunctionInfo(get_port), 'get_scheme': gi.FunctionInfo(get_scheme), 'parent_instance': <property object at 0x7f28ddeb6220>, 'priv': <property object at 0x7f28ddeb6310>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(NetworkAddress), '__module__': 'gi.repository.Gio', '__gtype__': <GType GNetworkAddress (94269257202336)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_loopback': gi.FunctionInfo(new_loopback), 'parse': gi.FunctionInfo(parse), 'parse_uri': gi.FunctionInfo(parse_uri), 'get_hostname': gi.FunctionInfo(get_hostname), 'get_port': gi.FunctionInfo(get_port), 'get_scheme': gi.FunctionInfo(get_scheme), 'parent_instance': <property object at 0x7f4b89449f90>, 'priv': <property object at 0x7f4b88019450>})"
     __gdoc__ = 'Object GNetworkAddress\n\nProperties from GNetworkAddress:\n  hostname -> gchararray: Hostname\n    Hostname to resolve\n  port -> guint: Port\n    Network port\n  scheme -> gchararray: Scheme\n    URI Scheme\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GNetworkAddress (94125582575216)>'
+    __gtype__ = None # (!) real value is '<GType GNetworkAddress (94269257202336)>'
     __info__ = ObjectInfo(NetworkAddress)
 
 

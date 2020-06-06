@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -367,7 +367,7 @@ class DeleteType(__gobject.GEnum):
     WORDS = 2
     WORD_ENDS = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'DeleteType' objects>, '__doc__': None, '__gtype__': <GType GtkDeleteType (94846038168512)>, '__enum_values__': {0: <enum GTK_DELETE_CHARS of type Gtk.DeleteType>, 1: <enum GTK_DELETE_WORD_ENDS of type Gtk.DeleteType>, 2: <enum GTK_DELETE_WORDS of type Gtk.DeleteType>, 3: <enum GTK_DELETE_DISPLAY_LINES of type Gtk.DeleteType>, 4: <enum GTK_DELETE_DISPLAY_LINE_ENDS of type Gtk.DeleteType>, 5: <enum GTK_DELETE_PARAGRAPH_ENDS of type Gtk.DeleteType>, 6: <enum GTK_DELETE_PARAGRAPHS of type Gtk.DeleteType>, 7: <enum GTK_DELETE_WHITESPACE of type Gtk.DeleteType>}, '__info__': gi.EnumInfo(DeleteType), 'CHARS': <enum GTK_DELETE_CHARS of type Gtk.DeleteType>, 'WORD_ENDS': <enum GTK_DELETE_WORD_ENDS of type Gtk.DeleteType>, 'WORDS': <enum GTK_DELETE_WORDS of type Gtk.DeleteType>, 'DISPLAY_LINES': <enum GTK_DELETE_DISPLAY_LINES of type Gtk.DeleteType>, 'DISPLAY_LINE_ENDS': <enum GTK_DELETE_DISPLAY_LINE_ENDS of type Gtk.DeleteType>, 'PARAGRAPH_ENDS': <enum GTK_DELETE_PARAGRAPH_ENDS of type Gtk.DeleteType>, 'PARAGRAPHS': <enum GTK_DELETE_PARAGRAPHS of type Gtk.DeleteType>, 'WHITESPACE': <enum GTK_DELETE_WHITESPACE of type Gtk.DeleteType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'DeleteType' objects>, '__doc__': None, '__gtype__': <GType GtkDeleteType (93897368383360)>, '__enum_values__': {0: <enum GTK_DELETE_CHARS of type Gtk.DeleteType>, 1: <enum GTK_DELETE_WORD_ENDS of type Gtk.DeleteType>, 2: <enum GTK_DELETE_WORDS of type Gtk.DeleteType>, 3: <enum GTK_DELETE_DISPLAY_LINES of type Gtk.DeleteType>, 4: <enum GTK_DELETE_DISPLAY_LINE_ENDS of type Gtk.DeleteType>, 5: <enum GTK_DELETE_PARAGRAPH_ENDS of type Gtk.DeleteType>, 6: <enum GTK_DELETE_PARAGRAPHS of type Gtk.DeleteType>, 7: <enum GTK_DELETE_WHITESPACE of type Gtk.DeleteType>}, '__info__': gi.EnumInfo(DeleteType), 'CHARS': <enum GTK_DELETE_CHARS of type Gtk.DeleteType>, 'WORD_ENDS': <enum GTK_DELETE_WORD_ENDS of type Gtk.DeleteType>, 'WORDS': <enum GTK_DELETE_WORDS of type Gtk.DeleteType>, 'DISPLAY_LINES': <enum GTK_DELETE_DISPLAY_LINES of type Gtk.DeleteType>, 'DISPLAY_LINE_ENDS': <enum GTK_DELETE_DISPLAY_LINE_ENDS of type Gtk.DeleteType>, 'PARAGRAPH_ENDS': <enum GTK_DELETE_PARAGRAPH_ENDS of type Gtk.DeleteType>, 'PARAGRAPHS': <enum GTK_DELETE_PARAGRAPHS of type Gtk.DeleteType>, 'WHITESPACE': <enum GTK_DELETE_WHITESPACE of type Gtk.DeleteType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -378,7 +378,7 @@ class DeleteType(__gobject.GEnum):
         6: 6,
         7: 7,
     }
-    __gtype__ = None # (!) real value is '<GType GtkDeleteType (94846038168512)>'
+    __gtype__ = None # (!) real value is '<GType GtkDeleteType (93897368383360)>'
     __info__ = gi.EnumInfo(DeleteType)
 
 

@@ -360,14 +360,14 @@ class SocketListenerEvent(__gobject.GEnum):
     LISTENED = 3
     LISTENING = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'SocketListenerEvent' objects>, '__doc__': None, '__gtype__': <GType GSocketListenerEvent (94125582764928)>, '__enum_values__': {0: <enum G_SOCKET_LISTENER_BINDING of type Gio.SocketListenerEvent>, 1: <enum G_SOCKET_LISTENER_BOUND of type Gio.SocketListenerEvent>, 2: <enum G_SOCKET_LISTENER_LISTENING of type Gio.SocketListenerEvent>, 3: <enum G_SOCKET_LISTENER_LISTENED of type Gio.SocketListenerEvent>}, '__info__': gi.EnumInfo(SocketListenerEvent), 'BINDING': <enum G_SOCKET_LISTENER_BINDING of type Gio.SocketListenerEvent>, 'BOUND': <enum G_SOCKET_LISTENER_BOUND of type Gio.SocketListenerEvent>, 'LISTENING': <enum G_SOCKET_LISTENER_LISTENING of type Gio.SocketListenerEvent>, 'LISTENED': <enum G_SOCKET_LISTENER_LISTENED of type Gio.SocketListenerEvent>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'SocketListenerEvent' objects>, '__doc__': None, '__gtype__': <GType GSocketListenerEvent (94269257380576)>, '__enum_values__': {0: <enum G_SOCKET_LISTENER_BINDING of type Gio.SocketListenerEvent>, 1: <enum G_SOCKET_LISTENER_BOUND of type Gio.SocketListenerEvent>, 2: <enum G_SOCKET_LISTENER_LISTENING of type Gio.SocketListenerEvent>, 3: <enum G_SOCKET_LISTENER_LISTENED of type Gio.SocketListenerEvent>}, '__info__': gi.EnumInfo(SocketListenerEvent), 'BINDING': <enum G_SOCKET_LISTENER_BINDING of type Gio.SocketListenerEvent>, 'BOUND': <enum G_SOCKET_LISTENER_BOUND of type Gio.SocketListenerEvent>, 'LISTENING': <enum G_SOCKET_LISTENER_LISTENING of type Gio.SocketListenerEvent>, 'LISTENED': <enum G_SOCKET_LISTENER_LISTENED of type Gio.SocketListenerEvent>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GSocketListenerEvent (94125582764928)>'
+    __gtype__ = None # (!) real value is '<GType GSocketListenerEvent (94269257380576)>'
     __info__ = gi.EnumInfo(SocketListenerEvent)
 
 

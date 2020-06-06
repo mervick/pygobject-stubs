@@ -119,7 +119,7 @@ class FloatIEEE754(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': gi.UnionInfo(FloatIEEE754), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FloatIEEE754' objects>, '__weakref__': <attribute '__weakref__' of 'FloatIEEE754' objects>, '__doc__': None, 'v_float': <property object at 0x7f1d2b95eae0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': gi.UnionInfo(FloatIEEE754), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FloatIEEE754' objects>, '__weakref__': <attribute '__weakref__' of 'FloatIEEE754' objects>, '__doc__': None, 'v_float': <property object at 0x7f85134dc9f0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = gi.UnionInfo(FloatIEEE754)
 

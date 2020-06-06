@@ -131,10 +131,10 @@ class AsyncResult(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(AsyncResult), '__module__': 'gi.repository.Gio', '__gtype__': <GType GAsyncResult (94125581596592)>, '__dict__': <attribute '__dict__' of 'AsyncResult' objects>, '__weakref__': <attribute '__weakref__' of 'AsyncResult' objects>, '__doc__': None, '__gsignals__': {}, 'get_source_object': gi.FunctionInfo(get_source_object), 'get_user_data': gi.FunctionInfo(get_user_data), 'is_tagged': gi.FunctionInfo(is_tagged), 'legacy_propagate_error': gi.FunctionInfo(legacy_propagate_error)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(AsyncResult), '__module__': 'gi.repository.Gio', '__gtype__': <GType GAsyncResult (94269256232144)>, '__dict__': <attribute '__dict__' of 'AsyncResult' objects>, '__weakref__': <attribute '__weakref__' of 'AsyncResult' objects>, '__doc__': None, '__gsignals__': {}, 'get_source_object': gi.FunctionInfo(get_source_object), 'get_user_data': gi.FunctionInfo(get_user_data), 'is_tagged': gi.FunctionInfo(is_tagged), 'legacy_propagate_error': gi.FunctionInfo(legacy_propagate_error)})"
     __gdoc__ = 'Interface GAsyncResult\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GAsyncResult (94125581596592)>'
+    __gtype__ = None # (!) real value is '<GType GAsyncResult (94269256232144)>'
     __info__ = InterfaceInfo(AsyncResult)
 
 

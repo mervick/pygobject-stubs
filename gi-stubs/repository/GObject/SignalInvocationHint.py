@@ -151,7 +151,7 @@ class SignalInvocationHint(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SignalInvocationHint), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SignalInvocationHint' objects>, '__weakref__': <attribute '__weakref__' of 'SignalInvocationHint' objects>, '__doc__': None, 'signal_id': <property object at 0x7f7c28654090>, 'detail': <property object at 0x7f7c28654180>, 'run_type': <property object at 0x7f7c28654270>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SignalInvocationHint), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SignalInvocationHint' objects>, '__weakref__': <attribute '__weakref__' of 'SignalInvocationHint' objects>, '__doc__': None, 'signal_id': <property object at 0x7fe46b8c63b0>, 'detail': <property object at 0x7fe46b8c64a0>, 'run_type': <property object at 0x7fe46b8c6590>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(SignalInvocationHint)
 

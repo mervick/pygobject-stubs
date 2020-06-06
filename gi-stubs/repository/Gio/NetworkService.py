@@ -448,12 +448,12 @@ class NetworkService(__gi_overrides_GObject.Object, SocketConnectable):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd1d5af0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b871c1b80>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(NetworkService), '__module__': 'gi.repository.Gio', '__gtype__': <GType GNetworkService (94125582586672)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_domain': gi.FunctionInfo(get_domain), 'get_protocol': gi.FunctionInfo(get_protocol), 'get_scheme': gi.FunctionInfo(get_scheme), 'get_service': gi.FunctionInfo(get_service), 'set_scheme': gi.FunctionInfo(set_scheme), 'parent_instance': <property object at 0x7f28ddeba1d0>, 'priv': <property object at 0x7f28ddeba2c0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(NetworkService), '__module__': 'gi.repository.Gio', '__gtype__': <GType GNetworkService (94269257214752)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_domain': gi.FunctionInfo(get_domain), 'get_protocol': gi.FunctionInfo(get_protocol), 'get_scheme': gi.FunctionInfo(get_scheme), 'get_service': gi.FunctionInfo(get_service), 'set_scheme': gi.FunctionInfo(set_scheme), 'parent_instance': <property object at 0x7f4b8801b2c0>, 'priv': <property object at 0x7f4b8801b3b0>})"
     __gdoc__ = 'Object GNetworkService\n\nProperties from GNetworkService:\n  service -> gchararray: Service\n    Service name, eg "ldap"\n  protocol -> gchararray: Protocol\n    Network protocol, eg "tcp"\n  domain -> gchararray: Domain\n    Network domain, eg, "example.com"\n  scheme -> gchararray: Scheme\n    Network scheme (default is to use service)\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GNetworkService (94125582586672)>'
+    __gtype__ = None # (!) real value is '<GType GNetworkService (94269257214752)>'
     __info__ = ObjectInfo(NetworkService)
 
 

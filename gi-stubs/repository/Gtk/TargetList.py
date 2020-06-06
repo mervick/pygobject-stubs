@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -175,8 +175,8 @@ class TargetList(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TargetList), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkTargetList (94846039291584)>, '__dict__': <attribute '__dict__' of 'TargetList' objects>, '__weakref__': <attribute '__weakref__' of 'TargetList' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'add': gi.FunctionInfo(add), 'add_image_targets': gi.FunctionInfo(add_image_targets), 'add_rich_text_targets': gi.FunctionInfo(add_rich_text_targets), 'add_table': gi.FunctionInfo(add_table), 'add_text_targets': gi.FunctionInfo(add_text_targets), 'add_uri_targets': gi.FunctionInfo(add_uri_targets), 'find': gi.FunctionInfo(find), 'ref': gi.FunctionInfo(ref), 'remove': gi.FunctionInfo(remove), 'unref': gi.FunctionInfo(unref), '__new__': <staticmethod object at 0x7fe830f80b20>, '__init__': <function nothing at 0x7fe832514430>})"
-    __gtype__ = None # (!) real value is '<GType GtkTargetList (94846039291584)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TargetList), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkTargetList (93897369484000)>, '__dict__': <attribute '__dict__' of 'TargetList' objects>, '__weakref__': <attribute '__weakref__' of 'TargetList' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'add': gi.FunctionInfo(add), 'add_image_targets': gi.FunctionInfo(add_image_targets), 'add_rich_text_targets': gi.FunctionInfo(add_rich_text_targets), 'add_table': gi.FunctionInfo(add_table), 'add_text_targets': gi.FunctionInfo(add_text_targets), 'add_uri_targets': gi.FunctionInfo(add_uri_targets), 'find': gi.FunctionInfo(find), 'ref': gi.FunctionInfo(ref), 'remove': gi.FunctionInfo(remove), 'unref': gi.FunctionInfo(unref), '__new__': <staticmethod object at 0x7fc63a693f10>, '__init__': <function nothing at 0x7fc63bc2eee0>})"
+    __gtype__ = None # (!) real value is '<GType GtkTargetList (93897369484000)>'
     __info__ = StructInfo(TargetList)
 
 

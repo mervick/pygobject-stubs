@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -137,7 +137,7 @@ class StyleContextClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(StyleContextClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'StyleContextClass' objects>, '__weakref__': <attribute '__weakref__' of 'StyleContextClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830f7a6d0>, 'changed': <property object at 0x7fe830f7a7c0>, '_gtk_reserved1': <property object at 0x7fe830f7a8b0>, '_gtk_reserved2': <property object at 0x7fe830f7a9a0>, '_gtk_reserved3': <property object at 0x7fe830f7aa90>, '_gtk_reserved4': <property object at 0x7fe830f7ab80>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(StyleContextClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'StyleContextClass' objects>, '__weakref__': <attribute '__weakref__' of 'StyleContextClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a6901d0>, 'changed': <property object at 0x7fc63a6902c0>, '_gtk_reserved1': <property object at 0x7fc63a6903b0>, '_gtk_reserved2': <property object at 0x7fc63a6904a0>, '_gtk_reserved3': <property object at 0x7fc63a690590>, '_gtk_reserved4': <property object at 0x7fc63a690680>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(StyleContextClass)
 

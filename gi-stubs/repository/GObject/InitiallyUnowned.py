@@ -425,12 +425,12 @@ class InitiallyUnowned(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f7c28601a00>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe46b8d2eb0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(InitiallyUnowned), '__module__': 'gi.repository.GObject', '__gtype__': <GType GInitiallyUnowned (93895379415120)>, '__doc__': None, '__gsignals__': {}, 'g_type_instance': <property object at 0x7f7c2863f770>, 'ref_count': <property object at 0x7f7c2863f8b0>, 'qdata': <property object at 0x7f7c2863f9a0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(InitiallyUnowned), '__module__': 'gi.repository.GObject', '__gtype__': <GType GInitiallyUnowned (94184341859008)>, '__doc__': None, '__gsignals__': {}, 'g_type_instance': <property object at 0x7fe46b8b2c70>, 'ref_count': <property object at 0x7fe46b8b2db0>, 'qdata': <property object at 0x7fe46b8b2ea0>})"
     __gdoc__ = 'Object GInitiallyUnowned\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GInitiallyUnowned (93895379415120)>'
+    __gtype__ = None # (!) real value is '<GType GInitiallyUnowned (94184341859008)>'
     __info__ = ObjectInfo(InitiallyUnowned)
 
 

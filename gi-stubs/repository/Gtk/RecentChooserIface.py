@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -155,7 +155,7 @@ class RecentChooserIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(RecentChooserIface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'RecentChooserIface' objects>, '__weakref__': <attribute '__weakref__' of 'RecentChooserIface' objects>, '__doc__': None, 'base_iface': <property object at 0x7fe830fb6ea0>, 'set_current_uri': <property object at 0x7fe830fb6f90>, 'get_current_uri': <property object at 0x7fe830fb70e0>, 'select_uri': <property object at 0x7fe830fb71d0>, 'unselect_uri': <property object at 0x7fe830fb72c0>, 'select_all': <property object at 0x7fe830fb73b0>, 'unselect_all': <property object at 0x7fe830fb74a0>, 'get_items': <property object at 0x7fe830fb7590>, 'get_recent_manager': <property object at 0x7fe830fb76d0>, 'add_filter': <property object at 0x7fe830fb77c0>, 'remove_filter': <property object at 0x7fe830fb78b0>, 'list_filters': <property object at 0x7fe830fb79a0>, 'set_sort_func': <property object at 0x7fe830fb7a90>, 'item_activated': <property object at 0x7fe830fb7b80>, 'selection_changed': <property object at 0x7fe830fb7cc0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(RecentChooserIface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'RecentChooserIface' objects>, '__weakref__': <attribute '__weakref__' of 'RecentChooserIface' objects>, '__doc__': None, 'base_iface': <property object at 0x7fc63a6cc860>, 'set_current_uri': <property object at 0x7fc63a6cc950>, 'get_current_uri': <property object at 0x7fc63a6cca40>, 'select_uri': <property object at 0x7fc63a6ccb30>, 'unselect_uri': <property object at 0x7fc63a6ccc20>, 'select_all': <property object at 0x7fc63a6ccd10>, 'unselect_all': <property object at 0x7fc63a6cce00>, 'get_items': <property object at 0x7fc63a6ccef0>, 'get_recent_manager': <property object at 0x7fc63a6cd090>, 'add_filter': <property object at 0x7fc63a6cd180>, 'remove_filter': <property object at 0x7fc63a6cd270>, 'list_filters': <property object at 0x7fc63a6cd360>, 'set_sort_func': <property object at 0x7fc63a6cd450>, 'item_activated': <property object at 0x7fc63a6cd540>, 'selection_changed': <property object at 0x7fc63a6cd680>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(RecentChooserIface)
 

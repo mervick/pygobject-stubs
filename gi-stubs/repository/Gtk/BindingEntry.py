@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -159,7 +159,7 @@ class BindingEntry(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(BindingEntry), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'BindingEntry' objects>, '__weakref__': <attribute '__weakref__' of 'BindingEntry' objects>, '__doc__': None, 'keyval': <property object at 0x7fe83111fbd0>, 'modifiers': <property object at 0x7fe83111fcc0>, 'binding_set': <property object at 0x7fe83111fdb0>, 'destroyed': <property object at 0x7fe83111fea0>, 'in_emission': <property object at 0x7fe83111ff40>, 'marks_unbound': <property object at 0x7fe8310a1090>, 'set_next': <property object at 0x7fe8310a1180>, 'hash_next': <property object at 0x7fe8310a1270>, 'signals': <property object at 0x7fe8310a1360>, 'add_signal_from_string': gi.FunctionInfo(add_signal_from_string), 'add_signall': gi.FunctionInfo(add_signall), 'remove': gi.FunctionInfo(remove), 'skip': gi.FunctionInfo(skip)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(BindingEntry), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'BindingEntry' objects>, '__weakref__': <attribute '__weakref__' of 'BindingEntry' objects>, '__doc__': None, 'keyval': <property object at 0x7fc63a7b4a40>, 'modifiers': <property object at 0x7fc63a7b4b30>, 'binding_set': <property object at 0x7fc63a7b4c20>, 'destroyed': <property object at 0x7fc63a7b4d10>, 'in_emission': <property object at 0x7fc63a7b4e00>, 'marks_unbound': <property object at 0x7fc63a7b4ef0>, 'set_next': <property object at 0x7fc63a7b5040>, 'hash_next': <property object at 0x7fc63a7b5130>, 'signals': <property object at 0x7fc63a7b5220>, 'add_signal_from_string': gi.FunctionInfo(add_signal_from_string), 'add_signall': gi.FunctionInfo(add_signall), 'remove': gi.FunctionInfo(remove), 'skip': gi.FunctionInfo(skip)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(BindingEntry)
 

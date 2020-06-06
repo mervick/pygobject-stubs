@@ -366,7 +366,7 @@ class IOChannelError(__gobject.GEnum):
     OVERFLOW = 6
     PIPE = 7
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'IOChannelError' objects>, '__doc__': None, '__gtype__': <GType PyGLibIOChannelError (94243598969584)>, '__enum_values__': {0: <enum G_IO_CHANNEL_ERROR_FBIG of type GLib.IOChannelError>, 1: <enum G_IO_CHANNEL_ERROR_INVAL of type GLib.IOChannelError>, 2: <enum G_IO_CHANNEL_ERROR_IO of type GLib.IOChannelError>, 3: <enum G_IO_CHANNEL_ERROR_ISDIR of type GLib.IOChannelError>, 4: <enum G_IO_CHANNEL_ERROR_NOSPC of type GLib.IOChannelError>, 5: <enum G_IO_CHANNEL_ERROR_NXIO of type GLib.IOChannelError>, 6: <enum G_IO_CHANNEL_ERROR_OVERFLOW of type GLib.IOChannelError>, 7: <enum G_IO_CHANNEL_ERROR_PIPE of type GLib.IOChannelError>, 8: <enum G_IO_CHANNEL_ERROR_FAILED of type GLib.IOChannelError>}, '__info__': gi.EnumInfo(IOChannelError), 'FBIG': <enum G_IO_CHANNEL_ERROR_FBIG of type GLib.IOChannelError>, 'INVAL': <enum G_IO_CHANNEL_ERROR_INVAL of type GLib.IOChannelError>, 'IO': <enum G_IO_CHANNEL_ERROR_IO of type GLib.IOChannelError>, 'ISDIR': <enum G_IO_CHANNEL_ERROR_ISDIR of type GLib.IOChannelError>, 'NOSPC': <enum G_IO_CHANNEL_ERROR_NOSPC of type GLib.IOChannelError>, 'NXIO': <enum G_IO_CHANNEL_ERROR_NXIO of type GLib.IOChannelError>, 'OVERFLOW': <enum G_IO_CHANNEL_ERROR_OVERFLOW of type GLib.IOChannelError>, 'PIPE': <enum G_IO_CHANNEL_ERROR_PIPE of type GLib.IOChannelError>, 'FAILED': <enum G_IO_CHANNEL_ERROR_FAILED of type GLib.IOChannelError>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'IOChannelError' objects>, '__doc__': None, '__gtype__': <GType PyGLibIOChannelError (94581033746448)>, '__enum_values__': {0: <enum G_IO_CHANNEL_ERROR_FBIG of type GLib.IOChannelError>, 1: <enum G_IO_CHANNEL_ERROR_INVAL of type GLib.IOChannelError>, 2: <enum G_IO_CHANNEL_ERROR_IO of type GLib.IOChannelError>, 3: <enum G_IO_CHANNEL_ERROR_ISDIR of type GLib.IOChannelError>, 4: <enum G_IO_CHANNEL_ERROR_NOSPC of type GLib.IOChannelError>, 5: <enum G_IO_CHANNEL_ERROR_NXIO of type GLib.IOChannelError>, 6: <enum G_IO_CHANNEL_ERROR_OVERFLOW of type GLib.IOChannelError>, 7: <enum G_IO_CHANNEL_ERROR_PIPE of type GLib.IOChannelError>, 8: <enum G_IO_CHANNEL_ERROR_FAILED of type GLib.IOChannelError>}, '__info__': gi.EnumInfo(IOChannelError), 'FBIG': <enum G_IO_CHANNEL_ERROR_FBIG of type GLib.IOChannelError>, 'INVAL': <enum G_IO_CHANNEL_ERROR_INVAL of type GLib.IOChannelError>, 'IO': <enum G_IO_CHANNEL_ERROR_IO of type GLib.IOChannelError>, 'ISDIR': <enum G_IO_CHANNEL_ERROR_ISDIR of type GLib.IOChannelError>, 'NOSPC': <enum G_IO_CHANNEL_ERROR_NOSPC of type GLib.IOChannelError>, 'NXIO': <enum G_IO_CHANNEL_ERROR_NXIO of type GLib.IOChannelError>, 'OVERFLOW': <enum G_IO_CHANNEL_ERROR_OVERFLOW of type GLib.IOChannelError>, 'PIPE': <enum G_IO_CHANNEL_ERROR_PIPE of type GLib.IOChannelError>, 'FAILED': <enum G_IO_CHANNEL_ERROR_FAILED of type GLib.IOChannelError>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -378,7 +378,7 @@ class IOChannelError(__gobject.GEnum):
         7: 7,
         8: 8,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibIOChannelError (94243598969584)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibIOChannelError (94581033746448)>'
     __info__ = gi.EnumInfo(IOChannelError)
 
 

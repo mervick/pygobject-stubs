@@ -431,12 +431,12 @@ class NoOpObjectFactory(ObjectFactory):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f0cd81d7b50>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f44c6d0c4f0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(NoOpObjectFactory), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkNoOpObjectFactory (93922955977040)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'parent': <property object at 0x7f0cd819ee00>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(NoOpObjectFactory), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkNoOpObjectFactory (94258337939760)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'parent': <property object at 0x7f44c6dba220>})"
     __gdoc__ = 'Object AtkNoOpObjectFactory\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType AtkNoOpObjectFactory (93922955977040)>'
+    __gtype__ = None # (!) real value is '<GType AtkNoOpObjectFactory (94258337939760)>'
     __info__ = ObjectInfo(NoOpObjectFactory)
 
 

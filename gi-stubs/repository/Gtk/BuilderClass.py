@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -145,7 +145,7 @@ class BuilderClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(BuilderClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'BuilderClass' objects>, '__weakref__': <attribute '__weakref__' of 'BuilderClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe8310a5cc0>, 'get_type_from_name': <property object at 0x7fe8310a5e00>, '_gtk_reserved1': <property object at 0x7fe8310a5ea0>, '_gtk_reserved2': <property object at 0x7fe8310a5f90>, '_gtk_reserved3': <property object at 0x7fe8310aa0e0>, '_gtk_reserved4': <property object at 0x7fe8310aa1d0>, '_gtk_reserved5': <property object at 0x7fe8310aa2c0>, '_gtk_reserved6': <property object at 0x7fe8310aa3b0>, '_gtk_reserved7': <property object at 0x7fe8310aa4a0>, '_gtk_reserved8': <property object at 0x7fe8310aa590>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(BuilderClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'BuilderClass' objects>, '__weakref__': <attribute '__weakref__' of 'BuilderClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a7bdb80>, 'get_type_from_name': <property object at 0x7fc63a7bdcc0>, '_gtk_reserved1': <property object at 0x7fc63a7bdd60>, '_gtk_reserved2': <property object at 0x7fc63a7bde50>, '_gtk_reserved3': <property object at 0x7fc63a7bdf40>, '_gtk_reserved4': <property object at 0x7fc63a7be090>, '_gtk_reserved5': <property object at 0x7fc63a7be180>, '_gtk_reserved6': <property object at 0x7fc63a7be270>, '_gtk_reserved7': <property object at 0x7fc63a7be360>, '_gtk_reserved8': <property object at 0x7fc63a7be450>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(BuilderClass)
 

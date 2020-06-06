@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,14 +363,14 @@ class Justification(__gobject.GEnum):
     LEFT = 0
     RIGHT = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'Justification' objects>, '__doc__': None, '__gtype__': <GType GtkJustification (94846038618544)>, '__enum_values__': {0: <enum GTK_JUSTIFY_LEFT of type Gtk.Justification>, 1: <enum GTK_JUSTIFY_RIGHT of type Gtk.Justification>, 2: <enum GTK_JUSTIFY_CENTER of type Gtk.Justification>, 3: <enum GTK_JUSTIFY_FILL of type Gtk.Justification>}, '__info__': gi.EnumInfo(Justification), 'LEFT': <enum GTK_JUSTIFY_LEFT of type Gtk.Justification>, 'RIGHT': <enum GTK_JUSTIFY_RIGHT of type Gtk.Justification>, 'CENTER': <enum GTK_JUSTIFY_CENTER of type Gtk.Justification>, 'FILL': <enum GTK_JUSTIFY_FILL of type Gtk.Justification>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'Justification' objects>, '__doc__': None, '__gtype__': <GType GtkJustification (93897368833568)>, '__enum_values__': {0: <enum GTK_JUSTIFY_LEFT of type Gtk.Justification>, 1: <enum GTK_JUSTIFY_RIGHT of type Gtk.Justification>, 2: <enum GTK_JUSTIFY_CENTER of type Gtk.Justification>, 3: <enum GTK_JUSTIFY_FILL of type Gtk.Justification>}, '__info__': gi.EnumInfo(Justification), 'LEFT': <enum GTK_JUSTIFY_LEFT of type Gtk.Justification>, 'RIGHT': <enum GTK_JUSTIFY_RIGHT of type Gtk.Justification>, 'CENTER': <enum GTK_JUSTIFY_CENTER of type Gtk.Justification>, 'FILL': <enum GTK_JUSTIFY_FILL of type Gtk.Justification>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkJustification (94846038618544)>'
+    __gtype__ = None # (!) real value is '<GType GtkJustification (93897368833568)>'
     __info__ = gi.EnumInfo(Justification)
 
 

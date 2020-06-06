@@ -365,14 +365,14 @@ class DBusSignalFlags(__gobject.GFlags):
     NONE = 0
     NO_MATCH_RULE = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusSignalFlags' objects>, '__doc__': None, '__gtype__': <GType GDBusSignalFlags (94125582182816)>, '__flags_values__': {0: <flags 0 of type Gio.DBusSignalFlags>, 1: <flags G_DBUS_SIGNAL_FLAGS_NO_MATCH_RULE of type Gio.DBusSignalFlags>, 2: <flags G_DBUS_SIGNAL_FLAGS_MATCH_ARG0_NAMESPACE of type Gio.DBusSignalFlags>, 4: <flags G_DBUS_SIGNAL_FLAGS_MATCH_ARG0_PATH of type Gio.DBusSignalFlags>}, '__info__': gi.EnumInfo(DBusSignalFlags), 'NONE': <flags 0 of type Gio.DBusSignalFlags>, 'NO_MATCH_RULE': <flags G_DBUS_SIGNAL_FLAGS_NO_MATCH_RULE of type Gio.DBusSignalFlags>, 'MATCH_ARG0_NAMESPACE': <flags G_DBUS_SIGNAL_FLAGS_MATCH_ARG0_NAMESPACE of type Gio.DBusSignalFlags>, 'MATCH_ARG0_PATH': <flags G_DBUS_SIGNAL_FLAGS_MATCH_ARG0_PATH of type Gio.DBusSignalFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusSignalFlags' objects>, '__doc__': None, '__gtype__': <GType GDBusSignalFlags (94269256804912)>, '__flags_values__': {0: <flags 0 of type Gio.DBusSignalFlags>, 1: <flags G_DBUS_SIGNAL_FLAGS_NO_MATCH_RULE of type Gio.DBusSignalFlags>, 2: <flags G_DBUS_SIGNAL_FLAGS_MATCH_ARG0_NAMESPACE of type Gio.DBusSignalFlags>, 4: <flags G_DBUS_SIGNAL_FLAGS_MATCH_ARG0_PATH of type Gio.DBusSignalFlags>}, '__info__': gi.EnumInfo(DBusSignalFlags), 'NONE': <flags 0 of type Gio.DBusSignalFlags>, 'NO_MATCH_RULE': <flags G_DBUS_SIGNAL_FLAGS_NO_MATCH_RULE of type Gio.DBusSignalFlags>, 'MATCH_ARG0_NAMESPACE': <flags G_DBUS_SIGNAL_FLAGS_MATCH_ARG0_NAMESPACE of type Gio.DBusSignalFlags>, 'MATCH_ARG0_PATH': <flags G_DBUS_SIGNAL_FLAGS_MATCH_ARG0_PATH of type Gio.DBusSignalFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
         2: 2,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType GDBusSignalFlags (94125582182816)>'
+    __gtype__ = None # (!) real value is '<GType GDBusSignalFlags (94269256804912)>'
     __info__ = gi.EnumInfo(DBusSignalFlags)
 
 

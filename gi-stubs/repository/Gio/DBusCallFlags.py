@@ -364,13 +364,13 @@ class DBusCallFlags(__gobject.GFlags):
     NONE = 0
     NO_AUTO_START = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusCallFlags' objects>, '__doc__': None, '__gtype__': <GType GDBusCallFlags (94125582093408)>, '__flags_values__': {0: <flags 0 of type Gio.DBusCallFlags>, 1: <flags G_DBUS_CALL_FLAGS_NO_AUTO_START of type Gio.DBusCallFlags>, 2: <flags G_DBUS_CALL_FLAGS_ALLOW_INTERACTIVE_AUTHORIZATION of type Gio.DBusCallFlags>}, '__info__': gi.EnumInfo(DBusCallFlags), 'NONE': <flags 0 of type Gio.DBusCallFlags>, 'NO_AUTO_START': <flags G_DBUS_CALL_FLAGS_NO_AUTO_START of type Gio.DBusCallFlags>, 'ALLOW_INTERACTIVE_AUTHORIZATION': <flags G_DBUS_CALL_FLAGS_ALLOW_INTERACTIVE_AUTHORIZATION of type Gio.DBusCallFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusCallFlags' objects>, '__doc__': None, '__gtype__': <GType GDBusCallFlags (94269256719760)>, '__flags_values__': {0: <flags 0 of type Gio.DBusCallFlags>, 1: <flags G_DBUS_CALL_FLAGS_NO_AUTO_START of type Gio.DBusCallFlags>, 2: <flags G_DBUS_CALL_FLAGS_ALLOW_INTERACTIVE_AUTHORIZATION of type Gio.DBusCallFlags>}, '__info__': gi.EnumInfo(DBusCallFlags), 'NONE': <flags 0 of type Gio.DBusCallFlags>, 'NO_AUTO_START': <flags G_DBUS_CALL_FLAGS_NO_AUTO_START of type Gio.DBusCallFlags>, 'ALLOW_INTERACTIVE_AUTHORIZATION': <flags G_DBUS_CALL_FLAGS_ALLOW_INTERACTIVE_AUTHORIZATION of type Gio.DBusCallFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GDBusCallFlags (94125582093408)>'
+    __gtype__ = None # (!) real value is '<GType GDBusCallFlags (94269256719760)>'
     __info__ = gi.EnumInfo(DBusCallFlags)
 
 

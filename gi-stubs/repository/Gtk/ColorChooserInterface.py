@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -137,7 +137,7 @@ class ColorChooserInterface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ColorChooserInterface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ColorChooserInterface' objects>, '__weakref__': <attribute '__weakref__' of 'ColorChooserInterface' objects>, '__doc__': None, 'base_interface': <property object at 0x7fe8310d88b0>, 'get_rgba': <property object at 0x7fe8310d89a0>, 'set_rgba': <property object at 0x7fe8310d8a90>, 'add_palette': <property object at 0x7fe8310d8b80>, 'color_activated': <property object at 0x7fe8310d8c70>, 'padding': <property object at 0x7fe8310d8d60>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ColorChooserInterface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ColorChooserInterface' objects>, '__weakref__': <attribute '__weakref__' of 'ColorChooserInterface' objects>, '__doc__': None, 'base_interface': <property object at 0x7fc63a7ee770>, 'get_rgba': <property object at 0x7fc63a7ee860>, 'set_rgba': <property object at 0x7fc63a7ee950>, 'add_palette': <property object at 0x7fc63a7eea40>, 'color_activated': <property object at 0x7fc63a7eeb30>, 'padding': <property object at 0x7fc63a7eec20>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ColorChooserInterface)
 

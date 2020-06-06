@@ -225,9 +225,9 @@ class ParamSpecParam(ParamSpec):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ParamSpecParam), '__module__': 'gi.repository.GObject', '__gtype__': <GType GParamParam (93895378954816)>, '__doc__': None, '__gsignals__': {}, 'parent_instance': <property object at 0x7f7c2864abd0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ParamSpecParam), '__module__': 'gi.repository.GObject', '__gtype__': <GType GParamParam (94184341419952)>, '__doc__': None, '__gsignals__': {}, 'parent_instance': <property object at 0x7fe46b8c0130>})"
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GParamParam (93895378954816)>'
+    __gtype__ = None # (!) real value is '<GType GParamParam (94184341419952)>'
     __info__ = ObjectInfo(ParamSpecParam)
 
 

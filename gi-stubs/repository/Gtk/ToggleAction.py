@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -671,12 +671,12 @@ class ToggleAction(__gi_overrides_Gtk.Action):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe82f384280>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc6394a8310>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ToggleAction), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkToggleAction (94846036731536)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_active': gi.FunctionInfo(get_active), 'get_draw_as_radio': gi.FunctionInfo(get_draw_as_radio), 'set_active': gi.FunctionInfo(set_active), 'set_draw_as_radio': gi.FunctionInfo(set_draw_as_radio), 'toggled': gi.FunctionInfo(toggled), 'do_toggled': gi.VFuncInfo(toggled), 'parent': <property object at 0x7fe831d88d10>, 'private_data': <property object at 0x7fe831d88e00>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ToggleAction), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkToggleAction (93897366989744)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_active': gi.FunctionInfo(get_active), 'get_draw_as_radio': gi.FunctionInfo(get_draw_as_radio), 'set_active': gi.FunctionInfo(set_active), 'set_draw_as_radio': gi.FunctionInfo(set_draw_as_radio), 'toggled': gi.FunctionInfo(toggled), 'do_toggled': gi.VFuncInfo(toggled), 'parent': <property object at 0x7fc63b4a2bd0>, 'private_data': <property object at 0x7fc63b4a2cc0>})"
     __gdoc__ = 'Object GtkToggleAction\n\nSignals from GtkToggleAction:\n  toggled ()\n\nProperties from GtkToggleAction:\n  draw-as-radio -> gboolean: Create the same proxies as a radio action\n    Whether the proxies for this action look like radio action proxies\n  active -> gboolean: Active\n    Whether the toggle action should be active\n\nSignals from GtkAction:\n  activate ()\n\nProperties from GtkAction:\n  name -> gchararray: Name\n    A unique name for the action.\n  label -> gchararray: Label\n    The label used for menu items and buttons that activate this action.\n  short-label -> gchararray: Short label\n    A shorter label that may be used on toolbar buttons.\n  tooltip -> gchararray: Tooltip\n    A tooltip for this action.\n  stock-id -> gchararray: Stock Icon\n    The stock icon displayed in widgets representing this action.\n  icon-name -> gchararray: Icon Name\n    The name of the icon from the icon theme\n  gicon -> GIcon: GIcon\n    The GIcon being displayed\n  visible-horizontal -> gboolean: Visible when horizontal\n    Whether the toolbar item is visible when the toolbar is in a horizontal orientation.\n  visible-vertical -> gboolean: Visible when vertical\n    Whether the toolbar item is visible when the toolbar is in a vertical orientation.\n  visible-overflown -> gboolean: Visible when overflown\n    When TRUE, toolitem proxies for this action are represented in the toolbar overflow menu.\n  is-important -> gboolean: Is important\n    Whether the action is considered important. When TRUE, toolitem proxies for this action show text in GTK_TOOLBAR_BOTH_HORIZ mode.\n  hide-if-empty -> gboolean: Hide if empty\n    When TRUE, empty menu proxies for this action are hidden.\n  sensitive -> gboolean: Sensitive\n    Whether the action is enabled.\n  visible -> gboolean: Visible\n    Whether the action is visible.\n  action-group -> GtkActionGroup: Action Group\n    The GtkActionGroup this GtkAction is associated with, or NULL (for internal use).\n  always-show-image -> gboolean: Always show image\n    Whether the image will always be shown\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkToggleAction (94846036731536)>'
+    __gtype__ = None # (!) real value is '<GType GtkToggleAction (93897366989744)>'
     __info__ = ObjectInfo(ToggleAction)
 
 

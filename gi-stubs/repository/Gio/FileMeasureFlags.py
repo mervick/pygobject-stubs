@@ -365,14 +365,14 @@ class FileMeasureFlags(__gobject.GFlags):
     NO_XDEV = 8
     REPORT_ANY_ERROR = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'FileMeasureFlags' objects>, '__doc__': None, '__gtype__': <GType GFileMeasureFlags (94125582351328)>, '__flags_values__': {0: <flags 0 of type Gio.FileMeasureFlags>, 2: <flags G_FILE_MEASURE_REPORT_ANY_ERROR of type Gio.FileMeasureFlags>, 4: <flags G_FILE_MEASURE_APPARENT_SIZE of type Gio.FileMeasureFlags>, 8: <flags G_FILE_MEASURE_NO_XDEV of type Gio.FileMeasureFlags>}, '__info__': gi.EnumInfo(FileMeasureFlags), 'NONE': <flags 0 of type Gio.FileMeasureFlags>, 'REPORT_ANY_ERROR': <flags G_FILE_MEASURE_REPORT_ANY_ERROR of type Gio.FileMeasureFlags>, 'APPARENT_SIZE': <flags G_FILE_MEASURE_APPARENT_SIZE of type Gio.FileMeasureFlags>, 'NO_XDEV': <flags G_FILE_MEASURE_NO_XDEV of type Gio.FileMeasureFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'FileMeasureFlags' objects>, '__doc__': None, '__gtype__': <GType GFileMeasureFlags (94269256943648)>, '__flags_values__': {0: <flags 0 of type Gio.FileMeasureFlags>, 2: <flags G_FILE_MEASURE_REPORT_ANY_ERROR of type Gio.FileMeasureFlags>, 4: <flags G_FILE_MEASURE_APPARENT_SIZE of type Gio.FileMeasureFlags>, 8: <flags G_FILE_MEASURE_NO_XDEV of type Gio.FileMeasureFlags>}, '__info__': gi.EnumInfo(FileMeasureFlags), 'NONE': <flags 0 of type Gio.FileMeasureFlags>, 'REPORT_ANY_ERROR': <flags G_FILE_MEASURE_REPORT_ANY_ERROR of type Gio.FileMeasureFlags>, 'APPARENT_SIZE': <flags G_FILE_MEASURE_APPARENT_SIZE of type Gio.FileMeasureFlags>, 'NO_XDEV': <flags G_FILE_MEASURE_NO_XDEV of type Gio.FileMeasureFlags>})"
     __flags_values__ = {
         0: 0,
         2: 2,
         4: 4,
         8: 8,
     }
-    __gtype__ = None # (!) real value is '<GType GFileMeasureFlags (94125582351328)>'
+    __gtype__ = None # (!) real value is '<GType GFileMeasureFlags (94269256943648)>'
     __info__ = gi.EnumInfo(FileMeasureFlags)
 
 

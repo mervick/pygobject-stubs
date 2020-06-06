@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -144,8 +144,8 @@ class TreeIter(__gi.Boxed):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TreeIter), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkTreeIter (94846039494448)>, '__dict__': <attribute '__dict__' of 'TreeIter' objects>, '__weakref__': <attribute '__weakref__' of 'TreeIter' objects>, '__doc__': None, 'stamp': <property object at 0x7fe830f2f040>, 'user_data': <property object at 0x7fe830f2f130>, 'user_data2': <property object at 0x7fe830f2f220>, 'user_data3': <property object at 0x7fe830f2f310>, 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free)})"
-    __gtype__ = None # (!) real value is '<GType GtkTreeIter (94846039494448)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TreeIter), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkTreeIter (93897369742960)>, '__dict__': <attribute '__dict__' of 'TreeIter' objects>, '__weakref__': <attribute '__weakref__' of 'TreeIter' objects>, '__doc__': None, 'stamp': <property object at 0x7fc63a645770>, 'user_data': <property object at 0x7fc63a645860>, 'user_data2': <property object at 0x7fc63a645950>, 'user_data3': <property object at 0x7fc63a645a40>, 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free)})"
+    __gtype__ = None # (!) real value is '<GType GtkTreeIter (93897369742960)>'
     __info__ = StructInfo(TreeIter)
 
 

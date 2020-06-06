@@ -624,13 +624,13 @@ class ModuleFlags(__gobject.GFlags):
     LOCAL = 2
     MASK = 3
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GModule', '__dict__': <attribute '__dict__' of 'ModuleFlags' objects>, '__doc__': None, '__gtype__': <GType PyGModuleModuleFlags (94796040239632)>, '__flags_values__': {1: <flags G_MODULE_BIND_LAZY of type GModule.ModuleFlags>, 2: <flags G_MODULE_BIND_LOCAL of type GModule.ModuleFlags>, 3: <flags G_MODULE_BIND_LAZY | G_MODULE_BIND_LOCAL | G_MODULE_BIND_MASK of type GModule.ModuleFlags>}, '__info__': gi.EnumInfo(ModuleFlags), 'LAZY': <flags G_MODULE_BIND_LAZY of type GModule.ModuleFlags>, 'LOCAL': <flags G_MODULE_BIND_LOCAL of type GModule.ModuleFlags>, 'MASK': <flags G_MODULE_BIND_LAZY | G_MODULE_BIND_LOCAL | G_MODULE_BIND_MASK of type GModule.ModuleFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GModule', '__dict__': <attribute '__dict__' of 'ModuleFlags' objects>, '__doc__': None, '__gtype__': <GType PyGModuleModuleFlags (94804284072944)>, '__flags_values__': {1: <flags G_MODULE_BIND_LAZY of type GModule.ModuleFlags>, 2: <flags G_MODULE_BIND_LOCAL of type GModule.ModuleFlags>, 3: <flags G_MODULE_BIND_LAZY | G_MODULE_BIND_LOCAL | G_MODULE_BIND_MASK of type GModule.ModuleFlags>}, '__info__': gi.EnumInfo(ModuleFlags), 'LAZY': <flags G_MODULE_BIND_LAZY of type GModule.ModuleFlags>, 'LOCAL': <flags G_MODULE_BIND_LOCAL of type GModule.ModuleFlags>, 'MASK': <flags G_MODULE_BIND_LAZY | G_MODULE_BIND_LOCAL | G_MODULE_BIND_MASK of type GModule.ModuleFlags>})"
     __flags_values__ = {
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType PyGModuleModuleFlags (94796040239632)>'
+    __gtype__ = None # (!) real value is '<GType PyGModuleModuleFlags (94804284072944)>'
     __info__ = gi.EnumInfo(ModuleFlags)
 
 
@@ -749,16 +749,16 @@ class __class__(object):
 
 
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.module', '__doc__': 'An object which wraps an introspection typelib.\\n\\n    This wrapping creates a python module like representation of the typelib\\n    using gi repository as a foundation. Accessing attributes of the module\\n    will dynamically pull them in and create wrappers for the members.\\n    These members are then cached on this introspection module.\\n    ', '__init__': <function IntrospectionModule.__init__ at 0x7f52f395e700>, '__getattr__': <function IntrospectionModule.__getattr__ at 0x7f52f395e790>, '__repr__': <function IntrospectionModule.__repr__ at 0x7f52f395e820>, '__dir__': <function IntrospectionModule.__dir__ at 0x7f52f395e8b0>, '__dict__': <attribute '__dict__' of 'IntrospectionModule' objects>, '__weakref__': <attribute '__weakref__' of 'IntrospectionModule' objects>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.module', '__doc__': 'An object which wraps an introspection typelib.\\n\\n    This wrapping creates a python module like representation of the typelib\\n    using gi repository as a foundation. Accessing attributes of the module\\n    will dynamically pull them in and create wrappers for the members.\\n    These members are then cached on this introspection module.\\n    ', '__init__': <function IntrospectionModule.__init__ at 0x7f23362121f0>, '__getattr__': <function IntrospectionModule.__getattr__ at 0x7f2336212280>, '__repr__': <function IntrospectionModule.__repr__ at 0x7f2336212310>, '__dir__': <function IntrospectionModule.__dir__ at 0x7f23362123a0>, '__dict__': <attribute '__dict__' of 'IntrospectionModule' objects>, '__weakref__': <attribute '__weakref__' of 'IntrospectionModule' objects>})"
 
 
 # variables with complex values
 
-__loader__ = None # (!) real value is '<gi.importer.DynamicImporter object at 0x7f52f45909d0>'
+__loader__ = None # (!) real value is '<gi.importer.DynamicImporter object at 0x7f2336e4ed00>'
 
 __path__ = [
     '/usr/lib64/girepository-1.0/GModule-2.0.typelib',
 ]
 
-__spec__ = None # (!) real value is "ModuleSpec(name='gi.repository.GModule', loader=<gi.importer.DynamicImporter object at 0x7f52f45909d0>)"
+__spec__ = None # (!) real value is "ModuleSpec(name='gi.repository.GModule', loader=<gi.importer.DynamicImporter object at 0x7f2336e4ed00>)"
 

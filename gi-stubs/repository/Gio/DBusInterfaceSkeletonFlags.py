@@ -363,12 +363,12 @@ class DBusInterfaceSkeletonFlags(__gobject.GFlags):
     HANDLE_METHOD_INVOCATIONS_IN_THREAD = 1
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusInterfaceSkeletonFlags' objects>, '__doc__': None, '__gtype__': <GType GDBusInterfaceSkeletonFlags (94125582107104)>, '__flags_values__': {0: <flags 0 of type Gio.DBusInterfaceSkeletonFlags>, 1: <flags G_DBUS_INTERFACE_SKELETON_FLAGS_HANDLE_METHOD_INVOCATIONS_IN_THREAD of type Gio.DBusInterfaceSkeletonFlags>}, '__info__': gi.EnumInfo(DBusInterfaceSkeletonFlags), 'NONE': <flags 0 of type Gio.DBusInterfaceSkeletonFlags>, 'HANDLE_METHOD_INVOCATIONS_IN_THREAD': <flags G_DBUS_INTERFACE_SKELETON_FLAGS_HANDLE_METHOD_INVOCATIONS_IN_THREAD of type Gio.DBusInterfaceSkeletonFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusInterfaceSkeletonFlags' objects>, '__doc__': None, '__gtype__': <GType GDBusInterfaceSkeletonFlags (94269256733488)>, '__flags_values__': {0: <flags 0 of type Gio.DBusInterfaceSkeletonFlags>, 1: <flags G_DBUS_INTERFACE_SKELETON_FLAGS_HANDLE_METHOD_INVOCATIONS_IN_THREAD of type Gio.DBusInterfaceSkeletonFlags>}, '__info__': gi.EnumInfo(DBusInterfaceSkeletonFlags), 'NONE': <flags 0 of type Gio.DBusInterfaceSkeletonFlags>, 'HANDLE_METHOD_INVOCATIONS_IN_THREAD': <flags G_DBUS_INTERFACE_SKELETON_FLAGS_HANDLE_METHOD_INVOCATIONS_IN_THREAD of type Gio.DBusInterfaceSkeletonFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GDBusInterfaceSkeletonFlags (94125582107104)>'
+    __gtype__ = None # (!) real value is '<GType GDBusInterfaceSkeletonFlags (94269256733488)>'
     __info__ = gi.EnumInfo(DBusInterfaceSkeletonFlags)
 
 

@@ -130,7 +130,7 @@ class DBusSubtreeVTable(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(DBusSubtreeVTable), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'DBusSubtreeVTable' objects>, '__weakref__': <attribute '__weakref__' of 'DBusSubtreeVTable' objects>, '__doc__': None, 'enumerate': <property object at 0x7f28ddedab80>, 'introspect': <property object at 0x7f28ddedac70>, 'dispatch': <property object at 0x7f28ddedad60>, 'padding': <property object at 0x7f28ddedae50>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(DBusSubtreeVTable), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'DBusSubtreeVTable' objects>, '__weakref__': <attribute '__weakref__' of 'DBusSubtreeVTable' objects>, '__doc__': None, 'enumerate': <property object at 0x7f4b8803ce00>, 'introspect': <property object at 0x7f4b8803cef0>, 'dispatch': <property object at 0x7f4b88040040>, 'padding': <property object at 0x7f4b88040130>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(DBusSubtreeVTable)
 

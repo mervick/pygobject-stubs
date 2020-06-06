@@ -363,12 +363,12 @@ class DBusSubtreeFlags(__gobject.GFlags):
     DISPATCH_TO_UNENUMERATED_NODES = 1
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusSubtreeFlags' objects>, '__doc__': None, '__gtype__': <GType GDBusSubtreeFlags (94125582184064)>, '__flags_values__': {0: <flags 0 of type Gio.DBusSubtreeFlags>, 1: <flags G_DBUS_SUBTREE_FLAGS_DISPATCH_TO_UNENUMERATED_NODES of type Gio.DBusSubtreeFlags>}, '__info__': gi.EnumInfo(DBusSubtreeFlags), 'NONE': <flags 0 of type Gio.DBusSubtreeFlags>, 'DISPATCH_TO_UNENUMERATED_NODES': <flags G_DBUS_SUBTREE_FLAGS_DISPATCH_TO_UNENUMERATED_NODES of type Gio.DBusSubtreeFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusSubtreeFlags' objects>, '__doc__': None, '__gtype__': <GType GDBusSubtreeFlags (94269256805216)>, '__flags_values__': {0: <flags 0 of type Gio.DBusSubtreeFlags>, 1: <flags G_DBUS_SUBTREE_FLAGS_DISPATCH_TO_UNENUMERATED_NODES of type Gio.DBusSubtreeFlags>}, '__info__': gi.EnumInfo(DBusSubtreeFlags), 'NONE': <flags 0 of type Gio.DBusSubtreeFlags>, 'DISPATCH_TO_UNENUMERATED_NODES': <flags G_DBUS_SUBTREE_FLAGS_DISPATCH_TO_UNENUMERATED_NODES of type Gio.DBusSubtreeFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GDBusSubtreeFlags (94125582184064)>'
+    __gtype__ = None # (!) real value is '<GType GDBusSubtreeFlags (94269256805216)>'
     __info__ = gi.EnumInfo(DBusSubtreeFlags)
 
 

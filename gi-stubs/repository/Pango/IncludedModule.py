@@ -128,7 +128,7 @@ class IncludedModule(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(IncludedModule), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'IncludedModule' objects>, '__weakref__': <attribute '__weakref__' of 'IncludedModule' objects>, '__doc__': None, 'list': <property object at 0x7f24746f94a0>, 'init': <property object at 0x7f24746f9590>, 'exit': <property object at 0x7f24746f9680>, 'create': <property object at 0x7f24746f9770>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(IncludedModule), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'IncludedModule' objects>, '__weakref__': <attribute '__weakref__' of 'IncludedModule' objects>, '__doc__': None, 'list': <property object at 0x7f85178a11d0>, 'init': <property object at 0x7f85178a12c0>, 'exit': <property object at 0x7f85178a13b0>, 'create': <property object at 0x7f85178a14a0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(IncludedModule)
 

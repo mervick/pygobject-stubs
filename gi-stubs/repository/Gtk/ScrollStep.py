@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -365,7 +365,7 @@ class ScrollStep(__gobject.GEnum):
     PAGES = 1
     STEPS = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ScrollStep' objects>, '__doc__': None, '__gtype__': <GType GtkScrollStep (94846039127936)>, '__enum_values__': {0: <enum GTK_SCROLL_STEPS of type Gtk.ScrollStep>, 1: <enum GTK_SCROLL_PAGES of type Gtk.ScrollStep>, 2: <enum GTK_SCROLL_ENDS of type Gtk.ScrollStep>, 3: <enum GTK_SCROLL_HORIZONTAL_STEPS of type Gtk.ScrollStep>, 4: <enum GTK_SCROLL_HORIZONTAL_PAGES of type Gtk.ScrollStep>, 5: <enum GTK_SCROLL_HORIZONTAL_ENDS of type Gtk.ScrollStep>}, '__info__': gi.EnumInfo(ScrollStep), 'STEPS': <enum GTK_SCROLL_STEPS of type Gtk.ScrollStep>, 'PAGES': <enum GTK_SCROLL_PAGES of type Gtk.ScrollStep>, 'ENDS': <enum GTK_SCROLL_ENDS of type Gtk.ScrollStep>, 'HORIZONTAL_STEPS': <enum GTK_SCROLL_HORIZONTAL_STEPS of type Gtk.ScrollStep>, 'HORIZONTAL_PAGES': <enum GTK_SCROLL_HORIZONTAL_PAGES of type Gtk.ScrollStep>, 'HORIZONTAL_ENDS': <enum GTK_SCROLL_HORIZONTAL_ENDS of type Gtk.ScrollStep>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ScrollStep' objects>, '__doc__': None, '__gtype__': <GType GtkScrollStep (93897369297792)>, '__enum_values__': {0: <enum GTK_SCROLL_STEPS of type Gtk.ScrollStep>, 1: <enum GTK_SCROLL_PAGES of type Gtk.ScrollStep>, 2: <enum GTK_SCROLL_ENDS of type Gtk.ScrollStep>, 3: <enum GTK_SCROLL_HORIZONTAL_STEPS of type Gtk.ScrollStep>, 4: <enum GTK_SCROLL_HORIZONTAL_PAGES of type Gtk.ScrollStep>, 5: <enum GTK_SCROLL_HORIZONTAL_ENDS of type Gtk.ScrollStep>}, '__info__': gi.EnumInfo(ScrollStep), 'STEPS': <enum GTK_SCROLL_STEPS of type Gtk.ScrollStep>, 'PAGES': <enum GTK_SCROLL_PAGES of type Gtk.ScrollStep>, 'ENDS': <enum GTK_SCROLL_ENDS of type Gtk.ScrollStep>, 'HORIZONTAL_STEPS': <enum GTK_SCROLL_HORIZONTAL_STEPS of type Gtk.ScrollStep>, 'HORIZONTAL_PAGES': <enum GTK_SCROLL_HORIZONTAL_PAGES of type Gtk.ScrollStep>, 'HORIZONTAL_ENDS': <enum GTK_SCROLL_HORIZONTAL_ENDS of type Gtk.ScrollStep>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -374,7 +374,7 @@ class ScrollStep(__gobject.GEnum):
         4: 4,
         5: 5,
     }
-    __gtype__ = None # (!) real value is '<GType GtkScrollStep (94846039127936)>'
+    __gtype__ = None # (!) real value is '<GType GtkScrollStep (93897369297792)>'
     __info__ = gi.EnumInfo(ScrollStep)
 
 

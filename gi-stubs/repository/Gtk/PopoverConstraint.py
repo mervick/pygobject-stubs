@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -361,12 +361,12 @@ class PopoverConstraint(__gobject.GEnum):
     NONE = 0
     WINDOW = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PopoverConstraint' objects>, '__doc__': None, '__gtype__': <GType GtkPopoverConstraint (94846038829936)>, '__enum_values__': {0: <enum GTK_POPOVER_CONSTRAINT_NONE of type Gtk.PopoverConstraint>, 1: <enum GTK_POPOVER_CONSTRAINT_WINDOW of type Gtk.PopoverConstraint>}, '__info__': gi.EnumInfo(PopoverConstraint), 'NONE': <enum GTK_POPOVER_CONSTRAINT_NONE of type Gtk.PopoverConstraint>, 'WINDOW': <enum GTK_POPOVER_CONSTRAINT_WINDOW of type Gtk.PopoverConstraint>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PopoverConstraint' objects>, '__doc__': None, '__gtype__': <GType GtkPopoverConstraint (93897369091856)>, '__enum_values__': {0: <enum GTK_POPOVER_CONSTRAINT_NONE of type Gtk.PopoverConstraint>, 1: <enum GTK_POPOVER_CONSTRAINT_WINDOW of type Gtk.PopoverConstraint>}, '__info__': gi.EnumInfo(PopoverConstraint), 'NONE': <enum GTK_POPOVER_CONSTRAINT_NONE of type Gtk.PopoverConstraint>, 'WINDOW': <enum GTK_POPOVER_CONSTRAINT_WINDOW of type Gtk.PopoverConstraint>})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GtkPopoverConstraint (94846038829936)>'
+    __gtype__ = None # (!) real value is '<GType GtkPopoverConstraint (93897369091856)>'
     __info__ = gi.EnumInfo(PopoverConstraint)
 
 

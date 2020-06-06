@@ -446,12 +446,12 @@ class FontMap(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f247462cd30>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f85178e8b20>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FontMap), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoFontMap (94752680953120)>, '__doc__': None, '__gsignals__': {}, 'changed': gi.FunctionInfo(changed), 'create_context': gi.FunctionInfo(create_context), 'get_serial': gi.FunctionInfo(get_serial), 'list_families': gi.FunctionInfo(list_families), 'load_font': gi.FunctionInfo(load_font), 'load_fontset': gi.FunctionInfo(load_fontset), 'do_changed': gi.VFuncInfo(changed), 'do_get_serial': gi.VFuncInfo(get_serial), 'do_list_families': gi.VFuncInfo(list_families), 'do_load_font': gi.VFuncInfo(load_font), 'do_load_fontset': gi.VFuncInfo(load_fontset), 'parent_instance': <property object at 0x7f24746ef770>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FontMap), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoFontMap (94187429135536)>, '__doc__': None, '__gsignals__': {}, 'changed': gi.FunctionInfo(changed), 'create_context': gi.FunctionInfo(create_context), 'get_serial': gi.FunctionInfo(get_serial), 'list_families': gi.FunctionInfo(list_families), 'load_font': gi.FunctionInfo(load_font), 'load_fontset': gi.FunctionInfo(load_fontset), 'do_changed': gi.VFuncInfo(changed), 'do_get_serial': gi.VFuncInfo(get_serial), 'do_list_families': gi.VFuncInfo(list_families), 'do_load_font': gi.VFuncInfo(load_font), 'do_load_fontset': gi.VFuncInfo(load_fontset), 'parent_instance': <property object at 0x7f8517896540>})"
     __gdoc__ = 'Object PangoFontMap\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType PangoFontMap (94752680953120)>'
+    __gtype__ = None # (!) real value is '<GType PangoFontMap (94187429135536)>'
     __info__ = ObjectInfo(FontMap)
 
 

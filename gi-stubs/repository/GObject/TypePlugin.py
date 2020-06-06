@@ -154,10 +154,10 @@ class TypePlugin(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(TypePlugin), '__module__': 'gi.repository.GObject', '__gtype__': <GType GTypePlugin (93895378893120)>, '__dict__': <attribute '__dict__' of 'TypePlugin' objects>, '__weakref__': <attribute '__weakref__' of 'TypePlugin' objects>, '__doc__': None, '__gsignals__': {}, 'complete_interface_info': gi.FunctionInfo(complete_interface_info), 'complete_type_info': gi.FunctionInfo(complete_type_info), 'unuse': gi.FunctionInfo(unuse), 'use': gi.FunctionInfo(use)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(TypePlugin), '__module__': 'gi.repository.GObject', '__gtype__': <GType GTypePlugin (94184341319984)>, '__dict__': <attribute '__dict__' of 'TypePlugin' objects>, '__weakref__': <attribute '__weakref__' of 'TypePlugin' objects>, '__doc__': None, '__gsignals__': {}, 'complete_interface_info': gi.FunctionInfo(complete_interface_info), 'complete_type_info': gi.FunctionInfo(complete_type_info), 'unuse': gi.FunctionInfo(unuse), 'use': gi.FunctionInfo(use)})"
     __gdoc__ = 'Interface GTypePlugin\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GTypePlugin (93895378893120)>'
+    __gtype__ = None # (!) real value is '<GType GTypePlugin (94184341319984)>'
     __info__ = InterfaceInfo(TypePlugin)
 
 

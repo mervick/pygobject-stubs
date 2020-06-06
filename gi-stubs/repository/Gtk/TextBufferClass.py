@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -161,7 +161,7 @@ class TextBufferClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TextBufferClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TextBufferClass' objects>, '__weakref__': <attribute '__weakref__' of 'TextBufferClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830f8a810>, 'insert_text': <property object at 0x7fe830f8a900>, 'insert_pixbuf': <property object at 0x7fe830f8a9f0>, 'insert_child_anchor': <property object at 0x7fe830f8ab30>, 'delete_range': <property object at 0x7fe830f8abd0>, 'changed': <property object at 0x7fe830f8acc0>, 'modified_changed': <property object at 0x7fe830f8ae00>, 'mark_set': <property object at 0x7fe830f8aef0>, 'mark_deleted': <property object at 0x7fe830f8d040>, 'apply_tag': <property object at 0x7fe830f8d130>, 'remove_tag': <property object at 0x7fe830f8d220>, 'begin_user_action': <property object at 0x7fe830f8d360>, 'end_user_action': <property object at 0x7fe830f8d400>, 'paste_done': <property object at 0x7fe830f8d4f0>, '_gtk_reserved1': <property object at 0x7fe830f8d5e0>, '_gtk_reserved2': <property object at 0x7fe830f8d6d0>, '_gtk_reserved3': <property object at 0x7fe830f8d7c0>, '_gtk_reserved4': <property object at 0x7fe830f8d8b0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TextBufferClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TextBufferClass' objects>, '__weakref__': <attribute '__weakref__' of 'TextBufferClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a6a3090>, 'insert_text': <property object at 0x7fc63a6a3180>, 'insert_pixbuf': <property object at 0x7fc63a6a3270>, 'insert_child_anchor': <property object at 0x7fc63a6a33b0>, 'delete_range': <property object at 0x7fc63a6a3450>, 'changed': <property object at 0x7fc63a6a3540>, 'modified_changed': <property object at 0x7fc63a6a3680>, 'mark_set': <property object at 0x7fc63a6a3770>, 'mark_deleted': <property object at 0x7fc63a6a3860>, 'apply_tag': <property object at 0x7fc63a6a3950>, 'remove_tag': <property object at 0x7fc63a6a3a40>, 'begin_user_action': <property object at 0x7fc63a6a3b80>, 'end_user_action': <property object at 0x7fc63a6a3c20>, 'paste_done': <property object at 0x7fc63a6a3d10>, '_gtk_reserved1': <property object at 0x7fc63a6a3e00>, '_gtk_reserved2': <property object at 0x7fc63a6a3ef0>, '_gtk_reserved3': <property object at 0x7fc63a6a4040>, '_gtk_reserved4': <property object at 0x7fc63a6a4130>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TextBufferClass)
 

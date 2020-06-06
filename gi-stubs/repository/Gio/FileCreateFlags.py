@@ -364,13 +364,13 @@ class FileCreateFlags(__gobject.GFlags):
     PRIVATE = 1
     REPLACE_DESTINATION = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'FileCreateFlags' objects>, '__doc__': None, '__gtype__': <GType GFileCreateFlags (94125582100560)>, '__flags_values__': {0: <flags 0 of type Gio.FileCreateFlags>, 1: <flags G_FILE_CREATE_PRIVATE of type Gio.FileCreateFlags>, 2: <flags G_FILE_CREATE_REPLACE_DESTINATION of type Gio.FileCreateFlags>}, '__info__': gi.EnumInfo(FileCreateFlags), 'NONE': <flags 0 of type Gio.FileCreateFlags>, 'PRIVATE': <flags G_FILE_CREATE_PRIVATE of type Gio.FileCreateFlags>, 'REPLACE_DESTINATION': <flags G_FILE_CREATE_REPLACE_DESTINATION of type Gio.FileCreateFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'FileCreateFlags' objects>, '__doc__': None, '__gtype__': <GType GFileCreateFlags (94269256932032)>, '__flags_values__': {0: <flags 0 of type Gio.FileCreateFlags>, 1: <flags G_FILE_CREATE_PRIVATE of type Gio.FileCreateFlags>, 2: <flags G_FILE_CREATE_REPLACE_DESTINATION of type Gio.FileCreateFlags>}, '__info__': gi.EnumInfo(FileCreateFlags), 'NONE': <flags 0 of type Gio.FileCreateFlags>, 'PRIVATE': <flags G_FILE_CREATE_PRIVATE of type Gio.FileCreateFlags>, 'REPLACE_DESTINATION': <flags G_FILE_CREATE_REPLACE_DESTINATION of type Gio.FileCreateFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GFileCreateFlags (94125582100560)>'
+    __gtype__ = None # (!) real value is '<GType GFileCreateFlags (94269256932032)>'
     __info__ = gi.EnumInfo(FileCreateFlags)
 
 

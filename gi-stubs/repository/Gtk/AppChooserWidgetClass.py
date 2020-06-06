@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -135,7 +135,7 @@ class AppChooserWidgetClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AppChooserWidgetClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AppChooserWidgetClass' objects>, '__weakref__': <attribute '__weakref__' of 'AppChooserWidgetClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe83110dbd0>, 'application_selected': <property object at 0x7fe83110dd10>, 'application_activated': <property object at 0x7fe83110de50>, 'populate_popup': <property object at 0x7fe83110df40>, 'padding': <property object at 0x7fe831110090>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AppChooserWidgetClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AppChooserWidgetClass' objects>, '__weakref__': <attribute '__weakref__' of 'AppChooserWidgetClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a825a40>, 'application_selected': <property object at 0x7fc63a825b80>, 'application_activated': <property object at 0x7fc63a825cc0>, 'populate_popup': <property object at 0x7fc63a825db0>, 'padding': <property object at 0x7fc63a825ea0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(AppChooserWidgetClass)
 

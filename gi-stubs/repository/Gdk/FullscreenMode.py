@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -357,12 +357,12 @@ class FullscreenMode(__gobject.GEnum):
     ALL_MONITORS = 1
     CURRENT_MONITOR = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'FullscreenMode' objects>, '__doc__': None, '__gtype__': <GType GdkFullscreenMode (94055651051712)>, '__enum_values__': {0: <enum GDK_FULLSCREEN_ON_CURRENT_MONITOR of type Gdk.FullscreenMode>, 1: <enum GDK_FULLSCREEN_ON_ALL_MONITORS of type Gdk.FullscreenMode>}, '__info__': gi.EnumInfo(FullscreenMode), 'CURRENT_MONITOR': <enum GDK_FULLSCREEN_ON_CURRENT_MONITOR of type Gdk.FullscreenMode>, 'ALL_MONITORS': <enum GDK_FULLSCREEN_ON_ALL_MONITORS of type Gdk.FullscreenMode>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'FullscreenMode' objects>, '__doc__': None, '__gtype__': <GType GdkFullscreenMode (94915768673376)>, '__enum_values__': {0: <enum GDK_FULLSCREEN_ON_CURRENT_MONITOR of type Gdk.FullscreenMode>, 1: <enum GDK_FULLSCREEN_ON_ALL_MONITORS of type Gdk.FullscreenMode>}, '__info__': gi.EnumInfo(FullscreenMode), 'CURRENT_MONITOR': <enum GDK_FULLSCREEN_ON_CURRENT_MONITOR of type Gdk.FullscreenMode>, 'ALL_MONITORS': <enum GDK_FULLSCREEN_ON_ALL_MONITORS of type Gdk.FullscreenMode>})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GdkFullscreenMode (94055651051712)>'
+    __gtype__ = None # (!) real value is '<GType GdkFullscreenMode (94915768673376)>'
     __info__ = gi.EnumInfo(FullscreenMode)
 
 

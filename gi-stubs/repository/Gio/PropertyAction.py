@@ -456,12 +456,12 @@ class PropertyAction(__gi_overrides_GObject.Object, Action):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd15b820>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b871c1b50>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(PropertyAction), '__module__': 'gi.repository.Gio', '__gtype__': <GType GPropertyAction (94125582618128)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(PropertyAction), '__module__': 'gi.repository.Gio', '__gtype__': <GType GPropertyAction (94269257225024)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new)})"
     __gdoc__ = 'Object GPropertyAction\n\nProperties from GPropertyAction:\n  name -> gchararray: Action Name\n    The name used to invoke the action\n  parameter-type -> GVariantType: Parameter Type\n    The type of GVariant passed to activate()\n  enabled -> gboolean: Enabled\n    If the action can be activated\n  state-type -> GVariantType: State Type\n    The type of the state kept by the action\n  state -> GVariant: State\n    The state the action is in\n  object -> GObject: Object\n    The object with the property to wrap\n  property-name -> gchararray: Property name\n    The name of the property to wrap\n  invert-boolean -> gboolean: Invert boolean\n    Whether to invert the value of a boolean property\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GPropertyAction (94125582618128)>'
+    __gtype__ = None # (!) real value is '<GType GPropertyAction (94269257225024)>'
     __info__ = ObjectInfo(PropertyAction)
 
 

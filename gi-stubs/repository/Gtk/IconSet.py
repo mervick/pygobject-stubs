@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -171,8 +171,8 @@ class IconSet(IconSet):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', '__new__': <staticmethod object at 0x7fe8311e5640>, '__init__': <function IconSet.__init__ at 0x7fe8311e1670>, '__doc__': None})"
-    __gtype__ = None # (!) real value is '<GType GtkIconSet (94846037137328)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', '__new__': <staticmethod object at 0x7fc63a8fba30>, '__init__': <function IconSet.__init__ at 0x7fc63a972e50>, '__doc__': None})"
+    __gtype__ = None # (!) real value is '<GType GtkIconSet (93897367345952)>'
     __info__ = StructInfo(IconSet)
 
 

@@ -124,7 +124,7 @@ class ZlibDecompressorClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ZlibDecompressorClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ZlibDecompressorClass' objects>, '__weakref__': <attribute '__weakref__' of 'ZlibDecompressorClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28dd614a90>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ZlibDecompressorClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ZlibDecompressorClass' objects>, '__weakref__': <attribute '__weakref__' of 'ZlibDecompressorClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b87777cc0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ZlibDecompressorClass)
 

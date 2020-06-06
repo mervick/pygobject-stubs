@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -503,12 +503,12 @@ class Gesture(EventController):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe830c356d0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc639bb86a0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Gesture), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkGesture (94846038406880)>, '__doc__': None, '__gsignals__': {}, 'get_bounding_box': gi.FunctionInfo(get_bounding_box), 'get_bounding_box_center': gi.FunctionInfo(get_bounding_box_center), 'get_device': gi.FunctionInfo(get_device), 'get_group': gi.FunctionInfo(get_group), 'get_last_event': gi.FunctionInfo(get_last_event), 'get_last_updated_sequence': gi.FunctionInfo(get_last_updated_sequence), 'get_point': gi.FunctionInfo(get_point), 'get_sequence_state': gi.FunctionInfo(get_sequence_state), 'get_sequences': gi.FunctionInfo(get_sequences), 'get_window': gi.FunctionInfo(get_window), 'group': gi.FunctionInfo(group), 'handles_sequence': gi.FunctionInfo(handles_sequence), 'is_active': gi.FunctionInfo(is_active), 'is_grouped_with': gi.FunctionInfo(is_grouped_with), 'is_recognized': gi.FunctionInfo(is_recognized), 'set_sequence_state': gi.FunctionInfo(set_sequence_state), 'set_state': gi.FunctionInfo(set_state), 'set_window': gi.FunctionInfo(set_window), 'ungroup': gi.FunctionInfo(ungroup)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Gesture), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkGesture (93897368627808)>, '__doc__': None, '__gsignals__': {}, 'get_bounding_box': gi.FunctionInfo(get_bounding_box), 'get_bounding_box_center': gi.FunctionInfo(get_bounding_box_center), 'get_device': gi.FunctionInfo(get_device), 'get_group': gi.FunctionInfo(get_group), 'get_last_event': gi.FunctionInfo(get_last_event), 'get_last_updated_sequence': gi.FunctionInfo(get_last_updated_sequence), 'get_point': gi.FunctionInfo(get_point), 'get_sequence_state': gi.FunctionInfo(get_sequence_state), 'get_sequences': gi.FunctionInfo(get_sequences), 'get_window': gi.FunctionInfo(get_window), 'group': gi.FunctionInfo(group), 'handles_sequence': gi.FunctionInfo(handles_sequence), 'is_active': gi.FunctionInfo(is_active), 'is_grouped_with': gi.FunctionInfo(is_grouped_with), 'is_recognized': gi.FunctionInfo(is_recognized), 'set_sequence_state': gi.FunctionInfo(set_sequence_state), 'set_state': gi.FunctionInfo(set_state), 'set_window': gi.FunctionInfo(set_window), 'ungroup': gi.FunctionInfo(ungroup)})"
     __gdoc__ = 'Object GtkGesture\n\nSignals from GtkGesture:\n  update (GdkEventSequence)\n  cancel (GdkEventSequence)\n  begin (GdkEventSequence)\n  end (GdkEventSequence)\n  sequence-state-changed (GdkEventSequence, GtkEventSequenceState)\n\nProperties from GtkGesture:\n  n-points -> guint: Number of points\n    Number of points needed to trigger the gesture\n  window -> GdkWindow: GdkWindow to receive events about\n    GdkWindow to receive events about\n\nProperties from GtkEventController:\n  widget -> GtkWidget: Widget\n    Widget the gesture relates to\n  propagation-phase -> GtkPropagationPhase: Propagation phase\n    Propagation phase at which this controller is run\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkGesture (94846038406880)>'
+    __gtype__ = None # (!) real value is '<GType GtkGesture (93897368627808)>'
     __info__ = ObjectInfo(Gesture)
 
 

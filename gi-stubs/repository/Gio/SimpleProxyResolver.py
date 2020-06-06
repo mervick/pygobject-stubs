@@ -447,12 +447,12 @@ class SimpleProxyResolver(__gi_overrides_GObject.Object, ProxyResolver):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd07c9d0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b870fb190>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SimpleProxyResolver), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSimpleProxyResolver (94125582720640)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'set_default_proxy': gi.FunctionInfo(set_default_proxy), 'set_ignore_hosts': gi.FunctionInfo(set_ignore_hosts), 'set_uri_proxy': gi.FunctionInfo(set_uri_proxy), 'parent_instance': <property object at 0x7f28dde53e00>, 'priv': <property object at 0x7f28dde53ef0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SimpleProxyResolver), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSimpleProxyResolver (94269257352880)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'set_default_proxy': gi.FunctionInfo(set_default_proxy), 'set_ignore_hosts': gi.FunctionInfo(set_ignore_hosts), 'set_uri_proxy': gi.FunctionInfo(set_uri_proxy), 'parent_instance': <property object at 0x7f4b87fb8270>, 'priv': <property object at 0x7f4b87fb8360>})"
     __gdoc__ = 'Object GSimpleProxyResolver\n\nProperties from GSimpleProxyResolver:\n  default-proxy -> gchararray: Default proxy\n    The default proxy URI\n  ignore-hosts -> GStrv: Ignore hosts\n    Hosts that will not use the proxy\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GSimpleProxyResolver (94125582720640)>'
+    __gtype__ = None # (!) real value is '<GType GSimpleProxyResolver (94269257352880)>'
     __info__ = ObjectInfo(SimpleProxyResolver)
 
 

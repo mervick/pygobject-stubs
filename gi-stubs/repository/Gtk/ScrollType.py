@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -375,7 +375,7 @@ class ScrollType(__gobject.GEnum):
     STEP_RIGHT = 11
     STEP_UP = 6
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ScrollType' objects>, '__doc__': None, '__gtype__': <GType GtkScrollType (94846039134880)>, '__enum_values__': {0: <enum GTK_SCROLL_NONE of type Gtk.ScrollType>, 1: <enum GTK_SCROLL_JUMP of type Gtk.ScrollType>, 2: <enum GTK_SCROLL_STEP_BACKWARD of type Gtk.ScrollType>, 3: <enum GTK_SCROLL_STEP_FORWARD of type Gtk.ScrollType>, 4: <enum GTK_SCROLL_PAGE_BACKWARD of type Gtk.ScrollType>, 5: <enum GTK_SCROLL_PAGE_FORWARD of type Gtk.ScrollType>, 6: <enum GTK_SCROLL_STEP_UP of type Gtk.ScrollType>, 7: <enum GTK_SCROLL_STEP_DOWN of type Gtk.ScrollType>, 8: <enum GTK_SCROLL_PAGE_UP of type Gtk.ScrollType>, 9: <enum GTK_SCROLL_PAGE_DOWN of type Gtk.ScrollType>, 10: <enum GTK_SCROLL_STEP_LEFT of type Gtk.ScrollType>, 11: <enum GTK_SCROLL_STEP_RIGHT of type Gtk.ScrollType>, 12: <enum GTK_SCROLL_PAGE_LEFT of type Gtk.ScrollType>, 13: <enum GTK_SCROLL_PAGE_RIGHT of type Gtk.ScrollType>, 14: <enum GTK_SCROLL_START of type Gtk.ScrollType>, 15: <enum GTK_SCROLL_END of type Gtk.ScrollType>}, '__info__': gi.EnumInfo(ScrollType), 'NONE': <enum GTK_SCROLL_NONE of type Gtk.ScrollType>, 'JUMP': <enum GTK_SCROLL_JUMP of type Gtk.ScrollType>, 'STEP_BACKWARD': <enum GTK_SCROLL_STEP_BACKWARD of type Gtk.ScrollType>, 'STEP_FORWARD': <enum GTK_SCROLL_STEP_FORWARD of type Gtk.ScrollType>, 'PAGE_BACKWARD': <enum GTK_SCROLL_PAGE_BACKWARD of type Gtk.ScrollType>, 'PAGE_FORWARD': <enum GTK_SCROLL_PAGE_FORWARD of type Gtk.ScrollType>, 'STEP_UP': <enum GTK_SCROLL_STEP_UP of type Gtk.ScrollType>, 'STEP_DOWN': <enum GTK_SCROLL_STEP_DOWN of type Gtk.ScrollType>, 'PAGE_UP': <enum GTK_SCROLL_PAGE_UP of type Gtk.ScrollType>, 'PAGE_DOWN': <enum GTK_SCROLL_PAGE_DOWN of type Gtk.ScrollType>, 'STEP_LEFT': <enum GTK_SCROLL_STEP_LEFT of type Gtk.ScrollType>, 'STEP_RIGHT': <enum GTK_SCROLL_STEP_RIGHT of type Gtk.ScrollType>, 'PAGE_LEFT': <enum GTK_SCROLL_PAGE_LEFT of type Gtk.ScrollType>, 'PAGE_RIGHT': <enum GTK_SCROLL_PAGE_RIGHT of type Gtk.ScrollType>, 'START': <enum GTK_SCROLL_START of type Gtk.ScrollType>, 'END': <enum GTK_SCROLL_END of type Gtk.ScrollType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ScrollType' objects>, '__doc__': None, '__gtype__': <GType GtkScrollType (93897369334560)>, '__enum_values__': {0: <enum GTK_SCROLL_NONE of type Gtk.ScrollType>, 1: <enum GTK_SCROLL_JUMP of type Gtk.ScrollType>, 2: <enum GTK_SCROLL_STEP_BACKWARD of type Gtk.ScrollType>, 3: <enum GTK_SCROLL_STEP_FORWARD of type Gtk.ScrollType>, 4: <enum GTK_SCROLL_PAGE_BACKWARD of type Gtk.ScrollType>, 5: <enum GTK_SCROLL_PAGE_FORWARD of type Gtk.ScrollType>, 6: <enum GTK_SCROLL_STEP_UP of type Gtk.ScrollType>, 7: <enum GTK_SCROLL_STEP_DOWN of type Gtk.ScrollType>, 8: <enum GTK_SCROLL_PAGE_UP of type Gtk.ScrollType>, 9: <enum GTK_SCROLL_PAGE_DOWN of type Gtk.ScrollType>, 10: <enum GTK_SCROLL_STEP_LEFT of type Gtk.ScrollType>, 11: <enum GTK_SCROLL_STEP_RIGHT of type Gtk.ScrollType>, 12: <enum GTK_SCROLL_PAGE_LEFT of type Gtk.ScrollType>, 13: <enum GTK_SCROLL_PAGE_RIGHT of type Gtk.ScrollType>, 14: <enum GTK_SCROLL_START of type Gtk.ScrollType>, 15: <enum GTK_SCROLL_END of type Gtk.ScrollType>}, '__info__': gi.EnumInfo(ScrollType), 'NONE': <enum GTK_SCROLL_NONE of type Gtk.ScrollType>, 'JUMP': <enum GTK_SCROLL_JUMP of type Gtk.ScrollType>, 'STEP_BACKWARD': <enum GTK_SCROLL_STEP_BACKWARD of type Gtk.ScrollType>, 'STEP_FORWARD': <enum GTK_SCROLL_STEP_FORWARD of type Gtk.ScrollType>, 'PAGE_BACKWARD': <enum GTK_SCROLL_PAGE_BACKWARD of type Gtk.ScrollType>, 'PAGE_FORWARD': <enum GTK_SCROLL_PAGE_FORWARD of type Gtk.ScrollType>, 'STEP_UP': <enum GTK_SCROLL_STEP_UP of type Gtk.ScrollType>, 'STEP_DOWN': <enum GTK_SCROLL_STEP_DOWN of type Gtk.ScrollType>, 'PAGE_UP': <enum GTK_SCROLL_PAGE_UP of type Gtk.ScrollType>, 'PAGE_DOWN': <enum GTK_SCROLL_PAGE_DOWN of type Gtk.ScrollType>, 'STEP_LEFT': <enum GTK_SCROLL_STEP_LEFT of type Gtk.ScrollType>, 'STEP_RIGHT': <enum GTK_SCROLL_STEP_RIGHT of type Gtk.ScrollType>, 'PAGE_LEFT': <enum GTK_SCROLL_PAGE_LEFT of type Gtk.ScrollType>, 'PAGE_RIGHT': <enum GTK_SCROLL_PAGE_RIGHT of type Gtk.ScrollType>, 'START': <enum GTK_SCROLL_START of type Gtk.ScrollType>, 'END': <enum GTK_SCROLL_END of type Gtk.ScrollType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -394,7 +394,7 @@ class ScrollType(__gobject.GEnum):
         14: 14,
         15: 15,
     }
-    __gtype__ = None # (!) real value is '<GType GtkScrollType (94846039134880)>'
+    __gtype__ = None # (!) real value is '<GType GtkScrollType (93897369334560)>'
     __info__ = gi.EnumInfo(ScrollType)
 
 

@@ -477,12 +477,12 @@ class DBusActionGroup(__gi_overrides_GObject.Object, ActionGroup, RemoteActionGr
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd521220>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87775ee0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DBusActionGroup), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDBusActionGroup (94125582089328)>, '__doc__': None, '__gsignals__': {}, 'get': gi.FunctionInfo(get)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DBusActionGroup), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDBusActionGroup (94269256715552)>, '__doc__': None, '__gsignals__': {}, 'get': gi.FunctionInfo(get)})"
     __gdoc__ = 'Object GDBusActionGroup\n\nSignals from GActionGroup:\n  action-added (gchararray)\n  action-removed (gchararray)\n  action-enabled-changed (gchararray, gboolean)\n  action-state-changed (gchararray, GVariant)\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GDBusActionGroup (94125582089328)>'
+    __gtype__ = None # (!) real value is '<GType GDBusActionGroup (94269256715552)>'
     __info__ = ObjectInfo(DBusActionGroup)
 
 

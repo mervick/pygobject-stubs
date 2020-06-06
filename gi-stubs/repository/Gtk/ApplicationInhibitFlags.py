@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -368,14 +368,14 @@ class ApplicationInhibitFlags(__gobject.GFlags):
     SUSPEND = 4
     SWITCH = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ApplicationInhibitFlags' objects>, '__doc__': None, '__gtype__': <GType GtkApplicationInhibitFlags (94846037391040)>, '__flags_values__': {1: <flags GTK_APPLICATION_INHIBIT_LOGOUT of type Gtk.ApplicationInhibitFlags>, 2: <flags GTK_APPLICATION_INHIBIT_SWITCH of type Gtk.ApplicationInhibitFlags>, 4: <flags GTK_APPLICATION_INHIBIT_SUSPEND of type Gtk.ApplicationInhibitFlags>, 8: <flags GTK_APPLICATION_INHIBIT_IDLE of type Gtk.ApplicationInhibitFlags>}, '__info__': gi.EnumInfo(ApplicationInhibitFlags), 'LOGOUT': <flags GTK_APPLICATION_INHIBIT_LOGOUT of type Gtk.ApplicationInhibitFlags>, 'SWITCH': <flags GTK_APPLICATION_INHIBIT_SWITCH of type Gtk.ApplicationInhibitFlags>, 'SUSPEND': <flags GTK_APPLICATION_INHIBIT_SUSPEND of type Gtk.ApplicationInhibitFlags>, 'IDLE': <flags GTK_APPLICATION_INHIBIT_IDLE of type Gtk.ApplicationInhibitFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ApplicationInhibitFlags' objects>, '__doc__': None, '__gtype__': <GType GtkApplicationInhibitFlags (93897367606608)>, '__flags_values__': {1: <flags GTK_APPLICATION_INHIBIT_LOGOUT of type Gtk.ApplicationInhibitFlags>, 2: <flags GTK_APPLICATION_INHIBIT_SWITCH of type Gtk.ApplicationInhibitFlags>, 4: <flags GTK_APPLICATION_INHIBIT_SUSPEND of type Gtk.ApplicationInhibitFlags>, 8: <flags GTK_APPLICATION_INHIBIT_IDLE of type Gtk.ApplicationInhibitFlags>}, '__info__': gi.EnumInfo(ApplicationInhibitFlags), 'LOGOUT': <flags GTK_APPLICATION_INHIBIT_LOGOUT of type Gtk.ApplicationInhibitFlags>, 'SWITCH': <flags GTK_APPLICATION_INHIBIT_SWITCH of type Gtk.ApplicationInhibitFlags>, 'SUSPEND': <flags GTK_APPLICATION_INHIBIT_SUSPEND of type Gtk.ApplicationInhibitFlags>, 'IDLE': <flags GTK_APPLICATION_INHIBIT_IDLE of type Gtk.ApplicationInhibitFlags>})"
     __flags_values__ = {
         1: 1,
         2: 2,
         4: 4,
         8: 8,
     }
-    __gtype__ = None # (!) real value is '<GType GtkApplicationInhibitFlags (94846037391040)>'
+    __gtype__ = None # (!) real value is '<GType GtkApplicationInhibitFlags (93897367606608)>'
     __info__ = gi.EnumInfo(ApplicationInhibitFlags)
 
 

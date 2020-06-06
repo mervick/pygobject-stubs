@@ -142,8 +142,8 @@ class ScriptIter(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ScriptIter), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoScriptIter (94752681318576)>, '__dict__': <attribute '__dict__' of 'ScriptIter' objects>, '__weakref__': <attribute '__weakref__' of 'ScriptIter' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'free': gi.FunctionInfo(free), 'get_range': gi.FunctionInfo(get_range), 'next': gi.FunctionInfo(next), '__new__': <staticmethod object at 0x7f24746fbf10>, '__init__': <function nothing at 0x7f2474a83430>})"
-    __gtype__ = None # (!) real value is '<GType PangoScriptIter (94752681318576)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ScriptIter), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoScriptIter (94187429537008)>, '__dict__': <attribute '__dict__' of 'ScriptIter' objects>, '__weakref__': <attribute '__weakref__' of 'ScriptIter' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'free': gi.FunctionInfo(free), 'get_range': gi.FunctionInfo(get_range), 'next': gi.FunctionInfo(next), '__new__': <staticmethod object at 0x7f85178a9340>, '__init__': <function nothing at 0x7f8517c2dee0>})"
+    __gtype__ = None # (!) real value is '<GType PangoScriptIter (94187429537008)>'
     __info__ = StructInfo(ScriptIter)
 
 

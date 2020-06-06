@@ -126,7 +126,7 @@ class DesktopAppInfoLookupIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(DesktopAppInfoLookupIface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'DesktopAppInfoLookupIface' objects>, '__weakref__': <attribute '__weakref__' of 'DesktopAppInfoLookupIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f28ddee47c0>, 'get_default_for_uri_scheme': <property object at 0x7f28ddee4900>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(DesktopAppInfoLookupIface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'DesktopAppInfoLookupIface' objects>, '__weakref__': <attribute '__weakref__' of 'DesktopAppInfoLookupIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f4b880469f0>, 'get_default_for_uri_scheme': <property object at 0x7f4b88046b30>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(DesktopAppInfoLookupIface)
 

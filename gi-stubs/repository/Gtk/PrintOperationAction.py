@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,14 +363,14 @@ class PrintOperationAction(__gobject.GEnum):
     PRINT = 1
     PRINT_DIALOG = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PrintOperationAction' objects>, '__doc__': None, '__gtype__': <GType GtkPrintOperationAction (94846038641776)>, '__enum_values__': {0: <enum GTK_PRINT_OPERATION_ACTION_PRINT_DIALOG of type Gtk.PrintOperationAction>, 1: <enum GTK_PRINT_OPERATION_ACTION_PRINT of type Gtk.PrintOperationAction>, 2: <enum GTK_PRINT_OPERATION_ACTION_PREVIEW of type Gtk.PrintOperationAction>, 3: <enum GTK_PRINT_OPERATION_ACTION_EXPORT of type Gtk.PrintOperationAction>}, '__info__': gi.EnumInfo(PrintOperationAction), 'PRINT_DIALOG': <enum GTK_PRINT_OPERATION_ACTION_PRINT_DIALOG of type Gtk.PrintOperationAction>, 'PRINT': <enum GTK_PRINT_OPERATION_ACTION_PRINT of type Gtk.PrintOperationAction>, 'PREVIEW': <enum GTK_PRINT_OPERATION_ACTION_PREVIEW of type Gtk.PrintOperationAction>, 'EXPORT': <enum GTK_PRINT_OPERATION_ACTION_EXPORT of type Gtk.PrintOperationAction>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PrintOperationAction' objects>, '__doc__': None, '__gtype__': <GType GtkPrintOperationAction (93897369117536)>, '__enum_values__': {0: <enum GTK_PRINT_OPERATION_ACTION_PRINT_DIALOG of type Gtk.PrintOperationAction>, 1: <enum GTK_PRINT_OPERATION_ACTION_PRINT of type Gtk.PrintOperationAction>, 2: <enum GTK_PRINT_OPERATION_ACTION_PREVIEW of type Gtk.PrintOperationAction>, 3: <enum GTK_PRINT_OPERATION_ACTION_EXPORT of type Gtk.PrintOperationAction>}, '__info__': gi.EnumInfo(PrintOperationAction), 'PRINT_DIALOG': <enum GTK_PRINT_OPERATION_ACTION_PRINT_DIALOG of type Gtk.PrintOperationAction>, 'PRINT': <enum GTK_PRINT_OPERATION_ACTION_PRINT of type Gtk.PrintOperationAction>, 'PREVIEW': <enum GTK_PRINT_OPERATION_ACTION_PREVIEW of type Gtk.PrintOperationAction>, 'EXPORT': <enum GTK_PRINT_OPERATION_ACTION_EXPORT of type Gtk.PrintOperationAction>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkPrintOperationAction (94846038641776)>'
+    __gtype__ = None # (!) real value is '<GType GtkPrintOperationAction (93897369117536)>'
     __info__ = gi.EnumInfo(PrintOperationAction)
 
 

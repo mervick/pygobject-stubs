@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -478,12 +478,12 @@ class EntryBuffer(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe8307c0ee0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc63a342d00>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(EntryBuffer), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkEntryBuffer (94846038192000)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'delete_text': gi.FunctionInfo(delete_text), 'emit_deleted_text': gi.FunctionInfo(emit_deleted_text), 'emit_inserted_text': gi.FunctionInfo(emit_inserted_text), 'get_bytes': gi.FunctionInfo(get_bytes), 'get_length': gi.FunctionInfo(get_length), 'get_max_length': gi.FunctionInfo(get_max_length), 'get_text': gi.FunctionInfo(get_text), 'insert_text': gi.FunctionInfo(insert_text), 'set_max_length': gi.FunctionInfo(set_max_length), 'set_text': gi.FunctionInfo(set_text), 'do_delete_text': gi.VFuncInfo(delete_text), 'do_deleted_text': gi.VFuncInfo(deleted_text), 'do_get_length': gi.VFuncInfo(get_length), 'do_get_text': gi.VFuncInfo(get_text), 'do_insert_text': gi.VFuncInfo(insert_text), 'do_inserted_text': gi.VFuncInfo(inserted_text), 'parent_instance': <property object at 0x7fe8310769f0>, 'priv': <property object at 0x7fe831076ae0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(EntryBuffer), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkEntryBuffer (93897368415888)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'delete_text': gi.FunctionInfo(delete_text), 'emit_deleted_text': gi.FunctionInfo(emit_deleted_text), 'emit_inserted_text': gi.FunctionInfo(emit_inserted_text), 'get_bytes': gi.FunctionInfo(get_bytes), 'get_length': gi.FunctionInfo(get_length), 'get_max_length': gi.FunctionInfo(get_max_length), 'get_text': gi.FunctionInfo(get_text), 'insert_text': gi.FunctionInfo(insert_text), 'set_max_length': gi.FunctionInfo(set_max_length), 'set_text': gi.FunctionInfo(set_text), 'do_delete_text': gi.VFuncInfo(delete_text), 'do_deleted_text': gi.VFuncInfo(deleted_text), 'do_get_length': gi.VFuncInfo(get_length), 'do_get_text': gi.VFuncInfo(get_text), 'do_insert_text': gi.VFuncInfo(insert_text), 'do_inserted_text': gi.VFuncInfo(inserted_text), 'parent_instance': <property object at 0x7fc63a789770>, 'priv': <property object at 0x7fc63a789860>})"
     __gdoc__ = 'Object GtkEntryBuffer\n\nSignals from GtkEntryBuffer:\n  inserted-text (guint, gchararray, guint)\n  deleted-text (guint, guint)\n\nProperties from GtkEntryBuffer:\n  text -> gchararray: Text\n    The contents of the buffer\n  length -> guint: Text length\n    Length of the text currently in the buffer\n  max-length -> gint: Maximum length\n    Maximum number of characters for this entry. Zero if no maximum\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkEntryBuffer (94846038192000)>'
+    __gtype__ = None # (!) real value is '<GType GtkEntryBuffer (93897368415888)>'
     __info__ = ObjectInfo(EntryBuffer)
 
 

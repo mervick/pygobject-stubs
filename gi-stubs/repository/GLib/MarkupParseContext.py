@@ -173,8 +173,8 @@ class MarkupParseContext(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(MarkupParseContext), '__module__': 'gi.repository.GLib', '__gtype__': <GType GMarkupParseContext (94243599004912)>, '__dict__': <attribute '__dict__' of 'MarkupParseContext' objects>, '__weakref__': <attribute '__weakref__' of 'MarkupParseContext' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'end_parse': gi.FunctionInfo(end_parse), 'free': gi.FunctionInfo(free), 'get_element': gi.FunctionInfo(get_element), 'get_position': gi.FunctionInfo(get_position), 'get_user_data': gi.FunctionInfo(get_user_data), 'parse': gi.FunctionInfo(parse), 'pop': gi.FunctionInfo(pop), 'push': gi.FunctionInfo(push), 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref), '__new__': <staticmethod object at 0x7f1d2b9649a0>, '__init__': <function nothing at 0x7f1d2baee430>})"
-    __gtype__ = None # (!) real value is '<GType GMarkupParseContext (94243599004912)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(MarkupParseContext), '__module__': 'gi.repository.GLib', '__gtype__': <GType GMarkupParseContext (94581033781968)>, '__dict__': <attribute '__dict__' of 'MarkupParseContext' objects>, '__weakref__': <attribute '__weakref__' of 'MarkupParseContext' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'end_parse': gi.FunctionInfo(end_parse), 'free': gi.FunctionInfo(free), 'get_element': gi.FunctionInfo(get_element), 'get_position': gi.FunctionInfo(get_position), 'get_user_data': gi.FunctionInfo(get_user_data), 'parse': gi.FunctionInfo(parse), 'pop': gi.FunctionInfo(pop), 'push': gi.FunctionInfo(push), 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref), '__new__': <staticmethod object at 0x7f85134e0e20>, '__init__': <function nothing at 0x7f85136ebee0>})"
+    __gtype__ = None # (!) real value is '<GType GMarkupParseContext (94581033781968)>'
     __info__ = StructInfo(MarkupParseContext)
 
 

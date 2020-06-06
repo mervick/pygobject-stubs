@@ -121,8 +121,8 @@ class UnixMountEntry(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(UnixMountEntry), '__module__': 'gi.repository.Gio', '__gtype__': <GType GUnixMountEntry (94125582947968)>, '__dict__': <attribute '__dict__' of 'UnixMountEntry' objects>, '__weakref__': <attribute '__weakref__' of 'UnixMountEntry' objects>, '__doc__': None})"
-    __gtype__ = None # (!) real value is '<GType GUnixMountEntry (94125582947968)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(UnixMountEntry), '__module__': 'gi.repository.Gio', '__gtype__': <GType GUnixMountEntry (94269257577120)>, '__dict__': <attribute '__dict__' of 'UnixMountEntry' objects>, '__weakref__': <attribute '__weakref__' of 'UnixMountEntry' objects>, '__doc__': None})"
+    __gtype__ = None # (!) real value is '<GType GUnixMountEntry (94269257577120)>'
     __info__ = StructInfo(UnixMountEntry)
 
 

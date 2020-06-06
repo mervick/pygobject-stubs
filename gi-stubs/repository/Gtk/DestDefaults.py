@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -368,14 +368,14 @@ class DestDefaults(__gobject.GFlags):
     HIGHLIGHT = 2
     MOTION = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'DestDefaults' objects>, '__doc__': None, '__gtype__': <GType GtkDestDefaults (94846038168832)>, '__flags_values__': {1: <flags GTK_DEST_DEFAULT_MOTION of type Gtk.DestDefaults>, 2: <flags GTK_DEST_DEFAULT_HIGHLIGHT of type Gtk.DestDefaults>, 4: <flags GTK_DEST_DEFAULT_DROP of type Gtk.DestDefaults>, 7: <flags GTK_DEST_DEFAULT_MOTION | GTK_DEST_DEFAULT_HIGHLIGHT | GTK_DEST_DEFAULT_DROP | GTK_DEST_DEFAULT_ALL of type Gtk.DestDefaults>}, '__info__': gi.EnumInfo(DestDefaults), 'MOTION': <flags GTK_DEST_DEFAULT_MOTION of type Gtk.DestDefaults>, 'HIGHLIGHT': <flags GTK_DEST_DEFAULT_HIGHLIGHT of type Gtk.DestDefaults>, 'DROP': <flags GTK_DEST_DEFAULT_DROP of type Gtk.DestDefaults>, 'ALL': <flags GTK_DEST_DEFAULT_MOTION | GTK_DEST_DEFAULT_HIGHLIGHT | GTK_DEST_DEFAULT_DROP | GTK_DEST_DEFAULT_ALL of type Gtk.DestDefaults>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'DestDefaults' objects>, '__doc__': None, '__gtype__': <GType GtkDestDefaults (93897368383680)>, '__flags_values__': {1: <flags GTK_DEST_DEFAULT_MOTION of type Gtk.DestDefaults>, 2: <flags GTK_DEST_DEFAULT_HIGHLIGHT of type Gtk.DestDefaults>, 4: <flags GTK_DEST_DEFAULT_DROP of type Gtk.DestDefaults>, 7: <flags GTK_DEST_DEFAULT_MOTION | GTK_DEST_DEFAULT_HIGHLIGHT | GTK_DEST_DEFAULT_DROP | GTK_DEST_DEFAULT_ALL of type Gtk.DestDefaults>}, '__info__': gi.EnumInfo(DestDefaults), 'MOTION': <flags GTK_DEST_DEFAULT_MOTION of type Gtk.DestDefaults>, 'HIGHLIGHT': <flags GTK_DEST_DEFAULT_HIGHLIGHT of type Gtk.DestDefaults>, 'DROP': <flags GTK_DEST_DEFAULT_DROP of type Gtk.DestDefaults>, 'ALL': <flags GTK_DEST_DEFAULT_MOTION | GTK_DEST_DEFAULT_HIGHLIGHT | GTK_DEST_DEFAULT_DROP | GTK_DEST_DEFAULT_ALL of type Gtk.DestDefaults>})"
     __flags_values__ = {
         1: 1,
         2: 2,
         4: 4,
         7: 7,
     }
-    __gtype__ = None # (!) real value is '<GType GtkDestDefaults (94846038168832)>'
+    __gtype__ = None # (!) real value is '<GType GtkDestDefaults (93897368383680)>'
     __info__ = gi.EnumInfo(DestDefaults)
 
 

@@ -360,13 +360,13 @@ class SeekType(__gobject.GEnum):
     END = 2
     SET = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'SeekType' objects>, '__doc__': None, '__gtype__': <GType PyGLibSeekType (94243598393264)>, '__enum_values__': {0: <enum G_SEEK_CUR of type GLib.SeekType>, 1: <enum G_SEEK_SET of type GLib.SeekType>, 2: <enum G_SEEK_END of type GLib.SeekType>}, '__info__': gi.EnumInfo(SeekType), 'CUR': <enum G_SEEK_CUR of type GLib.SeekType>, 'SET': <enum G_SEEK_SET of type GLib.SeekType>, 'END': <enum G_SEEK_END of type GLib.SeekType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'SeekType' objects>, '__doc__': None, '__gtype__': <GType PyGLibSeekType (94581033181488)>, '__enum_values__': {0: <enum G_SEEK_CUR of type GLib.SeekType>, 1: <enum G_SEEK_SET of type GLib.SeekType>, 2: <enum G_SEEK_END of type GLib.SeekType>}, '__info__': gi.EnumInfo(SeekType), 'CUR': <enum G_SEEK_CUR of type GLib.SeekType>, 'SET': <enum G_SEEK_SET of type GLib.SeekType>, 'END': <enum G_SEEK_END of type GLib.SeekType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibSeekType (94243598393264)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibSeekType (94581033181488)>'
     __info__ = gi.EnumInfo(SeekType)
 
 

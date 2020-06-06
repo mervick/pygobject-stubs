@@ -159,10 +159,10 @@ class Value(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Value), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkValue (93922955850144)>, '__dict__': <attribute '__dict__' of 'Value' objects>, '__weakref__': <attribute '__weakref__' of 'Value' objects>, '__doc__': None, '__gsignals__': {}, 'get_current_value': gi.FunctionInfo(get_current_value), 'get_increment': gi.FunctionInfo(get_increment), 'get_maximum_value': gi.FunctionInfo(get_maximum_value), 'get_minimum_increment': gi.FunctionInfo(get_minimum_increment), 'get_minimum_value': gi.FunctionInfo(get_minimum_value), 'get_range': gi.FunctionInfo(get_range), 'get_sub_ranges': gi.FunctionInfo(get_sub_ranges), 'get_value_and_text': gi.FunctionInfo(get_value_and_text), 'set_current_value': gi.FunctionInfo(set_current_value), 'set_value': gi.FunctionInfo(set_value)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Value), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkValue (94258337914368)>, '__dict__': <attribute '__dict__' of 'Value' objects>, '__weakref__': <attribute '__weakref__' of 'Value' objects>, '__doc__': None, '__gsignals__': {}, 'get_current_value': gi.FunctionInfo(get_current_value), 'get_increment': gi.FunctionInfo(get_increment), 'get_maximum_value': gi.FunctionInfo(get_maximum_value), 'get_minimum_increment': gi.FunctionInfo(get_minimum_increment), 'get_minimum_value': gi.FunctionInfo(get_minimum_value), 'get_range': gi.FunctionInfo(get_range), 'get_sub_ranges': gi.FunctionInfo(get_sub_ranges), 'get_value_and_text': gi.FunctionInfo(get_value_and_text), 'set_current_value': gi.FunctionInfo(set_current_value), 'set_value': gi.FunctionInfo(set_value)})"
     __gdoc__ = 'Interface AtkValue\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType AtkValue (93922955850144)>'
+    __gtype__ = None # (!) real value is '<GType AtkValue (94258337914368)>'
     __info__ = InterfaceInfo(Value)
 
 

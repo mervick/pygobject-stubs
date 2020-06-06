@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -373,7 +373,7 @@ class IconLookupFlags(__gobject.GFlags):
     NO_SVG = 1
     USE_BUILTIN = 4
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'IconLookupFlags' objects>, '__doc__': None, '__gtype__': <GType GtkIconLookupFlags (94846038189792)>, '__flags_values__': {1: <flags GTK_ICON_LOOKUP_NO_SVG of type Gtk.IconLookupFlags>, 2: <flags GTK_ICON_LOOKUP_FORCE_SVG of type Gtk.IconLookupFlags>, 4: <flags GTK_ICON_LOOKUP_USE_BUILTIN of type Gtk.IconLookupFlags>, 8: <flags GTK_ICON_LOOKUP_GENERIC_FALLBACK of type Gtk.IconLookupFlags>, 16: <flags GTK_ICON_LOOKUP_FORCE_SIZE of type Gtk.IconLookupFlags>, 32: <flags GTK_ICON_LOOKUP_FORCE_REGULAR of type Gtk.IconLookupFlags>, 64: <flags GTK_ICON_LOOKUP_FORCE_SYMBOLIC of type Gtk.IconLookupFlags>, 128: <flags GTK_ICON_LOOKUP_DIR_LTR of type Gtk.IconLookupFlags>, 256: <flags GTK_ICON_LOOKUP_DIR_RTL of type Gtk.IconLookupFlags>}, '__info__': gi.EnumInfo(IconLookupFlags), 'NO_SVG': <flags GTK_ICON_LOOKUP_NO_SVG of type Gtk.IconLookupFlags>, 'FORCE_SVG': <flags GTK_ICON_LOOKUP_FORCE_SVG of type Gtk.IconLookupFlags>, 'USE_BUILTIN': <flags GTK_ICON_LOOKUP_USE_BUILTIN of type Gtk.IconLookupFlags>, 'GENERIC_FALLBACK': <flags GTK_ICON_LOOKUP_GENERIC_FALLBACK of type Gtk.IconLookupFlags>, 'FORCE_SIZE': <flags GTK_ICON_LOOKUP_FORCE_SIZE of type Gtk.IconLookupFlags>, 'FORCE_REGULAR': <flags GTK_ICON_LOOKUP_FORCE_REGULAR of type Gtk.IconLookupFlags>, 'FORCE_SYMBOLIC': <flags GTK_ICON_LOOKUP_FORCE_SYMBOLIC of type Gtk.IconLookupFlags>, 'DIR_LTR': <flags GTK_ICON_LOOKUP_DIR_LTR of type Gtk.IconLookupFlags>, 'DIR_RTL': <flags GTK_ICON_LOOKUP_DIR_RTL of type Gtk.IconLookupFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'IconLookupFlags' objects>, '__doc__': None, '__gtype__': <GType GtkIconLookupFlags (93897368236736)>, '__flags_values__': {1: <flags GTK_ICON_LOOKUP_NO_SVG of type Gtk.IconLookupFlags>, 2: <flags GTK_ICON_LOOKUP_FORCE_SVG of type Gtk.IconLookupFlags>, 4: <flags GTK_ICON_LOOKUP_USE_BUILTIN of type Gtk.IconLookupFlags>, 8: <flags GTK_ICON_LOOKUP_GENERIC_FALLBACK of type Gtk.IconLookupFlags>, 16: <flags GTK_ICON_LOOKUP_FORCE_SIZE of type Gtk.IconLookupFlags>, 32: <flags GTK_ICON_LOOKUP_FORCE_REGULAR of type Gtk.IconLookupFlags>, 64: <flags GTK_ICON_LOOKUP_FORCE_SYMBOLIC of type Gtk.IconLookupFlags>, 128: <flags GTK_ICON_LOOKUP_DIR_LTR of type Gtk.IconLookupFlags>, 256: <flags GTK_ICON_LOOKUP_DIR_RTL of type Gtk.IconLookupFlags>}, '__info__': gi.EnumInfo(IconLookupFlags), 'NO_SVG': <flags GTK_ICON_LOOKUP_NO_SVG of type Gtk.IconLookupFlags>, 'FORCE_SVG': <flags GTK_ICON_LOOKUP_FORCE_SVG of type Gtk.IconLookupFlags>, 'USE_BUILTIN': <flags GTK_ICON_LOOKUP_USE_BUILTIN of type Gtk.IconLookupFlags>, 'GENERIC_FALLBACK': <flags GTK_ICON_LOOKUP_GENERIC_FALLBACK of type Gtk.IconLookupFlags>, 'FORCE_SIZE': <flags GTK_ICON_LOOKUP_FORCE_SIZE of type Gtk.IconLookupFlags>, 'FORCE_REGULAR': <flags GTK_ICON_LOOKUP_FORCE_REGULAR of type Gtk.IconLookupFlags>, 'FORCE_SYMBOLIC': <flags GTK_ICON_LOOKUP_FORCE_SYMBOLIC of type Gtk.IconLookupFlags>, 'DIR_LTR': <flags GTK_ICON_LOOKUP_DIR_LTR of type Gtk.IconLookupFlags>, 'DIR_RTL': <flags GTK_ICON_LOOKUP_DIR_RTL of type Gtk.IconLookupFlags>})"
     __flags_values__ = {
         1: 1,
         2: 2,
@@ -385,7 +385,7 @@ class IconLookupFlags(__gobject.GFlags):
         128: 128,
         256: 256,
     }
-    __gtype__ = None # (!) real value is '<GType GtkIconLookupFlags (94846038189792)>'
+    __gtype__ = None # (!) real value is '<GType GtkIconLookupFlags (93897368236736)>'
     __info__ = gi.EnumInfo(IconLookupFlags)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -358,13 +358,13 @@ class OwnerChange(__gobject.GEnum):
     DESTROY = 1
     NEW_OWNER = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'OwnerChange' objects>, '__doc__': None, '__gtype__': <GType GdkOwnerChange (94055651832768)>, '__enum_values__': {0: <enum GDK_OWNER_CHANGE_NEW_OWNER of type Gdk.OwnerChange>, 1: <enum GDK_OWNER_CHANGE_DESTROY of type Gdk.OwnerChange>, 2: <enum GDK_OWNER_CHANGE_CLOSE of type Gdk.OwnerChange>}, '__info__': gi.EnumInfo(OwnerChange), 'NEW_OWNER': <enum GDK_OWNER_CHANGE_NEW_OWNER of type Gdk.OwnerChange>, 'DESTROY': <enum GDK_OWNER_CHANGE_DESTROY of type Gdk.OwnerChange>, 'CLOSE': <enum GDK_OWNER_CHANGE_CLOSE of type Gdk.OwnerChange>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'OwnerChange' objects>, '__doc__': None, '__gtype__': <GType GdkOwnerChange (94915769409328)>, '__enum_values__': {0: <enum GDK_OWNER_CHANGE_NEW_OWNER of type Gdk.OwnerChange>, 1: <enum GDK_OWNER_CHANGE_DESTROY of type Gdk.OwnerChange>, 2: <enum GDK_OWNER_CHANGE_CLOSE of type Gdk.OwnerChange>}, '__info__': gi.EnumInfo(OwnerChange), 'NEW_OWNER': <enum GDK_OWNER_CHANGE_NEW_OWNER of type Gdk.OwnerChange>, 'DESTROY': <enum GDK_OWNER_CHANGE_DESTROY of type Gdk.OwnerChange>, 'CLOSE': <enum GDK_OWNER_CHANGE_CLOSE of type Gdk.OwnerChange>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GdkOwnerChange (94055651832768)>'
+    __gtype__ = None # (!) real value is '<GType GdkOwnerChange (94915769409328)>'
     __info__ = gi.EnumInfo(OwnerChange)
 
 

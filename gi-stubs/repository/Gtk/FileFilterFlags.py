@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -368,14 +368,14 @@ class FileFilterFlags(__gobject.GFlags):
     MIME_TYPE = 8
     URI = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'FileFilterFlags' objects>, '__doc__': None, '__gtype__': <GType GtkFileFilterFlags (94846038315184)>, '__flags_values__': {1: <flags GTK_FILE_FILTER_FILENAME of type Gtk.FileFilterFlags>, 2: <flags GTK_FILE_FILTER_URI of type Gtk.FileFilterFlags>, 4: <flags GTK_FILE_FILTER_DISPLAY_NAME of type Gtk.FileFilterFlags>, 8: <flags GTK_FILE_FILTER_MIME_TYPE of type Gtk.FileFilterFlags>}, '__info__': gi.EnumInfo(FileFilterFlags), 'FILENAME': <flags GTK_FILE_FILTER_FILENAME of type Gtk.FileFilterFlags>, 'URI': <flags GTK_FILE_FILTER_URI of type Gtk.FileFilterFlags>, 'DISPLAY_NAME': <flags GTK_FILE_FILTER_DISPLAY_NAME of type Gtk.FileFilterFlags>, 'MIME_TYPE': <flags GTK_FILE_FILTER_MIME_TYPE of type Gtk.FileFilterFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'FileFilterFlags' objects>, '__doc__': None, '__gtype__': <GType GtkFileFilterFlags (93897368532480)>, '__flags_values__': {1: <flags GTK_FILE_FILTER_FILENAME of type Gtk.FileFilterFlags>, 2: <flags GTK_FILE_FILTER_URI of type Gtk.FileFilterFlags>, 4: <flags GTK_FILE_FILTER_DISPLAY_NAME of type Gtk.FileFilterFlags>, 8: <flags GTK_FILE_FILTER_MIME_TYPE of type Gtk.FileFilterFlags>}, '__info__': gi.EnumInfo(FileFilterFlags), 'FILENAME': <flags GTK_FILE_FILTER_FILENAME of type Gtk.FileFilterFlags>, 'URI': <flags GTK_FILE_FILTER_URI of type Gtk.FileFilterFlags>, 'DISPLAY_NAME': <flags GTK_FILE_FILTER_DISPLAY_NAME of type Gtk.FileFilterFlags>, 'MIME_TYPE': <flags GTK_FILE_FILTER_MIME_TYPE of type Gtk.FileFilterFlags>})"
     __flags_values__ = {
         1: 1,
         2: 2,
         4: 4,
         8: 8,
     }
-    __gtype__ = None # (!) real value is '<GType GtkFileFilterFlags (94846038315184)>'
+    __gtype__ = None # (!) real value is '<GType GtkFileFilterFlags (93897368532480)>'
     __info__ = gi.EnumInfo(FileFilterFlags)
 
 

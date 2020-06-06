@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -146,8 +146,8 @@ class Requisition(__gi.Boxed):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Requisition), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkRequisition (94846037217712)>, '__dict__': <attribute '__dict__' of 'Requisition' objects>, '__weakref__': <attribute '__weakref__' of 'Requisition' objects>, '__doc__': None, 'width': <property object at 0x7fe830fc2310>, 'height': <property object at 0x7fe830fc2400>, 'new': gi.FunctionInfo(new), 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free), '__new__': <staticmethod object at 0x7fe830fbe640>, '__init__': <function nothing at 0x7fe832514430>})"
-    __gtype__ = None # (!) real value is '<GType GtkRequisition (94846037217712)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Requisition), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkRequisition (93897367432704)>, '__dict__': <attribute '__dict__' of 'Requisition' objects>, '__weakref__': <attribute '__weakref__' of 'Requisition' objects>, '__doc__': None, 'width': <property object at 0x7fc63a6d6cc0>, 'height': <property object at 0x7fc63a6d6db0>, 'new': gi.FunctionInfo(new), 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free), '__new__': <staticmethod object at 0x7fc63a6d1a30>, '__init__': <function nothing at 0x7fc63bc2eee0>})"
+    __gtype__ = None # (!) real value is '<GType GtkRequisition (93897367432704)>'
     __info__ = StructInfo(Requisition)
 
 

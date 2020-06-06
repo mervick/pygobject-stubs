@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -440,12 +440,12 @@ class PadController(EventController):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe82f479a90>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc638b86820>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(PadController), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkPadController (94846038812288)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'set_action': gi.FunctionInfo(set_action), 'set_action_entries': gi.FunctionInfo(set_action_entries)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(PadController), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkPadController (93897368975984)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'set_action': gi.FunctionInfo(set_action), 'set_action_entries': gi.FunctionInfo(set_action_entries)})"
     __gdoc__ = 'Object GtkPadController\n\nProperties from GtkPadController:\n  action-group -> GActionGroup: Action group\n    Action group to launch actions from\n  pad -> GdkDevice: Pad device\n    Pad device to control\n\nProperties from GtkEventController:\n  widget -> GtkWidget: Widget\n    Widget the gesture relates to\n  propagation-phase -> GtkPropagationPhase: Propagation phase\n    Propagation phase at which this controller is run\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkPadController (94846038812288)>'
+    __gtype__ = None # (!) real value is '<GType GtkPadController (93897368975984)>'
     __info__ = ObjectInfo(PadController)
 
 

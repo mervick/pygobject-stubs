@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -757,12 +757,12 @@ class CellAreaBox(CellArea, Orientable):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe830ac23d0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc639ecb1f0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(CellAreaBox), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkCellAreaBox (94846037899056)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_spacing': gi.FunctionInfo(get_spacing), 'pack_end': gi.FunctionInfo(pack_end), 'pack_start': gi.FunctionInfo(pack_start), 'set_spacing': gi.FunctionInfo(set_spacing), 'parent_instance': <property object at 0x7fe8310b5c20>, 'priv': <property object at 0x7fe8310b5d60>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(CellAreaBox), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkCellAreaBox (93897368115472)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_spacing': gi.FunctionInfo(get_spacing), 'pack_end': gi.FunctionInfo(pack_end), 'pack_start': gi.FunctionInfo(pack_start), 'set_spacing': gi.FunctionInfo(set_spacing), 'parent_instance': <property object at 0x7fc63a7cbb30>, 'priv': <property object at 0x7fc63a7cbc70>})"
     __gdoc__ = 'Object GtkCellAreaBox\n\nProperties from GtkCellAreaBox:\n  spacing -> gint: Spacing\n    Space which is inserted between cells\n\nSignals from GtkCellArea:\n  apply-attributes (GtkTreeModel, GtkTreeIter, gboolean, gboolean)\n  add-editable (GtkCellRenderer, GtkCellEditable, GdkRectangle, gchararray)\n  remove-editable (GtkCellRenderer, GtkCellEditable)\n  focus-changed (GtkCellRenderer, gchararray)\n\nProperties from GtkCellArea:\n  focus-cell -> GtkCellRenderer: Focus Cell\n    The cell which currently has focus\n  edited-cell -> GtkCellRenderer: Edited Cell\n    The cell which is currently being edited\n  edit-widget -> GtkCellEditable: Edit Widget\n    The widget currently editing the edited cell\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkCellAreaBox (94846037899056)>'
+    __gtype__ = None # (!) real value is '<GType GtkCellAreaBox (93897368115472)>'
     __info__ = ObjectInfo(CellAreaBox)
 
 

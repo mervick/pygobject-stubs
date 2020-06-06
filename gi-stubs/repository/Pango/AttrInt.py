@@ -124,7 +124,7 @@ class AttrInt(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AttrInt), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AttrInt' objects>, '__weakref__': <attribute '__weakref__' of 'AttrInt' objects>, '__doc__': None, 'attr': <property object at 0x7f24746e17c0>, 'value': <property object at 0x7f24746e18b0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AttrInt), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AttrInt' objects>, '__weakref__': <attribute '__weakref__' of 'AttrInt' objects>, '__doc__': None, 'attr': <property object at 0x7f85178845e0>, 'value': <property object at 0x7f85178846d0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(AttrInt)
 

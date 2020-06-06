@@ -632,12 +632,12 @@ class ConverterOutputStream(FilterOutputStream, PollableOutputStream):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28ddf66a60>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b880cd130>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ConverterOutputStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GConverterOutputStream (94125582077552)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_converter': gi.FunctionInfo(get_converter), 'parent_instance': <property object at 0x7f28ddf3a0e0>, 'priv': <property object at 0x7f28ddf3a1d0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ConverterOutputStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GConverterOutputStream (94269256703712)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_converter': gi.FunctionInfo(get_converter), 'parent_instance': <property object at 0x7f4b8801f310>, 'priv': <property object at 0x7f4b8801f400>})"
     __gdoc__ = 'Object GConverterOutputStream\n\nProperties from GConverterOutputStream:\n  converter -> GConverter: Converter\n    The converter object\n\nProperties from GFilterOutputStream:\n  base-stream -> GOutputStream: The Filter Base Stream\n    The underlying base stream on which the io ops will be done.\n  close-base-stream -> gboolean: Close Base Stream\n    If the base stream should be closed when the filter stream is closed.\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GConverterOutputStream (94125582077552)>'
+    __gtype__ = None # (!) real value is '<GType GConverterOutputStream (94269256703712)>'
     __info__ = ObjectInfo(ConverterOutputStream)
 
 

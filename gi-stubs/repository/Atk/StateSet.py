@@ -453,12 +453,12 @@ class StateSet(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f0cd80e8ca0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f44c6e02130>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(StateSet), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkStateSet (93922956027008)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add_state': gi.FunctionInfo(add_state), 'add_states': gi.FunctionInfo(add_states), 'and_sets': gi.FunctionInfo(and_sets), 'clear_states': gi.FunctionInfo(clear_states), 'contains_state': gi.FunctionInfo(contains_state), 'contains_states': gi.FunctionInfo(contains_states), 'is_empty': gi.FunctionInfo(is_empty), 'or_sets': gi.FunctionInfo(or_sets), 'remove_state': gi.FunctionInfo(remove_state), 'xor_sets': gi.FunctionInfo(xor_sets), 'parent': <property object at 0x7f0cd81b6a90>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(StateSet), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkStateSet (94258337636464)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add_state': gi.FunctionInfo(add_state), 'add_states': gi.FunctionInfo(add_states), 'and_sets': gi.FunctionInfo(and_sets), 'clear_states': gi.FunctionInfo(clear_states), 'contains_state': gi.FunctionInfo(contains_state), 'contains_states': gi.FunctionInfo(contains_states), 'is_empty': gi.FunctionInfo(is_empty), 'or_sets': gi.FunctionInfo(or_sets), 'remove_state': gi.FunctionInfo(remove_state), 'xor_sets': gi.FunctionInfo(xor_sets), 'parent': <property object at 0x7f44c6dce400>})"
     __gdoc__ = 'Object AtkStateSet\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType AtkStateSet (93922956027008)>'
+    __gtype__ = None # (!) real value is '<GType AtkStateSet (94258337636464)>'
     __info__ = ObjectInfo(StateSet)
 
 

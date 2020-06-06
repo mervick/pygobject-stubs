@@ -119,10 +119,10 @@ class Window(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Window), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkWindow (93922955730896)>, '__dict__': <attribute '__dict__' of 'Window' objects>, '__weakref__': <attribute '__weakref__' of 'Window' objects>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Window), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkWindow (94258337923648)>, '__dict__': <attribute '__dict__' of 'Window' objects>, '__weakref__': <attribute '__weakref__' of 'Window' objects>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Interface AtkWindow\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType AtkWindow (93922955730896)>'
+    __gtype__ = None # (!) real value is '<GType AtkWindow (94258337923648)>'
     __info__ = InterfaceInfo(Window)
 
 

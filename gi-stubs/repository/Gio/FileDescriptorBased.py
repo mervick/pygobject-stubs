@@ -119,10 +119,10 @@ class FileDescriptorBased(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(FileDescriptorBased), '__module__': 'gi.repository.Gio', '__gtype__': <GType GFileDescriptorBased (94125582312048)>, '__dict__': <attribute '__dict__' of 'FileDescriptorBased' objects>, '__weakref__': <attribute '__weakref__' of 'FileDescriptorBased' objects>, '__doc__': None, '__gsignals__': {}, 'get_fd': gi.FunctionInfo(get_fd)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(FileDescriptorBased), '__module__': 'gi.repository.Gio', '__gtype__': <GType GFileDescriptorBased (94269256932576)>, '__dict__': <attribute '__dict__' of 'FileDescriptorBased' objects>, '__weakref__': <attribute '__weakref__' of 'FileDescriptorBased' objects>, '__doc__': None, '__gsignals__': {}, 'get_fd': gi.FunctionInfo(get_fd)})"
     __gdoc__ = 'Interface GFileDescriptorBased\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GFileDescriptorBased (94125582312048)>'
+    __gtype__ = None # (!) real value is '<GType GFileDescriptorBased (94269256932576)>'
     __info__ = InterfaceInfo(FileDescriptorBased)
 
 

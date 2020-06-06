@@ -124,7 +124,7 @@ class AttrFloat(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AttrFloat), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AttrFloat' objects>, '__weakref__': <attribute '__weakref__' of 'AttrFloat' objects>, '__doc__': None, 'attr': <property object at 0x7f24746e1040>, 'value': <property object at 0x7f24746e1130>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AttrFloat), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AttrFloat' objects>, '__weakref__': <attribute '__weakref__' of 'AttrFloat' objects>, '__doc__': None, 'attr': <property object at 0x7f8517880e00>, 'value': <property object at 0x7f8517880ef0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(AttrFloat)
 

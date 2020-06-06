@@ -447,12 +447,12 @@ class RelationSet(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f0cd8034a90>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f44c6c47d60>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(RelationSet), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkRelationSet (93922956214736)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add': gi.FunctionInfo(add), 'add_relation_by_type': gi.FunctionInfo(add_relation_by_type), 'contains': gi.FunctionInfo(contains), 'contains_target': gi.FunctionInfo(contains_target), 'get_n_relations': gi.FunctionInfo(get_n_relations), 'get_relation': gi.FunctionInfo(get_relation), 'get_relation_by_type': gi.FunctionInfo(get_relation_by_type), 'remove': gi.FunctionInfo(remove), 'parent': <property object at 0x7f0cd81a7e00>, 'relations': <property object at 0x7f0cd81a7ef0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(RelationSet), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkRelationSet (94258338077888)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add': gi.FunctionInfo(add), 'add_relation_by_type': gi.FunctionInfo(add_relation_by_type), 'contains': gi.FunctionInfo(contains), 'contains_target': gi.FunctionInfo(contains_target), 'get_n_relations': gi.FunctionInfo(get_n_relations), 'get_relation': gi.FunctionInfo(get_relation), 'get_relation_by_type': gi.FunctionInfo(get_relation_by_type), 'remove': gi.FunctionInfo(remove), 'parent': <property object at 0x7f44c6dc2400>, 'relations': <property object at 0x7f44c6dc24f0>})"
     __gdoc__ = 'Object AtkRelationSet\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType AtkRelationSet (93922956214736)>'
+    __gtype__ = None # (!) real value is '<GType AtkRelationSet (94258338077888)>'
     __info__ = ObjectInfo(RelationSet)
 
 

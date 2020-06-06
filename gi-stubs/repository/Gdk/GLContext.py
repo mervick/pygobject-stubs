@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -469,12 +469,12 @@ class GLContext(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f1e11c18190>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fbaf808e490>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(GLContext), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkGLContext (94055650420560)>, '__doc__': None, '__gsignals__': {}, 'clear_current': gi.FunctionInfo(clear_current), 'get_current': gi.FunctionInfo(get_current), 'get_debug_enabled': gi.FunctionInfo(get_debug_enabled), 'get_display': gi.FunctionInfo(get_display), 'get_forward_compatible': gi.FunctionInfo(get_forward_compatible), 'get_required_version': gi.FunctionInfo(get_required_version), 'get_shared_context': gi.FunctionInfo(get_shared_context), 'get_use_es': gi.FunctionInfo(get_use_es), 'get_version': gi.FunctionInfo(get_version), 'get_window': gi.FunctionInfo(get_window), 'is_legacy': gi.FunctionInfo(is_legacy), 'make_current': gi.FunctionInfo(make_current), 'realize': gi.FunctionInfo(realize), 'set_debug_enabled': gi.FunctionInfo(set_debug_enabled), 'set_forward_compatible': gi.FunctionInfo(set_forward_compatible), 'set_required_version': gi.FunctionInfo(set_required_version), 'set_use_es': gi.FunctionInfo(set_use_es)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(GLContext), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkGLContext (94915768671136)>, '__doc__': None, '__gsignals__': {}, 'clear_current': gi.FunctionInfo(clear_current), 'get_current': gi.FunctionInfo(get_current), 'get_debug_enabled': gi.FunctionInfo(get_debug_enabled), 'get_display': gi.FunctionInfo(get_display), 'get_forward_compatible': gi.FunctionInfo(get_forward_compatible), 'get_required_version': gi.FunctionInfo(get_required_version), 'get_shared_context': gi.FunctionInfo(get_shared_context), 'get_use_es': gi.FunctionInfo(get_use_es), 'get_version': gi.FunctionInfo(get_version), 'get_window': gi.FunctionInfo(get_window), 'is_legacy': gi.FunctionInfo(is_legacy), 'make_current': gi.FunctionInfo(make_current), 'realize': gi.FunctionInfo(realize), 'set_debug_enabled': gi.FunctionInfo(set_debug_enabled), 'set_forward_compatible': gi.FunctionInfo(set_forward_compatible), 'set_required_version': gi.FunctionInfo(set_required_version), 'set_use_es': gi.FunctionInfo(set_use_es)})"
     __gdoc__ = 'Object GdkGLContext\n\nProperties from GdkGLContext:\n  display -> GdkDisplay: Display\n    The GDK display used to create the GL context\n  window -> GdkWindow: Window\n    The GDK window bound to the GL context\n  shared-context -> GdkGLContext: Shared context\n    The GL context this context shares data with\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GdkGLContext (94055650420560)>'
+    __gtype__ = None # (!) real value is '<GType GdkGLContext (94915768671136)>'
     __info__ = ObjectInfo(GLContext)
 
 

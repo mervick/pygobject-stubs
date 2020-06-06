@@ -142,7 +142,7 @@ class EditableTextIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EditableTextIface), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EditableTextIface' objects>, '__weakref__': <attribute '__weakref__' of 'EditableTextIface' objects>, '__doc__': None, 'parent_interface': <property object at 0x7f0cd7be1310>, 'set_run_attributes': <property object at 0x7f0cd7be1450>, 'set_text_contents': <property object at 0x7f0cd7be1540>, 'insert_text': <property object at 0x7f0cd7be15e0>, 'copy_text': <property object at 0x7f0cd7be16d0>, 'cut_text': <property object at 0x7f0cd7be17c0>, 'delete_text': <property object at 0x7f0cd7be18b0>, 'paste_text': <property object at 0x7f0cd7be19a0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EditableTextIface), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EditableTextIface' objects>, '__weakref__': <attribute '__weakref__' of 'EditableTextIface' objects>, '__doc__': None, 'parent_interface': <property object at 0x7f44c6da77c0>, 'set_run_attributes': <property object at 0x7f44c6da7900>, 'set_text_contents': <property object at 0x7f44c6da79f0>, 'insert_text': <property object at 0x7f44c6da7a90>, 'copy_text': <property object at 0x7f44c6da7b80>, 'cut_text': <property object at 0x7f44c6da7c70>, 'delete_text': <property object at 0x7f44c6da7d60>, 'paste_text': <property object at 0x7f44c6da7e50>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(EditableTextIface)
 

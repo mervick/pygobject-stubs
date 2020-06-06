@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,7 +363,7 @@ class DeviceToolType(__gobject.GEnum):
     PENCIL = 4
     UNKNOWN = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'DeviceToolType' objects>, '__doc__': None, '__gtype__': <GType GdkDeviceToolType (94055651052480)>, '__enum_values__': {0: <enum GDK_DEVICE_TOOL_TYPE_UNKNOWN of type Gdk.DeviceToolType>, 1: <enum GDK_DEVICE_TOOL_TYPE_PEN of type Gdk.DeviceToolType>, 2: <enum GDK_DEVICE_TOOL_TYPE_ERASER of type Gdk.DeviceToolType>, 3: <enum GDK_DEVICE_TOOL_TYPE_BRUSH of type Gdk.DeviceToolType>, 4: <enum GDK_DEVICE_TOOL_TYPE_PENCIL of type Gdk.DeviceToolType>, 5: <enum GDK_DEVICE_TOOL_TYPE_AIRBRUSH of type Gdk.DeviceToolType>, 6: <enum GDK_DEVICE_TOOL_TYPE_MOUSE of type Gdk.DeviceToolType>, 7: <enum GDK_DEVICE_TOOL_TYPE_LENS of type Gdk.DeviceToolType>}, '__info__': gi.EnumInfo(DeviceToolType), 'UNKNOWN': <enum GDK_DEVICE_TOOL_TYPE_UNKNOWN of type Gdk.DeviceToolType>, 'PEN': <enum GDK_DEVICE_TOOL_TYPE_PEN of type Gdk.DeviceToolType>, 'ERASER': <enum GDK_DEVICE_TOOL_TYPE_ERASER of type Gdk.DeviceToolType>, 'BRUSH': <enum GDK_DEVICE_TOOL_TYPE_BRUSH of type Gdk.DeviceToolType>, 'PENCIL': <enum GDK_DEVICE_TOOL_TYPE_PENCIL of type Gdk.DeviceToolType>, 'AIRBRUSH': <enum GDK_DEVICE_TOOL_TYPE_AIRBRUSH of type Gdk.DeviceToolType>, 'MOUSE': <enum GDK_DEVICE_TOOL_TYPE_MOUSE of type Gdk.DeviceToolType>, 'LENS': <enum GDK_DEVICE_TOOL_TYPE_LENS of type Gdk.DeviceToolType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'DeviceToolType' objects>, '__doc__': None, '__gtype__': <GType GdkDeviceToolType (94915769021632)>, '__enum_values__': {0: <enum GDK_DEVICE_TOOL_TYPE_UNKNOWN of type Gdk.DeviceToolType>, 1: <enum GDK_DEVICE_TOOL_TYPE_PEN of type Gdk.DeviceToolType>, 2: <enum GDK_DEVICE_TOOL_TYPE_ERASER of type Gdk.DeviceToolType>, 3: <enum GDK_DEVICE_TOOL_TYPE_BRUSH of type Gdk.DeviceToolType>, 4: <enum GDK_DEVICE_TOOL_TYPE_PENCIL of type Gdk.DeviceToolType>, 5: <enum GDK_DEVICE_TOOL_TYPE_AIRBRUSH of type Gdk.DeviceToolType>, 6: <enum GDK_DEVICE_TOOL_TYPE_MOUSE of type Gdk.DeviceToolType>, 7: <enum GDK_DEVICE_TOOL_TYPE_LENS of type Gdk.DeviceToolType>}, '__info__': gi.EnumInfo(DeviceToolType), 'UNKNOWN': <enum GDK_DEVICE_TOOL_TYPE_UNKNOWN of type Gdk.DeviceToolType>, 'PEN': <enum GDK_DEVICE_TOOL_TYPE_PEN of type Gdk.DeviceToolType>, 'ERASER': <enum GDK_DEVICE_TOOL_TYPE_ERASER of type Gdk.DeviceToolType>, 'BRUSH': <enum GDK_DEVICE_TOOL_TYPE_BRUSH of type Gdk.DeviceToolType>, 'PENCIL': <enum GDK_DEVICE_TOOL_TYPE_PENCIL of type Gdk.DeviceToolType>, 'AIRBRUSH': <enum GDK_DEVICE_TOOL_TYPE_AIRBRUSH of type Gdk.DeviceToolType>, 'MOUSE': <enum GDK_DEVICE_TOOL_TYPE_MOUSE of type Gdk.DeviceToolType>, 'LENS': <enum GDK_DEVICE_TOOL_TYPE_LENS of type Gdk.DeviceToolType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -374,7 +374,7 @@ class DeviceToolType(__gobject.GEnum):
         6: 6,
         7: 7,
     }
-    __gtype__ = None # (!) real value is '<GType GdkDeviceToolType (94055651052480)>'
+    __gtype__ = None # (!) real value is '<GType GdkDeviceToolType (94915769021632)>'
     __info__ = gi.EnumInfo(DeviceToolType)
 
 

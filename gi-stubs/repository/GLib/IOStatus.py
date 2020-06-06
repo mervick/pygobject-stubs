@@ -361,14 +361,14 @@ class IOStatus(__gobject.GEnum):
     ERROR = 0
     NORMAL = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'IOStatus' objects>, '__doc__': None, '__gtype__': <GType PyGLibIOStatus (94243598352272)>, '__enum_values__': {0: <enum G_IO_STATUS_ERROR of type GLib.IOStatus>, 1: <enum G_IO_STATUS_NORMAL of type GLib.IOStatus>, 2: <enum G_IO_STATUS_EOF of type GLib.IOStatus>, 3: <enum G_IO_STATUS_AGAIN of type GLib.IOStatus>}, '__info__': gi.EnumInfo(IOStatus), 'ERROR': <enum G_IO_STATUS_ERROR of type GLib.IOStatus>, 'NORMAL': <enum G_IO_STATUS_NORMAL of type GLib.IOStatus>, 'EOF': <enum G_IO_STATUS_EOF of type GLib.IOStatus>, 'AGAIN': <enum G_IO_STATUS_AGAIN of type GLib.IOStatus>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'IOStatus' objects>, '__doc__': None, '__gtype__': <GType PyGLibIOStatus (94581033139760)>, '__enum_values__': {0: <enum G_IO_STATUS_ERROR of type GLib.IOStatus>, 1: <enum G_IO_STATUS_NORMAL of type GLib.IOStatus>, 2: <enum G_IO_STATUS_EOF of type GLib.IOStatus>, 3: <enum G_IO_STATUS_AGAIN of type GLib.IOStatus>}, '__info__': gi.EnumInfo(IOStatus), 'ERROR': <enum G_IO_STATUS_ERROR of type GLib.IOStatus>, 'NORMAL': <enum G_IO_STATUS_NORMAL of type GLib.IOStatus>, 'EOF': <enum G_IO_STATUS_EOF of type GLib.IOStatus>, 'AGAIN': <enum G_IO_STATUS_AGAIN of type GLib.IOStatus>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibIOStatus (94243598352272)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibIOStatus (94581033139760)>'
     __info__ = gi.EnumInfo(IOStatus)
 
 

@@ -365,7 +365,7 @@ class ErrorType(__gobject.GEnum):
     UNEXP_EOF_IN_STRING = 2
     UNKNOWN = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'ErrorType' objects>, '__doc__': None, '__gtype__': <GType PyGLibErrorType (94243598726304)>, '__enum_values__': {0: <enum G_ERR_UNKNOWN of type GLib.ErrorType>, 1: <enum G_ERR_UNEXP_EOF of type GLib.ErrorType>, 2: <enum G_ERR_UNEXP_EOF_IN_STRING of type GLib.ErrorType>, 3: <enum G_ERR_UNEXP_EOF_IN_COMMENT of type GLib.ErrorType>, 4: <enum G_ERR_NON_DIGIT_IN_CONST of type GLib.ErrorType>, 5: <enum G_ERR_DIGIT_RADIX of type GLib.ErrorType>, 6: <enum G_ERR_FLOAT_RADIX of type GLib.ErrorType>, 7: <enum G_ERR_FLOAT_MALFORMED of type GLib.ErrorType>}, '__info__': gi.EnumInfo(ErrorType), 'UNKNOWN': <enum G_ERR_UNKNOWN of type GLib.ErrorType>, 'UNEXP_EOF': <enum G_ERR_UNEXP_EOF of type GLib.ErrorType>, 'UNEXP_EOF_IN_STRING': <enum G_ERR_UNEXP_EOF_IN_STRING of type GLib.ErrorType>, 'UNEXP_EOF_IN_COMMENT': <enum G_ERR_UNEXP_EOF_IN_COMMENT of type GLib.ErrorType>, 'NON_DIGIT_IN_CONST': <enum G_ERR_NON_DIGIT_IN_CONST of type GLib.ErrorType>, 'DIGIT_RADIX': <enum G_ERR_DIGIT_RADIX of type GLib.ErrorType>, 'FLOAT_RADIX': <enum G_ERR_FLOAT_RADIX of type GLib.ErrorType>, 'FLOAT_MALFORMED': <enum G_ERR_FLOAT_MALFORMED of type GLib.ErrorType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'ErrorType' objects>, '__doc__': None, '__gtype__': <GType PyGLibErrorType (94581033527568)>, '__enum_values__': {0: <enum G_ERR_UNKNOWN of type GLib.ErrorType>, 1: <enum G_ERR_UNEXP_EOF of type GLib.ErrorType>, 2: <enum G_ERR_UNEXP_EOF_IN_STRING of type GLib.ErrorType>, 3: <enum G_ERR_UNEXP_EOF_IN_COMMENT of type GLib.ErrorType>, 4: <enum G_ERR_NON_DIGIT_IN_CONST of type GLib.ErrorType>, 5: <enum G_ERR_DIGIT_RADIX of type GLib.ErrorType>, 6: <enum G_ERR_FLOAT_RADIX of type GLib.ErrorType>, 7: <enum G_ERR_FLOAT_MALFORMED of type GLib.ErrorType>}, '__info__': gi.EnumInfo(ErrorType), 'UNKNOWN': <enum G_ERR_UNKNOWN of type GLib.ErrorType>, 'UNEXP_EOF': <enum G_ERR_UNEXP_EOF of type GLib.ErrorType>, 'UNEXP_EOF_IN_STRING': <enum G_ERR_UNEXP_EOF_IN_STRING of type GLib.ErrorType>, 'UNEXP_EOF_IN_COMMENT': <enum G_ERR_UNEXP_EOF_IN_COMMENT of type GLib.ErrorType>, 'NON_DIGIT_IN_CONST': <enum G_ERR_NON_DIGIT_IN_CONST of type GLib.ErrorType>, 'DIGIT_RADIX': <enum G_ERR_DIGIT_RADIX of type GLib.ErrorType>, 'FLOAT_RADIX': <enum G_ERR_FLOAT_RADIX of type GLib.ErrorType>, 'FLOAT_MALFORMED': <enum G_ERR_FLOAT_MALFORMED of type GLib.ErrorType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -376,7 +376,7 @@ class ErrorType(__gobject.GEnum):
         6: 6,
         7: 7,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibErrorType (94243598726304)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibErrorType (94581033527568)>'
     __info__ = gi.EnumInfo(ErrorType)
 
 

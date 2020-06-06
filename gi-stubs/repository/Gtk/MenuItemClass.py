@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -153,7 +153,7 @@ class MenuItemClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(MenuItemClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'MenuItemClass' objects>, '__weakref__': <attribute '__weakref__' of 'MenuItemClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830febc70>, 'hide_on_activate': <property object at 0x7fe830febdb0>, 'activate': <property object at 0x7fe830febea0>, 'activate_item': <property object at 0x7fe830febf90>, 'toggle_size_request': <property object at 0x7fe830fed130>, 'toggle_size_allocate': <property object at 0x7fe830fed220>, 'set_label': <property object at 0x7fe830fed2c0>, 'get_label': <property object at 0x7fe830fed3b0>, 'select': <property object at 0x7fe830fed4a0>, 'deselect': <property object at 0x7fe830fed590>, '_gtk_reserved1': <property object at 0x7fe830fed680>, '_gtk_reserved2': <property object at 0x7fe830fed770>, '_gtk_reserved3': <property object at 0x7fe830fed860>, '_gtk_reserved4': <property object at 0x7fe830fed950>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(MenuItemClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'MenuItemClass' objects>, '__weakref__': <attribute '__weakref__' of 'MenuItemClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a700cc0>, 'hide_on_activate': <property object at 0x7fc63a700e00>, 'activate': <property object at 0x7fc63a700ef0>, 'activate_item': <property object at 0x7fc63a701040>, 'toggle_size_request': <property object at 0x7fc63a701180>, 'toggle_size_allocate': <property object at 0x7fc63a701270>, 'set_label': <property object at 0x7fc63a701310>, 'get_label': <property object at 0x7fc63a701400>, 'select': <property object at 0x7fc63a7014f0>, 'deselect': <property object at 0x7fc63a7015e0>, '_gtk_reserved1': <property object at 0x7fc63a7016d0>, '_gtk_reserved2': <property object at 0x7fc63a7017c0>, '_gtk_reserved3': <property object at 0x7fc63a7018b0>, '_gtk_reserved4': <property object at 0x7fc63a7019a0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(MenuItemClass)
 

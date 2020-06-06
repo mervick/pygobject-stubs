@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -369,7 +369,7 @@ class FontChooserLevel(__gobject.GFlags):
     STYLE = 1
     VARIATIONS = 4
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'FontChooserLevel' objects>, '__doc__': None, '__gtype__': <GType GtkFontChooserLevel (94846038380304)>, '__flags_values__': {0: <flags 0 of type Gtk.FontChooserLevel>, 1: <flags GTK_FONT_CHOOSER_LEVEL_STYLE of type Gtk.FontChooserLevel>, 2: <flags GTK_FONT_CHOOSER_LEVEL_SIZE of type Gtk.FontChooserLevel>, 4: <flags GTK_FONT_CHOOSER_LEVEL_VARIATIONS of type Gtk.FontChooserLevel>, 8: <flags GTK_FONT_CHOOSER_LEVEL_FEATURES of type Gtk.FontChooserLevel>}, '__info__': gi.EnumInfo(FontChooserLevel), 'FAMILY': <flags 0 of type Gtk.FontChooserLevel>, 'STYLE': <flags GTK_FONT_CHOOSER_LEVEL_STYLE of type Gtk.FontChooserLevel>, 'SIZE': <flags GTK_FONT_CHOOSER_LEVEL_SIZE of type Gtk.FontChooserLevel>, 'VARIATIONS': <flags GTK_FONT_CHOOSER_LEVEL_VARIATIONS of type Gtk.FontChooserLevel>, 'FEATURES': <flags GTK_FONT_CHOOSER_LEVEL_FEATURES of type Gtk.FontChooserLevel>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'FontChooserLevel' objects>, '__doc__': None, '__gtype__': <GType GtkFontChooserLevel (93897368408864)>, '__flags_values__': {0: <flags 0 of type Gtk.FontChooserLevel>, 1: <flags GTK_FONT_CHOOSER_LEVEL_STYLE of type Gtk.FontChooserLevel>, 2: <flags GTK_FONT_CHOOSER_LEVEL_SIZE of type Gtk.FontChooserLevel>, 4: <flags GTK_FONT_CHOOSER_LEVEL_VARIATIONS of type Gtk.FontChooserLevel>, 8: <flags GTK_FONT_CHOOSER_LEVEL_FEATURES of type Gtk.FontChooserLevel>}, '__info__': gi.EnumInfo(FontChooserLevel), 'FAMILY': <flags 0 of type Gtk.FontChooserLevel>, 'STYLE': <flags GTK_FONT_CHOOSER_LEVEL_STYLE of type Gtk.FontChooserLevel>, 'SIZE': <flags GTK_FONT_CHOOSER_LEVEL_SIZE of type Gtk.FontChooserLevel>, 'VARIATIONS': <flags GTK_FONT_CHOOSER_LEVEL_VARIATIONS of type Gtk.FontChooserLevel>, 'FEATURES': <flags GTK_FONT_CHOOSER_LEVEL_FEATURES of type Gtk.FontChooserLevel>})"
     __flags_values__ = {
         0: 0,
         1: 1,
@@ -377,7 +377,7 @@ class FontChooserLevel(__gobject.GFlags):
         4: 4,
         8: 8,
     }
-    __gtype__ = None # (!) real value is '<GType GtkFontChooserLevel (94846038380304)>'
+    __gtype__ = None # (!) real value is '<GType GtkFontChooserLevel (93897368408864)>'
     __info__ = gi.EnumInfo(FontChooserLevel)
 
 

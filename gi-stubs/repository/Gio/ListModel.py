@@ -149,10 +149,10 @@ class ListModel(ListModel):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gio', '__getitem__': <function ListModel.__getitem__ at 0x7f28de0211f0>, '__contains__': <function ListModel.__contains__ at 0x7f28de021280>, '__len__': <function ListModel.__len__ at 0x7f28de021310>, '__iter__': <function ListModel.__iter__ at 0x7f28de0213a0>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gio', '__getitem__': <function ListModel.__getitem__ at 0x7f4b881819d0>, '__contains__': <function ListModel.__contains__ at 0x7f4b88181a60>, '__len__': <function ListModel.__len__ at 0x7f4b88181af0>, '__iter__': <function ListModel.__iter__ at 0x7f4b88181b80>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Interface GListModel\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GListModel (94125581520704)>'
+    __gtype__ = None # (!) real value is '<GType GListModel (94269256150480)>'
     __info__ = InterfaceInfo(ListModel)
 
 

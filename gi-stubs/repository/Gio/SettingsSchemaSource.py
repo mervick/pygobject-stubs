@@ -151,8 +151,8 @@ class SettingsSchemaSource(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SettingsSchemaSource), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSettingsSchemaSource (94125582686976)>, '__dict__': <attribute '__dict__' of 'SettingsSchemaSource' objects>, '__weakref__': <attribute '__weakref__' of 'SettingsSchemaSource' objects>, '__doc__': None, 'new_from_directory': gi.FunctionInfo(new_from_directory), 'list_schemas': gi.FunctionInfo(list_schemas), 'lookup': gi.FunctionInfo(lookup), 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref), 'get_default': gi.FunctionInfo(get_default)})"
-    __gtype__ = None # (!) real value is '<GType GSettingsSchemaSource (94125582686976)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SettingsSchemaSource), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSettingsSchemaSource (94269257331344)>, '__dict__': <attribute '__dict__' of 'SettingsSchemaSource' objects>, '__weakref__': <attribute '__weakref__' of 'SettingsSchemaSource' objects>, '__doc__': None, 'new_from_directory': gi.FunctionInfo(new_from_directory), 'list_schemas': gi.FunctionInfo(list_schemas), 'lookup': gi.FunctionInfo(lookup), 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref), 'get_default': gi.FunctionInfo(get_default)})"
+    __gtype__ = None # (!) real value is '<GType GSettingsSchemaSource (94269257331344)>'
     __info__ = StructInfo(SettingsSchemaSource)
 
 

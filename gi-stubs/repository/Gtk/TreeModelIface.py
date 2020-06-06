@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -167,7 +167,7 @@ class TreeModelIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TreeModelIface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TreeModelIface' objects>, '__weakref__': <attribute '__weakref__' of 'TreeModelIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7fe830f2fef0>, 'row_changed': <property object at 0x7fe830f31040>, 'row_inserted': <property object at 0x7fe830f31130>, 'row_has_child_toggled': <property object at 0x7fe830f31270>, 'row_deleted': <property object at 0x7fe830f31310>, 'rows_reordered': <property object at 0x7fe830f31400>, 'get_flags': <property object at 0x7fe830f314f0>, 'get_n_columns': <property object at 0x7fe830f315e0>, 'get_column_type': <property object at 0x7fe830f316d0>, 'get_iter': <property object at 0x7fe830f317c0>, 'get_path': <property object at 0x7fe830f318b0>, 'get_value': <property object at 0x7fe830f319a0>, 'iter_next': <property object at 0x7fe830f31a90>, 'iter_previous': <property object at 0x7fe830f31b80>, 'iter_children': <property object at 0x7fe830f31c70>, 'iter_has_child': <property object at 0x7fe830f31d60>, 'iter_n_children': <property object at 0x7fe830f31e50>, 'iter_nth_child': <property object at 0x7fe830f31f40>, 'iter_parent': <property object at 0x7fe830f32090>, 'ref_node': <property object at 0x7fe830f32180>, 'unref_node': <property object at 0x7fe830f32270>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TreeModelIface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TreeModelIface' objects>, '__weakref__': <attribute '__weakref__' of 'TreeModelIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7fc63a646680>, 'row_changed': <property object at 0x7fc63a646770>, 'row_inserted': <property object at 0x7fc63a646860>, 'row_has_child_toggled': <property object at 0x7fc63a6469a0>, 'row_deleted': <property object at 0x7fc63a646a40>, 'rows_reordered': <property object at 0x7fc63a646b30>, 'get_flags': <property object at 0x7fc63a646c20>, 'get_n_columns': <property object at 0x7fc63a646d10>, 'get_column_type': <property object at 0x7fc63a646e00>, 'get_iter': <property object at 0x7fc63a646ef0>, 'get_path': <property object at 0x7fc63a647040>, 'get_value': <property object at 0x7fc63a647130>, 'iter_next': <property object at 0x7fc63a647220>, 'iter_previous': <property object at 0x7fc63a647310>, 'iter_children': <property object at 0x7fc63a647400>, 'iter_has_child': <property object at 0x7fc63a6474f0>, 'iter_n_children': <property object at 0x7fc63a6475e0>, 'iter_nth_child': <property object at 0x7fc63a6476d0>, 'iter_parent': <property object at 0x7fc63a6477c0>, 'ref_node': <property object at 0x7fc63a6478b0>, 'unref_node': <property object at 0x7fc63a6479a0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TreeModelIface)
 

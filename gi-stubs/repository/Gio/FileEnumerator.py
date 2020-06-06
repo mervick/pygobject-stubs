@@ -492,12 +492,12 @@ class FileEnumerator(FileEnumerator):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd310880>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87732310>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gio', '__iter__': <function FileEnumerator.__iter__ at 0x7f28de00c8b0>, '__next__': <function FileEnumerator.__next__ at 0x7f28de00c940>, 'next': <function FileEnumerator.__next__ at 0x7f28de00c940>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gio', '__iter__': <function FileEnumerator.__iter__ at 0x7f4b881810d0>, '__next__': <function FileEnumerator.__next__ at 0x7f4b88181160>, 'next': <function FileEnumerator.__next__ at 0x7f4b88181160>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Object GFileEnumerator\n\nProperties from GFileEnumerator:\n  container -> GFile: Container\n    The container that is being enumerated\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GFileEnumerator (94125581475904)>'
+    __gtype__ = None # (!) real value is '<GType GFileEnumerator (94269256103536)>'
     __info__ = ObjectInfo(FileEnumerator)
 
 

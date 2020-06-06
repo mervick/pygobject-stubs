@@ -467,12 +467,12 @@ class SocketListener(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd0887f0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87462d60>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SocketListener), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSocketListener (94125582392832)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'accept': gi.FunctionInfo(accept), 'accept_async': gi.FunctionInfo(accept_async), 'accept_finish': gi.FunctionInfo(accept_finish), 'accept_socket': gi.FunctionInfo(accept_socket), 'accept_socket_async': gi.FunctionInfo(accept_socket_async), 'accept_socket_finish': gi.FunctionInfo(accept_socket_finish), 'add_address': gi.FunctionInfo(add_address), 'add_any_inet_port': gi.FunctionInfo(add_any_inet_port), 'add_inet_port': gi.FunctionInfo(add_inet_port), 'add_socket': gi.FunctionInfo(add_socket), 'close': gi.FunctionInfo(close), 'set_backlog': gi.FunctionInfo(set_backlog), 'do_changed': gi.VFuncInfo(changed), 'do_event': gi.VFuncInfo(event), 'parent_instance': <property object at 0x7f28dde62cc0>, 'priv': <property object at 0x7f28dde62db0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SocketListener), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSocketListener (94269257011088)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'accept': gi.FunctionInfo(accept), 'accept_async': gi.FunctionInfo(accept_async), 'accept_finish': gi.FunctionInfo(accept_finish), 'accept_socket': gi.FunctionInfo(accept_socket), 'accept_socket_async': gi.FunctionInfo(accept_socket_async), 'accept_socket_finish': gi.FunctionInfo(accept_socket_finish), 'add_address': gi.FunctionInfo(add_address), 'add_any_inet_port': gi.FunctionInfo(add_any_inet_port), 'add_inet_port': gi.FunctionInfo(add_inet_port), 'add_socket': gi.FunctionInfo(add_socket), 'close': gi.FunctionInfo(close), 'set_backlog': gi.FunctionInfo(set_backlog), 'do_changed': gi.VFuncInfo(changed), 'do_event': gi.VFuncInfo(event), 'parent_instance': <property object at 0x7f4b87fc4f90>, 'priv': <property object at 0x7f4b87fc50e0>})"
     __gdoc__ = 'Object GSocketListener\n\nSignals from GSocketListener:\n  event (GSocketListenerEvent, GSocket)\n\nProperties from GSocketListener:\n  listen-backlog -> gint: Listen backlog\n    outstanding connections in the listen queue\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GSocketListener (94125582392832)>'
+    __gtype__ = None # (!) real value is '<GType GSocketListener (94269257011088)>'
     __info__ = ObjectInfo(SocketListener)
 
 

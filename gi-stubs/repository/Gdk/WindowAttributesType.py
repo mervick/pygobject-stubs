@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -368,7 +368,7 @@ class WindowAttributesType(__gobject.GFlags):
     X = 4
     Y = 8
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'WindowAttributesType' objects>, '__doc__': None, '__gtype__': <GType GdkWindowAttributesType (94055651864336)>, '__flags_values__': {2: <flags GDK_WA_TITLE of type Gdk.WindowAttributesType>, 4: <flags GDK_WA_X of type Gdk.WindowAttributesType>, 8: <flags GDK_WA_Y of type Gdk.WindowAttributesType>, 16: <flags GDK_WA_CURSOR of type Gdk.WindowAttributesType>, 32: <flags GDK_WA_VISUAL of type Gdk.WindowAttributesType>, 64: <flags GDK_WA_WMCLASS of type Gdk.WindowAttributesType>, 128: <flags GDK_WA_NOREDIR of type Gdk.WindowAttributesType>, 256: <flags GDK_WA_TYPE_HINT of type Gdk.WindowAttributesType>}, '__info__': gi.EnumInfo(WindowAttributesType), 'TITLE': <flags GDK_WA_TITLE of type Gdk.WindowAttributesType>, 'X': <flags GDK_WA_X of type Gdk.WindowAttributesType>, 'Y': <flags GDK_WA_Y of type Gdk.WindowAttributesType>, 'CURSOR': <flags GDK_WA_CURSOR of type Gdk.WindowAttributesType>, 'VISUAL': <flags GDK_WA_VISUAL of type Gdk.WindowAttributesType>, 'WMCLASS': <flags GDK_WA_WMCLASS of type Gdk.WindowAttributesType>, 'NOREDIR': <flags GDK_WA_NOREDIR of type Gdk.WindowAttributesType>, 'TYPE_HINT': <flags GDK_WA_TYPE_HINT of type Gdk.WindowAttributesType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'WindowAttributesType' objects>, '__doc__': None, '__gtype__': <GType GdkWindowAttributesType (94915769440912)>, '__flags_values__': {2: <flags GDK_WA_TITLE of type Gdk.WindowAttributesType>, 4: <flags GDK_WA_X of type Gdk.WindowAttributesType>, 8: <flags GDK_WA_Y of type Gdk.WindowAttributesType>, 16: <flags GDK_WA_CURSOR of type Gdk.WindowAttributesType>, 32: <flags GDK_WA_VISUAL of type Gdk.WindowAttributesType>, 64: <flags GDK_WA_WMCLASS of type Gdk.WindowAttributesType>, 128: <flags GDK_WA_NOREDIR of type Gdk.WindowAttributesType>, 256: <flags GDK_WA_TYPE_HINT of type Gdk.WindowAttributesType>}, '__info__': gi.EnumInfo(WindowAttributesType), 'TITLE': <flags GDK_WA_TITLE of type Gdk.WindowAttributesType>, 'X': <flags GDK_WA_X of type Gdk.WindowAttributesType>, 'Y': <flags GDK_WA_Y of type Gdk.WindowAttributesType>, 'CURSOR': <flags GDK_WA_CURSOR of type Gdk.WindowAttributesType>, 'VISUAL': <flags GDK_WA_VISUAL of type Gdk.WindowAttributesType>, 'WMCLASS': <flags GDK_WA_WMCLASS of type Gdk.WindowAttributesType>, 'NOREDIR': <flags GDK_WA_NOREDIR of type Gdk.WindowAttributesType>, 'TYPE_HINT': <flags GDK_WA_TYPE_HINT of type Gdk.WindowAttributesType>})"
     __flags_values__ = {
         2: 2,
         4: 4,
@@ -379,7 +379,7 @@ class WindowAttributesType(__gobject.GFlags):
         128: 128,
         256: 256,
     }
-    __gtype__ = None # (!) real value is '<GType GdkWindowAttributesType (94055651864336)>'
+    __gtype__ = None # (!) real value is '<GType GdkWindowAttributesType (94915769440912)>'
     __info__ = gi.EnumInfo(WindowAttributesType)
 
 

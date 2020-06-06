@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -135,7 +135,7 @@ class StackSwitcherClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(StackSwitcherClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'StackSwitcherClass' objects>, '__weakref__': <attribute '__weakref__' of 'StackSwitcherClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830f6c040>, '_gtk_reserved1': <property object at 0x7fe830f6c130>, '_gtk_reserved2': <property object at 0x7fe830f6c220>, '_gtk_reserved3': <property object at 0x7fe830f6c310>, '_gtk_reserved4': <property object at 0x7fe830f6c400>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(StackSwitcherClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'StackSwitcherClass' objects>, '__weakref__': <attribute '__weakref__' of 'StackSwitcherClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a67ed10>, '_gtk_reserved1': <property object at 0x7fc63a67ee00>, '_gtk_reserved2': <property object at 0x7fc63a67eef0>, '_gtk_reserved3': <property object at 0x7fc63a683040>, '_gtk_reserved4': <property object at 0x7fc63a683130>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(StackSwitcherClass)
 

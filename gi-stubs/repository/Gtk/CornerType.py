@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,14 +363,14 @@ class CornerType(__gobject.GEnum):
     TOP_LEFT = 0
     TOP_RIGHT = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'CornerType' objects>, '__doc__': None, '__gtype__': <GType GtkCornerType (94846038153088)>, '__enum_values__': {0: <enum GTK_CORNER_TOP_LEFT of type Gtk.CornerType>, 1: <enum GTK_CORNER_BOTTOM_LEFT of type Gtk.CornerType>, 2: <enum GTK_CORNER_TOP_RIGHT of type Gtk.CornerType>, 3: <enum GTK_CORNER_BOTTOM_RIGHT of type Gtk.CornerType>}, '__info__': gi.EnumInfo(CornerType), 'TOP_LEFT': <enum GTK_CORNER_TOP_LEFT of type Gtk.CornerType>, 'BOTTOM_LEFT': <enum GTK_CORNER_BOTTOM_LEFT of type Gtk.CornerType>, 'TOP_RIGHT': <enum GTK_CORNER_TOP_RIGHT of type Gtk.CornerType>, 'BOTTOM_RIGHT': <enum GTK_CORNER_BOTTOM_RIGHT of type Gtk.CornerType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'CornerType' objects>, '__doc__': None, '__gtype__': <GType GtkCornerType (93897368367936)>, '__enum_values__': {0: <enum GTK_CORNER_TOP_LEFT of type Gtk.CornerType>, 1: <enum GTK_CORNER_BOTTOM_LEFT of type Gtk.CornerType>, 2: <enum GTK_CORNER_TOP_RIGHT of type Gtk.CornerType>, 3: <enum GTK_CORNER_BOTTOM_RIGHT of type Gtk.CornerType>}, '__info__': gi.EnumInfo(CornerType), 'TOP_LEFT': <enum GTK_CORNER_TOP_LEFT of type Gtk.CornerType>, 'BOTTOM_LEFT': <enum GTK_CORNER_BOTTOM_LEFT of type Gtk.CornerType>, 'TOP_RIGHT': <enum GTK_CORNER_TOP_RIGHT of type Gtk.CornerType>, 'BOTTOM_RIGHT': <enum GTK_CORNER_BOTTOM_RIGHT of type Gtk.CornerType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkCornerType (94846038153088)>'
+    __gtype__ = None # (!) real value is '<GType GtkCornerType (93897368367936)>'
     __info__ = gi.EnumInfo(CornerType)
 
 

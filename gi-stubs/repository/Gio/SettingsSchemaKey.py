@@ -157,8 +157,8 @@ class SettingsSchemaKey(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SettingsSchemaKey), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSettingsSchemaKey (94125582275440)>, '__dict__': <attribute '__dict__' of 'SettingsSchemaKey' objects>, '__weakref__': <attribute '__weakref__' of 'SettingsSchemaKey' objects>, '__doc__': None, 'get_default_value': gi.FunctionInfo(get_default_value), 'get_description': gi.FunctionInfo(get_description), 'get_name': gi.FunctionInfo(get_name), 'get_range': gi.FunctionInfo(get_range), 'get_summary': gi.FunctionInfo(get_summary), 'get_value_type': gi.FunctionInfo(get_value_type), 'range_check': gi.FunctionInfo(range_check), 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref)})"
-    __gtype__ = None # (!) real value is '<GType GSettingsSchemaKey (94125582275440)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SettingsSchemaKey), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSettingsSchemaKey (94269256888576)>, '__dict__': <attribute '__dict__' of 'SettingsSchemaKey' objects>, '__weakref__': <attribute '__weakref__' of 'SettingsSchemaKey' objects>, '__doc__': None, 'get_default_value': gi.FunctionInfo(get_default_value), 'get_description': gi.FunctionInfo(get_description), 'get_name': gi.FunctionInfo(get_name), 'get_range': gi.FunctionInfo(get_range), 'get_summary': gi.FunctionInfo(get_summary), 'get_value_type': gi.FunctionInfo(get_value_type), 'range_check': gi.FunctionInfo(range_check), 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref)})"
+    __gtype__ = None # (!) real value is '<GType GSettingsSchemaKey (94269256888576)>'
     __info__ = StructInfo(SettingsSchemaKey)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -358,13 +358,13 @@ class VisibilityState(__gobject.GEnum):
     PARTIAL = 1
     UNOBSCURED = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'VisibilityState' objects>, '__doc__': None, '__gtype__': <GType GdkVisibilityState (94055651854784)>, '__enum_values__': {0: <enum GDK_VISIBILITY_UNOBSCURED of type Gdk.VisibilityState>, 1: <enum GDK_VISIBILITY_PARTIAL of type Gdk.VisibilityState>, 2: <enum GDK_VISIBILITY_FULLY_OBSCURED of type Gdk.VisibilityState>}, '__info__': gi.EnumInfo(VisibilityState), 'UNOBSCURED': <enum GDK_VISIBILITY_UNOBSCURED of type Gdk.VisibilityState>, 'PARTIAL': <enum GDK_VISIBILITY_PARTIAL of type Gdk.VisibilityState>, 'FULLY_OBSCURED': <enum GDK_VISIBILITY_FULLY_OBSCURED of type Gdk.VisibilityState>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'VisibilityState' objects>, '__doc__': None, '__gtype__': <GType GdkVisibilityState (94915769431408)>, '__enum_values__': {0: <enum GDK_VISIBILITY_UNOBSCURED of type Gdk.VisibilityState>, 1: <enum GDK_VISIBILITY_PARTIAL of type Gdk.VisibilityState>, 2: <enum GDK_VISIBILITY_FULLY_OBSCURED of type Gdk.VisibilityState>}, '__info__': gi.EnumInfo(VisibilityState), 'UNOBSCURED': <enum GDK_VISIBILITY_UNOBSCURED of type Gdk.VisibilityState>, 'PARTIAL': <enum GDK_VISIBILITY_PARTIAL of type Gdk.VisibilityState>, 'FULLY_OBSCURED': <enum GDK_VISIBILITY_FULLY_OBSCURED of type Gdk.VisibilityState>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GdkVisibilityState (94055651854784)>'
+    __gtype__ = None # (!) real value is '<GType GdkVisibilityState (94915769431408)>'
     __info__ = gi.EnumInfo(VisibilityState)
 
 

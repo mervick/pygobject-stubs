@@ -134,7 +134,7 @@ class MiscClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(MiscClass), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'MiscClass' objects>, '__weakref__': <attribute '__weakref__' of 'MiscClass' objects>, '__doc__': None, 'parent': <property object at 0x7f0cd7bee180>, 'threads_enter': <property object at 0x7f0cd7bee270>, 'threads_leave': <property object at 0x7f0cd7bee360>, 'vfuncs': <property object at 0x7f0cd7bee450>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(MiscClass), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'MiscClass' objects>, '__weakref__': <attribute '__weakref__' of 'MiscClass' objects>, '__doc__': None, 'parent': <property object at 0x7f44c6db3590>, 'threads_enter': <property object at 0x7f44c6db3680>, 'threads_leave': <property object at 0x7f44c6db3770>, 'vfuncs': <property object at 0x7f44c6db3860>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(MiscClass)
 

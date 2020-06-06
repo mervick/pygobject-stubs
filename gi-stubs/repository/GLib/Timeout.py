@@ -311,8 +311,8 @@ class Timeout(__gi_overrides_GLib.Source):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.GLib', '__new__': <staticmethod object at 0x7f1d2ccaa760>, '__init__': <function Timeout.__init__ at 0x7f1d2ccc7310>, '__doc__': None})"
-    __gtype__ = None # (!) real value is '<GType GSource (94243598374464)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.GLib', '__new__': <staticmethod object at 0x7f8514868b20>, '__init__': <function Timeout.__init__ at 0x7f8514879af0>, '__doc__': None})"
+    __gtype__ = None # (!) real value is '<GType GSource (94581033157312)>'
     __info__ = StructInfo(Source)
 
 

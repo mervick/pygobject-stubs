@@ -363,13 +363,13 @@ class CoordType(__gobject.GEnum):
     SCREEN = 0
     WINDOW = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Atk', '__dict__': <attribute '__dict__' of 'CoordType' objects>, '__doc__': None, '__gtype__': <GType AtkCoordType (93922955872032)>, '__enum_values__': {0: <enum ATK_XY_SCREEN of type Atk.CoordType>, 1: <enum ATK_XY_WINDOW of type Atk.CoordType>, 2: <enum ATK_XY_PARENT of type Atk.CoordType>}, '__info__': gi.EnumInfo(CoordType), 'SCREEN': <enum ATK_XY_SCREEN of type Atk.CoordType>, 'WINDOW': <enum ATK_XY_WINDOW of type Atk.CoordType>, 'PARENT': <enum ATK_XY_PARENT of type Atk.CoordType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Atk', '__dict__': <attribute '__dict__' of 'CoordType' objects>, '__doc__': None, '__gtype__': <GType AtkCoordType (94258337625552)>, '__enum_values__': {0: <enum ATK_XY_SCREEN of type Atk.CoordType>, 1: <enum ATK_XY_WINDOW of type Atk.CoordType>, 2: <enum ATK_XY_PARENT of type Atk.CoordType>}, '__info__': gi.EnumInfo(CoordType), 'SCREEN': <enum ATK_XY_SCREEN of type Atk.CoordType>, 'WINDOW': <enum ATK_XY_WINDOW of type Atk.CoordType>, 'PARENT': <enum ATK_XY_PARENT of type Atk.CoordType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType AtkCoordType (93922955872032)>'
+    __gtype__ = None # (!) real value is '<GType AtkCoordType (94258337625552)>'
     __info__ = gi.EnumInfo(CoordType)
 
 

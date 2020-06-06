@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -151,7 +151,7 @@ class EventTouchpadPinch(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EventTouchpadPinch), '__module__': 'gi.repository.Gdk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EventTouchpadPinch' objects>, '__weakref__': <attribute '__weakref__' of 'EventTouchpadPinch' objects>, '__doc__': None, 'type': <property object at 0x7f1e11c64360>, 'window': <property object at 0x7f1e11c64450>, 'send_event': <property object at 0x7f1e11c64540>, 'phase': <property object at 0x7f1e11c64630>, 'n_fingers': <property object at 0x7f1e11c64720>, 'time': <property object at 0x7f1e11c64810>, 'x': <property object at 0x7f1e11c64900>, 'y': <property object at 0x7f1e11c649f0>, 'dx': <property object at 0x7f1e11c64ae0>, 'dy': <property object at 0x7f1e11c64bd0>, 'angle_delta': <property object at 0x7f1e11c64cc0>, 'scale': <property object at 0x7f1e11c64db0>, 'x_root': <property object at 0x7f1e11c64ea0>, 'y_root': <property object at 0x7f1e11c64f90>, 'state': <property object at 0x7f1e11c650e0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EventTouchpadPinch), '__module__': 'gi.repository.Gdk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EventTouchpadPinch' objects>, '__weakref__': <attribute '__weakref__' of 'EventTouchpadPinch' objects>, '__doc__': None, 'type': <property object at 0x7fbaf81628b0>, 'window': <property object at 0x7fbaf81629a0>, 'send_event': <property object at 0x7fbaf8162a90>, 'phase': <property object at 0x7fbaf8162b80>, 'n_fingers': <property object at 0x7fbaf8162c70>, 'time': <property object at 0x7fbaf8162d60>, 'x': <property object at 0x7fbaf8162e50>, 'y': <property object at 0x7fbaf8162f40>, 'dx': <property object at 0x7fbaf8163090>, 'dy': <property object at 0x7fbaf8163180>, 'angle_delta': <property object at 0x7fbaf8163270>, 'scale': <property object at 0x7fbaf8163360>, 'x_root': <property object at 0x7fbaf8163450>, 'y_root': <property object at 0x7fbaf8163540>, 'state': <property object at 0x7fbaf8163630>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(EventTouchpadPinch)
 

@@ -130,7 +130,7 @@ class EngineInfo(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EngineInfo), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EngineInfo' objects>, '__weakref__': <attribute '__weakref__' of 'EngineInfo' objects>, '__doc__': None, 'id': <property object at 0x7f24746eb310>, 'engine_type': <property object at 0x7f24746eb400>, 'render_type': <property object at 0x7f24746eb4f0>, 'scripts': <property object at 0x7f24746eb5e0>, 'n_scripts': <property object at 0x7f24746eb6d0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EngineInfo), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EngineInfo' objects>, '__weakref__': <attribute '__weakref__' of 'EngineInfo' objects>, '__doc__': None, 'id': <property object at 0x7f8517891090>, 'engine_type': <property object at 0x7f8517891180>, 'render_type': <property object at 0x7f8517891270>, 'scripts': <property object at 0x7f8517891360>, 'n_scripts': <property object at 0x7f8517891450>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(EngineInfo)
 

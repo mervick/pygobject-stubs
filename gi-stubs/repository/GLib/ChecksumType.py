@@ -362,7 +362,7 @@ class ChecksumType(__gobject.GEnum):
     SHA384 = 4
     SHA512 = 3
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'ChecksumType' objects>, '__doc__': None, '__gtype__': <GType PyGLibChecksumType (94243598666448)>, '__enum_values__': {0: <enum G_CHECKSUM_MD5 of type GLib.ChecksumType>, 1: <enum G_CHECKSUM_SHA1 of type GLib.ChecksumType>, 2: <enum G_CHECKSUM_SHA256 of type GLib.ChecksumType>, 3: <enum G_CHECKSUM_SHA512 of type GLib.ChecksumType>, 4: <enum G_CHECKSUM_SHA384 of type GLib.ChecksumType>}, '__info__': gi.EnumInfo(ChecksumType), 'MD5': <enum G_CHECKSUM_MD5 of type GLib.ChecksumType>, 'SHA1': <enum G_CHECKSUM_SHA1 of type GLib.ChecksumType>, 'SHA256': <enum G_CHECKSUM_SHA256 of type GLib.ChecksumType>, 'SHA512': <enum G_CHECKSUM_SHA512 of type GLib.ChecksumType>, 'SHA384': <enum G_CHECKSUM_SHA384 of type GLib.ChecksumType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'ChecksumType' objects>, '__doc__': None, '__gtype__': <GType PyGLibChecksumType (94581033263744)>, '__enum_values__': {0: <enum G_CHECKSUM_MD5 of type GLib.ChecksumType>, 1: <enum G_CHECKSUM_SHA1 of type GLib.ChecksumType>, 2: <enum G_CHECKSUM_SHA256 of type GLib.ChecksumType>, 3: <enum G_CHECKSUM_SHA512 of type GLib.ChecksumType>, 4: <enum G_CHECKSUM_SHA384 of type GLib.ChecksumType>}, '__info__': gi.EnumInfo(ChecksumType), 'MD5': <enum G_CHECKSUM_MD5 of type GLib.ChecksumType>, 'SHA1': <enum G_CHECKSUM_SHA1 of type GLib.ChecksumType>, 'SHA256': <enum G_CHECKSUM_SHA256 of type GLib.ChecksumType>, 'SHA512': <enum G_CHECKSUM_SHA512 of type GLib.ChecksumType>, 'SHA384': <enum G_CHECKSUM_SHA384 of type GLib.ChecksumType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -370,7 +370,7 @@ class ChecksumType(__gobject.GEnum):
         3: 3,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibChecksumType (94243598666448)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibChecksumType (94581033263744)>'
     __info__ = gi.EnumInfo(ChecksumType)
 
 

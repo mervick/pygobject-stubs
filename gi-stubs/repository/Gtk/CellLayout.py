@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -154,10 +154,10 @@ class CellLayout(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(CellLayout), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkCellLayout (94846036167600)>, '__dict__': <attribute '__dict__' of 'CellLayout' objects>, '__weakref__': <attribute '__weakref__' of 'CellLayout' objects>, '__doc__': None, '__gsignals__': {}, 'add_attribute': gi.FunctionInfo(add_attribute), 'clear': gi.FunctionInfo(clear), 'clear_attributes': gi.FunctionInfo(clear_attributes), 'get_area': gi.FunctionInfo(get_area), 'get_cells': gi.FunctionInfo(get_cells), 'pack_end': gi.FunctionInfo(pack_end), 'pack_start': gi.FunctionInfo(pack_start), 'reorder': gi.FunctionInfo(reorder), 'set_cell_data_func': gi.FunctionInfo(set_cell_data_func)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(CellLayout), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkCellLayout (93897366371200)>, '__dict__': <attribute '__dict__' of 'CellLayout' objects>, '__weakref__': <attribute '__weakref__' of 'CellLayout' objects>, '__doc__': None, '__gsignals__': {}, 'add_attribute': gi.FunctionInfo(add_attribute), 'clear': gi.FunctionInfo(clear), 'clear_attributes': gi.FunctionInfo(clear_attributes), 'get_area': gi.FunctionInfo(get_area), 'get_cells': gi.FunctionInfo(get_cells), 'pack_end': gi.FunctionInfo(pack_end), 'pack_start': gi.FunctionInfo(pack_start), 'reorder': gi.FunctionInfo(reorder), 'set_cell_data_func': gi.FunctionInfo(set_cell_data_func)})"
     __gdoc__ = 'Interface GtkCellLayout\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkCellLayout (94846036167600)>'
+    __gtype__ = None # (!) real value is '<GType GtkCellLayout (93897366371200)>'
     __info__ = InterfaceInfo(CellLayout)
 
 

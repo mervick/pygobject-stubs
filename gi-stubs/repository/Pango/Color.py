@@ -145,8 +145,8 @@ class Color(__gi.Boxed):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Color), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoColor (94752680917456)>, '__dict__': <attribute '__dict__' of 'Color' objects>, '__weakref__': <attribute '__weakref__' of 'Color' objects>, '__doc__': None, 'red': <property object at 0x7f2474747ea0>, 'green': <property object at 0x7f2474750040>, 'blue': <property object at 0x7f2474750130>, 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free), 'parse': gi.FunctionInfo(parse), 'to_string': gi.FunctionInfo(to_string)})"
-    __gtype__ = None # (!) real value is '<GType PangoColor (94752680917456)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Color), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoColor (94187429197136)>, '__dict__': <attribute '__dict__' of 'Color' objects>, '__weakref__': <attribute '__weakref__' of 'Color' objects>, '__doc__': None, 'red': <property object at 0x7f8517886db0>, 'green': <property object at 0x7f8517886ea0>, 'blue': <property object at 0x7f8517886f90>, 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free), 'parse': gi.FunctionInfo(parse), 'to_string': gi.FunctionInfo(to_string)})"
+    __gtype__ = None # (!) real value is '<GType PangoColor (94187429197136)>'
     __info__ = StructInfo(Color)
 
 

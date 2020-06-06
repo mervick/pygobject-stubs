@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,14 +363,14 @@ class TreeViewGridLines(__gobject.GEnum):
     NONE = 0
     VERTICAL = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'TreeViewGridLines' objects>, '__doc__': None, '__gtype__': <GType GtkTreeViewGridLines (94846039587536)>, '__enum_values__': {0: <enum GTK_TREE_VIEW_GRID_LINES_NONE of type Gtk.TreeViewGridLines>, 1: <enum GTK_TREE_VIEW_GRID_LINES_HORIZONTAL of type Gtk.TreeViewGridLines>, 2: <enum GTK_TREE_VIEW_GRID_LINES_VERTICAL of type Gtk.TreeViewGridLines>, 3: <enum GTK_TREE_VIEW_GRID_LINES_BOTH of type Gtk.TreeViewGridLines>}, '__info__': gi.EnumInfo(TreeViewGridLines), 'NONE': <enum GTK_TREE_VIEW_GRID_LINES_NONE of type Gtk.TreeViewGridLines>, 'HORIZONTAL': <enum GTK_TREE_VIEW_GRID_LINES_HORIZONTAL of type Gtk.TreeViewGridLines>, 'VERTICAL': <enum GTK_TREE_VIEW_GRID_LINES_VERTICAL of type Gtk.TreeViewGridLines>, 'BOTH': <enum GTK_TREE_VIEW_GRID_LINES_BOTH of type Gtk.TreeViewGridLines>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'TreeViewGridLines' objects>, '__doc__': None, '__gtype__': <GType GtkTreeViewGridLines (93897369790160)>, '__enum_values__': {0: <enum GTK_TREE_VIEW_GRID_LINES_NONE of type Gtk.TreeViewGridLines>, 1: <enum GTK_TREE_VIEW_GRID_LINES_HORIZONTAL of type Gtk.TreeViewGridLines>, 2: <enum GTK_TREE_VIEW_GRID_LINES_VERTICAL of type Gtk.TreeViewGridLines>, 3: <enum GTK_TREE_VIEW_GRID_LINES_BOTH of type Gtk.TreeViewGridLines>}, '__info__': gi.EnumInfo(TreeViewGridLines), 'NONE': <enum GTK_TREE_VIEW_GRID_LINES_NONE of type Gtk.TreeViewGridLines>, 'HORIZONTAL': <enum GTK_TREE_VIEW_GRID_LINES_HORIZONTAL of type Gtk.TreeViewGridLines>, 'VERTICAL': <enum GTK_TREE_VIEW_GRID_LINES_VERTICAL of type Gtk.TreeViewGridLines>, 'BOTH': <enum GTK_TREE_VIEW_GRID_LINES_BOTH of type Gtk.TreeViewGridLines>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkTreeViewGridLines (94846039587536)>'
+    __gtype__ = None # (!) real value is '<GType GtkTreeViewGridLines (93897369790160)>'
     __info__ = gi.EnumInfo(TreeViewGridLines)
 
 

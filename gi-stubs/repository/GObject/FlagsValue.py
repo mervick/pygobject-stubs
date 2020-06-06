@@ -151,7 +151,7 @@ class FlagsValue(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FlagsValue), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FlagsValue' objects>, '__weakref__': <attribute '__weakref__' of 'FlagsValue' objects>, '__doc__': None, 'value': <property object at 0x7f7c2863f4a0>, 'value_name': <property object at 0x7f7c2863f590>, 'value_nick': <property object at 0x7f7c2863f680>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FlagsValue), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FlagsValue' objects>, '__weakref__': <attribute '__weakref__' of 'FlagsValue' objects>, '__doc__': None, 'value': <property object at 0x7fe46b8b29f0>, 'value_name': <property object at 0x7fe46b8b2ae0>, 'value_nick': <property object at 0x7fe46b8b2bd0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(FlagsValue)
 

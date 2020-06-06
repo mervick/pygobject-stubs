@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -137,7 +137,7 @@ class ActionEntry(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ActionEntry), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ActionEntry' objects>, '__weakref__': <attribute '__weakref__' of 'ActionEntry' objects>, '__doc__': None, 'name': <property object at 0x7fe8310ee860>, 'stock_id': <property object at 0x7fe8310ee950>, 'label': <property object at 0x7fe8310eea40>, 'accelerator': <property object at 0x7fe8310eeb30>, 'tooltip': <property object at 0x7fe8310eec20>, 'callback': <property object at 0x7fe8310eed10>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ActionEntry), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ActionEntry' objects>, '__weakref__': <attribute '__weakref__' of 'ActionEntry' objects>, '__doc__': None, 'name': <property object at 0x7fc63a804770>, 'stock_id': <property object at 0x7fc63a804860>, 'label': <property object at 0x7fc63a804950>, 'accelerator': <property object at 0x7fc63a804a40>, 'tooltip': <property object at 0x7fc63a804b30>, 'callback': <property object at 0x7fc63a804c20>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ActionEntry)
 

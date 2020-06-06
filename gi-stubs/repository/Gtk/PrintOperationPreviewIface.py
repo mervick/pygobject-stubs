@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -153,7 +153,7 @@ class PrintOperationPreviewIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PrintOperationPreviewIface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'PrintOperationPreviewIface' objects>, '__weakref__': <attribute '__weakref__' of 'PrintOperationPreviewIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7fe83101b040>, 'ready': <property object at 0x7fe83101b130>, 'got_page_size': <property object at 0x7fe83101b220>, 'render_page': <property object at 0x7fe83101b310>, 'is_selected': <property object at 0x7fe83101b400>, 'end_preview': <property object at 0x7fe83101b4f0>, '_gtk_reserved1': <property object at 0x7fe83101b5e0>, '_gtk_reserved2': <property object at 0x7fe83101b6d0>, '_gtk_reserved3': <property object at 0x7fe83101b7c0>, '_gtk_reserved4': <property object at 0x7fe83101b8b0>, '_gtk_reserved5': <property object at 0x7fe83101b9a0>, '_gtk_reserved6': <property object at 0x7fe83101ba90>, '_gtk_reserved7': <property object at 0x7fe83101bb80>, '_gtk_reserved8': <property object at 0x7fe83101bc70>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PrintOperationPreviewIface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'PrintOperationPreviewIface' objects>, '__weakref__': <attribute '__weakref__' of 'PrintOperationPreviewIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7fc63a72fcc0>, 'ready': <property object at 0x7fc63a72fdb0>, 'got_page_size': <property object at 0x7fc63a72fea0>, 'render_page': <property object at 0x7fc63a72ff90>, 'is_selected': <property object at 0x7fc63a7310e0>, 'end_preview': <property object at 0x7fc63a7311d0>, '_gtk_reserved1': <property object at 0x7fc63a7312c0>, '_gtk_reserved2': <property object at 0x7fc63a7313b0>, '_gtk_reserved3': <property object at 0x7fc63a7314a0>, '_gtk_reserved4': <property object at 0x7fc63a731590>, '_gtk_reserved5': <property object at 0x7fc63a731680>, '_gtk_reserved6': <property object at 0x7fc63a731770>, '_gtk_reserved7': <property object at 0x7fc63a731860>, '_gtk_reserved8': <property object at 0x7fc63a731950>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(PrintOperationPreviewIface)
 

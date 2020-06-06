@@ -365,14 +365,14 @@ class SocketMsgFlags(__gobject.GFlags):
     OOB = 1
     PEEK = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'SocketMsgFlags' objects>, '__doc__': None, '__gtype__': <GType GSocketMsgFlags (94125582727328)>, '__flags_values__': {0: <flags 0 of type Gio.SocketMsgFlags>, 1: <flags G_SOCKET_MSG_OOB of type Gio.SocketMsgFlags>, 2: <flags G_SOCKET_MSG_PEEK of type Gio.SocketMsgFlags>, 4: <flags G_SOCKET_MSG_DONTROUTE of type Gio.SocketMsgFlags>}, '__info__': gi.EnumInfo(SocketMsgFlags), 'NONE': <flags 0 of type Gio.SocketMsgFlags>, 'OOB': <flags G_SOCKET_MSG_OOB of type Gio.SocketMsgFlags>, 'PEEK': <flags G_SOCKET_MSG_PEEK of type Gio.SocketMsgFlags>, 'DONTROUTE': <flags G_SOCKET_MSG_DONTROUTE of type Gio.SocketMsgFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'SocketMsgFlags' objects>, '__doc__': None, '__gtype__': <GType GSocketMsgFlags (94269257017056)>, '__flags_values__': {0: <flags 0 of type Gio.SocketMsgFlags>, 1: <flags G_SOCKET_MSG_OOB of type Gio.SocketMsgFlags>, 2: <flags G_SOCKET_MSG_PEEK of type Gio.SocketMsgFlags>, 4: <flags G_SOCKET_MSG_DONTROUTE of type Gio.SocketMsgFlags>}, '__info__': gi.EnumInfo(SocketMsgFlags), 'NONE': <flags 0 of type Gio.SocketMsgFlags>, 'OOB': <flags G_SOCKET_MSG_OOB of type Gio.SocketMsgFlags>, 'PEEK': <flags G_SOCKET_MSG_PEEK of type Gio.SocketMsgFlags>, 'DONTROUTE': <flags G_SOCKET_MSG_DONTROUTE of type Gio.SocketMsgFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
         2: 2,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType GSocketMsgFlags (94125582727328)>'
+    __gtype__ = None # (!) real value is '<GType GSocketMsgFlags (94269257017056)>'
     __info__ = gi.EnumInfo(SocketMsgFlags)
 
 

@@ -126,7 +126,7 @@ class InputVector(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(InputVector), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'InputVector' objects>, '__weakref__': <attribute '__weakref__' of 'InputVector' objects>, '__doc__': None, 'buffer': <property object at 0x7f28ddea2950>, 'size': <property object at 0x7f28ddea2a40>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(InputVector), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'InputVector' objects>, '__weakref__': <attribute '__weakref__' of 'InputVector' objects>, '__doc__': None, 'buffer': <property object at 0x7f4b88005a90>, 'size': <property object at 0x7f4b88005b80>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(InputVector)
 

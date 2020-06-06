@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -358,13 +358,13 @@ class GrabOwnership(__gobject.GEnum):
     NONE = 0
     WINDOW = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'GrabOwnership' objects>, '__doc__': None, '__gtype__': <GType GdkGrabOwnership (94055651222448)>, '__enum_values__': {0: <enum GDK_OWNERSHIP_NONE of type Gdk.GrabOwnership>, 1: <enum GDK_OWNERSHIP_WINDOW of type Gdk.GrabOwnership>, 2: <enum GDK_OWNERSHIP_APPLICATION of type Gdk.GrabOwnership>}, '__info__': gi.EnumInfo(GrabOwnership), 'NONE': <enum GDK_OWNERSHIP_NONE of type Gdk.GrabOwnership>, 'WINDOW': <enum GDK_OWNERSHIP_WINDOW of type Gdk.GrabOwnership>, 'APPLICATION': <enum GDK_OWNERSHIP_APPLICATION of type Gdk.GrabOwnership>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'GrabOwnership' objects>, '__doc__': None, '__gtype__': <GType GdkGrabOwnership (94915768602816)>, '__enum_values__': {0: <enum GDK_OWNERSHIP_NONE of type Gdk.GrabOwnership>, 1: <enum GDK_OWNERSHIP_WINDOW of type Gdk.GrabOwnership>, 2: <enum GDK_OWNERSHIP_APPLICATION of type Gdk.GrabOwnership>}, '__info__': gi.EnumInfo(GrabOwnership), 'NONE': <enum GDK_OWNERSHIP_NONE of type Gdk.GrabOwnership>, 'WINDOW': <enum GDK_OWNERSHIP_WINDOW of type Gdk.GrabOwnership>, 'APPLICATION': <enum GDK_OWNERSHIP_APPLICATION of type Gdk.GrabOwnership>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GdkGrabOwnership (94055651222448)>'
+    __gtype__ = None # (!) real value is '<GType GdkGrabOwnership (94915768602816)>'
     __info__ = gi.EnumInfo(GrabOwnership)
 
 

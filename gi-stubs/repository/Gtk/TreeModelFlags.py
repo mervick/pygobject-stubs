@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -366,12 +366,12 @@ class TreeModelFlags(__gobject.GFlags):
     ITERS_PERSIST = 1
     LIST_ONLY = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'TreeModelFlags' objects>, '__doc__': None, '__gtype__': <GType GtkTreeModelFlags (94846039534480)>, '__flags_values__': {1: <flags GTK_TREE_MODEL_ITERS_PERSIST of type Gtk.TreeModelFlags>, 2: <flags GTK_TREE_MODEL_LIST_ONLY of type Gtk.TreeModelFlags>}, '__info__': gi.EnumInfo(TreeModelFlags), 'ITERS_PERSIST': <flags GTK_TREE_MODEL_ITERS_PERSIST of type Gtk.TreeModelFlags>, 'LIST_ONLY': <flags GTK_TREE_MODEL_LIST_ONLY of type Gtk.TreeModelFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'TreeModelFlags' objects>, '__doc__': None, '__gtype__': <GType GtkTreeModelFlags (93897369743184)>, '__flags_values__': {1: <flags GTK_TREE_MODEL_ITERS_PERSIST of type Gtk.TreeModelFlags>, 2: <flags GTK_TREE_MODEL_LIST_ONLY of type Gtk.TreeModelFlags>}, '__info__': gi.EnumInfo(TreeModelFlags), 'ITERS_PERSIST': <flags GTK_TREE_MODEL_ITERS_PERSIST of type Gtk.TreeModelFlags>, 'LIST_ONLY': <flags GTK_TREE_MODEL_LIST_ONLY of type Gtk.TreeModelFlags>})"
     __flags_values__ = {
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GtkTreeModelFlags (94846039534480)>'
+    __gtype__ = None # (!) real value is '<GType GtkTreeModelFlags (93897369743184)>'
     __info__ = gi.EnumInfo(TreeModelFlags)
 
 

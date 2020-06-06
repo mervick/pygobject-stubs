@@ -130,7 +130,7 @@ class SocketAddressEnumeratorClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SocketAddressEnumeratorClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SocketAddressEnumeratorClass' objects>, '__weakref__': <attribute '__weakref__' of 'SocketAddressEnumeratorClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28dde595e0>, 'next': <property object at 0x7f28dde596d0>, 'next_async': <property object at 0x7f28dde597c0>, 'next_finish': <property object at 0x7f28dde598b0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SocketAddressEnumeratorClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SocketAddressEnumeratorClass' objects>, '__weakref__': <attribute '__weakref__' of 'SocketAddressEnumeratorClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b87fbc950>, 'next': <property object at 0x7f4b87fbca40>, 'next_async': <property object at 0x7f4b87fbcb30>, 'next_finish': <property object at 0x7f4b87fbcc20>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(SocketAddressEnumeratorClass)
 

@@ -365,14 +365,14 @@ class AppInfoCreateFlags(__gobject.GFlags):
     SUPPORTS_STARTUP_NOTIFICATION = 4
     SUPPORTS_URIS = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'AppInfoCreateFlags' objects>, '__doc__': None, '__gtype__': <GType GAppInfoCreateFlags (94125581590240)>, '__flags_values__': {0: <flags 0 of type Gio.AppInfoCreateFlags>, 1: <flags G_APP_INFO_CREATE_NEEDS_TERMINAL of type Gio.AppInfoCreateFlags>, 2: <flags G_APP_INFO_CREATE_SUPPORTS_URIS of type Gio.AppInfoCreateFlags>, 4: <flags G_APP_INFO_CREATE_SUPPORTS_STARTUP_NOTIFICATION of type Gio.AppInfoCreateFlags>}, '__info__': gi.EnumInfo(AppInfoCreateFlags), 'NONE': <flags 0 of type Gio.AppInfoCreateFlags>, 'NEEDS_TERMINAL': <flags G_APP_INFO_CREATE_NEEDS_TERMINAL of type Gio.AppInfoCreateFlags>, 'SUPPORTS_URIS': <flags G_APP_INFO_CREATE_SUPPORTS_URIS of type Gio.AppInfoCreateFlags>, 'SUPPORTS_STARTUP_NOTIFICATION': <flags G_APP_INFO_CREATE_SUPPORTS_STARTUP_NOTIFICATION of type Gio.AppInfoCreateFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'AppInfoCreateFlags' objects>, '__doc__': None, '__gtype__': <GType GAppInfoCreateFlags (94269256194928)>, '__flags_values__': {0: <flags 0 of type Gio.AppInfoCreateFlags>, 1: <flags G_APP_INFO_CREATE_NEEDS_TERMINAL of type Gio.AppInfoCreateFlags>, 2: <flags G_APP_INFO_CREATE_SUPPORTS_URIS of type Gio.AppInfoCreateFlags>, 4: <flags G_APP_INFO_CREATE_SUPPORTS_STARTUP_NOTIFICATION of type Gio.AppInfoCreateFlags>}, '__info__': gi.EnumInfo(AppInfoCreateFlags), 'NONE': <flags 0 of type Gio.AppInfoCreateFlags>, 'NEEDS_TERMINAL': <flags G_APP_INFO_CREATE_NEEDS_TERMINAL of type Gio.AppInfoCreateFlags>, 'SUPPORTS_URIS': <flags G_APP_INFO_CREATE_SUPPORTS_URIS of type Gio.AppInfoCreateFlags>, 'SUPPORTS_STARTUP_NOTIFICATION': <flags G_APP_INFO_CREATE_SUPPORTS_STARTUP_NOTIFICATION of type Gio.AppInfoCreateFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
         2: 2,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType GAppInfoCreateFlags (94125581590240)>'
+    __gtype__ = None # (!) real value is '<GType GAppInfoCreateFlags (94269256194928)>'
     __info__ = gi.EnumInfo(AppInfoCreateFlags)
 
 

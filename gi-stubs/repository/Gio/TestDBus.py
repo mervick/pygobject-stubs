@@ -435,12 +435,12 @@ class TestDBus(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd07c820>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b871c11f0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(TestDBus), '__module__': 'gi.repository.Gio', '__gtype__': <GType GTestDBus (94125582835728)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'unset': gi.FunctionInfo(unset), 'add_service_dir': gi.FunctionInfo(add_service_dir), 'down': gi.FunctionInfo(down), 'get_bus_address': gi.FunctionInfo(get_bus_address), 'get_flags': gi.FunctionInfo(get_flags), 'stop': gi.FunctionInfo(stop), 'up': gi.FunctionInfo(up)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(TestDBus), '__module__': 'gi.repository.Gio', '__gtype__': <GType GTestDBus (94269257467840)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'unset': gi.FunctionInfo(unset), 'add_service_dir': gi.FunctionInfo(add_service_dir), 'down': gi.FunctionInfo(down), 'get_bus_address': gi.FunctionInfo(get_bus_address), 'get_flags': gi.FunctionInfo(get_flags), 'stop': gi.FunctionInfo(stop), 'up': gi.FunctionInfo(up)})"
     __gdoc__ = 'Object GTestDBus\n\nProperties from GTestDBus:\n  flags -> GTestDBusFlags: D-Bus session flags\n    Flags specifying the behaviour of the D-Bus session\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GTestDBus (94125582835728)>'
+    __gtype__ = None # (!) real value is '<GType GTestDBus (94269257467840)>'
     __info__ = ObjectInfo(TestDBus)
 
 

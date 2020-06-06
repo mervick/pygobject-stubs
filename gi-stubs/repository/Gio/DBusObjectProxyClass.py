@@ -126,7 +126,7 @@ class DBusObjectProxyClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(DBusObjectProxyClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'DBusObjectProxyClass' objects>, '__weakref__': <attribute '__weakref__' of 'DBusObjectProxyClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28dded2db0>, 'padding': <property object at 0x7f28dded2ea0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(DBusObjectProxyClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'DBusObjectProxyClass' objects>, '__weakref__': <attribute '__weakref__' of 'DBusObjectProxyClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b8803a0e0>, 'padding': <property object at 0x7f4b8803a1d0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(DBusObjectProxyClass)
 

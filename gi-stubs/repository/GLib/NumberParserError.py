@@ -359,12 +359,12 @@ class NumberParserError(__gobject.GEnum):
     INVALID = 0
     OUT_OF_BOUNDS = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'NumberParserError' objects>, '__doc__': None, '__gtype__': <GType PyGLibNumberParserError (94243599019568)>, '__enum_values__': {0: <enum G_NUMBER_PARSER_ERROR_INVALID of type GLib.NumberParserError>, 1: <enum G_NUMBER_PARSER_ERROR_OUT_OF_BOUNDS of type GLib.NumberParserError>}, '__info__': gi.EnumInfo(NumberParserError), 'INVALID': <enum G_NUMBER_PARSER_ERROR_INVALID of type GLib.NumberParserError>, 'OUT_OF_BOUNDS': <enum G_NUMBER_PARSER_ERROR_OUT_OF_BOUNDS of type GLib.NumberParserError>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'NumberParserError' objects>, '__doc__': None, '__gtype__': <GType PyGLibNumberParserError (94581033796624)>, '__enum_values__': {0: <enum G_NUMBER_PARSER_ERROR_INVALID of type GLib.NumberParserError>, 1: <enum G_NUMBER_PARSER_ERROR_OUT_OF_BOUNDS of type GLib.NumberParserError>}, '__info__': gi.EnumInfo(NumberParserError), 'INVALID': <enum G_NUMBER_PARSER_ERROR_INVALID of type GLib.NumberParserError>, 'OUT_OF_BOUNDS': <enum G_NUMBER_PARSER_ERROR_OUT_OF_BOUNDS of type GLib.NumberParserError>})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibNumberParserError (94243599019568)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibNumberParserError (94581033796624)>'
     __info__ = gi.EnumInfo(NumberParserError)
 
 

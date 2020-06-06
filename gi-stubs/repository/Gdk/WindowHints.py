@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -369,7 +369,7 @@ class WindowHints(__gobject.GFlags):
     USER_SIZE = 256
     WIN_GRAVITY = 64
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'WindowHints' objects>, '__doc__': None, '__gtype__': <GType GdkWindowHints (94055651859184)>, '__flags_values__': {1: <flags GDK_HINT_POS of type Gdk.WindowHints>, 2: <flags GDK_HINT_MIN_SIZE of type Gdk.WindowHints>, 4: <flags GDK_HINT_MAX_SIZE of type Gdk.WindowHints>, 8: <flags GDK_HINT_BASE_SIZE of type Gdk.WindowHints>, 16: <flags GDK_HINT_ASPECT of type Gdk.WindowHints>, 32: <flags GDK_HINT_RESIZE_INC of type Gdk.WindowHints>, 64: <flags GDK_HINT_WIN_GRAVITY of type Gdk.WindowHints>, 128: <flags GDK_HINT_USER_POS of type Gdk.WindowHints>, 256: <flags GDK_HINT_USER_SIZE of type Gdk.WindowHints>}, '__info__': gi.EnumInfo(WindowHints), 'POS': <flags GDK_HINT_POS of type Gdk.WindowHints>, 'MIN_SIZE': <flags GDK_HINT_MIN_SIZE of type Gdk.WindowHints>, 'MAX_SIZE': <flags GDK_HINT_MAX_SIZE of type Gdk.WindowHints>, 'BASE_SIZE': <flags GDK_HINT_BASE_SIZE of type Gdk.WindowHints>, 'ASPECT': <flags GDK_HINT_ASPECT of type Gdk.WindowHints>, 'RESIZE_INC': <flags GDK_HINT_RESIZE_INC of type Gdk.WindowHints>, 'WIN_GRAVITY': <flags GDK_HINT_WIN_GRAVITY of type Gdk.WindowHints>, 'USER_POS': <flags GDK_HINT_USER_POS of type Gdk.WindowHints>, 'USER_SIZE': <flags GDK_HINT_USER_SIZE of type Gdk.WindowHints>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'WindowHints' objects>, '__doc__': None, '__gtype__': <GType GdkWindowHints (94915768787280)>, '__flags_values__': {1: <flags GDK_HINT_POS of type Gdk.WindowHints>, 2: <flags GDK_HINT_MIN_SIZE of type Gdk.WindowHints>, 4: <flags GDK_HINT_MAX_SIZE of type Gdk.WindowHints>, 8: <flags GDK_HINT_BASE_SIZE of type Gdk.WindowHints>, 16: <flags GDK_HINT_ASPECT of type Gdk.WindowHints>, 32: <flags GDK_HINT_RESIZE_INC of type Gdk.WindowHints>, 64: <flags GDK_HINT_WIN_GRAVITY of type Gdk.WindowHints>, 128: <flags GDK_HINT_USER_POS of type Gdk.WindowHints>, 256: <flags GDK_HINT_USER_SIZE of type Gdk.WindowHints>}, '__info__': gi.EnumInfo(WindowHints), 'POS': <flags GDK_HINT_POS of type Gdk.WindowHints>, 'MIN_SIZE': <flags GDK_HINT_MIN_SIZE of type Gdk.WindowHints>, 'MAX_SIZE': <flags GDK_HINT_MAX_SIZE of type Gdk.WindowHints>, 'BASE_SIZE': <flags GDK_HINT_BASE_SIZE of type Gdk.WindowHints>, 'ASPECT': <flags GDK_HINT_ASPECT of type Gdk.WindowHints>, 'RESIZE_INC': <flags GDK_HINT_RESIZE_INC of type Gdk.WindowHints>, 'WIN_GRAVITY': <flags GDK_HINT_WIN_GRAVITY of type Gdk.WindowHints>, 'USER_POS': <flags GDK_HINT_USER_POS of type Gdk.WindowHints>, 'USER_SIZE': <flags GDK_HINT_USER_SIZE of type Gdk.WindowHints>})"
     __flags_values__ = {
         1: 1,
         2: 2,
@@ -381,7 +381,7 @@ class WindowHints(__gobject.GFlags):
         128: 128,
         256: 256,
     }
-    __gtype__ = None # (!) real value is '<GType GdkWindowHints (94055651859184)>'
+    __gtype__ = None # (!) real value is '<GType GdkWindowHints (94915768787280)>'
     __info__ = gi.EnumInfo(WindowHints)
 
 

@@ -456,12 +456,12 @@ class NativeSocketAddress(SocketAddress):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd15bbe0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b871ea910>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(NativeSocketAddress), '__module__': 'gi.repository.Gio', '__gtype__': <GType GNativeSocketAddress (94125582273072)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'parent_instance': <property object at 0x7f28ddeb37c0>, 'priv': <property object at 0x7f28ddeb38b0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(NativeSocketAddress), '__module__': 'gi.repository.Gio', '__gtype__': <GType GNativeSocketAddress (94269257039472)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'parent_instance': <property object at 0x7f4b88015950>, 'priv': <property object at 0x7f4b88015a40>})"
     __gdoc__ = 'Object GNativeSocketAddress\n\nProperties from GSocketAddress:\n  family -> GSocketFamily: Address family\n    The family of the socket address\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GNativeSocketAddress (94125582273072)>'
+    __gtype__ = None # (!) real value is '<GType GNativeSocketAddress (94269257039472)>'
     __info__ = ObjectInfo(NativeSocketAddress)
 
 

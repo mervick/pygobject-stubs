@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -367,7 +367,7 @@ class SeatCapabilities(__gobject.GFlags):
     TABLET_STYLUS = 4
     TOUCH = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'SeatCapabilities' objects>, '__doc__': None, '__gtype__': <GType GdkSeatCapabilities (94055651440016)>, '__flags_values__': {0: <flags 0 of type Gdk.SeatCapabilities>, 1: <flags GDK_SEAT_CAPABILITY_POINTER of type Gdk.SeatCapabilities>, 2: <flags GDK_SEAT_CAPABILITY_TOUCH of type Gdk.SeatCapabilities>, 4: <flags GDK_SEAT_CAPABILITY_TABLET_STYLUS of type Gdk.SeatCapabilities>, 8: <flags GDK_SEAT_CAPABILITY_KEYBOARD of type Gdk.SeatCapabilities>, 7: <flags GDK_SEAT_CAPABILITY_POINTER | GDK_SEAT_CAPABILITY_TOUCH | GDK_SEAT_CAPABILITY_TABLET_STYLUS | GDK_SEAT_CAPABILITY_ALL_POINTING of type Gdk.SeatCapabilities>, 15: <flags GDK_SEAT_CAPABILITY_POINTER | GDK_SEAT_CAPABILITY_TOUCH | GDK_SEAT_CAPABILITY_TABLET_STYLUS | GDK_SEAT_CAPABILITY_KEYBOARD | GDK_SEAT_CAPABILITY_ALL_POINTING | GDK_SEAT_CAPABILITY_ALL of type Gdk.SeatCapabilities>}, '__info__': gi.EnumInfo(SeatCapabilities), 'NONE': <flags 0 of type Gdk.SeatCapabilities>, 'POINTER': <flags GDK_SEAT_CAPABILITY_POINTER of type Gdk.SeatCapabilities>, 'TOUCH': <flags GDK_SEAT_CAPABILITY_TOUCH of type Gdk.SeatCapabilities>, 'TABLET_STYLUS': <flags GDK_SEAT_CAPABILITY_TABLET_STYLUS of type Gdk.SeatCapabilities>, 'KEYBOARD': <flags GDK_SEAT_CAPABILITY_KEYBOARD of type Gdk.SeatCapabilities>, 'ALL_POINTING': <flags GDK_SEAT_CAPABILITY_POINTER | GDK_SEAT_CAPABILITY_TOUCH | GDK_SEAT_CAPABILITY_TABLET_STYLUS | GDK_SEAT_CAPABILITY_ALL_POINTING of type Gdk.SeatCapabilities>, 'ALL': <flags GDK_SEAT_CAPABILITY_POINTER | GDK_SEAT_CAPABILITY_TOUCH | GDK_SEAT_CAPABILITY_TABLET_STYLUS | GDK_SEAT_CAPABILITY_KEYBOARD | GDK_SEAT_CAPABILITY_ALL_POINTING | GDK_SEAT_CAPABILITY_ALL of type Gdk.SeatCapabilities>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'SeatCapabilities' objects>, '__doc__': None, '__gtype__': <GType GdkSeatCapabilities (94915768820160)>, '__flags_values__': {0: <flags 0 of type Gdk.SeatCapabilities>, 1: <flags GDK_SEAT_CAPABILITY_POINTER of type Gdk.SeatCapabilities>, 2: <flags GDK_SEAT_CAPABILITY_TOUCH of type Gdk.SeatCapabilities>, 4: <flags GDK_SEAT_CAPABILITY_TABLET_STYLUS of type Gdk.SeatCapabilities>, 8: <flags GDK_SEAT_CAPABILITY_KEYBOARD of type Gdk.SeatCapabilities>, 7: <flags GDK_SEAT_CAPABILITY_POINTER | GDK_SEAT_CAPABILITY_TOUCH | GDK_SEAT_CAPABILITY_TABLET_STYLUS | GDK_SEAT_CAPABILITY_ALL_POINTING of type Gdk.SeatCapabilities>, 15: <flags GDK_SEAT_CAPABILITY_POINTER | GDK_SEAT_CAPABILITY_TOUCH | GDK_SEAT_CAPABILITY_TABLET_STYLUS | GDK_SEAT_CAPABILITY_KEYBOARD | GDK_SEAT_CAPABILITY_ALL_POINTING | GDK_SEAT_CAPABILITY_ALL of type Gdk.SeatCapabilities>}, '__info__': gi.EnumInfo(SeatCapabilities), 'NONE': <flags 0 of type Gdk.SeatCapabilities>, 'POINTER': <flags GDK_SEAT_CAPABILITY_POINTER of type Gdk.SeatCapabilities>, 'TOUCH': <flags GDK_SEAT_CAPABILITY_TOUCH of type Gdk.SeatCapabilities>, 'TABLET_STYLUS': <flags GDK_SEAT_CAPABILITY_TABLET_STYLUS of type Gdk.SeatCapabilities>, 'KEYBOARD': <flags GDK_SEAT_CAPABILITY_KEYBOARD of type Gdk.SeatCapabilities>, 'ALL_POINTING': <flags GDK_SEAT_CAPABILITY_POINTER | GDK_SEAT_CAPABILITY_TOUCH | GDK_SEAT_CAPABILITY_TABLET_STYLUS | GDK_SEAT_CAPABILITY_ALL_POINTING of type Gdk.SeatCapabilities>, 'ALL': <flags GDK_SEAT_CAPABILITY_POINTER | GDK_SEAT_CAPABILITY_TOUCH | GDK_SEAT_CAPABILITY_TABLET_STYLUS | GDK_SEAT_CAPABILITY_KEYBOARD | GDK_SEAT_CAPABILITY_ALL_POINTING | GDK_SEAT_CAPABILITY_ALL of type Gdk.SeatCapabilities>})"
     __flags_values__ = {
         0: 0,
         1: 1,
@@ -377,7 +377,7 @@ class SeatCapabilities(__gobject.GFlags):
         8: 8,
         15: 15,
     }
-    __gtype__ = None # (!) real value is '<GType GdkSeatCapabilities (94055651440016)>'
+    __gtype__ = None # (!) real value is '<GType GdkSeatCapabilities (94915768820160)>'
     __info__ = gi.EnumInfo(SeatCapabilities)
 
 

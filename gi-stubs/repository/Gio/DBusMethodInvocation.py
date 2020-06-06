@@ -458,12 +458,12 @@ class DBusMethodInvocation(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd616d00>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87788ca0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DBusMethodInvocation), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDBusMethodInvocation (94125582134240)>, '__doc__': None, '__gsignals__': {}, 'get_connection': gi.FunctionInfo(get_connection), 'get_interface_name': gi.FunctionInfo(get_interface_name), 'get_message': gi.FunctionInfo(get_message), 'get_method_info': gi.FunctionInfo(get_method_info), 'get_method_name': gi.FunctionInfo(get_method_name), 'get_object_path': gi.FunctionInfo(get_object_path), 'get_parameters': gi.FunctionInfo(get_parameters), 'get_property_info': gi.FunctionInfo(get_property_info), 'get_sender': gi.FunctionInfo(get_sender), 'return_dbus_error': gi.FunctionInfo(return_dbus_error), 'return_error_literal': gi.FunctionInfo(return_error_literal), 'return_gerror': gi.FunctionInfo(return_gerror), 'return_value': gi.FunctionInfo(return_value), 'return_value_with_unix_fd_list': gi.FunctionInfo(return_value_with_unix_fd_list)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DBusMethodInvocation), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDBusMethodInvocation (94269256760800)>, '__doc__': None, '__gsignals__': {}, 'get_connection': gi.FunctionInfo(get_connection), 'get_interface_name': gi.FunctionInfo(get_interface_name), 'get_message': gi.FunctionInfo(get_message), 'get_method_info': gi.FunctionInfo(get_method_info), 'get_method_name': gi.FunctionInfo(get_method_name), 'get_object_path': gi.FunctionInfo(get_object_path), 'get_parameters': gi.FunctionInfo(get_parameters), 'get_property_info': gi.FunctionInfo(get_property_info), 'get_sender': gi.FunctionInfo(get_sender), 'return_dbus_error': gi.FunctionInfo(return_dbus_error), 'return_error_literal': gi.FunctionInfo(return_error_literal), 'return_gerror': gi.FunctionInfo(return_gerror), 'return_value': gi.FunctionInfo(return_value), 'return_value_with_unix_fd_list': gi.FunctionInfo(return_value_with_unix_fd_list)})"
     __gdoc__ = 'Object GDBusMethodInvocation\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GDBusMethodInvocation (94125582134240)>'
+    __gtype__ = None # (!) real value is '<GType GDBusMethodInvocation (94269256760800)>'
     __info__ = ObjectInfo(DBusMethodInvocation)
 
 

@@ -436,12 +436,12 @@ class UnixFDList(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd07c700>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b86eb3f10>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(UnixFDList), '__module__': 'gi.repository.Gio', '__gtype__': <GType GUnixFDList (94125582926720)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_from_array': gi.FunctionInfo(new_from_array), 'append': gi.FunctionInfo(append), 'get': gi.FunctionInfo(get), 'get_length': gi.FunctionInfo(get_length), 'peek_fds': gi.FunctionInfo(peek_fds), 'steal_fds': gi.FunctionInfo(steal_fds), 'parent_instance': <property object at 0x7f28dd6035e0>, 'priv': <property object at 0x7f28dd6036d0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(UnixFDList), '__module__': 'gi.repository.Gio', '__gtype__': <GType GUnixFDList (94269257564080)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_from_array': gi.FunctionInfo(new_from_array), 'append': gi.FunctionInfo(append), 'get': gi.FunctionInfo(get), 'get_length': gi.FunctionInfo(get_length), 'peek_fds': gi.FunctionInfo(peek_fds), 'steal_fds': gi.FunctionInfo(steal_fds), 'parent_instance': <property object at 0x7f4b877668b0>, 'priv': <property object at 0x7f4b877669a0>})"
     __gdoc__ = 'Object GUnixFDList\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GUnixFDList (94125582926720)>'
+    __gtype__ = None # (!) real value is '<GType GUnixFDList (94269257564080)>'
     __info__ = ObjectInfo(UnixFDList)
 
 

@@ -364,14 +364,14 @@ class TextClipType(__gobject.GEnum):
     MIN = 1
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Atk', '__dict__': <attribute '__dict__' of 'TextClipType' objects>, '__doc__': None, '__gtype__': <GType AtkTextClipType (93922956070768)>, '__enum_values__': {0: <enum ATK_TEXT_CLIP_NONE of type Atk.TextClipType>, 1: <enum ATK_TEXT_CLIP_MIN of type Atk.TextClipType>, 2: <enum ATK_TEXT_CLIP_MAX of type Atk.TextClipType>, 3: <enum ATK_TEXT_CLIP_BOTH of type Atk.TextClipType>}, '__info__': gi.EnumInfo(TextClipType), 'NONE': <enum ATK_TEXT_CLIP_NONE of type Atk.TextClipType>, 'MIN': <enum ATK_TEXT_CLIP_MIN of type Atk.TextClipType>, 'MAX': <enum ATK_TEXT_CLIP_MAX of type Atk.TextClipType>, 'BOTH': <enum ATK_TEXT_CLIP_BOTH of type Atk.TextClipType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Atk', '__dict__': <attribute '__dict__' of 'TextClipType' objects>, '__doc__': None, '__gtype__': <GType AtkTextClipType (94258338131664)>, '__enum_values__': {0: <enum ATK_TEXT_CLIP_NONE of type Atk.TextClipType>, 1: <enum ATK_TEXT_CLIP_MIN of type Atk.TextClipType>, 2: <enum ATK_TEXT_CLIP_MAX of type Atk.TextClipType>, 3: <enum ATK_TEXT_CLIP_BOTH of type Atk.TextClipType>}, '__info__': gi.EnumInfo(TextClipType), 'NONE': <enum ATK_TEXT_CLIP_NONE of type Atk.TextClipType>, 'MIN': <enum ATK_TEXT_CLIP_MIN of type Atk.TextClipType>, 'MAX': <enum ATK_TEXT_CLIP_MAX of type Atk.TextClipType>, 'BOTH': <enum ATK_TEXT_CLIP_BOTH of type Atk.TextClipType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType AtkTextClipType (93922956070768)>'
+    __gtype__ = None # (!) real value is '<GType AtkTextClipType (94258338131664)>'
     __info__ = gi.EnumInfo(TextClipType)
 
 

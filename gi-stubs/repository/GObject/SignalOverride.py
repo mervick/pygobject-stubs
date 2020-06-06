@@ -647,6 +647,6 @@ class SignalOverride(__gi__signalhelper.Signal):
 
     BoundSignal = None # (!) real value is "<class 'gi._signalhelper.Signal.BoundSignal'>"
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi._signalhelper', '__doc__': 'Specialized sub-class of Signal which can be used as a decorator for overriding\\n    existing signals on GObjects.\\n\\n    :Example:\\n\\n    .. code-block:: python\\n\\n        class MyWidget(Gtk.Widget):\\n            @GObject.SignalOverride\\n            def configure_event(self):\\n                pass\\n    ', 'get_signal_args': <function SignalOverride.get_signal_args at 0x7f7c2883fb80>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi._signalhelper', '__doc__': 'Specialized sub-class of Signal which can be used as a decorator for overriding\\n    existing signals on GObjects.\\n\\n    :Example:\\n\\n    .. code-block:: python\\n\\n        class MyWidget(Gtk.Widget):\\n            @GObject.SignalOverride\\n            def configure_event(self):\\n                pass\\n    ', 'get_signal_args': <function SignalOverride.get_signal_args at 0x7fe46baba670>})"
 
 

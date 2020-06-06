@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -369,7 +369,7 @@ class AxisFlags(__gobject.GFlags):
     Y = 4
     YTILT = 32
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'AxisFlags' objects>, '__doc__': None, '__gtype__': <GType GdkAxisFlags (94055650960592)>, '__flags_values__': {2: <flags GDK_AXIS_FLAG_X of type Gdk.AxisFlags>, 4: <flags GDK_AXIS_FLAG_Y of type Gdk.AxisFlags>, 8: <flags GDK_AXIS_FLAG_PRESSURE of type Gdk.AxisFlags>, 16: <flags GDK_AXIS_FLAG_XTILT of type Gdk.AxisFlags>, 32: <flags GDK_AXIS_FLAG_YTILT of type Gdk.AxisFlags>, 64: <flags GDK_AXIS_FLAG_WHEEL of type Gdk.AxisFlags>, 128: <flags GDK_AXIS_FLAG_DISTANCE of type Gdk.AxisFlags>, 256: <flags GDK_AXIS_FLAG_ROTATION of type Gdk.AxisFlags>, 512: <flags GDK_AXIS_FLAG_SLIDER of type Gdk.AxisFlags>}, '__info__': gi.EnumInfo(AxisFlags), 'X': <flags GDK_AXIS_FLAG_X of type Gdk.AxisFlags>, 'Y': <flags GDK_AXIS_FLAG_Y of type Gdk.AxisFlags>, 'PRESSURE': <flags GDK_AXIS_FLAG_PRESSURE of type Gdk.AxisFlags>, 'XTILT': <flags GDK_AXIS_FLAG_XTILT of type Gdk.AxisFlags>, 'YTILT': <flags GDK_AXIS_FLAG_YTILT of type Gdk.AxisFlags>, 'WHEEL': <flags GDK_AXIS_FLAG_WHEEL of type Gdk.AxisFlags>, 'DISTANCE': <flags GDK_AXIS_FLAG_DISTANCE of type Gdk.AxisFlags>, 'ROTATION': <flags GDK_AXIS_FLAG_ROTATION of type Gdk.AxisFlags>, 'SLIDER': <flags GDK_AXIS_FLAG_SLIDER of type Gdk.AxisFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'AxisFlags' objects>, '__doc__': None, '__gtype__': <GType GdkAxisFlags (94915768525872)>, '__flags_values__': {2: <flags GDK_AXIS_FLAG_X of type Gdk.AxisFlags>, 4: <flags GDK_AXIS_FLAG_Y of type Gdk.AxisFlags>, 8: <flags GDK_AXIS_FLAG_PRESSURE of type Gdk.AxisFlags>, 16: <flags GDK_AXIS_FLAG_XTILT of type Gdk.AxisFlags>, 32: <flags GDK_AXIS_FLAG_YTILT of type Gdk.AxisFlags>, 64: <flags GDK_AXIS_FLAG_WHEEL of type Gdk.AxisFlags>, 128: <flags GDK_AXIS_FLAG_DISTANCE of type Gdk.AxisFlags>, 256: <flags GDK_AXIS_FLAG_ROTATION of type Gdk.AxisFlags>, 512: <flags GDK_AXIS_FLAG_SLIDER of type Gdk.AxisFlags>}, '__info__': gi.EnumInfo(AxisFlags), 'X': <flags GDK_AXIS_FLAG_X of type Gdk.AxisFlags>, 'Y': <flags GDK_AXIS_FLAG_Y of type Gdk.AxisFlags>, 'PRESSURE': <flags GDK_AXIS_FLAG_PRESSURE of type Gdk.AxisFlags>, 'XTILT': <flags GDK_AXIS_FLAG_XTILT of type Gdk.AxisFlags>, 'YTILT': <flags GDK_AXIS_FLAG_YTILT of type Gdk.AxisFlags>, 'WHEEL': <flags GDK_AXIS_FLAG_WHEEL of type Gdk.AxisFlags>, 'DISTANCE': <flags GDK_AXIS_FLAG_DISTANCE of type Gdk.AxisFlags>, 'ROTATION': <flags GDK_AXIS_FLAG_ROTATION of type Gdk.AxisFlags>, 'SLIDER': <flags GDK_AXIS_FLAG_SLIDER of type Gdk.AxisFlags>})"
     __flags_values__ = {
         2: 2,
         4: 4,
@@ -381,7 +381,7 @@ class AxisFlags(__gobject.GFlags):
         256: 256,
         512: 512,
     }
-    __gtype__ = None # (!) real value is '<GType GdkAxisFlags (94055650960592)>'
+    __gtype__ = None # (!) real value is '<GType GdkAxisFlags (94915768525872)>'
     __info__ = gi.EnumInfo(AxisFlags)
 
 

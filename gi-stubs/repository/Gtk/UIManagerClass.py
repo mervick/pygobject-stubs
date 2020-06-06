@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -151,7 +151,7 @@ class UIManagerClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(UIManagerClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'UIManagerClass' objects>, '__weakref__': <attribute '__weakref__' of 'UIManagerClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830f3b720>, 'add_widget': <property object at 0x7fe830f3b810>, 'actions_changed': <property object at 0x7fe830f3b900>, 'connect_proxy': <property object at 0x7fe830f3b9f0>, 'disconnect_proxy': <property object at 0x7fe830f3bb30>, 'pre_activate': <property object at 0x7fe830f3bbd0>, 'post_activate': <property object at 0x7fe830f3bcc0>, 'get_widget': <property object at 0x7fe830f3bdb0>, 'get_action': <property object at 0x7fe830f3bea0>, '_gtk_reserved1': <property object at 0x7fe830f3bf90>, '_gtk_reserved2': <property object at 0x7fe830f3c0e0>, '_gtk_reserved3': <property object at 0x7fe830f3c1d0>, '_gtk_reserved4': <property object at 0x7fe830f3c2c0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(UIManagerClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'UIManagerClass' objects>, '__weakref__': <attribute '__weakref__' of 'UIManagerClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a651db0>, 'add_widget': <property object at 0x7fc63a651ea0>, 'actions_changed': <property object at 0x7fc63a651f90>, 'connect_proxy': <property object at 0x7fc63a6530e0>, 'disconnect_proxy': <property object at 0x7fc63a653220>, 'pre_activate': <property object at 0x7fc63a6532c0>, 'post_activate': <property object at 0x7fc63a6533b0>, 'get_widget': <property object at 0x7fc63a6534a0>, 'get_action': <property object at 0x7fc63a653590>, '_gtk_reserved1': <property object at 0x7fc63a653680>, '_gtk_reserved2': <property object at 0x7fc63a653770>, '_gtk_reserved3': <property object at 0x7fc63a653860>, '_gtk_reserved4': <property object at 0x7fc63a653950>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(UIManagerClass)
 

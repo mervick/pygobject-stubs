@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -365,7 +365,7 @@ class AssistantPageType(__gobject.GEnum):
     PROGRESS = 4
     SUMMARY = 3
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'AssistantPageType' objects>, '__doc__': None, '__gtype__': <GType GtkAssistantPageType (94846037639504)>, '__enum_values__': {0: <enum GTK_ASSISTANT_PAGE_CONTENT of type Gtk.AssistantPageType>, 1: <enum GTK_ASSISTANT_PAGE_INTRO of type Gtk.AssistantPageType>, 2: <enum GTK_ASSISTANT_PAGE_CONFIRM of type Gtk.AssistantPageType>, 3: <enum GTK_ASSISTANT_PAGE_SUMMARY of type Gtk.AssistantPageType>, 4: <enum GTK_ASSISTANT_PAGE_PROGRESS of type Gtk.AssistantPageType>, 5: <enum GTK_ASSISTANT_PAGE_CUSTOM of type Gtk.AssistantPageType>}, '__info__': gi.EnumInfo(AssistantPageType), 'CONTENT': <enum GTK_ASSISTANT_PAGE_CONTENT of type Gtk.AssistantPageType>, 'INTRO': <enum GTK_ASSISTANT_PAGE_INTRO of type Gtk.AssistantPageType>, 'CONFIRM': <enum GTK_ASSISTANT_PAGE_CONFIRM of type Gtk.AssistantPageType>, 'SUMMARY': <enum GTK_ASSISTANT_PAGE_SUMMARY of type Gtk.AssistantPageType>, 'PROGRESS': <enum GTK_ASSISTANT_PAGE_PROGRESS of type Gtk.AssistantPageType>, 'CUSTOM': <enum GTK_ASSISTANT_PAGE_CUSTOM of type Gtk.AssistantPageType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'AssistantPageType' objects>, '__doc__': None, '__gtype__': <GType GtkAssistantPageType (93897367839184)>, '__enum_values__': {0: <enum GTK_ASSISTANT_PAGE_CONTENT of type Gtk.AssistantPageType>, 1: <enum GTK_ASSISTANT_PAGE_INTRO of type Gtk.AssistantPageType>, 2: <enum GTK_ASSISTANT_PAGE_CONFIRM of type Gtk.AssistantPageType>, 3: <enum GTK_ASSISTANT_PAGE_SUMMARY of type Gtk.AssistantPageType>, 4: <enum GTK_ASSISTANT_PAGE_PROGRESS of type Gtk.AssistantPageType>, 5: <enum GTK_ASSISTANT_PAGE_CUSTOM of type Gtk.AssistantPageType>}, '__info__': gi.EnumInfo(AssistantPageType), 'CONTENT': <enum GTK_ASSISTANT_PAGE_CONTENT of type Gtk.AssistantPageType>, 'INTRO': <enum GTK_ASSISTANT_PAGE_INTRO of type Gtk.AssistantPageType>, 'CONFIRM': <enum GTK_ASSISTANT_PAGE_CONFIRM of type Gtk.AssistantPageType>, 'SUMMARY': <enum GTK_ASSISTANT_PAGE_SUMMARY of type Gtk.AssistantPageType>, 'PROGRESS': <enum GTK_ASSISTANT_PAGE_PROGRESS of type Gtk.AssistantPageType>, 'CUSTOM': <enum GTK_ASSISTANT_PAGE_CUSTOM of type Gtk.AssistantPageType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -374,7 +374,7 @@ class AssistantPageType(__gobject.GEnum):
         4: 4,
         5: 5,
     }
-    __gtype__ = None # (!) real value is '<GType GtkAssistantPageType (94846037639504)>'
+    __gtype__ = None # (!) real value is '<GType GtkAssistantPageType (93897367839184)>'
     __info__ = gi.EnumInfo(AssistantPageType)
 
 

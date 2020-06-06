@@ -359,13 +359,13 @@ class MemoryMonitorWarningLevel(__gobject.GEnum):
     LOW = 50
     MEDIUM = 100
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'MemoryMonitorWarningLevel' objects>, '__doc__': None, '__gtype__': <GType GMemoryMonitorWarningLevel (94125582493216)>, '__enum_values__': {50: <enum G_MEMORY_MONITOR_WARNING_LEVEL_LOW of type Gio.MemoryMonitorWarningLevel>, 100: <enum G_MEMORY_MONITOR_WARNING_LEVEL_MEDIUM of type Gio.MemoryMonitorWarningLevel>, 255: <enum G_MEMORY_MONITOR_WARNING_LEVEL_CRITICAL of type Gio.MemoryMonitorWarningLevel>}, '__info__': gi.EnumInfo(MemoryMonitorWarningLevel), 'LOW': <enum G_MEMORY_MONITOR_WARNING_LEVEL_LOW of type Gio.MemoryMonitorWarningLevel>, 'MEDIUM': <enum G_MEMORY_MONITOR_WARNING_LEVEL_MEDIUM of type Gio.MemoryMonitorWarningLevel>, 'CRITICAL': <enum G_MEMORY_MONITOR_WARNING_LEVEL_CRITICAL of type Gio.MemoryMonitorWarningLevel>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'MemoryMonitorWarningLevel' objects>, '__doc__': None, '__gtype__': <GType GMemoryMonitorWarningLevel (94269257122624)>, '__enum_values__': {50: <enum G_MEMORY_MONITOR_WARNING_LEVEL_LOW of type Gio.MemoryMonitorWarningLevel>, 100: <enum G_MEMORY_MONITOR_WARNING_LEVEL_MEDIUM of type Gio.MemoryMonitorWarningLevel>, 255: <enum G_MEMORY_MONITOR_WARNING_LEVEL_CRITICAL of type Gio.MemoryMonitorWarningLevel>}, '__info__': gi.EnumInfo(MemoryMonitorWarningLevel), 'LOW': <enum G_MEMORY_MONITOR_WARNING_LEVEL_LOW of type Gio.MemoryMonitorWarningLevel>, 'MEDIUM': <enum G_MEMORY_MONITOR_WARNING_LEVEL_MEDIUM of type Gio.MemoryMonitorWarningLevel>, 'CRITICAL': <enum G_MEMORY_MONITOR_WARNING_LEVEL_CRITICAL of type Gio.MemoryMonitorWarningLevel>})"
     __enum_values__ = {
         50: 50,
         100: 100,
         255: 255,
     }
-    __gtype__ = None # (!) real value is '<GType GMemoryMonitorWarningLevel (94125582493216)>'
+    __gtype__ = None # (!) real value is '<GType GMemoryMonitorWarningLevel (94269257122624)>'
     __info__ = gi.EnumInfo(MemoryMonitorWarningLevel)
 
 

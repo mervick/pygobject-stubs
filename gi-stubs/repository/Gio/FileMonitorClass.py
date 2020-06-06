@@ -138,7 +138,7 @@ class FileMonitorClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FileMonitorClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FileMonitorClass' objects>, '__weakref__': <attribute '__weakref__' of 'FileMonitorClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28dde89540>, 'changed': <property object at 0x7f28dde89630>, 'cancel': <property object at 0x7f28dde89720>, '_g_reserved1': <property object at 0x7f28dde89810>, '_g_reserved2': <property object at 0x7f28dde89900>, '_g_reserved3': <property object at 0x7f28dde899f0>, '_g_reserved4': <property object at 0x7f28dde89ae0>, '_g_reserved5': <property object at 0x7f28dde89bd0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FileMonitorClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FileMonitorClass' objects>, '__weakref__': <attribute '__weakref__' of 'FileMonitorClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b87fec810>, 'changed': <property object at 0x7f4b87fec900>, 'cancel': <property object at 0x7f4b87fec9f0>, '_g_reserved1': <property object at 0x7f4b87fecae0>, '_g_reserved2': <property object at 0x7f4b87fecbd0>, '_g_reserved3': <property object at 0x7f4b87feccc0>, '_g_reserved4': <property object at 0x7f4b87fecdb0>, '_g_reserved5': <property object at 0x7f4b87fecea0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(FileMonitorClass)
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -474,12 +474,12 @@ class AppLaunchContext(__gi_repository_Gio.AppLaunchContext):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f1e11c39ee0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fbaf80925b0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(AppLaunchContext), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkAppLaunchContext (94055651424768)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'set_desktop': gi.FunctionInfo(set_desktop), 'set_display': gi.FunctionInfo(set_display), 'set_icon': gi.FunctionInfo(set_icon), 'set_icon_name': gi.FunctionInfo(set_icon_name), 'set_screen': gi.FunctionInfo(set_screen), 'set_timestamp': gi.FunctionInfo(set_timestamp)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(AppLaunchContext), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkAppLaunchContext (94915768636192)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'set_desktop': gi.FunctionInfo(set_desktop), 'set_display': gi.FunctionInfo(set_display), 'set_icon': gi.FunctionInfo(set_icon), 'set_icon_name': gi.FunctionInfo(set_icon_name), 'set_screen': gi.FunctionInfo(set_screen), 'set_timestamp': gi.FunctionInfo(set_timestamp)})"
     __gdoc__ = 'Object GdkAppLaunchContext\n\nProperties from GdkAppLaunchContext:\n  display -> GdkDisplay: Display\n    Display\n\nSignals from GAppLaunchContext:\n  launch-failed (gchararray)\n  launched (GAppInfo, GVariant)\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GdkAppLaunchContext (94055651424768)>'
+    __gtype__ = None # (!) real value is '<GType GdkAppLaunchContext (94915768636192)>'
     __info__ = ObjectInfo(AppLaunchContext)
 
 

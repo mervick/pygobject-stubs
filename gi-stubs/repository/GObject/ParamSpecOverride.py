@@ -227,9 +227,9 @@ class ParamSpecOverride(ParamSpec):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ParamSpecOverride), '__module__': 'gi.repository.GObject', '__gtype__': <GType GParamOverride (93895378959072)>, '__doc__': None, '__gsignals__': {}, 'parent_instance': <property object at 0x7f7c2864a950>, 'overridden': <property object at 0x7f7c2864aa90>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ParamSpecOverride), '__module__': 'gi.repository.GObject', '__gtype__': <GType GParamOverride (94184341424320)>, '__doc__': None, '__gsignals__': {}, 'parent_instance': <property object at 0x7fe46b8bde50>, 'overridden': <property object at 0x7fe46b8bdf90>})"
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GParamOverride (93895378959072)>'
+    __gtype__ = None # (!) real value is '<GType GParamOverride (94184341424320)>'
     __info__ = ObjectInfo(ParamSpecOverride)
 
 

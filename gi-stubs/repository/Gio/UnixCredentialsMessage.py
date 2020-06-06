@@ -462,12 +462,12 @@ class UnixCredentialsMessage(SocketControlMessage):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dcd3a040>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b86eb3b80>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(UnixCredentialsMessage), '__module__': 'gi.repository.Gio', '__gtype__': <GType GUnixCredentialsMessage (94125582926400)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_with_credentials': gi.FunctionInfo(new_with_credentials), 'is_supported': gi.FunctionInfo(is_supported), 'get_credentials': gi.FunctionInfo(get_credentials), 'parent_instance': <property object at 0x7f28dd601ea0>, 'priv': <property object at 0x7f28dd601f90>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(UnixCredentialsMessage), '__module__': 'gi.repository.Gio', '__gtype__': <GType GUnixCredentialsMessage (94269257554640)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_with_credentials': gi.FunctionInfo(new_with_credentials), 'is_supported': gi.FunctionInfo(is_supported), 'get_credentials': gi.FunctionInfo(get_credentials), 'parent_instance': <property object at 0x7f4b87766180>, 'priv': <property object at 0x7f4b87766270>})"
     __gdoc__ = 'Object GUnixCredentialsMessage\n\nProperties from GUnixCredentialsMessage:\n  credentials -> GCredentials: Credentials\n    The credentials stored in the message\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GUnixCredentialsMessage (94125582926400)>'
+    __gtype__ = None # (!) real value is '<GType GUnixCredentialsMessage (94269257554640)>'
     __info__ = ObjectInfo(UnixCredentialsMessage)
 
 

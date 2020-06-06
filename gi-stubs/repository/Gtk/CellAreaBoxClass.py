@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -135,7 +135,7 @@ class CellAreaBoxClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(CellAreaBoxClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'CellAreaBoxClass' objects>, '__weakref__': <attribute '__weakref__' of 'CellAreaBoxClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe8310b5ef0>, '_gtk_reserved1': <property object at 0x7fe8310b9040>, '_gtk_reserved2': <property object at 0x7fe8310b9130>, '_gtk_reserved3': <property object at 0x7fe8310b9220>, '_gtk_reserved4': <property object at 0x7fe8310b9310>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(CellAreaBoxClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'CellAreaBoxClass' objects>, '__weakref__': <attribute '__weakref__' of 'CellAreaBoxClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a7cbe00>, '_gtk_reserved1': <property object at 0x7fc63a7cbef0>, '_gtk_reserved2': <property object at 0x7fc63a7ce040>, '_gtk_reserved3': <property object at 0x7fc63a7ce130>, '_gtk_reserved4': <property object at 0x7fc63a7ce220>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(CellAreaBoxClass)
 

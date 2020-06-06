@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,14 +363,14 @@ class RecentSortType(__gobject.GEnum):
     MRU = 1
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'RecentSortType' objects>, '__doc__': None, '__gtype__': <GType GtkRecentSortType (94846039085056)>, '__enum_values__': {0: <enum GTK_RECENT_SORT_NONE of type Gtk.RecentSortType>, 1: <enum GTK_RECENT_SORT_MRU of type Gtk.RecentSortType>, 2: <enum GTK_RECENT_SORT_LRU of type Gtk.RecentSortType>, 3: <enum GTK_RECENT_SORT_CUSTOM of type Gtk.RecentSortType>}, '__info__': gi.EnumInfo(RecentSortType), 'NONE': <enum GTK_RECENT_SORT_NONE of type Gtk.RecentSortType>, 'MRU': <enum GTK_RECENT_SORT_MRU of type Gtk.RecentSortType>, 'LRU': <enum GTK_RECENT_SORT_LRU of type Gtk.RecentSortType>, 'CUSTOM': <enum GTK_RECENT_SORT_CUSTOM of type Gtk.RecentSortType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'RecentSortType' objects>, '__doc__': None, '__gtype__': <GType GtkRecentSortType (93897369293072)>, '__enum_values__': {0: <enum GTK_RECENT_SORT_NONE of type Gtk.RecentSortType>, 1: <enum GTK_RECENT_SORT_MRU of type Gtk.RecentSortType>, 2: <enum GTK_RECENT_SORT_LRU of type Gtk.RecentSortType>, 3: <enum GTK_RECENT_SORT_CUSTOM of type Gtk.RecentSortType>}, '__info__': gi.EnumInfo(RecentSortType), 'NONE': <enum GTK_RECENT_SORT_NONE of type Gtk.RecentSortType>, 'MRU': <enum GTK_RECENT_SORT_MRU of type Gtk.RecentSortType>, 'LRU': <enum GTK_RECENT_SORT_LRU of type Gtk.RecentSortType>, 'CUSTOM': <enum GTK_RECENT_SORT_CUSTOM of type Gtk.RecentSortType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkRecentSortType (94846039085056)>'
+    __gtype__ = None # (!) real value is '<GType GtkRecentSortType (93897369293072)>'
     __info__ = gi.EnumInfo(RecentSortType)
 
 

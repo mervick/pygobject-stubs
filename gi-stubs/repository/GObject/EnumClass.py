@@ -155,7 +155,7 @@ class EnumClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EnumClass), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EnumClass' objects>, '__weakref__': <attribute '__weakref__' of 'EnumClass' objects>, '__doc__': None, 'g_type_class': <property object at 0x7f7c286b8720>, 'minimum': <property object at 0x7f7c286b8810>, 'maximum': <property object at 0x7f7c286b8900>, 'n_values': <property object at 0x7f7c286b89f0>, 'values': <property object at 0x7f7c286b8ae0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EnumClass), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EnumClass' objects>, '__weakref__': <attribute '__weakref__' of 'EnumClass' objects>, '__doc__': None, 'g_type_class': <property object at 0x7fe46b8acc70>, 'minimum': <property object at 0x7fe46b8acd60>, 'maximum': <property object at 0x7fe46b8ace50>, 'n_values': <property object at 0x7fe46b8acf40>, 'values': <property object at 0x7fe46b8b2090>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(EnumClass)
 

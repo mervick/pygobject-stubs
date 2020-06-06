@@ -126,7 +126,7 @@ class MenuAttributeIterClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(MenuAttributeIterClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'MenuAttributeIterClass' objects>, '__weakref__': <attribute '__weakref__' of 'MenuAttributeIterClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28ddea9720>, 'get_next': <property object at 0x7f28ddea9810>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(MenuAttributeIterClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'MenuAttributeIterClass' objects>, '__weakref__': <attribute '__weakref__' of 'MenuAttributeIterClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b8800b7c0>, 'get_next': <property object at 0x7f4b8800b8b0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(MenuAttributeIterClass)
 

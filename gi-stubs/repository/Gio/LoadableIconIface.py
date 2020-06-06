@@ -130,7 +130,7 @@ class LoadableIconIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(LoadableIconIface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'LoadableIconIface' objects>, '__weakref__': <attribute '__weakref__' of 'LoadableIconIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f28ddea4360>, 'load': <property object at 0x7f28ddea4450>, 'load_async': <property object at 0x7f28ddea4540>, 'load_finish': <property object at 0x7f28ddea4630>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(LoadableIconIface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'LoadableIconIface' objects>, '__weakref__': <attribute '__weakref__' of 'LoadableIconIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f4b880064a0>, 'load': <property object at 0x7f4b88006590>, 'load_async': <property object at 0x7f4b88006680>, 'load_finish': <property object at 0x7f4b88006770>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(LoadableIconIface)
 

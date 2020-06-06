@@ -158,8 +158,8 @@ class FileAttributeInfoList(__gi.Boxed):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FileAttributeInfoList), '__module__': 'gi.repository.Gio', '__gtype__': <GType GFileAttributeInfoList (94125582184176)>, '__dict__': <attribute '__dict__' of 'FileAttributeInfoList' objects>, '__weakref__': <attribute '__weakref__' of 'FileAttributeInfoList' objects>, '__doc__': None, 'infos': <property object at 0x7f28ddef5040>, 'n_infos': <property object at 0x7f28ddef5130>, 'new': gi.FunctionInfo(new), 'add': gi.FunctionInfo(add), 'dup': gi.FunctionInfo(dup), 'lookup': gi.FunctionInfo(lookup), 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref), '__new__': <staticmethod object at 0x7f28ddeeb490>, '__init__': <function nothing at 0x7f28de15e430>})"
-    __gtype__ = None # (!) real value is '<GType GFileAttributeInfoList (94125582184176)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FileAttributeInfoList), '__module__': 'gi.repository.Gio', '__gtype__': <GType GFileAttributeInfoList (94269256727056)>, '__dict__': <attribute '__dict__' of 'FileAttributeInfoList' objects>, '__weakref__': <attribute '__weakref__' of 'FileAttributeInfoList' objects>, '__doc__': None, 'infos': <property object at 0x7f4b88057090>, 'n_infos': <property object at 0x7f4b88057180>, 'new': gi.FunctionInfo(new), 'add': gi.FunctionInfo(add), 'dup': gi.FunctionInfo(dup), 'lookup': gi.FunctionInfo(lookup), 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref), '__new__': <staticmethod object at 0x7f4b8804d880>, '__init__': <function nothing at 0x7f4b882c3ee0>})"
+    __gtype__ = None # (!) real value is '<GType GFileAttributeInfoList (94269256727056)>'
     __info__ = StructInfo(FileAttributeInfoList)
 
 

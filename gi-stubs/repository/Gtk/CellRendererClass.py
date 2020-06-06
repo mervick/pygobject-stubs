@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -163,7 +163,7 @@ class CellRendererClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(CellRendererClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'CellRendererClass' objects>, '__weakref__': <attribute '__weakref__' of 'CellRendererClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe8310c2810>, 'get_request_mode': <property object at 0x7fe8310c2950>, 'get_preferred_width': <property object at 0x7fe8310c2a40>, 'get_preferred_height_for_width': <property object at 0x7fe8310c2b30>, 'get_preferred_height': <property object at 0x7fe8310c2c20>, 'get_preferred_width_for_height': <property object at 0x7fe8310c2d10>, 'get_aligned_area': <property object at 0x7fe8310c2e00>, 'get_size': <property object at 0x7fe8310c2ea0>, 'render': <property object at 0x7fe8310c2f90>, 'activate': <property object at 0x7fe8310c40e0>, 'start_editing': <property object at 0x7fe8310c41d0>, 'editing_canceled': <property object at 0x7fe8310c4310>, 'editing_started': <property object at 0x7fe8310c4400>, 'priv': <property object at 0x7fe8310c44f0>, '_gtk_reserved2': <property object at 0x7fe8310c45e0>, '_gtk_reserved3': <property object at 0x7fe8310c46d0>, '_gtk_reserved4': <property object at 0x7fe8310c47c0>, 'set_accessible_type': gi.FunctionInfo(set_accessible_type)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(CellRendererClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'CellRendererClass' objects>, '__weakref__': <attribute '__weakref__' of 'CellRendererClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a7d7720>, 'get_request_mode': <property object at 0x7fc63a7d7860>, 'get_preferred_width': <property object at 0x7fc63a7d7950>, 'get_preferred_height_for_width': <property object at 0x7fc63a7d7a40>, 'get_preferred_height': <property object at 0x7fc63a7d7b30>, 'get_preferred_width_for_height': <property object at 0x7fc63a7d7c20>, 'get_aligned_area': <property object at 0x7fc63a7d7d10>, 'get_size': <property object at 0x7fc63a7d7db0>, 'render': <property object at 0x7fc63a7d7ea0>, 'activate': <property object at 0x7fc63a7d7f90>, 'start_editing': <property object at 0x7fc63a7d90e0>, 'editing_canceled': <property object at 0x7fc63a7d9220>, 'editing_started': <property object at 0x7fc63a7d9310>, 'priv': <property object at 0x7fc63a7d9400>, '_gtk_reserved2': <property object at 0x7fc63a7d94f0>, '_gtk_reserved3': <property object at 0x7fc63a7d95e0>, '_gtk_reserved4': <property object at 0x7fc63a7d96d0>, 'set_accessible_type': gi.FunctionInfo(set_accessible_type)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(CellRendererClass)
 

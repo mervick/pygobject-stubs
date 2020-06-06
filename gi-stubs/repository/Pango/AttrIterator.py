@@ -144,8 +144,8 @@ class AttrIterator(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AttrIterator), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoAttrIterator (94752680872720)>, '__dict__': <attribute '__dict__' of 'AttrIterator' objects>, '__weakref__': <attribute '__weakref__' of 'AttrIterator' objects>, '__doc__': None, 'copy': gi.FunctionInfo(copy), 'destroy': gi.FunctionInfo(destroy), 'get': gi.FunctionInfo(get), 'get_attrs': gi.FunctionInfo(get_attrs), 'get_font': gi.FunctionInfo(get_font), 'next': gi.FunctionInfo(next), 'range': gi.FunctionInfo(range)})"
-    __gtype__ = None # (!) real value is '<GType PangoAttrIterator (94752680872720)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AttrIterator), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoAttrIterator (94187429094352)>, '__dict__': <attribute '__dict__' of 'AttrIterator' objects>, '__weakref__': <attribute '__weakref__' of 'AttrIterator' objects>, '__doc__': None, 'copy': gi.FunctionInfo(copy), 'destroy': gi.FunctionInfo(destroy), 'get': gi.FunctionInfo(get), 'get_attrs': gi.FunctionInfo(get_attrs), 'get_font': gi.FunctionInfo(get_font), 'next': gi.FunctionInfo(next), 'range': gi.FunctionInfo(range)})"
+    __gtype__ = None # (!) real value is '<GType PangoAttrIterator (94187429094352)>'
     __info__ = StructInfo(AttrIterator)
 
 

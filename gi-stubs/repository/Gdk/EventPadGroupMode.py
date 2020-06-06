@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -133,7 +133,7 @@ class EventPadGroupMode(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EventPadGroupMode), '__module__': 'gi.repository.Gdk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EventPadGroupMode' objects>, '__weakref__': <attribute '__weakref__' of 'EventPadGroupMode' objects>, '__doc__': None, 'type': <property object at 0x7f1e11c62c20>, 'window': <property object at 0x7f1e11c62d10>, 'send_event': <property object at 0x7f1e11c62e00>, 'time': <property object at 0x7f1e11c62ef0>, 'group': <property object at 0x7f1e11c64040>, 'mode': <property object at 0x7f1e11c64130>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EventPadGroupMode), '__module__': 'gi.repository.Gdk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EventPadGroupMode' objects>, '__weakref__': <attribute '__weakref__' of 'EventPadGroupMode' objects>, '__doc__': None, 'type': <property object at 0x7fbaf81621d0>, 'window': <property object at 0x7fbaf81622c0>, 'send_event': <property object at 0x7fbaf81623b0>, 'time': <property object at 0x7fbaf81624a0>, 'group': <property object at 0x7fbaf8162590>, 'mode': <property object at 0x7fbaf8162680>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(EventPadGroupMode)
 

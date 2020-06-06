@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -364,7 +364,7 @@ class Align(__gobject.GEnum):
     FILL = 0
     START = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'Align' objects>, '__doc__': None, '__gtype__': <GType GtkAlign (94846037145008)>, '__enum_values__': {0: <enum GTK_ALIGN_FILL of type Gtk.Align>, 1: <enum GTK_ALIGN_START of type Gtk.Align>, 2: <enum GTK_ALIGN_END of type Gtk.Align>, 3: <enum GTK_ALIGN_CENTER of type Gtk.Align>, 4: <enum GTK_ALIGN_BASELINE of type Gtk.Align>}, '__info__': gi.EnumInfo(Align), 'FILL': <enum GTK_ALIGN_FILL of type Gtk.Align>, 'START': <enum GTK_ALIGN_START of type Gtk.Align>, 'END': <enum GTK_ALIGN_END of type Gtk.Align>, 'CENTER': <enum GTK_ALIGN_CENTER of type Gtk.Align>, 'BASELINE': <enum GTK_ALIGN_BASELINE of type Gtk.Align>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'Align' objects>, '__doc__': None, '__gtype__': <GType GtkAlign (93897367394304)>, '__enum_values__': {0: <enum GTK_ALIGN_FILL of type Gtk.Align>, 1: <enum GTK_ALIGN_START of type Gtk.Align>, 2: <enum GTK_ALIGN_END of type Gtk.Align>, 3: <enum GTK_ALIGN_CENTER of type Gtk.Align>, 4: <enum GTK_ALIGN_BASELINE of type Gtk.Align>}, '__info__': gi.EnumInfo(Align), 'FILL': <enum GTK_ALIGN_FILL of type Gtk.Align>, 'START': <enum GTK_ALIGN_START of type Gtk.Align>, 'END': <enum GTK_ALIGN_END of type Gtk.Align>, 'CENTER': <enum GTK_ALIGN_CENTER of type Gtk.Align>, 'BASELINE': <enum GTK_ALIGN_BASELINE of type Gtk.Align>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -372,7 +372,7 @@ class Align(__gobject.GEnum):
         3: 3,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType GtkAlign (94846037145008)>'
+    __gtype__ = None # (!) real value is '<GType GtkAlign (93897367394304)>'
     __info__ = gi.EnumInfo(Align)
 
 

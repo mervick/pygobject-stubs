@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -2206,11 +2206,11 @@ from .__class__ import __class__
 
 _introspection_module = None # (!) real value is "<IntrospectionModule 'Gtk' from '/usr/lib64/girepository-1.0/Gtk-3.0.typelib'>"
 
-__loader__ = None # (!) real value is '<gi.importer.DynamicImporter object at 0x7fe8331469d0>'
+__loader__ = None # (!) real value is '<gi.importer.DynamicImporter object at 0x7fc63c86cd00>'
 
 __path__ = [
     '/usr/lib64/girepository-1.0/Gtk-3.0.typelib',
 ]
 
-__spec__ = None # (!) real value is "ModuleSpec(name='gi.repository.Gtk', loader=<gi.importer.DynamicImporter object at 0x7fe8331469d0>)"
+__spec__ = None # (!) real value is "ModuleSpec(name='gi.repository.Gtk', loader=<gi.importer.DynamicImporter object at 0x7fc63c86cd00>)"
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -463,12 +463,12 @@ class NativeDialog(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe830ac22b0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc63a1d9490>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(NativeDialog), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkNativeDialog (94846038021632)>, '__doc__': None, '__gsignals__': {}, 'destroy': gi.FunctionInfo(destroy), 'get_modal': gi.FunctionInfo(get_modal), 'get_title': gi.FunctionInfo(get_title), 'get_transient_for': gi.FunctionInfo(get_transient_for), 'get_visible': gi.FunctionInfo(get_visible), 'hide': gi.FunctionInfo(hide), 'run': gi.FunctionInfo(run), 'set_modal': gi.FunctionInfo(set_modal), 'set_title': gi.FunctionInfo(set_title), 'set_transient_for': gi.FunctionInfo(set_transient_for), 'show': gi.FunctionInfo(show), 'do_hide': gi.VFuncInfo(hide), 'do_response': gi.VFuncInfo(response), 'do_show': gi.VFuncInfo(show), 'parent_instance': <property object at 0x7fe8310b2c70>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(NativeDialog), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkNativeDialog (93897368236528)>, '__doc__': None, '__gsignals__': {}, 'destroy': gi.FunctionInfo(destroy), 'get_modal': gi.FunctionInfo(get_modal), 'get_title': gi.FunctionInfo(get_title), 'get_transient_for': gi.FunctionInfo(get_transient_for), 'get_visible': gi.FunctionInfo(get_visible), 'hide': gi.FunctionInfo(hide), 'run': gi.FunctionInfo(run), 'set_modal': gi.FunctionInfo(set_modal), 'set_title': gi.FunctionInfo(set_title), 'set_transient_for': gi.FunctionInfo(set_transient_for), 'show': gi.FunctionInfo(show), 'do_hide': gi.VFuncInfo(hide), 'do_response': gi.VFuncInfo(response), 'do_show': gi.VFuncInfo(show), 'parent_instance': <property object at 0x7fc63a79e720>})"
     __gdoc__ = 'Object GtkNativeDialog\n\nSignals from GtkNativeDialog:\n  response (gint)\n\nProperties from GtkNativeDialog:\n  title -> gchararray: Dialog Title\n    The title of the file chooser dialog\n  visible -> gboolean: Visible\n    Whether the dialog is currently visible\n  modal -> gboolean: Modal\n    If TRUE, the dialog is modal (other windows are not usable while this one is up)\n  transient-for -> GtkWindow: Transient for Window\n    The transient parent of the dialog\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkNativeDialog (94846038021632)>'
+    __gtype__ = None # (!) real value is '<GType GtkNativeDialog (93897368236528)>'
     __info__ = ObjectInfo(NativeDialog)
 
 

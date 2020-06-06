@@ -126,7 +126,7 @@ class SimpleActionGroupClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SimpleActionGroupClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SimpleActionGroupClass' objects>, '__weakref__': <attribute '__weakref__' of 'SimpleActionGroupClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28dde53540>, 'padding': <property object at 0x7f28dde53630>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SimpleActionGroupClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SimpleActionGroupClass' objects>, '__weakref__': <attribute '__weakref__' of 'SimpleActionGroupClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b87fb5950>, 'padding': <property object at 0x7f4b87fb5a40>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(SimpleActionGroupClass)
 

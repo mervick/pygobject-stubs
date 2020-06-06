@@ -159,8 +159,8 @@ class MainLoop(MainLoop):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.GLib', '__new__': <staticmethod object at 0x7f1d2bb06b80>, '__init__': <function MainLoop.__init__ at 0x7f1d2ccbc9d0>, 'run': <function MainLoop.run at 0x7f1d2ccbca60>, '__doc__': None})"
-    __gtype__ = None # (!) real value is '<GType GMainLoop (94243598347184)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.GLib', '__new__': <staticmethod object at 0x7f8513701f70>, '__init__': <function MainLoop.__init__ at 0x7f85148791f0>, 'run': <function MainLoop.run at 0x7f8514879280>, '__doc__': None})"
+    __gtype__ = None # (!) real value is '<GType GMainLoop (94581033129632)>'
     __info__ = StructInfo(MainLoop)
 
 

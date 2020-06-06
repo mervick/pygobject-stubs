@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -139,7 +139,7 @@ class TreeSortableIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TreeSortableIface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TreeSortableIface' objects>, '__weakref__': <attribute '__weakref__' of 'TreeSortableIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7fe830f34400>, 'sort_column_changed': <property object at 0x7fe830f34540>, 'get_sort_column_id': <property object at 0x7fe830f34630>, 'set_sort_column_id': <property object at 0x7fe830f34720>, 'set_sort_func': <property object at 0x7fe830f347c0>, 'set_default_sort_func': <property object at 0x7fe830f34900>, 'has_default_sort_func': <property object at 0x7fe830f349f0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TreeSortableIface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TreeSortableIface' objects>, '__weakref__': <attribute '__weakref__' of 'TreeSortableIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7fc63a648ae0>, 'sort_column_changed': <property object at 0x7fc63a648c20>, 'get_sort_column_id': <property object at 0x7fc63a648d10>, 'set_sort_column_id': <property object at 0x7fc63a648e00>, 'set_sort_func': <property object at 0x7fc63a648ea0>, 'set_default_sort_func': <property object at 0x7fc63a64b040>, 'has_default_sort_func': <property object at 0x7fc63a64b130>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TreeSortableIface)
 

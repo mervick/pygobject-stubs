@@ -365,13 +365,13 @@ class TestTrapFlags(__gobject.GFlags):
     SILENCE_STDERR = 256
     SILENCE_STDOUT = 128
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'TestTrapFlags' objects>, '__doc__': None, '__gtype__': <GType PyGLibTestTrapFlags (94243599027376)>, '__flags_values__': {128: <flags G_TEST_TRAP_SILENCE_STDOUT of type GLib.TestTrapFlags>, 256: <flags G_TEST_TRAP_SILENCE_STDERR of type GLib.TestTrapFlags>, 512: <flags G_TEST_TRAP_INHERIT_STDIN of type GLib.TestTrapFlags>}, '__info__': gi.EnumInfo(TestTrapFlags), 'SILENCE_STDOUT': <flags G_TEST_TRAP_SILENCE_STDOUT of type GLib.TestTrapFlags>, 'SILENCE_STDERR': <flags G_TEST_TRAP_SILENCE_STDERR of type GLib.TestTrapFlags>, 'INHERIT_STDIN': <flags G_TEST_TRAP_INHERIT_STDIN of type GLib.TestTrapFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'TestTrapFlags' objects>, '__doc__': None, '__gtype__': <GType PyGLibTestTrapFlags (94581033804576)>, '__flags_values__': {128: <flags G_TEST_TRAP_SILENCE_STDOUT of type GLib.TestTrapFlags>, 256: <flags G_TEST_TRAP_SILENCE_STDERR of type GLib.TestTrapFlags>, 512: <flags G_TEST_TRAP_INHERIT_STDIN of type GLib.TestTrapFlags>}, '__info__': gi.EnumInfo(TestTrapFlags), 'SILENCE_STDOUT': <flags G_TEST_TRAP_SILENCE_STDOUT of type GLib.TestTrapFlags>, 'SILENCE_STDERR': <flags G_TEST_TRAP_SILENCE_STDERR of type GLib.TestTrapFlags>, 'INHERIT_STDIN': <flags G_TEST_TRAP_INHERIT_STDIN of type GLib.TestTrapFlags>})"
     __flags_values__ = {
         128: 128,
         256: 256,
         512: 512,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibTestTrapFlags (94243599027376)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibTestTrapFlags (94581033804576)>'
     __info__ = gi.EnumInfo(TestTrapFlags)
 
 

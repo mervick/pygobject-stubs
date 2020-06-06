@@ -153,8 +153,8 @@ class Range(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Range), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkRange (93922955994976)>, '__dict__': <attribute '__dict__' of 'Range' objects>, '__weakref__': <attribute '__weakref__' of 'Range' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free), 'get_description': gi.FunctionInfo(get_description), 'get_lower_limit': gi.FunctionInfo(get_lower_limit), 'get_upper_limit': gi.FunctionInfo(get_upper_limit), '__new__': <staticmethod object at 0x7f0cd819f880>, '__init__': <function nothing at 0x7f0cd833b430>})"
-    __gtype__ = None # (!) real value is '<GType AtkRange (93922955994976)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Range), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkRange (94258338157440)>, '__dict__': <attribute '__dict__' of 'Range' objects>, '__weakref__': <attribute '__weakref__' of 'Range' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free), 'get_description': gi.FunctionInfo(get_description), 'get_lower_limit': gi.FunctionInfo(get_lower_limit), 'get_upper_limit': gi.FunctionInfo(get_upper_limit), '__new__': <staticmethod object at 0x7f44c6dbc7f0>, '__init__': <function nothing at 0x7f44c6fa1ee0>})"
+    __gtype__ = None # (!) real value is '<GType AtkRange (94258338157440)>'
     __info__ = StructInfo(Range)
 
 

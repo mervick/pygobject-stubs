@@ -393,7 +393,7 @@ class SignalFlags(__gobject.GFlags):
     RUN_FIRST = 1
     RUN_LAST = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GObject', '__dict__': <attribute '__dict__' of 'SignalFlags' objects>, '__doc__': None, '__gtype__': <GType PyGObjectSignalFlags (93895379318800)>, '__flags_values__': {1: <flags G_SIGNAL_RUN_FIRST of type GObject.SignalFlags>, 2: <flags G_SIGNAL_RUN_LAST of type GObject.SignalFlags>, 4: <flags G_SIGNAL_RUN_CLEANUP of type GObject.SignalFlags>, 8: <flags G_SIGNAL_NO_RECURSE of type GObject.SignalFlags>, 16: <flags G_SIGNAL_DETAILED of type GObject.SignalFlags>, 32: <flags G_SIGNAL_ACTION of type GObject.SignalFlags>, 64: <flags G_SIGNAL_NO_HOOKS of type GObject.SignalFlags>, 128: <flags G_SIGNAL_MUST_COLLECT of type GObject.SignalFlags>, 256: <flags G_SIGNAL_DEPRECATED of type GObject.SignalFlags>}, '__info__': gi.EnumInfo(SignalFlags), 'RUN_FIRST': <flags G_SIGNAL_RUN_FIRST of type GObject.SignalFlags>, 'RUN_LAST': <flags G_SIGNAL_RUN_LAST of type GObject.SignalFlags>, 'RUN_CLEANUP': <flags G_SIGNAL_RUN_CLEANUP of type GObject.SignalFlags>, 'NO_RECURSE': <flags G_SIGNAL_NO_RECURSE of type GObject.SignalFlags>, 'DETAILED': <flags G_SIGNAL_DETAILED of type GObject.SignalFlags>, 'ACTION': <flags G_SIGNAL_ACTION of type GObject.SignalFlags>, 'NO_HOOKS': <flags G_SIGNAL_NO_HOOKS of type GObject.SignalFlags>, 'MUST_COLLECT': <flags G_SIGNAL_MUST_COLLECT of type GObject.SignalFlags>, 'DEPRECATED': <flags G_SIGNAL_DEPRECATED of type GObject.SignalFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GObject', '__dict__': <attribute '__dict__' of 'SignalFlags' objects>, '__doc__': None, '__gtype__': <GType PyGObjectSignalFlags (94184341818384)>, '__flags_values__': {1: <flags G_SIGNAL_RUN_FIRST of type GObject.SignalFlags>, 2: <flags G_SIGNAL_RUN_LAST of type GObject.SignalFlags>, 4: <flags G_SIGNAL_RUN_CLEANUP of type GObject.SignalFlags>, 8: <flags G_SIGNAL_NO_RECURSE of type GObject.SignalFlags>, 16: <flags G_SIGNAL_DETAILED of type GObject.SignalFlags>, 32: <flags G_SIGNAL_ACTION of type GObject.SignalFlags>, 64: <flags G_SIGNAL_NO_HOOKS of type GObject.SignalFlags>, 128: <flags G_SIGNAL_MUST_COLLECT of type GObject.SignalFlags>, 256: <flags G_SIGNAL_DEPRECATED of type GObject.SignalFlags>}, '__info__': gi.EnumInfo(SignalFlags), 'RUN_FIRST': <flags G_SIGNAL_RUN_FIRST of type GObject.SignalFlags>, 'RUN_LAST': <flags G_SIGNAL_RUN_LAST of type GObject.SignalFlags>, 'RUN_CLEANUP': <flags G_SIGNAL_RUN_CLEANUP of type GObject.SignalFlags>, 'NO_RECURSE': <flags G_SIGNAL_NO_RECURSE of type GObject.SignalFlags>, 'DETAILED': <flags G_SIGNAL_DETAILED of type GObject.SignalFlags>, 'ACTION': <flags G_SIGNAL_ACTION of type GObject.SignalFlags>, 'NO_HOOKS': <flags G_SIGNAL_NO_HOOKS of type GObject.SignalFlags>, 'MUST_COLLECT': <flags G_SIGNAL_MUST_COLLECT of type GObject.SignalFlags>, 'DEPRECATED': <flags G_SIGNAL_DEPRECATED of type GObject.SignalFlags>})"
     __flags_values__ = {
         1: 1,
         2: 2,
@@ -405,7 +405,7 @@ class SignalFlags(__gobject.GFlags):
         128: 128,
         256: 256,
     }
-    __gtype__ = None # (!) real value is '<GType PyGObjectSignalFlags (93895379318800)>'
+    __gtype__ = None # (!) real value is '<GType PyGObjectSignalFlags (94184341818384)>'
     __info__ = gi.EnumInfo(SignalFlags)
 
 

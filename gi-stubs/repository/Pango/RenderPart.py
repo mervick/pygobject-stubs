@@ -358,14 +358,14 @@ class RenderPart(__gobject.GEnum):
     STRIKETHROUGH = 3
     UNDERLINE = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'RenderPart' objects>, '__doc__': None, '__gtype__': <GType PangoRenderPart (94752681070992)>, '__enum_values__': {0: <enum PANGO_RENDER_PART_FOREGROUND of type Pango.RenderPart>, 1: <enum PANGO_RENDER_PART_BACKGROUND of type Pango.RenderPart>, 2: <enum PANGO_RENDER_PART_UNDERLINE of type Pango.RenderPart>, 3: <enum PANGO_RENDER_PART_STRIKETHROUGH of type Pango.RenderPart>}, '__info__': gi.EnumInfo(RenderPart), 'FOREGROUND': <enum PANGO_RENDER_PART_FOREGROUND of type Pango.RenderPart>, 'BACKGROUND': <enum PANGO_RENDER_PART_BACKGROUND of type Pango.RenderPart>, 'UNDERLINE': <enum PANGO_RENDER_PART_UNDERLINE of type Pango.RenderPart>, 'STRIKETHROUGH': <enum PANGO_RENDER_PART_STRIKETHROUGH of type Pango.RenderPart>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'RenderPart' objects>, '__doc__': None, '__gtype__': <GType PangoRenderPart (94187429515376)>, '__enum_values__': {0: <enum PANGO_RENDER_PART_FOREGROUND of type Pango.RenderPart>, 1: <enum PANGO_RENDER_PART_BACKGROUND of type Pango.RenderPart>, 2: <enum PANGO_RENDER_PART_UNDERLINE of type Pango.RenderPart>, 3: <enum PANGO_RENDER_PART_STRIKETHROUGH of type Pango.RenderPart>}, '__info__': gi.EnumInfo(RenderPart), 'FOREGROUND': <enum PANGO_RENDER_PART_FOREGROUND of type Pango.RenderPart>, 'BACKGROUND': <enum PANGO_RENDER_PART_BACKGROUND of type Pango.RenderPart>, 'UNDERLINE': <enum PANGO_RENDER_PART_UNDERLINE of type Pango.RenderPart>, 'STRIKETHROUGH': <enum PANGO_RENDER_PART_STRIKETHROUGH of type Pango.RenderPart>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType PangoRenderPart (94752681070992)>'
+    __gtype__ = None # (!) real value is '<GType PangoRenderPart (94187429515376)>'
     __info__ = gi.EnumInfo(RenderPart)
 
 

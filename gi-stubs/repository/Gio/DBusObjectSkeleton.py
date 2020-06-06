@@ -452,12 +452,12 @@ class DBusObjectSkeleton(__gi_overrides_GObject.Object, DBusObject):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd5213a0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87788280>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DBusObjectSkeleton), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDBusObjectSkeleton (94125582157456)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add_interface': gi.FunctionInfo(add_interface), 'flush': gi.FunctionInfo(flush), 'remove_interface': gi.FunctionInfo(remove_interface), 'remove_interface_by_name': gi.FunctionInfo(remove_interface_by_name), 'set_object_path': gi.FunctionInfo(set_object_path), 'do_authorize_method': gi.VFuncInfo(authorize_method), 'parent_instance': <property object at 0x7f28dded7270>, 'priv': <property object at 0x7f28dded73b0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DBusObjectSkeleton), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDBusObjectSkeleton (94269256784016)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add_interface': gi.FunctionInfo(add_interface), 'flush': gi.FunctionInfo(flush), 'remove_interface': gi.FunctionInfo(remove_interface), 'remove_interface_by_name': gi.FunctionInfo(remove_interface_by_name), 'set_object_path': gi.FunctionInfo(set_object_path), 'do_authorize_method': gi.VFuncInfo(authorize_method), 'parent_instance': <property object at 0x7f4b8803a4f0>, 'priv': <property object at 0x7f4b8803a630>})"
     __gdoc__ = 'Object GDBusObjectSkeleton\n\nSignals from GDBusObjectSkeleton:\n  authorize-method (GDBusInterfaceSkeleton, GDBusMethodInvocation) -> gboolean\n\nProperties from GDBusObjectSkeleton:\n  g-object-path -> gchararray: Object Path\n    The object path where the object is exported\n\nSignals from GDBusObject:\n  interface-added (GDBusInterface)\n  interface-removed (GDBusInterface)\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GDBusObjectSkeleton (94125582157456)>'
+    __gtype__ = None # (!) real value is '<GType GDBusObjectSkeleton (94269256784016)>'
     __info__ = ObjectInfo(DBusObjectSkeleton)
 
 

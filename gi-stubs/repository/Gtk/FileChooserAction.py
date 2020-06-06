@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,14 +363,14 @@ class FileChooserAction(__gobject.GEnum):
     SAVE = 1
     SELECT_FOLDER = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'FileChooserAction' objects>, '__doc__': None, '__gtype__': <GType GtkFileChooserAction (94846038233808)>, '__enum_values__': {0: <enum GTK_FILE_CHOOSER_ACTION_OPEN of type Gtk.FileChooserAction>, 1: <enum GTK_FILE_CHOOSER_ACTION_SAVE of type Gtk.FileChooserAction>, 2: <enum GTK_FILE_CHOOSER_ACTION_SELECT_FOLDER of type Gtk.FileChooserAction>, 3: <enum GTK_FILE_CHOOSER_ACTION_CREATE_FOLDER of type Gtk.FileChooserAction>}, '__info__': gi.EnumInfo(FileChooserAction), 'OPEN': <enum GTK_FILE_CHOOSER_ACTION_OPEN of type Gtk.FileChooserAction>, 'SAVE': <enum GTK_FILE_CHOOSER_ACTION_SAVE of type Gtk.FileChooserAction>, 'SELECT_FOLDER': <enum GTK_FILE_CHOOSER_ACTION_SELECT_FOLDER of type Gtk.FileChooserAction>, 'CREATE_FOLDER': <enum GTK_FILE_CHOOSER_ACTION_CREATE_FOLDER of type Gtk.FileChooserAction>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'FileChooserAction' objects>, '__doc__': None, '__gtype__': <GType GtkFileChooserAction (93897368369424)>, '__enum_values__': {0: <enum GTK_FILE_CHOOSER_ACTION_OPEN of type Gtk.FileChooserAction>, 1: <enum GTK_FILE_CHOOSER_ACTION_SAVE of type Gtk.FileChooserAction>, 2: <enum GTK_FILE_CHOOSER_ACTION_SELECT_FOLDER of type Gtk.FileChooserAction>, 3: <enum GTK_FILE_CHOOSER_ACTION_CREATE_FOLDER of type Gtk.FileChooserAction>}, '__info__': gi.EnumInfo(FileChooserAction), 'OPEN': <enum GTK_FILE_CHOOSER_ACTION_OPEN of type Gtk.FileChooserAction>, 'SAVE': <enum GTK_FILE_CHOOSER_ACTION_SAVE of type Gtk.FileChooserAction>, 'SELECT_FOLDER': <enum GTK_FILE_CHOOSER_ACTION_SELECT_FOLDER of type Gtk.FileChooserAction>, 'CREATE_FOLDER': <enum GTK_FILE_CHOOSER_ACTION_CREATE_FOLDER of type Gtk.FileChooserAction>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkFileChooserAction (94846038233808)>'
+    __gtype__ = None # (!) real value is '<GType GtkFileChooserAction (93897368369424)>'
     __info__ = gi.EnumInfo(FileChooserAction)
 
 

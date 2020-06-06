@@ -229,9 +229,9 @@ class ParamSpecEnum(ParamSpec):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ParamSpecEnum), '__module__': 'gi.repository.GObject', '__gtype__': <GType GParamEnum (93895378952976)>, '__doc__': None, '__gsignals__': {}, 'parent_instance': <property object at 0x7f7c28645b30>, 'enum_class': <property object at 0x7f7c28645c70>, 'default_value': <property object at 0x7f7c28645d60>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ParamSpecEnum), '__module__': 'gi.repository.GObject', '__gtype__': <GType GParamEnum (94184341418112)>, '__doc__': None, '__gsignals__': {}, 'parent_instance': <property object at 0x7fe46b8ba090>, 'enum_class': <property object at 0x7fe46b8ba1d0>, 'default_value': <property object at 0x7fe46b8ba2c0>})"
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GParamEnum (93895378952976)>'
+    __gtype__ = None # (!) real value is '<GType GParamEnum (94184341418112)>'
     __info__ = ObjectInfo(ParamSpecEnum)
 
 

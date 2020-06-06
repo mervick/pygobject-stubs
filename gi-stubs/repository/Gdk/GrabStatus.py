@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -361,7 +361,7 @@ class GrabStatus(__gobject.GEnum):
     NOT_VIEWABLE = 3
     SUCCESS = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'GrabStatus' objects>, '__doc__': None, '__gtype__': <GType GdkGrabStatus (94055651295840)>, '__enum_values__': {0: <enum GDK_GRAB_SUCCESS of type Gdk.GrabStatus>, 1: <enum GDK_GRAB_ALREADY_GRABBED of type Gdk.GrabStatus>, 2: <enum GDK_GRAB_INVALID_TIME of type Gdk.GrabStatus>, 3: <enum GDK_GRAB_NOT_VIEWABLE of type Gdk.GrabStatus>, 4: <enum GDK_GRAB_FROZEN of type Gdk.GrabStatus>, 5: <enum GDK_GRAB_FAILED of type Gdk.GrabStatus>}, '__info__': gi.EnumInfo(GrabStatus), 'SUCCESS': <enum GDK_GRAB_SUCCESS of type Gdk.GrabStatus>, 'ALREADY_GRABBED': <enum GDK_GRAB_ALREADY_GRABBED of type Gdk.GrabStatus>, 'INVALID_TIME': <enum GDK_GRAB_INVALID_TIME of type Gdk.GrabStatus>, 'NOT_VIEWABLE': <enum GDK_GRAB_NOT_VIEWABLE of type Gdk.GrabStatus>, 'FROZEN': <enum GDK_GRAB_FROZEN of type Gdk.GrabStatus>, 'FAILED': <enum GDK_GRAB_FAILED of type Gdk.GrabStatus>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'GrabStatus' objects>, '__doc__': None, '__gtype__': <GType GdkGrabStatus (94915768603056)>, '__enum_values__': {0: <enum GDK_GRAB_SUCCESS of type Gdk.GrabStatus>, 1: <enum GDK_GRAB_ALREADY_GRABBED of type Gdk.GrabStatus>, 2: <enum GDK_GRAB_INVALID_TIME of type Gdk.GrabStatus>, 3: <enum GDK_GRAB_NOT_VIEWABLE of type Gdk.GrabStatus>, 4: <enum GDK_GRAB_FROZEN of type Gdk.GrabStatus>, 5: <enum GDK_GRAB_FAILED of type Gdk.GrabStatus>}, '__info__': gi.EnumInfo(GrabStatus), 'SUCCESS': <enum GDK_GRAB_SUCCESS of type Gdk.GrabStatus>, 'ALREADY_GRABBED': <enum GDK_GRAB_ALREADY_GRABBED of type Gdk.GrabStatus>, 'INVALID_TIME': <enum GDK_GRAB_INVALID_TIME of type Gdk.GrabStatus>, 'NOT_VIEWABLE': <enum GDK_GRAB_NOT_VIEWABLE of type Gdk.GrabStatus>, 'FROZEN': <enum GDK_GRAB_FROZEN of type Gdk.GrabStatus>, 'FAILED': <enum GDK_GRAB_FAILED of type Gdk.GrabStatus>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -370,7 +370,7 @@ class GrabStatus(__gobject.GEnum):
         4: 4,
         5: 5,
     }
-    __gtype__ = None # (!) real value is '<GType GdkGrabStatus (94055651295840)>'
+    __gtype__ = None # (!) real value is '<GType GdkGrabStatus (94915768603056)>'
     __info__ = gi.EnumInfo(GrabStatus)
 
 

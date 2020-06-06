@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -368,14 +368,14 @@ class RcFlags(__gobject.GFlags):
     FG = 1
     TEXT = 4
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'RcFlags' objects>, '__doc__': None, '__gtype__': <GType GtkRcFlags (94846039023376)>, '__flags_values__': {1: <flags GTK_RC_FG of type Gtk.RcFlags>, 2: <flags GTK_RC_BG of type Gtk.RcFlags>, 4: <flags GTK_RC_TEXT of type Gtk.RcFlags>, 8: <flags GTK_RC_BASE of type Gtk.RcFlags>}, '__info__': gi.EnumInfo(RcFlags), 'FG': <flags GTK_RC_FG of type Gtk.RcFlags>, 'BG': <flags GTK_RC_BG of type Gtk.RcFlags>, 'TEXT': <flags GTK_RC_TEXT of type Gtk.RcFlags>, 'BASE': <flags GTK_RC_BASE of type Gtk.RcFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'RcFlags' objects>, '__doc__': None, '__gtype__': <GType GtkRcFlags (93897369233168)>, '__flags_values__': {1: <flags GTK_RC_FG of type Gtk.RcFlags>, 2: <flags GTK_RC_BG of type Gtk.RcFlags>, 4: <flags GTK_RC_TEXT of type Gtk.RcFlags>, 8: <flags GTK_RC_BASE of type Gtk.RcFlags>}, '__info__': gi.EnumInfo(RcFlags), 'FG': <flags GTK_RC_FG of type Gtk.RcFlags>, 'BG': <flags GTK_RC_BG of type Gtk.RcFlags>, 'TEXT': <flags GTK_RC_TEXT of type Gtk.RcFlags>, 'BASE': <flags GTK_RC_BASE of type Gtk.RcFlags>})"
     __flags_values__ = {
         1: 1,
         2: 2,
         4: 4,
         8: 8,
     }
-    __gtype__ = None # (!) real value is '<GType GtkRcFlags (94846039023376)>'
+    __gtype__ = None # (!) real value is '<GType GtkRcFlags (93897369233168)>'
     __info__ = gi.EnumInfo(RcFlags)
 
 

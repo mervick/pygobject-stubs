@@ -360,13 +360,13 @@ class OnceStatus(__gobject.GEnum):
     PROGRESS = 1
     READY = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'OnceStatus' objects>, '__doc__': None, '__gtype__': <GType PyGLibOnceStatus (94243599022672)>, '__enum_values__': {0: <enum G_ONCE_STATUS_NOTCALLED of type GLib.OnceStatus>, 1: <enum G_ONCE_STATUS_PROGRESS of type GLib.OnceStatus>, 2: <enum G_ONCE_STATUS_READY of type GLib.OnceStatus>}, '__info__': gi.EnumInfo(OnceStatus), 'NOTCALLED': <enum G_ONCE_STATUS_NOTCALLED of type GLib.OnceStatus>, 'PROGRESS': <enum G_ONCE_STATUS_PROGRESS of type GLib.OnceStatus>, 'READY': <enum G_ONCE_STATUS_READY of type GLib.OnceStatus>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'OnceStatus' objects>, '__doc__': None, '__gtype__': <GType PyGLibOnceStatus (94581033799728)>, '__enum_values__': {0: <enum G_ONCE_STATUS_NOTCALLED of type GLib.OnceStatus>, 1: <enum G_ONCE_STATUS_PROGRESS of type GLib.OnceStatus>, 2: <enum G_ONCE_STATUS_READY of type GLib.OnceStatus>}, '__info__': gi.EnumInfo(OnceStatus), 'NOTCALLED': <enum G_ONCE_STATUS_NOTCALLED of type GLib.OnceStatus>, 'PROGRESS': <enum G_ONCE_STATUS_PROGRESS of type GLib.OnceStatus>, 'READY': <enum G_ONCE_STATUS_READY of type GLib.OnceStatus>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibOnceStatus (94243599022672)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibOnceStatus (94581033799728)>'
     __info__ = gi.EnumInfo(OnceStatus)
 
 

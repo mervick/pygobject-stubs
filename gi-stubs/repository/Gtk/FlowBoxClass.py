@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -153,7 +153,7 @@ class FlowBoxClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FlowBoxClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FlowBoxClass' objects>, '__weakref__': <attribute '__weakref__' of 'FlowBoxClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe831093720>, 'child_activated': <property object at 0x7fe831093810>, 'selected_children_changed': <property object at 0x7fe831093950>, 'activate_cursor_child': <property object at 0x7fe831093a90>, 'toggle_cursor_child': <property object at 0x7fe831093bd0>, 'move_cursor': <property object at 0x7fe831093cc0>, 'select_all': <property object at 0x7fe831093db0>, 'unselect_all': <property object at 0x7fe831093e50>, '_gtk_reserved1': <property object at 0x7fe831093f40>, '_gtk_reserved2': <property object at 0x7fe831095090>, '_gtk_reserved3': <property object at 0x7fe831095180>, '_gtk_reserved4': <property object at 0x7fe831095270>, '_gtk_reserved5': <property object at 0x7fe831095360>, '_gtk_reserved6': <property object at 0x7fe831095450>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FlowBoxClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FlowBoxClass' objects>, '__weakref__': <attribute '__weakref__' of 'FlowBoxClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a7a8360>, 'child_activated': <property object at 0x7fc63a7a8450>, 'selected_children_changed': <property object at 0x7fc63a7a8590>, 'activate_cursor_child': <property object at 0x7fc63a7a86d0>, 'toggle_cursor_child': <property object at 0x7fc63a7a8810>, 'move_cursor': <property object at 0x7fc63a7a8900>, 'select_all': <property object at 0x7fc63a7a89f0>, 'unselect_all': <property object at 0x7fc63a7a8ae0>, '_gtk_reserved1': <property object at 0x7fc63a7a8bd0>, '_gtk_reserved2': <property object at 0x7fc63a7a8cc0>, '_gtk_reserved3': <property object at 0x7fc63a7a8db0>, '_gtk_reserved4': <property object at 0x7fc63a7a8ea0>, '_gtk_reserved5': <property object at 0x7fc63a7a8f90>, '_gtk_reserved6': <property object at 0x7fc63a7a90e0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(FlowBoxClass)
 

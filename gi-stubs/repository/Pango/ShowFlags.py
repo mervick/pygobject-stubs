@@ -363,14 +363,14 @@ class ShowFlags(__gobject.GFlags):
     NONE = 0
     SPACES = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'ShowFlags' objects>, '__doc__': None, '__gtype__': <GType PangoShowFlags (94752681338848)>, '__flags_values__': {0: <flags 0 of type Pango.ShowFlags>, 1: <flags PANGO_SHOW_SPACES of type Pango.ShowFlags>, 2: <flags PANGO_SHOW_LINE_BREAKS of type Pango.ShowFlags>, 4: <flags PANGO_SHOW_IGNORABLES of type Pango.ShowFlags>}, '__info__': gi.EnumInfo(ShowFlags), 'NONE': <flags 0 of type Pango.ShowFlags>, 'SPACES': <flags PANGO_SHOW_SPACES of type Pango.ShowFlags>, 'LINE_BREAKS': <flags PANGO_SHOW_LINE_BREAKS of type Pango.ShowFlags>, 'IGNORABLES': <flags PANGO_SHOW_IGNORABLES of type Pango.ShowFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'ShowFlags' objects>, '__doc__': None, '__gtype__': <GType PangoShowFlags (94187429558288)>, '__flags_values__': {0: <flags 0 of type Pango.ShowFlags>, 1: <flags PANGO_SHOW_SPACES of type Pango.ShowFlags>, 2: <flags PANGO_SHOW_LINE_BREAKS of type Pango.ShowFlags>, 4: <flags PANGO_SHOW_IGNORABLES of type Pango.ShowFlags>}, '__info__': gi.EnumInfo(ShowFlags), 'NONE': <flags 0 of type Pango.ShowFlags>, 'SPACES': <flags PANGO_SHOW_SPACES of type Pango.ShowFlags>, 'LINE_BREAKS': <flags PANGO_SHOW_LINE_BREAKS of type Pango.ShowFlags>, 'IGNORABLES': <flags PANGO_SHOW_IGNORABLES of type Pango.ShowFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
         2: 2,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType PangoShowFlags (94752681338848)>'
+    __gtype__ = None # (!) real value is '<GType PangoShowFlags (94187429558288)>'
     __info__ = gi.EnumInfo(ShowFlags)
 
 

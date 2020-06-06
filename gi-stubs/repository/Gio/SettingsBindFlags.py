@@ -367,7 +367,7 @@ class SettingsBindFlags(__gobject.GFlags):
     NO_SENSITIVITY = 4
     SET = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'SettingsBindFlags' objects>, '__doc__': None, '__gtype__': <GType GSettingsBindFlags (94125582686560)>, '__flags_values__': {0: <flags 0 of type Gio.SettingsBindFlags>, 1: <flags G_SETTINGS_BIND_GET of type Gio.SettingsBindFlags>, 2: <flags G_SETTINGS_BIND_SET of type Gio.SettingsBindFlags>, 4: <flags G_SETTINGS_BIND_NO_SENSITIVITY of type Gio.SettingsBindFlags>, 8: <flags G_SETTINGS_BIND_GET_NO_CHANGES of type Gio.SettingsBindFlags>, 16: <flags G_SETTINGS_BIND_INVERT_BOOLEAN of type Gio.SettingsBindFlags>}, '__info__': gi.EnumInfo(SettingsBindFlags), 'DEFAULT': <flags 0 of type Gio.SettingsBindFlags>, 'GET': <flags G_SETTINGS_BIND_GET of type Gio.SettingsBindFlags>, 'SET': <flags G_SETTINGS_BIND_SET of type Gio.SettingsBindFlags>, 'NO_SENSITIVITY': <flags G_SETTINGS_BIND_NO_SENSITIVITY of type Gio.SettingsBindFlags>, 'GET_NO_CHANGES': <flags G_SETTINGS_BIND_GET_NO_CHANGES of type Gio.SettingsBindFlags>, 'INVERT_BOOLEAN': <flags G_SETTINGS_BIND_INVERT_BOOLEAN of type Gio.SettingsBindFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'SettingsBindFlags' objects>, '__doc__': None, '__gtype__': <GType GSettingsBindFlags (94269257316896)>, '__flags_values__': {0: <flags 0 of type Gio.SettingsBindFlags>, 1: <flags G_SETTINGS_BIND_GET of type Gio.SettingsBindFlags>, 2: <flags G_SETTINGS_BIND_SET of type Gio.SettingsBindFlags>, 4: <flags G_SETTINGS_BIND_NO_SENSITIVITY of type Gio.SettingsBindFlags>, 8: <flags G_SETTINGS_BIND_GET_NO_CHANGES of type Gio.SettingsBindFlags>, 16: <flags G_SETTINGS_BIND_INVERT_BOOLEAN of type Gio.SettingsBindFlags>}, '__info__': gi.EnumInfo(SettingsBindFlags), 'DEFAULT': <flags 0 of type Gio.SettingsBindFlags>, 'GET': <flags G_SETTINGS_BIND_GET of type Gio.SettingsBindFlags>, 'SET': <flags G_SETTINGS_BIND_SET of type Gio.SettingsBindFlags>, 'NO_SENSITIVITY': <flags G_SETTINGS_BIND_NO_SENSITIVITY of type Gio.SettingsBindFlags>, 'GET_NO_CHANGES': <flags G_SETTINGS_BIND_GET_NO_CHANGES of type Gio.SettingsBindFlags>, 'INVERT_BOOLEAN': <flags G_SETTINGS_BIND_INVERT_BOOLEAN of type Gio.SettingsBindFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
@@ -376,7 +376,7 @@ class SettingsBindFlags(__gobject.GFlags):
         8: 8,
         16: 16,
     }
-    __gtype__ = None # (!) real value is '<GType GSettingsBindFlags (94125582686560)>'
+    __gtype__ = None # (!) real value is '<GType GSettingsBindFlags (94269257316896)>'
     __info__ = gi.EnumInfo(SettingsBindFlags)
 
 

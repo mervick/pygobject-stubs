@@ -135,7 +135,7 @@ class TestConfig(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TestConfig), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TestConfig' objects>, '__weakref__': <attribute '__weakref__' of 'TestConfig' objects>, '__doc__': None, 'test_initialized': <property object at 0x7f1d2b9bfc70>, 'test_quick': <property object at 0x7f1d2b9bfd60>, 'test_perf': <property object at 0x7f1d2b9bfe50>, 'test_verbose': <property object at 0x7f1d2b9bff40>, 'test_quiet': <property object at 0x7f1d2b9c9090>, 'test_undefined': <property object at 0x7f1d2b9c9180>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TestConfig), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TestConfig' objects>, '__weakref__': <attribute '__weakref__' of 'TestConfig' objects>, '__doc__': None, 'test_initialized': <property object at 0x7f85135052c0>, 'test_quick': <property object at 0x7f85135053b0>, 'test_perf': <property object at 0x7f85135054a0>, 'test_verbose': <property object at 0x7f8513505590>, 'test_quiet': <property object at 0x7f8513505680>, 'test_undefined': <property object at 0x7f8513505770>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TestConfig)
 

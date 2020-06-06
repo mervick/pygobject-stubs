@@ -366,14 +366,14 @@ class FormatSizeFlags(__gobject.GFlags):
     IEC_UNITS = 2
     LONG_FORMAT = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'FormatSizeFlags' objects>, '__doc__': None, '__gtype__': <GType PyGLibFormatSizeFlags (94243598951856)>, '__flags_values__': {0: <flags 0 of type GLib.FormatSizeFlags>, 1: <flags G_FORMAT_SIZE_LONG_FORMAT of type GLib.FormatSizeFlags>, 2: <flags G_FORMAT_SIZE_IEC_UNITS of type GLib.FormatSizeFlags>, 4: <flags G_FORMAT_SIZE_BITS of type GLib.FormatSizeFlags>}, '__info__': gi.EnumInfo(FormatSizeFlags), 'DEFAULT': <flags 0 of type GLib.FormatSizeFlags>, 'LONG_FORMAT': <flags G_FORMAT_SIZE_LONG_FORMAT of type GLib.FormatSizeFlags>, 'IEC_UNITS': <flags G_FORMAT_SIZE_IEC_UNITS of type GLib.FormatSizeFlags>, 'BITS': <flags G_FORMAT_SIZE_BITS of type GLib.FormatSizeFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'FormatSizeFlags' objects>, '__doc__': None, '__gtype__': <GType PyGLibFormatSizeFlags (94581033731728)>, '__flags_values__': {0: <flags 0 of type GLib.FormatSizeFlags>, 1: <flags G_FORMAT_SIZE_LONG_FORMAT of type GLib.FormatSizeFlags>, 2: <flags G_FORMAT_SIZE_IEC_UNITS of type GLib.FormatSizeFlags>, 4: <flags G_FORMAT_SIZE_BITS of type GLib.FormatSizeFlags>}, '__info__': gi.EnumInfo(FormatSizeFlags), 'DEFAULT': <flags 0 of type GLib.FormatSizeFlags>, 'LONG_FORMAT': <flags G_FORMAT_SIZE_LONG_FORMAT of type GLib.FormatSizeFlags>, 'IEC_UNITS': <flags G_FORMAT_SIZE_IEC_UNITS of type GLib.FormatSizeFlags>, 'BITS': <flags G_FORMAT_SIZE_BITS of type GLib.FormatSizeFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
         2: 2,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibFormatSizeFlags (94243598951856)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibFormatSizeFlags (94581033731728)>'
     __info__ = gi.EnumInfo(FormatSizeFlags)
 
 

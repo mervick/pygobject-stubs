@@ -363,12 +363,12 @@ class ResourceFlags(__gobject.GFlags):
     COMPRESSED = 1
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'ResourceFlags' objects>, '__doc__': None, '__gtype__': <GType GResourceFlags (94125582673776)>, '__flags_values__': {0: <flags 0 of type Gio.ResourceFlags>, 1: <flags G_RESOURCE_FLAGS_COMPRESSED of type Gio.ResourceFlags>}, '__info__': gi.EnumInfo(ResourceFlags), 'NONE': <flags 0 of type Gio.ResourceFlags>, 'COMPRESSED': <flags G_RESOURCE_FLAGS_COMPRESSED of type Gio.ResourceFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'ResourceFlags' objects>, '__doc__': None, '__gtype__': <GType GResourceFlags (94269257283248)>, '__flags_values__': {0: <flags 0 of type Gio.ResourceFlags>, 1: <flags G_RESOURCE_FLAGS_COMPRESSED of type Gio.ResourceFlags>}, '__info__': gi.EnumInfo(ResourceFlags), 'NONE': <flags 0 of type Gio.ResourceFlags>, 'COMPRESSED': <flags G_RESOURCE_FLAGS_COMPRESSED of type Gio.ResourceFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GResourceFlags (94125582673776)>'
+    __gtype__ = None # (!) real value is '<GType GResourceFlags (94269257283248)>'
     __info__ = gi.EnumInfo(ResourceFlags)
 
 

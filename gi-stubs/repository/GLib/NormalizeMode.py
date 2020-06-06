@@ -365,14 +365,14 @@ class NormalizeMode(__gobject.GEnum):
     NFKC = 3
     NFKD = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'NormalizeMode' objects>, '__doc__': None, '__gtype__': <GType PyGLibNormalizeMode (94243599017456)>, '__enum_values__': {0: <enum G_NORMALIZE_DEFAULT of type GLib.NormalizeMode>, 1: <enum G_NORMALIZE_DEFAULT_COMPOSE of type GLib.NormalizeMode>, 2: <enum G_NORMALIZE_ALL of type GLib.NormalizeMode>, 3: <enum G_NORMALIZE_ALL_COMPOSE of type GLib.NormalizeMode>}, '__info__': gi.EnumInfo(NormalizeMode), 'DEFAULT': <enum G_NORMALIZE_DEFAULT of type GLib.NormalizeMode>, 'NFD': <enum G_NORMALIZE_DEFAULT of type GLib.NormalizeMode>, 'DEFAULT_COMPOSE': <enum G_NORMALIZE_DEFAULT_COMPOSE of type GLib.NormalizeMode>, 'NFC': <enum G_NORMALIZE_DEFAULT_COMPOSE of type GLib.NormalizeMode>, 'ALL': <enum G_NORMALIZE_ALL of type GLib.NormalizeMode>, 'NFKD': <enum G_NORMALIZE_ALL of type GLib.NormalizeMode>, 'ALL_COMPOSE': <enum G_NORMALIZE_ALL_COMPOSE of type GLib.NormalizeMode>, 'NFKC': <enum G_NORMALIZE_ALL_COMPOSE of type GLib.NormalizeMode>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'NormalizeMode' objects>, '__doc__': None, '__gtype__': <GType PyGLibNormalizeMode (94581033794512)>, '__enum_values__': {0: <enum G_NORMALIZE_DEFAULT of type GLib.NormalizeMode>, 1: <enum G_NORMALIZE_DEFAULT_COMPOSE of type GLib.NormalizeMode>, 2: <enum G_NORMALIZE_ALL of type GLib.NormalizeMode>, 3: <enum G_NORMALIZE_ALL_COMPOSE of type GLib.NormalizeMode>}, '__info__': gi.EnumInfo(NormalizeMode), 'DEFAULT': <enum G_NORMALIZE_DEFAULT of type GLib.NormalizeMode>, 'NFD': <enum G_NORMALIZE_DEFAULT of type GLib.NormalizeMode>, 'DEFAULT_COMPOSE': <enum G_NORMALIZE_DEFAULT_COMPOSE of type GLib.NormalizeMode>, 'NFC': <enum G_NORMALIZE_DEFAULT_COMPOSE of type GLib.NormalizeMode>, 'ALL': <enum G_NORMALIZE_ALL of type GLib.NormalizeMode>, 'NFKD': <enum G_NORMALIZE_ALL of type GLib.NormalizeMode>, 'ALL_COMPOSE': <enum G_NORMALIZE_ALL_COMPOSE of type GLib.NormalizeMode>, 'NFKC': <enum G_NORMALIZE_ALL_COMPOSE of type GLib.NormalizeMode>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibNormalizeMode (94243599017456)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibNormalizeMode (94581033794512)>'
     __info__ = gi.EnumInfo(NormalizeMode)
 
 

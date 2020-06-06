@@ -443,12 +443,12 @@ class Notification(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd15b2b0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b873b97f0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Notification), '__module__': 'gi.repository.Gio', '__gtype__': <GType GNotification (94125582591920)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add_button': gi.FunctionInfo(add_button), 'add_button_with_target': gi.FunctionInfo(add_button_with_target), 'set_body': gi.FunctionInfo(set_body), 'set_default_action': gi.FunctionInfo(set_default_action), 'set_default_action_and_target': gi.FunctionInfo(set_default_action_and_target), 'set_icon': gi.FunctionInfo(set_icon), 'set_priority': gi.FunctionInfo(set_priority), 'set_title': gi.FunctionInfo(set_title), 'set_urgent': gi.FunctionInfo(set_urgent)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Notification), '__module__': 'gi.repository.Gio', '__gtype__': <GType GNotification (94269257220864)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add_button': gi.FunctionInfo(add_button), 'add_button_with_target': gi.FunctionInfo(add_button_with_target), 'set_body': gi.FunctionInfo(set_body), 'set_default_action': gi.FunctionInfo(set_default_action), 'set_default_action_and_target': gi.FunctionInfo(set_default_action_and_target), 'set_icon': gi.FunctionInfo(set_icon), 'set_priority': gi.FunctionInfo(set_priority), 'set_title': gi.FunctionInfo(set_title), 'set_urgent': gi.FunctionInfo(set_urgent)})"
     __gdoc__ = 'Object GNotification\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GNotification (94125582591920)>'
+    __gtype__ = None # (!) real value is '<GType GNotification (94269257220864)>'
     __info__ = ObjectInfo(Notification)
 
 

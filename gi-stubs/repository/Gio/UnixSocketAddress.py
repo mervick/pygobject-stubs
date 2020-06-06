@@ -486,12 +486,12 @@ class UnixSocketAddress(SocketAddress):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28de082fd0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b8822d310>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(UnixSocketAddress), '__module__': 'gi.repository.Gio', '__gtype__': <GType GUnixSocketAddress (94125582966784)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_abstract': gi.FunctionInfo(new_abstract), 'new_with_type': gi.FunctionInfo(new_with_type), 'abstract_names_supported': gi.FunctionInfo(abstract_names_supported), 'get_address_type': gi.FunctionInfo(get_address_type), 'get_is_abstract': gi.FunctionInfo(get_is_abstract), 'get_path': gi.FunctionInfo(get_path), 'get_path_len': gi.FunctionInfo(get_path_len), 'parent_instance': <property object at 0x7f28dd60b1d0>, 'priv': <property object at 0x7f28dd60b2c0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(UnixSocketAddress), '__module__': 'gi.repository.Gio', '__gtype__': <GType GUnixSocketAddress (94269257596976)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_abstract': gi.FunctionInfo(new_abstract), 'new_with_type': gi.FunctionInfo(new_with_type), 'abstract_names_supported': gi.FunctionInfo(abstract_names_supported), 'get_address_type': gi.FunctionInfo(get_address_type), 'get_is_abstract': gi.FunctionInfo(get_is_abstract), 'get_path': gi.FunctionInfo(get_path), 'get_path_len': gi.FunctionInfo(get_path_len), 'parent_instance': <property object at 0x7f4b8776f310>, 'priv': <property object at 0x7f4b8776f400>})"
     __gdoc__ = 'Object GUnixSocketAddress\n\nProperties from GUnixSocketAddress:\n  path -> gchararray: Path\n    UNIX socket path\n  path-as-array -> GByteArray: Path array\n    UNIX socket path, as byte array\n  abstract -> gboolean: Abstract\n    Whether or not this is an abstract address\n  address-type -> GUnixSocketAddressType: Address type\n    The type of UNIX socket address\n\nProperties from GSocketAddress:\n  family -> GSocketFamily: Address family\n    The family of the socket address\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GUnixSocketAddress (94125582966784)>'
+    __gtype__ = None # (!) real value is '<GType GUnixSocketAddress (94269257596976)>'
     __info__ = ObjectInfo(UnixSocketAddress)
 
 

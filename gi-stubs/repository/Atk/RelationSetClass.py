@@ -132,7 +132,7 @@ class RelationSetClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(RelationSetClass), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'RelationSetClass' objects>, '__weakref__': <attribute '__weakref__' of 'RelationSetClass' objects>, '__doc__': None, 'parent': <property object at 0x7f0cd81a90e0>, 'pad1': <property object at 0x7f0cd81a91d0>, 'pad2': <property object at 0x7f0cd81a92c0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(RelationSetClass), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'RelationSetClass' objects>, '__weakref__': <attribute '__weakref__' of 'RelationSetClass' objects>, '__doc__': None, 'parent': <property object at 0x7f44c6dc2680>, 'pad1': <property object at 0x7f44c6dc2770>, 'pad2': <property object at 0x7f44c6dc2860>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(RelationSetClass)
 

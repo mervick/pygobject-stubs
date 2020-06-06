@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -365,7 +365,7 @@ class ButtonsType(__gobject.GEnum):
     OK_CANCEL = 5
     YES_NO = 4
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ButtonsType' objects>, '__doc__': None, '__gtype__': <GType GtkButtonsType (94846037984320)>, '__enum_values__': {0: <enum GTK_BUTTONS_NONE of type Gtk.ButtonsType>, 1: <enum GTK_BUTTONS_OK of type Gtk.ButtonsType>, 2: <enum GTK_BUTTONS_CLOSE of type Gtk.ButtonsType>, 3: <enum GTK_BUTTONS_CANCEL of type Gtk.ButtonsType>, 4: <enum GTK_BUTTONS_YES_NO of type Gtk.ButtonsType>, 5: <enum GTK_BUTTONS_OK_CANCEL of type Gtk.ButtonsType>}, '__info__': gi.EnumInfo(ButtonsType), 'NONE': <enum GTK_BUTTONS_NONE of type Gtk.ButtonsType>, 'OK': <enum GTK_BUTTONS_OK of type Gtk.ButtonsType>, 'CLOSE': <enum GTK_BUTTONS_CLOSE of type Gtk.ButtonsType>, 'CANCEL': <enum GTK_BUTTONS_CANCEL of type Gtk.ButtonsType>, 'YES_NO': <enum GTK_BUTTONS_YES_NO of type Gtk.ButtonsType>, 'OK_CANCEL': <enum GTK_BUTTONS_OK_CANCEL of type Gtk.ButtonsType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ButtonsType' objects>, '__doc__': None, '__gtype__': <GType GtkButtonsType (93897367566560)>, '__enum_values__': {0: <enum GTK_BUTTONS_NONE of type Gtk.ButtonsType>, 1: <enum GTK_BUTTONS_OK of type Gtk.ButtonsType>, 2: <enum GTK_BUTTONS_CLOSE of type Gtk.ButtonsType>, 3: <enum GTK_BUTTONS_CANCEL of type Gtk.ButtonsType>, 4: <enum GTK_BUTTONS_YES_NO of type Gtk.ButtonsType>, 5: <enum GTK_BUTTONS_OK_CANCEL of type Gtk.ButtonsType>}, '__info__': gi.EnumInfo(ButtonsType), 'NONE': <enum GTK_BUTTONS_NONE of type Gtk.ButtonsType>, 'OK': <enum GTK_BUTTONS_OK of type Gtk.ButtonsType>, 'CLOSE': <enum GTK_BUTTONS_CLOSE of type Gtk.ButtonsType>, 'CANCEL': <enum GTK_BUTTONS_CANCEL of type Gtk.ButtonsType>, 'YES_NO': <enum GTK_BUTTONS_YES_NO of type Gtk.ButtonsType>, 'OK_CANCEL': <enum GTK_BUTTONS_OK_CANCEL of type Gtk.ButtonsType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -374,7 +374,7 @@ class ButtonsType(__gobject.GEnum):
         4: 4,
         5: 5,
     }
-    __gtype__ = None # (!) real value is '<GType GtkButtonsType (94846037984320)>'
+    __gtype__ = None # (!) real value is '<GType GtkButtonsType (93897367566560)>'
     __info__ = gi.EnumInfo(ButtonsType)
 
 

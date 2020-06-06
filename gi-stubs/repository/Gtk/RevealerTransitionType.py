@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -365,7 +365,7 @@ class RevealerTransitionType(__gobject.GEnum):
     SLIDE_RIGHT = 2
     SLIDE_UP = 4
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'RevealerTransitionType' objects>, '__doc__': None, '__gtype__': <GType GtkRevealerTransitionType (94846039099152)>, '__enum_values__': {0: <enum GTK_REVEALER_TRANSITION_TYPE_NONE of type Gtk.RevealerTransitionType>, 1: <enum GTK_REVEALER_TRANSITION_TYPE_CROSSFADE of type Gtk.RevealerTransitionType>, 2: <enum GTK_REVEALER_TRANSITION_TYPE_SLIDE_RIGHT of type Gtk.RevealerTransitionType>, 3: <enum GTK_REVEALER_TRANSITION_TYPE_SLIDE_LEFT of type Gtk.RevealerTransitionType>, 4: <enum GTK_REVEALER_TRANSITION_TYPE_SLIDE_UP of type Gtk.RevealerTransitionType>, 5: <enum GTK_REVEALER_TRANSITION_TYPE_SLIDE_DOWN of type Gtk.RevealerTransitionType>}, '__info__': gi.EnumInfo(RevealerTransitionType), 'NONE': <enum GTK_REVEALER_TRANSITION_TYPE_NONE of type Gtk.RevealerTransitionType>, 'CROSSFADE': <enum GTK_REVEALER_TRANSITION_TYPE_CROSSFADE of type Gtk.RevealerTransitionType>, 'SLIDE_RIGHT': <enum GTK_REVEALER_TRANSITION_TYPE_SLIDE_RIGHT of type Gtk.RevealerTransitionType>, 'SLIDE_LEFT': <enum GTK_REVEALER_TRANSITION_TYPE_SLIDE_LEFT of type Gtk.RevealerTransitionType>, 'SLIDE_UP': <enum GTK_REVEALER_TRANSITION_TYPE_SLIDE_UP of type Gtk.RevealerTransitionType>, 'SLIDE_DOWN': <enum GTK_REVEALER_TRANSITION_TYPE_SLIDE_DOWN of type Gtk.RevealerTransitionType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'RevealerTransitionType' objects>, '__doc__': None, '__gtype__': <GType GtkRevealerTransitionType (93897369310800)>, '__enum_values__': {0: <enum GTK_REVEALER_TRANSITION_TYPE_NONE of type Gtk.RevealerTransitionType>, 1: <enum GTK_REVEALER_TRANSITION_TYPE_CROSSFADE of type Gtk.RevealerTransitionType>, 2: <enum GTK_REVEALER_TRANSITION_TYPE_SLIDE_RIGHT of type Gtk.RevealerTransitionType>, 3: <enum GTK_REVEALER_TRANSITION_TYPE_SLIDE_LEFT of type Gtk.RevealerTransitionType>, 4: <enum GTK_REVEALER_TRANSITION_TYPE_SLIDE_UP of type Gtk.RevealerTransitionType>, 5: <enum GTK_REVEALER_TRANSITION_TYPE_SLIDE_DOWN of type Gtk.RevealerTransitionType>}, '__info__': gi.EnumInfo(RevealerTransitionType), 'NONE': <enum GTK_REVEALER_TRANSITION_TYPE_NONE of type Gtk.RevealerTransitionType>, 'CROSSFADE': <enum GTK_REVEALER_TRANSITION_TYPE_CROSSFADE of type Gtk.RevealerTransitionType>, 'SLIDE_RIGHT': <enum GTK_REVEALER_TRANSITION_TYPE_SLIDE_RIGHT of type Gtk.RevealerTransitionType>, 'SLIDE_LEFT': <enum GTK_REVEALER_TRANSITION_TYPE_SLIDE_LEFT of type Gtk.RevealerTransitionType>, 'SLIDE_UP': <enum GTK_REVEALER_TRANSITION_TYPE_SLIDE_UP of type Gtk.RevealerTransitionType>, 'SLIDE_DOWN': <enum GTK_REVEALER_TRANSITION_TYPE_SLIDE_DOWN of type Gtk.RevealerTransitionType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -374,7 +374,7 @@ class RevealerTransitionType(__gobject.GEnum):
         4: 4,
         5: 5,
     }
-    __gtype__ = None # (!) real value is '<GType GtkRevealerTransitionType (94846039099152)>'
+    __gtype__ = None # (!) real value is '<GType GtkRevealerTransitionType (93897369310800)>'
     __info__ = gi.EnumInfo(RevealerTransitionType)
 
 

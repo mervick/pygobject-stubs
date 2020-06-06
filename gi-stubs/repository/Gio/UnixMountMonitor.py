@@ -415,12 +415,12 @@ class UnixMountMonitor(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dcf9c100>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b86d7e100>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(UnixMountMonitor), '__module__': 'gi.repository.Gio', '__gtype__': <GType GUnixMountMonitor (94125582953920)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get': gi.FunctionInfo(get), 'set_rate_limit': gi.FunctionInfo(set_rate_limit)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(UnixMountMonitor), '__module__': 'gi.repository.Gio', '__gtype__': <GType GUnixMountMonitor (94269257317120)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get': gi.FunctionInfo(get), 'set_rate_limit': gi.FunctionInfo(set_rate_limit)})"
     __gdoc__ = 'Object GUnixMountMonitor\n\nSignals from GUnixMountMonitor:\n  mounts-changed ()\n  mountpoints-changed ()\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GUnixMountMonitor (94125582953920)>'
+    __gtype__ = None # (!) real value is '<GType GUnixMountMonitor (94269257317120)>'
     __info__ = ObjectInfo(UnixMountMonitor)
 
 

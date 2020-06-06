@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -367,13 +367,13 @@ class DialogFlags(__gobject.GFlags):
     MODAL = 1
     USE_HEADER_BAR = 4
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'DialogFlags' objects>, '__doc__': None, '__gtype__': <GType GtkDialogFlags (94846038074496)>, '__flags_values__': {1: <flags GTK_DIALOG_MODAL of type Gtk.DialogFlags>, 2: <flags GTK_DIALOG_DESTROY_WITH_PARENT of type Gtk.DialogFlags>, 4: <flags GTK_DIALOG_USE_HEADER_BAR of type Gtk.DialogFlags>}, '__info__': gi.EnumInfo(DialogFlags), 'MODAL': <flags GTK_DIALOG_MODAL of type Gtk.DialogFlags>, 'DESTROY_WITH_PARENT': <flags GTK_DIALOG_DESTROY_WITH_PARENT of type Gtk.DialogFlags>, 'USE_HEADER_BAR': <flags GTK_DIALOG_USE_HEADER_BAR of type Gtk.DialogFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'DialogFlags' objects>, '__doc__': None, '__gtype__': <GType GtkDialogFlags (93897367606720)>, '__flags_values__': {1: <flags GTK_DIALOG_MODAL of type Gtk.DialogFlags>, 2: <flags GTK_DIALOG_DESTROY_WITH_PARENT of type Gtk.DialogFlags>, 4: <flags GTK_DIALOG_USE_HEADER_BAR of type Gtk.DialogFlags>}, '__info__': gi.EnumInfo(DialogFlags), 'MODAL': <flags GTK_DIALOG_MODAL of type Gtk.DialogFlags>, 'DESTROY_WITH_PARENT': <flags GTK_DIALOG_DESTROY_WITH_PARENT of type Gtk.DialogFlags>, 'USE_HEADER_BAR': <flags GTK_DIALOG_USE_HEADER_BAR of type Gtk.DialogFlags>})"
     __flags_values__ = {
         1: 1,
         2: 2,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType GtkDialogFlags (94846038074496)>'
+    __gtype__ = None # (!) real value is '<GType GtkDialogFlags (93897367606720)>'
     __info__ = gi.EnumInfo(DialogFlags)
 
 

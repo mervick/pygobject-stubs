@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -1057,12 +1057,12 @@ class Window(Window):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f1e11ca33d0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fbaf7f3b130>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gdk', '__new__': <staticmethod object at 0x7f1e122f83a0>, '__init__': <function Window.__init__ at 0x7f1e122fb670>, 'cairo_create': <function Window.cairo_create at 0x7f1e122fb700>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gdk', '__new__': <staticmethod object at 0x7fbaf87f2790>, '__init__': <function Window.__init__ at 0x7fbaf87ede50>, 'cairo_create': <function Window.cairo_create at 0x7fbaf87edee0>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Object GdkWindow\n\nSignals from GdkWindow:\n  pick-embedded-child (gdouble, gdouble) -> GdkWindow\n  to-embedder (gdouble, gdouble, gpointer, gpointer)\n  from-embedder (gdouble, gdouble, gpointer, gpointer)\n  create-surface (gint, gint) -> CairoSurface\n  moved-to-rect (gpointer, gpointer, gboolean, gboolean)\n\nProperties from GdkWindow:\n  cursor -> GdkCursor: Cursor\n    Cursor\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GdkWindow (94055649966048)>'
+    __gtype__ = None # (!) real value is '<GType GdkWindow (94915767518256)>'
     __info__ = ObjectInfo(Window)
 
 

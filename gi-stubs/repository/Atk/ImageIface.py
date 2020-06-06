@@ -138,7 +138,7 @@ class ImageIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ImageIface), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ImageIface' objects>, '__weakref__': <attribute '__weakref__' of 'ImageIface' objects>, '__doc__': None, 'parent': <property object at 0x7f0cd7be6b30>, 'get_image_position': <property object at 0x7f0cd7be6c70>, 'get_image_description': <property object at 0x7f0cd7be6d60>, 'get_image_size': <property object at 0x7f0cd7be6e00>, 'set_image_description': <property object at 0x7f0cd7be6f40>, 'get_image_locale': <property object at 0x7f0cd7beb090>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ImageIface), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ImageIface' objects>, '__weakref__': <attribute '__weakref__' of 'ImageIface' objects>, '__doc__': None, 'parent': <property object at 0x7f44c6dadf40>, 'get_image_position': <property object at 0x7f44c6db00e0>, 'get_image_description': <property object at 0x7f44c6db01d0>, 'get_image_size': <property object at 0x7f44c6db0270>, 'set_image_description': <property object at 0x7f44c6db03b0>, 'get_image_locale': <property object at 0x7f44c6db04a0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ImageIface)
 

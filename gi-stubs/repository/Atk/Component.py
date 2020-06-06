@@ -179,10 +179,10 @@ class Component(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Component), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkComponent (93922956170240)>, '__dict__': <attribute '__dict__' of 'Component' objects>, '__weakref__': <attribute '__weakref__' of 'Component' objects>, '__doc__': None, '__gsignals__': {}, 'contains': gi.FunctionInfo(contains), 'get_alpha': gi.FunctionInfo(get_alpha), 'get_extents': gi.FunctionInfo(get_extents), 'get_layer': gi.FunctionInfo(get_layer), 'get_mdi_zorder': gi.FunctionInfo(get_mdi_zorder), 'get_position': gi.FunctionInfo(get_position), 'get_size': gi.FunctionInfo(get_size), 'grab_focus': gi.FunctionInfo(grab_focus), 'ref_accessible_at_point': gi.FunctionInfo(ref_accessible_at_point), 'remove_focus_handler': gi.FunctionInfo(remove_focus_handler), 'scroll_to': gi.FunctionInfo(scroll_to), 'scroll_to_point': gi.FunctionInfo(scroll_to_point), 'set_extents': gi.FunctionInfo(set_extents), 'set_position': gi.FunctionInfo(set_position), 'set_size': gi.FunctionInfo(set_size)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Component), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkComponent (94258337758656)>, '__dict__': <attribute '__dict__' of 'Component' objects>, '__weakref__': <attribute '__weakref__' of 'Component' objects>, '__doc__': None, '__gsignals__': {}, 'contains': gi.FunctionInfo(contains), 'get_alpha': gi.FunctionInfo(get_alpha), 'get_extents': gi.FunctionInfo(get_extents), 'get_layer': gi.FunctionInfo(get_layer), 'get_mdi_zorder': gi.FunctionInfo(get_mdi_zorder), 'get_position': gi.FunctionInfo(get_position), 'get_size': gi.FunctionInfo(get_size), 'grab_focus': gi.FunctionInfo(grab_focus), 'ref_accessible_at_point': gi.FunctionInfo(ref_accessible_at_point), 'remove_focus_handler': gi.FunctionInfo(remove_focus_handler), 'scroll_to': gi.FunctionInfo(scroll_to), 'scroll_to_point': gi.FunctionInfo(scroll_to_point), 'set_extents': gi.FunctionInfo(set_extents), 'set_position': gi.FunctionInfo(set_position), 'set_size': gi.FunctionInfo(set_size)})"
     __gdoc__ = 'Interface AtkComponent\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType AtkComponent (93922956170240)>'
+    __gtype__ = None # (!) real value is '<GType AtkComponent (94258337758656)>'
     __info__ = InterfaceInfo(Component)
 
 

@@ -128,7 +128,7 @@ class BufferedOutputStreamClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(BufferedOutputStreamClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'BufferedOutputStreamClass' objects>, '__weakref__': <attribute '__weakref__' of 'BufferedOutputStreamClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28ddf2fd10>, '_g_reserved1': <property object at 0x7f28ddf2fe00>, '_g_reserved2': <property object at 0x7f28ddf2fef0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(BufferedOutputStreamClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'BufferedOutputStreamClass' objects>, '__weakref__': <attribute '__weakref__' of 'BufferedOutputStreamClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b88092f40>, '_g_reserved1': <property object at 0x7f4b88096090>, '_g_reserved2': <property object at 0x7f4b88096180>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(BufferedOutputStreamClass)
 

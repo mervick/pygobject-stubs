@@ -119,10 +119,10 @@ class ImplementorIface(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(ImplementorIface), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkImplementorIface (93922955442864)>, '__dict__': <attribute '__dict__' of 'ImplementorIface' objects>, '__weakref__': <attribute '__weakref__' of 'ImplementorIface' objects>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(ImplementorIface), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkImplementorIface (94258337735296)>, '__dict__': <attribute '__dict__' of 'ImplementorIface' objects>, '__weakref__': <attribute '__weakref__' of 'ImplementorIface' objects>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Interface AtkImplementorIface\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType AtkImplementorIface (93922955442864)>'
+    __gtype__ = None # (!) real value is '<GType AtkImplementorIface (94258337735296)>'
     __info__ = InterfaceInfo(ImplementorIface)
 
 

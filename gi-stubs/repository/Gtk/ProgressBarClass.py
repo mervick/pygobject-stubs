@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -135,7 +135,7 @@ class ProgressBarClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ProgressBarClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ProgressBarClass' objects>, '__weakref__': <attribute '__weakref__' of 'ProgressBarClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830fa3680>, '_gtk_reserved1': <property object at 0x7fe830fa3770>, '_gtk_reserved2': <property object at 0x7fe830fa3860>, '_gtk_reserved3': <property object at 0x7fe830fa3950>, '_gtk_reserved4': <property object at 0x7fe830fa3a40>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ProgressBarClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ProgressBarClass' objects>, '__weakref__': <attribute '__weakref__' of 'ProgressBarClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a6b9400>, '_gtk_reserved1': <property object at 0x7fc63a6b94f0>, '_gtk_reserved2': <property object at 0x7fc63a6b95e0>, '_gtk_reserved3': <property object at 0x7fc63a6b96d0>, '_gtk_reserved4': <property object at 0x7fc63a6b97c0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ProgressBarClass)
 

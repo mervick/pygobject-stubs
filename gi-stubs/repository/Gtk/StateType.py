@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -366,7 +366,7 @@ class StateType(__gobject.GEnum):
     PRELIGHT = 2
     SELECTED = 3
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'StateType' objects>, '__doc__': None, '__gtype__': <GType GtkStateType (94846037190816)>, '__enum_values__': {0: <enum GTK_STATE_NORMAL of type Gtk.StateType>, 1: <enum GTK_STATE_ACTIVE of type Gtk.StateType>, 2: <enum GTK_STATE_PRELIGHT of type Gtk.StateType>, 3: <enum GTK_STATE_SELECTED of type Gtk.StateType>, 4: <enum GTK_STATE_INSENSITIVE of type Gtk.StateType>, 5: <enum GTK_STATE_INCONSISTENT of type Gtk.StateType>, 6: <enum GTK_STATE_FOCUSED of type Gtk.StateType>}, '__info__': gi.EnumInfo(StateType), 'NORMAL': <enum GTK_STATE_NORMAL of type Gtk.StateType>, 'ACTIVE': <enum GTK_STATE_ACTIVE of type Gtk.StateType>, 'PRELIGHT': <enum GTK_STATE_PRELIGHT of type Gtk.StateType>, 'SELECTED': <enum GTK_STATE_SELECTED of type Gtk.StateType>, 'INSENSITIVE': <enum GTK_STATE_INSENSITIVE of type Gtk.StateType>, 'INCONSISTENT': <enum GTK_STATE_INCONSISTENT of type Gtk.StateType>, 'FOCUSED': <enum GTK_STATE_FOCUSED of type Gtk.StateType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'StateType' objects>, '__doc__': None, '__gtype__': <GType GtkStateType (93897367403488)>, '__enum_values__': {0: <enum GTK_STATE_NORMAL of type Gtk.StateType>, 1: <enum GTK_STATE_ACTIVE of type Gtk.StateType>, 2: <enum GTK_STATE_PRELIGHT of type Gtk.StateType>, 3: <enum GTK_STATE_SELECTED of type Gtk.StateType>, 4: <enum GTK_STATE_INSENSITIVE of type Gtk.StateType>, 5: <enum GTK_STATE_INCONSISTENT of type Gtk.StateType>, 6: <enum GTK_STATE_FOCUSED of type Gtk.StateType>}, '__info__': gi.EnumInfo(StateType), 'NORMAL': <enum GTK_STATE_NORMAL of type Gtk.StateType>, 'ACTIVE': <enum GTK_STATE_ACTIVE of type Gtk.StateType>, 'PRELIGHT': <enum GTK_STATE_PRELIGHT of type Gtk.StateType>, 'SELECTED': <enum GTK_STATE_SELECTED of type Gtk.StateType>, 'INSENSITIVE': <enum GTK_STATE_INSENSITIVE of type Gtk.StateType>, 'INCONSISTENT': <enum GTK_STATE_INCONSISTENT of type Gtk.StateType>, 'FOCUSED': <enum GTK_STATE_FOCUSED of type Gtk.StateType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -376,7 +376,7 @@ class StateType(__gobject.GEnum):
         5: 5,
         6: 6,
     }
-    __gtype__ = None # (!) real value is '<GType GtkStateType (94846037190816)>'
+    __gtype__ = None # (!) real value is '<GType GtkStateType (93897367403488)>'
     __info__ = gi.EnumInfo(StateType)
 
 

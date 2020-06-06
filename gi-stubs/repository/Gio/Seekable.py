@@ -135,10 +135,10 @@ class Seekable(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Seekable), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSeekable (94125581532672)>, '__dict__': <attribute '__dict__' of 'Seekable' objects>, '__weakref__': <attribute '__weakref__' of 'Seekable' objects>, '__doc__': None, '__gsignals__': {}, 'can_seek': gi.FunctionInfo(can_seek), 'can_truncate': gi.FunctionInfo(can_truncate), 'seek': gi.FunctionInfo(seek), 'tell': gi.FunctionInfo(tell), 'truncate': gi.FunctionInfo(truncate)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Seekable), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSeekable (94269256530160)>, '__dict__': <attribute '__dict__' of 'Seekable' objects>, '__weakref__': <attribute '__weakref__' of 'Seekable' objects>, '__doc__': None, '__gsignals__': {}, 'can_seek': gi.FunctionInfo(can_seek), 'can_truncate': gi.FunctionInfo(can_truncate), 'seek': gi.FunctionInfo(seek), 'tell': gi.FunctionInfo(tell), 'truncate': gi.FunctionInfo(truncate)})"
     __gdoc__ = 'Interface GSeekable\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GSeekable (94125581532672)>'
+    __gtype__ = None # (!) real value is '<GType GSeekable (94269256530160)>'
     __info__ = InterfaceInfo(Seekable)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,7 +363,7 @@ class WindowEdge(__gobject.GEnum):
     SOUTH_WEST = 5
     WEST = 3
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'WindowEdge' objects>, '__doc__': None, '__gtype__': <GType GdkWindowEdge (94055651867856)>, '__enum_values__': {0: <enum GDK_WINDOW_EDGE_NORTH_WEST of type Gdk.WindowEdge>, 1: <enum GDK_WINDOW_EDGE_NORTH of type Gdk.WindowEdge>, 2: <enum GDK_WINDOW_EDGE_NORTH_EAST of type Gdk.WindowEdge>, 3: <enum GDK_WINDOW_EDGE_WEST of type Gdk.WindowEdge>, 4: <enum GDK_WINDOW_EDGE_EAST of type Gdk.WindowEdge>, 5: <enum GDK_WINDOW_EDGE_SOUTH_WEST of type Gdk.WindowEdge>, 6: <enum GDK_WINDOW_EDGE_SOUTH of type Gdk.WindowEdge>, 7: <enum GDK_WINDOW_EDGE_SOUTH_EAST of type Gdk.WindowEdge>}, '__info__': gi.EnumInfo(WindowEdge), 'NORTH_WEST': <enum GDK_WINDOW_EDGE_NORTH_WEST of type Gdk.WindowEdge>, 'NORTH': <enum GDK_WINDOW_EDGE_NORTH of type Gdk.WindowEdge>, 'NORTH_EAST': <enum GDK_WINDOW_EDGE_NORTH_EAST of type Gdk.WindowEdge>, 'WEST': <enum GDK_WINDOW_EDGE_WEST of type Gdk.WindowEdge>, 'EAST': <enum GDK_WINDOW_EDGE_EAST of type Gdk.WindowEdge>, 'SOUTH_WEST': <enum GDK_WINDOW_EDGE_SOUTH_WEST of type Gdk.WindowEdge>, 'SOUTH': <enum GDK_WINDOW_EDGE_SOUTH of type Gdk.WindowEdge>, 'SOUTH_EAST': <enum GDK_WINDOW_EDGE_SOUTH_EAST of type Gdk.WindowEdge>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'WindowEdge' objects>, '__doc__': None, '__gtype__': <GType GdkWindowEdge (94915769444432)>, '__enum_values__': {0: <enum GDK_WINDOW_EDGE_NORTH_WEST of type Gdk.WindowEdge>, 1: <enum GDK_WINDOW_EDGE_NORTH of type Gdk.WindowEdge>, 2: <enum GDK_WINDOW_EDGE_NORTH_EAST of type Gdk.WindowEdge>, 3: <enum GDK_WINDOW_EDGE_WEST of type Gdk.WindowEdge>, 4: <enum GDK_WINDOW_EDGE_EAST of type Gdk.WindowEdge>, 5: <enum GDK_WINDOW_EDGE_SOUTH_WEST of type Gdk.WindowEdge>, 6: <enum GDK_WINDOW_EDGE_SOUTH of type Gdk.WindowEdge>, 7: <enum GDK_WINDOW_EDGE_SOUTH_EAST of type Gdk.WindowEdge>}, '__info__': gi.EnumInfo(WindowEdge), 'NORTH_WEST': <enum GDK_WINDOW_EDGE_NORTH_WEST of type Gdk.WindowEdge>, 'NORTH': <enum GDK_WINDOW_EDGE_NORTH of type Gdk.WindowEdge>, 'NORTH_EAST': <enum GDK_WINDOW_EDGE_NORTH_EAST of type Gdk.WindowEdge>, 'WEST': <enum GDK_WINDOW_EDGE_WEST of type Gdk.WindowEdge>, 'EAST': <enum GDK_WINDOW_EDGE_EAST of type Gdk.WindowEdge>, 'SOUTH_WEST': <enum GDK_WINDOW_EDGE_SOUTH_WEST of type Gdk.WindowEdge>, 'SOUTH': <enum GDK_WINDOW_EDGE_SOUTH of type Gdk.WindowEdge>, 'SOUTH_EAST': <enum GDK_WINDOW_EDGE_SOUTH_EAST of type Gdk.WindowEdge>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -374,7 +374,7 @@ class WindowEdge(__gobject.GEnum):
         6: 6,
         7: 7,
     }
-    __gtype__ = None # (!) real value is '<GType GdkWindowEdge (94055651867856)>'
+    __gtype__ = None # (!) real value is '<GType GdkWindowEdge (94915769444432)>'
     __info__ = gi.EnumInfo(WindowEdge)
 
 

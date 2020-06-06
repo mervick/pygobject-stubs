@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -139,7 +139,7 @@ class RecentFilterInfo(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(RecentFilterInfo), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'RecentFilterInfo' objects>, '__weakref__': <attribute '__weakref__' of 'RecentFilterInfo' objects>, '__doc__': None, 'contains': <property object at 0x7fe830fbbdb0>, 'uri': <property object at 0x7fe830fbbea0>, 'display_name': <property object at 0x7fe830fbbf90>, 'mime_type': <property object at 0x7fe830fbd0e0>, 'applications': <property object at 0x7fe830fbd1d0>, 'groups': <property object at 0x7fe830fbd2c0>, 'age': <property object at 0x7fe830fbd3b0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(RecentFilterInfo), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'RecentFilterInfo' objects>, '__weakref__': <attribute '__weakref__' of 'RecentFilterInfo' objects>, '__doc__': None, 'contains': <property object at 0x7fc63a6d2860>, 'uri': <property object at 0x7fc63a6d2950>, 'display_name': <property object at 0x7fc63a6d2a40>, 'mime_type': <property object at 0x7fc63a6d2b30>, 'applications': <property object at 0x7fc63a6d2c20>, 'groups': <property object at 0x7fc63a6d2d10>, 'age': <property object at 0x7fc63a6d2e00>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(RecentFilterInfo)
 

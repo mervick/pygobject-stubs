@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,14 +363,14 @@ class PageOrientation(__gobject.GEnum):
     REVERSE_LANDSCAPE = 3
     REVERSE_PORTRAIT = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PageOrientation' objects>, '__doc__': None, '__gtype__': <GType GtkPageOrientation (94846038773248)>, '__enum_values__': {0: <enum GTK_PAGE_ORIENTATION_PORTRAIT of type Gtk.PageOrientation>, 1: <enum GTK_PAGE_ORIENTATION_LANDSCAPE of type Gtk.PageOrientation>, 2: <enum GTK_PAGE_ORIENTATION_REVERSE_PORTRAIT of type Gtk.PageOrientation>, 3: <enum GTK_PAGE_ORIENTATION_REVERSE_LANDSCAPE of type Gtk.PageOrientation>}, '__info__': gi.EnumInfo(PageOrientation), 'PORTRAIT': <enum GTK_PAGE_ORIENTATION_PORTRAIT of type Gtk.PageOrientation>, 'LANDSCAPE': <enum GTK_PAGE_ORIENTATION_LANDSCAPE of type Gtk.PageOrientation>, 'REVERSE_PORTRAIT': <enum GTK_PAGE_ORIENTATION_REVERSE_PORTRAIT of type Gtk.PageOrientation>, 'REVERSE_LANDSCAPE': <enum GTK_PAGE_ORIENTATION_REVERSE_LANDSCAPE of type Gtk.PageOrientation>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PageOrientation' objects>, '__doc__': None, '__gtype__': <GType GtkPageOrientation (93897368976272)>, '__enum_values__': {0: <enum GTK_PAGE_ORIENTATION_PORTRAIT of type Gtk.PageOrientation>, 1: <enum GTK_PAGE_ORIENTATION_LANDSCAPE of type Gtk.PageOrientation>, 2: <enum GTK_PAGE_ORIENTATION_REVERSE_PORTRAIT of type Gtk.PageOrientation>, 3: <enum GTK_PAGE_ORIENTATION_REVERSE_LANDSCAPE of type Gtk.PageOrientation>}, '__info__': gi.EnumInfo(PageOrientation), 'PORTRAIT': <enum GTK_PAGE_ORIENTATION_PORTRAIT of type Gtk.PageOrientation>, 'LANDSCAPE': <enum GTK_PAGE_ORIENTATION_LANDSCAPE of type Gtk.PageOrientation>, 'REVERSE_PORTRAIT': <enum GTK_PAGE_ORIENTATION_REVERSE_PORTRAIT of type Gtk.PageOrientation>, 'REVERSE_LANDSCAPE': <enum GTK_PAGE_ORIENTATION_REVERSE_LANDSCAPE of type Gtk.PageOrientation>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkPageOrientation (94846038773248)>'
+    __gtype__ = None # (!) real value is '<GType GtkPageOrientation (93897368976272)>'
     __info__ = gi.EnumInfo(PageOrientation)
 
 

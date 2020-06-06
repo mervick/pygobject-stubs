@@ -147,10 +147,10 @@ class Action(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Action), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkAction (93922954896384)>, '__dict__': <attribute '__dict__' of 'Action' objects>, '__weakref__': <attribute '__weakref__' of 'Action' objects>, '__doc__': None, '__gsignals__': {}, 'do_action': gi.FunctionInfo(do_action), 'get_description': gi.FunctionInfo(get_description), 'get_keybinding': gi.FunctionInfo(get_keybinding), 'get_localized_name': gi.FunctionInfo(get_localized_name), 'get_n_actions': gi.FunctionInfo(get_n_actions), 'get_name': gi.FunctionInfo(get_name), 'set_description': gi.FunctionInfo(set_description)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Action), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkAction (94258337796832)>, '__dict__': <attribute '__dict__' of 'Action' objects>, '__weakref__': <attribute '__weakref__' of 'Action' objects>, '__doc__': None, '__gsignals__': {}, 'do_action': gi.FunctionInfo(do_action), 'get_description': gi.FunctionInfo(get_description), 'get_keybinding': gi.FunctionInfo(get_keybinding), 'get_localized_name': gi.FunctionInfo(get_localized_name), 'get_n_actions': gi.FunctionInfo(get_n_actions), 'get_name': gi.FunctionInfo(get_name), 'set_description': gi.FunctionInfo(set_description)})"
     __gdoc__ = 'Interface AtkAction\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType AtkAction (93922954896384)>'
+    __gtype__ = None # (!) real value is '<GType AtkAction (94258337796832)>'
     __info__ = InterfaceInfo(Action)
 
 

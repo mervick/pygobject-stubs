@@ -456,12 +456,12 @@ class DBusObjectManagerServer(__gi_overrides_GObject.Object, DBusObjectManager):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd4ad400>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87788310>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DBusObjectManagerServer), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDBusObjectManagerServer (94125582067072)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'export': gi.FunctionInfo(export), 'export_uniquely': gi.FunctionInfo(export_uniquely), 'get_connection': gi.FunctionInfo(get_connection), 'is_exported': gi.FunctionInfo(is_exported), 'set_connection': gi.FunctionInfo(set_connection), 'unexport': gi.FunctionInfo(unexport), 'parent_instance': <property object at 0x7f28dded24f0>, 'priv': <property object at 0x7f28dded25e0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DBusObjectManagerServer), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDBusObjectManagerServer (94269256692944)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'export': gi.FunctionInfo(export), 'export_uniquely': gi.FunctionInfo(export_uniquely), 'get_connection': gi.FunctionInfo(get_connection), 'is_exported': gi.FunctionInfo(is_exported), 'set_connection': gi.FunctionInfo(set_connection), 'unexport': gi.FunctionInfo(unexport), 'parent_instance': <property object at 0x7f4b880377c0>, 'priv': <property object at 0x7f4b880378b0>})"
     __gdoc__ = 'Object GDBusObjectManagerServer\n\nProperties from GDBusObjectManagerServer:\n  connection -> GDBusConnection: Connection\n    The connection to export objects on\n  object-path -> gchararray: Object Path\n    The object path to register the manager object at\n\nSignals from GDBusObjectManager:\n  object-added (GDBusObject)\n  object-removed (GDBusObject)\n  interface-added (GDBusObject, GDBusInterface)\n  interface-removed (GDBusObject, GDBusInterface)\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GDBusObjectManagerServer (94125582067072)>'
+    __gtype__ = None # (!) real value is '<GType GDBusObjectManagerServer (94269256692944)>'
     __info__ = ObjectInfo(DBusObjectManagerServer)
 
 

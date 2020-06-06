@@ -162,8 +162,8 @@ class MappedFile(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(MappedFile), '__module__': 'gi.repository.GLib', '__gtype__': <GType GMappedFile (94243598998080)>, '__dict__': <attribute '__dict__' of 'MappedFile' objects>, '__weakref__': <attribute '__weakref__' of 'MappedFile' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'new_from_fd': gi.FunctionInfo(new_from_fd), 'free': gi.FunctionInfo(free), 'get_bytes': gi.FunctionInfo(get_bytes), 'get_contents': gi.FunctionInfo(get_contents), 'get_length': gi.FunctionInfo(get_length), 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref), '__new__': <staticmethod object at 0x7f1d2b9648b0>, '__init__': <function nothing at 0x7f1d2baee430>})"
-    __gtype__ = None # (!) real value is '<GType GMappedFile (94243598998080)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(MappedFile), '__module__': 'gi.repository.GLib', '__gtype__': <GType GMappedFile (94581033775136)>, '__dict__': <attribute '__dict__' of 'MappedFile' objects>, '__weakref__': <attribute '__weakref__' of 'MappedFile' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'new_from_fd': gi.FunctionInfo(new_from_fd), 'free': gi.FunctionInfo(free), 'get_bytes': gi.FunctionInfo(get_bytes), 'get_contents': gi.FunctionInfo(get_contents), 'get_length': gi.FunctionInfo(get_length), 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref), '__new__': <staticmethod object at 0x7f85134e0d30>, '__init__': <function nothing at 0x7f85136ebee0>})"
+    __gtype__ = None # (!) real value is '<GType GMappedFile (94581033775136)>'
     __info__ = StructInfo(MappedFile)
 
 

@@ -140,7 +140,7 @@ class AttrShape(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AttrShape), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AttrShape' objects>, '__weakref__': <attribute '__weakref__' of 'AttrShape' objects>, '__doc__': None, 'attr': <property object at 0x7f24746e1db0>, 'ink_rect': <property object at 0x7f24746e1ea0>, 'logical_rect': <property object at 0x7f24746e1f90>, 'data': <property object at 0x7f24746e50e0>, 'copy_func': <property object at 0x7f24746e51d0>, 'destroy_func': <property object at 0x7f24746e52c0>, 'new': gi.FunctionInfo(new), 'new_with_data': gi.FunctionInfo(new_with_data)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AttrShape), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AttrShape' objects>, '__weakref__': <attribute '__weakref__' of 'AttrShape' objects>, '__doc__': None, 'attr': <property object at 0x7f8517884c20>, 'ink_rect': <property object at 0x7f8517884d10>, 'logical_rect': <property object at 0x7f8517884e00>, 'data': <property object at 0x7f8517884ef0>, 'copy_func': <property object at 0x7f8517885040>, 'destroy_func': <property object at 0x7f8517885130>, 'new': gi.FunctionInfo(new), 'new_with_data': gi.FunctionInfo(new_with_data)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(AttrShape)
 

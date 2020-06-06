@@ -364,13 +364,13 @@ class ResolverNameLookupFlags(__gobject.GFlags):
     IPV4_ONLY = 1
     IPV6_ONLY = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'ResolverNameLookupFlags' objects>, '__doc__': None, '__gtype__': <GType GResolverNameLookupFlags (94125582069568)>, '__flags_values__': {0: <flags 0 of type Gio.ResolverNameLookupFlags>, 1: <flags G_RESOLVER_NAME_LOOKUP_FLAGS_IPV4_ONLY of type Gio.ResolverNameLookupFlags>, 2: <flags G_RESOLVER_NAME_LOOKUP_FLAGS_IPV6_ONLY of type Gio.ResolverNameLookupFlags>}, '__info__': gi.EnumInfo(ResolverNameLookupFlags), 'DEFAULT': <flags 0 of type Gio.ResolverNameLookupFlags>, 'IPV4_ONLY': <flags G_RESOLVER_NAME_LOOKUP_FLAGS_IPV4_ONLY of type Gio.ResolverNameLookupFlags>, 'IPV6_ONLY': <flags G_RESOLVER_NAME_LOOKUP_FLAGS_IPV6_ONLY of type Gio.ResolverNameLookupFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'ResolverNameLookupFlags' objects>, '__doc__': None, '__gtype__': <GType GResolverNameLookupFlags (94269256695440)>, '__flags_values__': {0: <flags 0 of type Gio.ResolverNameLookupFlags>, 1: <flags G_RESOLVER_NAME_LOOKUP_FLAGS_IPV4_ONLY of type Gio.ResolverNameLookupFlags>, 2: <flags G_RESOLVER_NAME_LOOKUP_FLAGS_IPV6_ONLY of type Gio.ResolverNameLookupFlags>}, '__info__': gi.EnumInfo(ResolverNameLookupFlags), 'DEFAULT': <flags 0 of type Gio.ResolverNameLookupFlags>, 'IPV4_ONLY': <flags G_RESOLVER_NAME_LOOKUP_FLAGS_IPV4_ONLY of type Gio.ResolverNameLookupFlags>, 'IPV6_ONLY': <flags G_RESOLVER_NAME_LOOKUP_FLAGS_IPV6_ONLY of type Gio.ResolverNameLookupFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GResolverNameLookupFlags (94125582069568)>'
+    __gtype__ = None # (!) real value is '<GType GResolverNameLookupFlags (94269256695440)>'
     __info__ = gi.EnumInfo(ResolverNameLookupFlags)
 
 

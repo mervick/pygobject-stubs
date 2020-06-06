@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -364,7 +364,7 @@ class MessageType(__gobject.GEnum):
     QUESTION = 2
     WARNING = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'MessageType' objects>, '__doc__': None, '__gtype__': <GType GtkMessageType (94846038739536)>, '__enum_values__': {0: <enum GTK_MESSAGE_INFO of type Gtk.MessageType>, 1: <enum GTK_MESSAGE_WARNING of type Gtk.MessageType>, 2: <enum GTK_MESSAGE_QUESTION of type Gtk.MessageType>, 3: <enum GTK_MESSAGE_ERROR of type Gtk.MessageType>, 4: <enum GTK_MESSAGE_OTHER of type Gtk.MessageType>}, '__info__': gi.EnumInfo(MessageType), 'INFO': <enum GTK_MESSAGE_INFO of type Gtk.MessageType>, 'WARNING': <enum GTK_MESSAGE_WARNING of type Gtk.MessageType>, 'QUESTION': <enum GTK_MESSAGE_QUESTION of type Gtk.MessageType>, 'ERROR': <enum GTK_MESSAGE_ERROR of type Gtk.MessageType>, 'OTHER': <enum GTK_MESSAGE_OTHER of type Gtk.MessageType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'MessageType' objects>, '__doc__': None, '__gtype__': <GType GtkMessageType (93897368948480)>, '__enum_values__': {0: <enum GTK_MESSAGE_INFO of type Gtk.MessageType>, 1: <enum GTK_MESSAGE_WARNING of type Gtk.MessageType>, 2: <enum GTK_MESSAGE_QUESTION of type Gtk.MessageType>, 3: <enum GTK_MESSAGE_ERROR of type Gtk.MessageType>, 4: <enum GTK_MESSAGE_OTHER of type Gtk.MessageType>}, '__info__': gi.EnumInfo(MessageType), 'INFO': <enum GTK_MESSAGE_INFO of type Gtk.MessageType>, 'WARNING': <enum GTK_MESSAGE_WARNING of type Gtk.MessageType>, 'QUESTION': <enum GTK_MESSAGE_QUESTION of type Gtk.MessageType>, 'ERROR': <enum GTK_MESSAGE_ERROR of type Gtk.MessageType>, 'OTHER': <enum GTK_MESSAGE_OTHER of type Gtk.MessageType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -372,7 +372,7 @@ class MessageType(__gobject.GEnum):
         3: 3,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType GtkMessageType (94846038739536)>'
+    __gtype__ = None # (!) real value is '<GType GtkMessageType (93897368948480)>'
     __info__ = gi.EnumInfo(MessageType)
 
 

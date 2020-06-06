@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -365,12 +365,12 @@ class IconThemeError(__gobject.GEnum):
     FAILED = 1
     NOT_FOUND = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'IconThemeError' objects>, '__doc__': None, '__gtype__': <GType GtkIconThemeError (94846038162176)>, '__enum_values__': {0: <enum GTK_ICON_THEME_NOT_FOUND of type Gtk.IconThemeError>, 1: <enum GTK_ICON_THEME_FAILED of type Gtk.IconThemeError>}, '__info__': gi.EnumInfo(IconThemeError), 'NOT_FOUND': <enum GTK_ICON_THEME_NOT_FOUND of type Gtk.IconThemeError>, 'FAILED': <enum GTK_ICON_THEME_FAILED of type Gtk.IconThemeError>, 'quark': gi.FunctionInfo(quark)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'IconThemeError' objects>, '__doc__': None, '__gtype__': <GType GtkIconThemeError (93897368377024)>, '__enum_values__': {0: <enum GTK_ICON_THEME_NOT_FOUND of type Gtk.IconThemeError>, 1: <enum GTK_ICON_THEME_FAILED of type Gtk.IconThemeError>}, '__info__': gi.EnumInfo(IconThemeError), 'NOT_FOUND': <enum GTK_ICON_THEME_NOT_FOUND of type Gtk.IconThemeError>, 'FAILED': <enum GTK_ICON_THEME_FAILED of type Gtk.IconThemeError>, 'quark': gi.FunctionInfo(quark)})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GtkIconThemeError (94846038162176)>'
+    __gtype__ = None # (!) real value is '<GType GtkIconThemeError (93897368377024)>'
     __info__ = gi.EnumInfo(IconThemeError)
 
 

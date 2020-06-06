@@ -362,11 +362,11 @@ class DriveStartFlags(__gobject.GFlags):
 
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DriveStartFlags' objects>, '__doc__': None, '__gtype__': <GType GDriveStartFlags (94125582233392)>, '__flags_values__': {0: <flags 0 of type Gio.DriveStartFlags>}, '__info__': gi.EnumInfo(DriveStartFlags), 'NONE': <flags 0 of type Gio.DriveStartFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DriveStartFlags' objects>, '__doc__': None, '__gtype__': <GType GDriveStartFlags (94269256864864)>, '__flags_values__': {0: <flags 0 of type Gio.DriveStartFlags>}, '__info__': gi.EnumInfo(DriveStartFlags), 'NONE': <flags 0 of type Gio.DriveStartFlags>})"
     __flags_values__ = {
         0: 0,
     }
-    __gtype__ = None # (!) real value is '<GType GDriveStartFlags (94125582233392)>'
+    __gtype__ = None # (!) real value is '<GType GDriveStartFlags (94269256864864)>'
     __info__ = gi.EnumInfo(DriveStartFlags)
 
 

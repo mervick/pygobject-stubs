@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -145,7 +145,7 @@ class ToolShellIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ToolShellIface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ToolShellIface' objects>, '__weakref__': <attribute '__weakref__' of 'ToolShellIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7fe830f294f0>, 'get_icon_size': <property object at 0x7fe830f295e0>, 'get_orientation': <property object at 0x7fe830f296d0>, 'get_style': <property object at 0x7fe830f297c0>, 'get_relief_style': <property object at 0x7fe830f29900>, 'rebuild_menu': <property object at 0x7fe830f299a0>, 'get_text_orientation': <property object at 0x7fe830f29ae0>, 'get_text_alignment': <property object at 0x7fe830f29bd0>, 'get_ellipsize_mode': <property object at 0x7fe830f29cc0>, 'get_text_size_group': <property object at 0x7fe830f29db0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ToolShellIface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ToolShellIface' objects>, '__weakref__': <attribute '__weakref__' of 'ToolShellIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7fc63a63dc20>, 'get_icon_size': <property object at 0x7fc63a63dd10>, 'get_orientation': <property object at 0x7fc63a63de00>, 'get_style': <property object at 0x7fc63a63def0>, 'get_relief_style': <property object at 0x7fc63a640090>, 'rebuild_menu': <property object at 0x7fc63a640130>, 'get_text_orientation': <property object at 0x7fc63a640270>, 'get_text_alignment': <property object at 0x7fc63a640360>, 'get_ellipsize_mode': <property object at 0x7fc63a640450>, 'get_text_size_group': <property object at 0x7fc63a640540>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ToolShellIface)
 

@@ -132,7 +132,7 @@ class GObjectAccessibleClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(GObjectAccessibleClass), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'GObjectAccessibleClass' objects>, '__weakref__': <attribute '__weakref__' of 'GObjectAccessibleClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f0cd7be4c20>, 'pad1': <property object at 0x7f0cd7be4d10>, 'pad2': <property object at 0x7f0cd7be4e00>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(GObjectAccessibleClass), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'GObjectAccessibleClass' objects>, '__weakref__': <attribute '__weakref__' of 'GObjectAccessibleClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f44c6dac130>, 'pad1': <property object at 0x7f44c6dac220>, 'pad2': <property object at 0x7f44c6dac310>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(GObjectAccessibleClass)
 

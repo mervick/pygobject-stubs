@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -151,7 +151,7 @@ class CellAccessibleParentIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(CellAccessibleParentIface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'CellAccessibleParentIface' objects>, '__weakref__': <attribute '__weakref__' of 'CellAccessibleParentIface' objects>, '__doc__': None, 'parent': <property object at 0x7fe8310b4400>, 'get_cell_extents': <property object at 0x7fe8310b4540>, 'get_cell_area': <property object at 0x7fe8310b45e0>, 'grab_focus': <property object at 0x7fe8310b46d0>, 'get_child_index': <property object at 0x7fe8310b47c0>, 'get_renderer_state': <property object at 0x7fe8310b4900>, 'expand_collapse': <property object at 0x7fe8310b49a0>, 'activate': <property object at 0x7fe8310b4a90>, 'edit': <property object at 0x7fe8310b4b80>, 'update_relationset': <property object at 0x7fe8310b4cc0>, 'get_cell_position': <property object at 0x7fe8310b4db0>, 'get_column_header_cells': <property object at 0x7fe8310b4ea0>, 'get_row_header_cells': <property object at 0x7fe8310b4f90>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(CellAccessibleParentIface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'CellAccessibleParentIface' objects>, '__weakref__': <attribute '__weakref__' of 'CellAccessibleParentIface' objects>, '__doc__': None, 'parent': <property object at 0x7fc63a7c9360>, 'get_cell_extents': <property object at 0x7fc63a7c94a0>, 'get_cell_area': <property object at 0x7fc63a7c9540>, 'grab_focus': <property object at 0x7fc63a7c9630>, 'get_child_index': <property object at 0x7fc63a7c9720>, 'get_renderer_state': <property object at 0x7fc63a7c9860>, 'expand_collapse': <property object at 0x7fc63a7c9900>, 'activate': <property object at 0x7fc63a7c99f0>, 'edit': <property object at 0x7fc63a7c9ae0>, 'update_relationset': <property object at 0x7fc63a7c9c20>, 'get_cell_position': <property object at 0x7fc63a7c9d10>, 'get_column_header_cells': <property object at 0x7fc63a7c9e00>, 'get_row_header_cells': <property object at 0x7fc63a7c9ef0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(CellAccessibleParentIface)
 

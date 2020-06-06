@@ -470,12 +470,12 @@ class IOStream(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd25acd0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b873b9820>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(IOStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GIOStream (94125582316144)>, '__doc__': None, '__gsignals__': {}, 'splice_finish': gi.FunctionInfo(splice_finish), 'clear_pending': gi.FunctionInfo(clear_pending), 'close': gi.FunctionInfo(close), 'close_async': gi.FunctionInfo(close_async), 'close_finish': gi.FunctionInfo(close_finish), 'get_input_stream': gi.FunctionInfo(get_input_stream), 'get_output_stream': gi.FunctionInfo(get_output_stream), 'has_pending': gi.FunctionInfo(has_pending), 'is_closed': gi.FunctionInfo(is_closed), 'set_pending': gi.FunctionInfo(set_pending), 'splice_async': gi.FunctionInfo(splice_async), 'do_close_async': gi.VFuncInfo(close_async), 'do_close_finish': gi.VFuncInfo(close_finish), 'do_close_fn': gi.VFuncInfo(close_fn), 'do_get_input_stream': gi.VFuncInfo(get_input_stream), 'do_get_output_stream': gi.VFuncInfo(get_output_stream), 'parent_instance': <property object at 0x7f28ddef9680>, 'priv': <property object at 0x7f28ddef9810>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(IOStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GIOStream (94269256943360)>, '__doc__': None, '__gsignals__': {}, 'splice_finish': gi.FunctionInfo(splice_finish), 'clear_pending': gi.FunctionInfo(clear_pending), 'close': gi.FunctionInfo(close), 'close_async': gi.FunctionInfo(close_async), 'close_finish': gi.FunctionInfo(close_finish), 'get_input_stream': gi.FunctionInfo(get_input_stream), 'get_output_stream': gi.FunctionInfo(get_output_stream), 'has_pending': gi.FunctionInfo(has_pending), 'is_closed': gi.FunctionInfo(is_closed), 'set_pending': gi.FunctionInfo(set_pending), 'splice_async': gi.FunctionInfo(splice_async), 'do_close_async': gi.VFuncInfo(close_async), 'do_close_finish': gi.VFuncInfo(close_finish), 'do_close_fn': gi.VFuncInfo(close_fn), 'do_get_input_stream': gi.VFuncInfo(get_input_stream), 'do_get_output_stream': gi.VFuncInfo(get_output_stream), 'parent_instance': <property object at 0x7f4b8805b860>, 'priv': <property object at 0x7f4b8805b9f0>})"
     __gdoc__ = 'Object GIOStream\n\nProperties from GIOStream:\n  input-stream -> GInputStream: Input stream\n    The GInputStream to read from\n  output-stream -> GOutputStream: Output stream\n    The GOutputStream to write to\n  closed -> gboolean: Closed\n    Is the stream closed\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GIOStream (94125582316144)>'
+    __gtype__ = None # (!) real value is '<GType GIOStream (94269256943360)>'
     __info__ = ObjectInfo(IOStream)
 
 

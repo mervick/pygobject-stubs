@@ -363,12 +363,12 @@ class FileQueryInfoFlags(__gobject.GFlags):
     NOFOLLOW_SYMLINKS = 1
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'FileQueryInfoFlags' objects>, '__doc__': None, '__gtype__': <GType GFileQueryInfoFlags (94125582382640)>, '__flags_values__': {0: <flags 0 of type Gio.FileQueryInfoFlags>, 1: <flags G_FILE_QUERY_INFO_NOFOLLOW_SYMLINKS of type Gio.FileQueryInfoFlags>}, '__info__': gi.EnumInfo(FileQueryInfoFlags), 'NONE': <flags 0 of type Gio.FileQueryInfoFlags>, 'NOFOLLOW_SYMLINKS': <flags G_FILE_QUERY_INFO_NOFOLLOW_SYMLINKS of type Gio.FileQueryInfoFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'FileQueryInfoFlags' objects>, '__doc__': None, '__gtype__': <GType GFileQueryInfoFlags (94269256932256)>, '__flags_values__': {0: <flags 0 of type Gio.FileQueryInfoFlags>, 1: <flags G_FILE_QUERY_INFO_NOFOLLOW_SYMLINKS of type Gio.FileQueryInfoFlags>}, '__info__': gi.EnumInfo(FileQueryInfoFlags), 'NONE': <flags 0 of type Gio.FileQueryInfoFlags>, 'NOFOLLOW_SYMLINKS': <flags G_FILE_QUERY_INFO_NOFOLLOW_SYMLINKS of type Gio.FileQueryInfoFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GFileQueryInfoFlags (94125582382640)>'
+    __gtype__ = None # (!) real value is '<GType GFileQueryInfoFlags (94269256932256)>'
     __info__ = gi.EnumInfo(FileQueryInfoFlags)
 
 

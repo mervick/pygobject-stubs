@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -135,7 +135,7 @@ class IMContextInfo(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(IMContextInfo), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'IMContextInfo' objects>, '__weakref__': <attribute '__weakref__' of 'IMContextInfo' objects>, '__doc__': None, 'context_id': <property object at 0x7fe831036630>, 'context_name': <property object at 0x7fe831036720>, 'domain': <property object at 0x7fe831036810>, 'domain_dirname': <property object at 0x7fe831036900>, 'default_locales': <property object at 0x7fe8310369f0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(IMContextInfo), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'IMContextInfo' objects>, '__weakref__': <attribute '__weakref__' of 'IMContextInfo' objects>, '__doc__': None, 'context_id': <property object at 0x7fc63a74b450>, 'context_name': <property object at 0x7fc63a74b540>, 'domain': <property object at 0x7fc63a74b630>, 'domain_dirname': <property object at 0x7fc63a74b720>, 'default_locales': <property object at 0x7fc63a74b810>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(IMContextInfo)
 

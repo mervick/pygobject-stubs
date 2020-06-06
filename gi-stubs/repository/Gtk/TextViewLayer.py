@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,14 +363,14 @@ class TextViewLayer(__gobject.GEnum):
     BELOW = 0
     BELOW_TEXT = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'TextViewLayer' objects>, '__doc__': None, '__gtype__': <GType GtkTextViewLayer (94846039447424)>, '__enum_values__': {0: <enum GTK_TEXT_VIEW_LAYER_BELOW of type Gtk.TextViewLayer>, 1: <enum GTK_TEXT_VIEW_LAYER_ABOVE of type Gtk.TextViewLayer>, 2: <enum GTK_TEXT_VIEW_LAYER_BELOW_TEXT of type Gtk.TextViewLayer>, 3: <enum GTK_TEXT_VIEW_LAYER_ABOVE_TEXT of type Gtk.TextViewLayer>}, '__info__': gi.EnumInfo(TextViewLayer), 'BELOW': <enum GTK_TEXT_VIEW_LAYER_BELOW of type Gtk.TextViewLayer>, 'ABOVE': <enum GTK_TEXT_VIEW_LAYER_ABOVE of type Gtk.TextViewLayer>, 'BELOW_TEXT': <enum GTK_TEXT_VIEW_LAYER_BELOW_TEXT of type Gtk.TextViewLayer>, 'ABOVE_TEXT': <enum GTK_TEXT_VIEW_LAYER_ABOVE_TEXT of type Gtk.TextViewLayer>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'TextViewLayer' objects>, '__doc__': None, '__gtype__': <GType GtkTextViewLayer (93897369649024)>, '__enum_values__': {0: <enum GTK_TEXT_VIEW_LAYER_BELOW of type Gtk.TextViewLayer>, 1: <enum GTK_TEXT_VIEW_LAYER_ABOVE of type Gtk.TextViewLayer>, 2: <enum GTK_TEXT_VIEW_LAYER_BELOW_TEXT of type Gtk.TextViewLayer>, 3: <enum GTK_TEXT_VIEW_LAYER_ABOVE_TEXT of type Gtk.TextViewLayer>}, '__info__': gi.EnumInfo(TextViewLayer), 'BELOW': <enum GTK_TEXT_VIEW_LAYER_BELOW of type Gtk.TextViewLayer>, 'ABOVE': <enum GTK_TEXT_VIEW_LAYER_ABOVE of type Gtk.TextViewLayer>, 'BELOW_TEXT': <enum GTK_TEXT_VIEW_LAYER_BELOW_TEXT of type Gtk.TextViewLayer>, 'ABOVE_TEXT': <enum GTK_TEXT_VIEW_LAYER_ABOVE_TEXT of type Gtk.TextViewLayer>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkTextViewLayer (94846039447424)>'
+    __gtype__ = None # (!) real value is '<GType GtkTextViewLayer (93897369649024)>'
     __info__ = gi.EnumInfo(TextViewLayer)
 
 

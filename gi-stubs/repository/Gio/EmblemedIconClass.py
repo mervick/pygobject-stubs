@@ -124,7 +124,7 @@ class EmblemedIconClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EmblemedIconClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EmblemedIconClass' objects>, '__weakref__': <attribute '__weakref__' of 'EmblemedIconClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28ddeeaef0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EmblemedIconClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EmblemedIconClass' objects>, '__weakref__': <attribute '__weakref__' of 'EmblemedIconClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b8804ef90>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(EmblemedIconClass)
 

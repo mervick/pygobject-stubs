@@ -141,7 +141,7 @@ class Mutex(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': gi.UnionInfo(Mutex), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'Mutex' objects>, '__weakref__': <attribute '__weakref__' of 'Mutex' objects>, '__doc__': None, 'p': <property object at 0x7f1d2b8f0cc0>, 'i': <property object at 0x7f1d2b8f0db0>, 'clear': gi.FunctionInfo(clear), 'init': gi.FunctionInfo(init), 'lock': gi.FunctionInfo(lock), 'trylock': gi.FunctionInfo(trylock), 'unlock': gi.FunctionInfo(unlock)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': gi.UnionInfo(Mutex), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'Mutex' objects>, '__weakref__': <attribute '__weakref__' of 'Mutex' objects>, '__doc__': None, 'p': <property object at 0x7f85134eeea0>, 'i': <property object at 0x7f85134eef90>, 'clear': gi.FunctionInfo(clear), 'init': gi.FunctionInfo(init), 'lock': gi.FunctionInfo(lock), 'trylock': gi.FunctionInfo(trylock), 'unlock': gi.FunctionInfo(unlock)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = gi.UnionInfo(Mutex)
 

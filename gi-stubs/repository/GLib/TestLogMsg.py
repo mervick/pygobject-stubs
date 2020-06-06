@@ -137,7 +137,7 @@ class TestLogMsg(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TestLogMsg), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TestLogMsg' objects>, '__weakref__': <attribute '__weakref__' of 'TestLogMsg' objects>, '__doc__': None, 'log_type': <property object at 0x7f1d2b9c97c0>, 'n_strings': <property object at 0x7f1d2b9c98b0>, 'strings': <property object at 0x7f1d2b9c99a0>, 'n_nums': <property object at 0x7f1d2b9c9a90>, 'nums': <property object at 0x7f1d2b9c9b80>, 'free': gi.FunctionInfo(free)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TestLogMsg), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TestLogMsg' objects>, '__weakref__': <attribute '__weakref__' of 'TestLogMsg' objects>, '__doc__': None, 'log_type': <property object at 0x7f8513505db0>, 'n_strings': <property object at 0x7f8513505ea0>, 'strings': <property object at 0x7f8513505f90>, 'n_nums': <property object at 0x7f85135070e0>, 'nums': <property object at 0x7f85135071d0>, 'free': gi.FunctionInfo(free)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TestLogMsg)
 

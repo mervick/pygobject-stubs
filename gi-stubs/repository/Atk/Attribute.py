@@ -134,7 +134,7 @@ class Attribute(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Attribute), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'Attribute' objects>, '__weakref__': <attribute '__weakref__' of 'Attribute' objects>, '__doc__': None, 'name': <property object at 0x7f0cd80e3d60>, 'value': <property object at 0x7f0cd80e3e50>, 'set_free': gi.FunctionInfo(set_free)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Attribute), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'Attribute' objects>, '__weakref__': <attribute '__weakref__' of 'Attribute' objects>, '__doc__': None, 'name': <property object at 0x7f44c6da0270>, 'value': <property object at 0x7f44c6da0360>, 'set_free': gi.FunctionInfo(set_free)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(Attribute)
 

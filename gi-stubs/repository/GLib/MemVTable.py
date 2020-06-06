@@ -135,7 +135,7 @@ class MemVTable(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(MemVTable), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'MemVTable' objects>, '__weakref__': <attribute '__weakref__' of 'MemVTable' objects>, '__doc__': None, 'malloc': <property object at 0x7f1d2b8f0630>, 'realloc': <property object at 0x7f1d2b8f0720>, 'free': <property object at 0x7f1d2b8f0810>, 'calloc': <property object at 0x7f1d2b8f0900>, 'try_malloc': <property object at 0x7f1d2b8f09f0>, 'try_realloc': <property object at 0x7f1d2b8f0ae0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(MemVTable), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'MemVTable' objects>, '__weakref__': <attribute '__weakref__' of 'MemVTable' objects>, '__doc__': None, 'malloc': <property object at 0x7f85134ee810>, 'realloc': <property object at 0x7f85134ee900>, 'free': <property object at 0x7f85134ee9f0>, 'calloc': <property object at 0x7f85134eeae0>, 'try_malloc': <property object at 0x7f85134eebd0>, 'try_realloc': <property object at 0x7f85134eecc0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(MemVTable)
 

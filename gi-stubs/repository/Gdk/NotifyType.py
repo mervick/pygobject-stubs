@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -361,7 +361,7 @@ class NotifyType(__gobject.GEnum):
     UNKNOWN = 5
     VIRTUAL = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'NotifyType' objects>, '__doc__': None, '__gtype__': <GType GdkNotifyType (94055651830944)>, '__enum_values__': {0: <enum GDK_NOTIFY_ANCESTOR of type Gdk.NotifyType>, 1: <enum GDK_NOTIFY_VIRTUAL of type Gdk.NotifyType>, 2: <enum GDK_NOTIFY_INFERIOR of type Gdk.NotifyType>, 3: <enum GDK_NOTIFY_NONLINEAR of type Gdk.NotifyType>, 4: <enum GDK_NOTIFY_NONLINEAR_VIRTUAL of type Gdk.NotifyType>, 5: <enum GDK_NOTIFY_UNKNOWN of type Gdk.NotifyType>}, '__info__': gi.EnumInfo(NotifyType), 'ANCESTOR': <enum GDK_NOTIFY_ANCESTOR of type Gdk.NotifyType>, 'VIRTUAL': <enum GDK_NOTIFY_VIRTUAL of type Gdk.NotifyType>, 'INFERIOR': <enum GDK_NOTIFY_INFERIOR of type Gdk.NotifyType>, 'NONLINEAR': <enum GDK_NOTIFY_NONLINEAR of type Gdk.NotifyType>, 'NONLINEAR_VIRTUAL': <enum GDK_NOTIFY_NONLINEAR_VIRTUAL of type Gdk.NotifyType>, 'UNKNOWN': <enum GDK_NOTIFY_UNKNOWN of type Gdk.NotifyType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'NotifyType' objects>, '__doc__': None, '__gtype__': <GType GdkNotifyType (94915769407504)>, '__enum_values__': {0: <enum GDK_NOTIFY_ANCESTOR of type Gdk.NotifyType>, 1: <enum GDK_NOTIFY_VIRTUAL of type Gdk.NotifyType>, 2: <enum GDK_NOTIFY_INFERIOR of type Gdk.NotifyType>, 3: <enum GDK_NOTIFY_NONLINEAR of type Gdk.NotifyType>, 4: <enum GDK_NOTIFY_NONLINEAR_VIRTUAL of type Gdk.NotifyType>, 5: <enum GDK_NOTIFY_UNKNOWN of type Gdk.NotifyType>}, '__info__': gi.EnumInfo(NotifyType), 'ANCESTOR': <enum GDK_NOTIFY_ANCESTOR of type Gdk.NotifyType>, 'VIRTUAL': <enum GDK_NOTIFY_VIRTUAL of type Gdk.NotifyType>, 'INFERIOR': <enum GDK_NOTIFY_INFERIOR of type Gdk.NotifyType>, 'NONLINEAR': <enum GDK_NOTIFY_NONLINEAR of type Gdk.NotifyType>, 'NONLINEAR_VIRTUAL': <enum GDK_NOTIFY_NONLINEAR_VIRTUAL of type Gdk.NotifyType>, 'UNKNOWN': <enum GDK_NOTIFY_UNKNOWN of type Gdk.NotifyType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -370,7 +370,7 @@ class NotifyType(__gobject.GEnum):
         4: 4,
         5: 5,
     }
-    __gtype__ = None # (!) real value is '<GType GdkNotifyType (94055651830944)>'
+    __gtype__ = None # (!) real value is '<GType GdkNotifyType (94915769407504)>'
     __info__ = gi.EnumInfo(NotifyType)
 
 

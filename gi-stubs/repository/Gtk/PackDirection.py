@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,14 +363,14 @@ class PackDirection(__gobject.GEnum):
     RTL = 1
     TTB = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PackDirection' objects>, '__doc__': None, '__gtype__': <GType GtkPackDirection (94846038497424)>, '__enum_values__': {0: <enum GTK_PACK_DIRECTION_LTR of type Gtk.PackDirection>, 1: <enum GTK_PACK_DIRECTION_RTL of type Gtk.PackDirection>, 2: <enum GTK_PACK_DIRECTION_TTB of type Gtk.PackDirection>, 3: <enum GTK_PACK_DIRECTION_BTT of type Gtk.PackDirection>}, '__info__': gi.EnumInfo(PackDirection), 'LTR': <enum GTK_PACK_DIRECTION_LTR of type Gtk.PackDirection>, 'RTL': <enum GTK_PACK_DIRECTION_RTL of type Gtk.PackDirection>, 'TTB': <enum GTK_PACK_DIRECTION_TTB of type Gtk.PackDirection>, 'BTT': <enum GTK_PACK_DIRECTION_BTT of type Gtk.PackDirection>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PackDirection' objects>, '__doc__': None, '__gtype__': <GType GtkPackDirection (93897368960288)>, '__enum_values__': {0: <enum GTK_PACK_DIRECTION_LTR of type Gtk.PackDirection>, 1: <enum GTK_PACK_DIRECTION_RTL of type Gtk.PackDirection>, 2: <enum GTK_PACK_DIRECTION_TTB of type Gtk.PackDirection>, 3: <enum GTK_PACK_DIRECTION_BTT of type Gtk.PackDirection>}, '__info__': gi.EnumInfo(PackDirection), 'LTR': <enum GTK_PACK_DIRECTION_LTR of type Gtk.PackDirection>, 'RTL': <enum GTK_PACK_DIRECTION_RTL of type Gtk.PackDirection>, 'TTB': <enum GTK_PACK_DIRECTION_TTB of type Gtk.PackDirection>, 'BTT': <enum GTK_PACK_DIRECTION_BTT of type Gtk.PackDirection>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkPackDirection (94846038497424)>'
+    __gtype__ = None # (!) real value is '<GType GtkPackDirection (93897368960288)>'
     __info__ = gi.EnumInfo(PackDirection)
 
 

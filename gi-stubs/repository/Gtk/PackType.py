@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -361,12 +361,12 @@ class PackType(__gobject.GEnum):
     END = 1
     START = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PackType' objects>, '__doc__': None, '__gtype__': <GType GtkPackType (94846038172672)>, '__enum_values__': {0: <enum GTK_PACK_START of type Gtk.PackType>, 1: <enum GTK_PACK_END of type Gtk.PackType>}, '__info__': gi.EnumInfo(PackType), 'START': <enum GTK_PACK_START of type Gtk.PackType>, 'END': <enum GTK_PACK_END of type Gtk.PackType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PackType' objects>, '__doc__': None, '__gtype__': <GType GtkPackType (93897368387456)>, '__enum_values__': {0: <enum GTK_PACK_START of type Gtk.PackType>, 1: <enum GTK_PACK_END of type Gtk.PackType>}, '__info__': gi.EnumInfo(PackType), 'START': <enum GTK_PACK_START of type Gtk.PackType>, 'END': <enum GTK_PACK_END of type Gtk.PackType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GtkPackType (94846038172672)>'
+    __gtype__ = None # (!) real value is '<GType GtkPackType (93897368387456)>'
     __info__ = gi.EnumInfo(PackType)
 
 

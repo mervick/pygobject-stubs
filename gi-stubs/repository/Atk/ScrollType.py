@@ -367,7 +367,7 @@ class ScrollType(__gobject.GEnum):
     TOP_EDGE = 2
     TOP_LEFT = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Atk', '__dict__': <attribute '__dict__' of 'ScrollType' objects>, '__doc__': None, '__gtype__': <GType AtkScrollType (93922956033856)>, '__enum_values__': {0: <enum ATK_SCROLL_TOP_LEFT of type Atk.ScrollType>, 1: <enum ATK_SCROLL_BOTTOM_RIGHT of type Atk.ScrollType>, 2: <enum ATK_SCROLL_TOP_EDGE of type Atk.ScrollType>, 3: <enum ATK_SCROLL_BOTTOM_EDGE of type Atk.ScrollType>, 4: <enum ATK_SCROLL_LEFT_EDGE of type Atk.ScrollType>, 5: <enum ATK_SCROLL_RIGHT_EDGE of type Atk.ScrollType>, 6: <enum ATK_SCROLL_ANYWHERE of type Atk.ScrollType>}, '__info__': gi.EnumInfo(ScrollType), 'TOP_LEFT': <enum ATK_SCROLL_TOP_LEFT of type Atk.ScrollType>, 'BOTTOM_RIGHT': <enum ATK_SCROLL_BOTTOM_RIGHT of type Atk.ScrollType>, 'TOP_EDGE': <enum ATK_SCROLL_TOP_EDGE of type Atk.ScrollType>, 'BOTTOM_EDGE': <enum ATK_SCROLL_BOTTOM_EDGE of type Atk.ScrollType>, 'LEFT_EDGE': <enum ATK_SCROLL_LEFT_EDGE of type Atk.ScrollType>, 'RIGHT_EDGE': <enum ATK_SCROLL_RIGHT_EDGE of type Atk.ScrollType>, 'ANYWHERE': <enum ATK_SCROLL_ANYWHERE of type Atk.ScrollType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Atk', '__dict__': <attribute '__dict__' of 'ScrollType' objects>, '__doc__': None, '__gtype__': <GType AtkScrollType (94258337937184)>, '__enum_values__': {0: <enum ATK_SCROLL_TOP_LEFT of type Atk.ScrollType>, 1: <enum ATK_SCROLL_BOTTOM_RIGHT of type Atk.ScrollType>, 2: <enum ATK_SCROLL_TOP_EDGE of type Atk.ScrollType>, 3: <enum ATK_SCROLL_BOTTOM_EDGE of type Atk.ScrollType>, 4: <enum ATK_SCROLL_LEFT_EDGE of type Atk.ScrollType>, 5: <enum ATK_SCROLL_RIGHT_EDGE of type Atk.ScrollType>, 6: <enum ATK_SCROLL_ANYWHERE of type Atk.ScrollType>}, '__info__': gi.EnumInfo(ScrollType), 'TOP_LEFT': <enum ATK_SCROLL_TOP_LEFT of type Atk.ScrollType>, 'BOTTOM_RIGHT': <enum ATK_SCROLL_BOTTOM_RIGHT of type Atk.ScrollType>, 'TOP_EDGE': <enum ATK_SCROLL_TOP_EDGE of type Atk.ScrollType>, 'BOTTOM_EDGE': <enum ATK_SCROLL_BOTTOM_EDGE of type Atk.ScrollType>, 'LEFT_EDGE': <enum ATK_SCROLL_LEFT_EDGE of type Atk.ScrollType>, 'RIGHT_EDGE': <enum ATK_SCROLL_RIGHT_EDGE of type Atk.ScrollType>, 'ANYWHERE': <enum ATK_SCROLL_ANYWHERE of type Atk.ScrollType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -377,7 +377,7 @@ class ScrollType(__gobject.GEnum):
         5: 5,
         6: 6,
     }
-    __gtype__ = None # (!) real value is '<GType AtkScrollType (93922956033856)>'
+    __gtype__ = None # (!) real value is '<GType AtkScrollType (94258337937184)>'
     __info__ = gi.EnumInfo(ScrollType)
 
 

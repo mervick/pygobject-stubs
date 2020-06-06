@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -362,13 +362,13 @@ class ArrowPlacement(__gobject.GEnum):
     END = 2
     START = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ArrowPlacement' objects>, '__doc__': None, '__gtype__': <GType GtkArrowPlacement (94846037295104)>, '__enum_values__': {0: <enum GTK_ARROWS_BOTH of type Gtk.ArrowPlacement>, 1: <enum GTK_ARROWS_START of type Gtk.ArrowPlacement>, 2: <enum GTK_ARROWS_END of type Gtk.ArrowPlacement>}, '__info__': gi.EnumInfo(ArrowPlacement), 'BOTH': <enum GTK_ARROWS_BOTH of type Gtk.ArrowPlacement>, 'START': <enum GTK_ARROWS_START of type Gtk.ArrowPlacement>, 'END': <enum GTK_ARROWS_END of type Gtk.ArrowPlacement>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ArrowPlacement' objects>, '__doc__': None, '__gtype__': <GType GtkArrowPlacement (93897367511344)>, '__enum_values__': {0: <enum GTK_ARROWS_BOTH of type Gtk.ArrowPlacement>, 1: <enum GTK_ARROWS_START of type Gtk.ArrowPlacement>, 2: <enum GTK_ARROWS_END of type Gtk.ArrowPlacement>}, '__info__': gi.EnumInfo(ArrowPlacement), 'BOTH': <enum GTK_ARROWS_BOTH of type Gtk.ArrowPlacement>, 'START': <enum GTK_ARROWS_START of type Gtk.ArrowPlacement>, 'END': <enum GTK_ARROWS_END of type Gtk.ArrowPlacement>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GtkArrowPlacement (94846037295104)>'
+    __gtype__ = None # (!) real value is '<GType GtkArrowPlacement (93897367511344)>'
     __info__ = gi.EnumInfo(ArrowPlacement)
 
 

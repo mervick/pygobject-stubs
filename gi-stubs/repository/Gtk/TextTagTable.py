@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -491,12 +491,12 @@ class TextTagTable(__gi_overrides_GObject.Object, Buildable):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe82e8d6370>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc638243ca0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(TextTagTable), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkTextTagTable (94846038471568)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add': gi.FunctionInfo(add), 'foreach': gi.FunctionInfo(foreach), 'get_size': gi.FunctionInfo(get_size), 'lookup': gi.FunctionInfo(lookup), 'remove': gi.FunctionInfo(remove), 'do_tag_added': gi.VFuncInfo(tag_added), 'do_tag_changed': gi.VFuncInfo(tag_changed), 'do_tag_removed': gi.VFuncInfo(tag_removed), 'parent_instance': <property object at 0x7fe830f94680>, 'priv': <property object at 0x7fe830f94770>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(TextTagTable), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkTextTagTable (93897369618960)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add': gi.FunctionInfo(add), 'foreach': gi.FunctionInfo(foreach), 'get_size': gi.FunctionInfo(get_size), 'lookup': gi.FunctionInfo(lookup), 'remove': gi.FunctionInfo(remove), 'do_tag_added': gi.VFuncInfo(tag_added), 'do_tag_changed': gi.VFuncInfo(tag_changed), 'do_tag_removed': gi.VFuncInfo(tag_removed), 'parent_instance': <property object at 0x7fc63a6a9d10>, 'priv': <property object at 0x7fc63a6a9e00>})"
     __gdoc__ = 'Object GtkTextTagTable\n\nSignals from GtkTextTagTable:\n  tag-changed (GtkTextTag, gboolean)\n  tag-added (GtkTextTag)\n  tag-removed (GtkTextTag)\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkTextTagTable (94846038471568)>'
+    __gtype__ = None # (!) real value is '<GType GtkTextTagTable (93897369618960)>'
     __info__ = ObjectInfo(TextTagTable)
 
 

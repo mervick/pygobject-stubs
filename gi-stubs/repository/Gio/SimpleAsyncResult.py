@@ -477,12 +477,12 @@ class SimpleAsyncResult(__gi_overrides_GObject.Object, AsyncResult):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd07c580>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b870fb1c0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SimpleAsyncResult), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSimpleAsyncResult (94125582712160)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_from_error': gi.FunctionInfo(new_from_error), 'is_valid': gi.FunctionInfo(is_valid), 'complete': gi.FunctionInfo(complete), 'complete_in_idle': gi.FunctionInfo(complete_in_idle), 'get_op_res_gboolean': gi.FunctionInfo(get_op_res_gboolean), 'get_op_res_gssize': gi.FunctionInfo(get_op_res_gssize), 'propagate_error': gi.FunctionInfo(propagate_error), 'set_check_cancellable': gi.FunctionInfo(set_check_cancellable), 'set_from_error': gi.FunctionInfo(set_from_error), 'set_handle_cancellation': gi.FunctionInfo(set_handle_cancellation), 'set_op_res_gboolean': gi.FunctionInfo(set_op_res_gboolean), 'set_op_res_gssize': gi.FunctionInfo(set_op_res_gssize)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SimpleAsyncResult), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSimpleAsyncResult (94269257278096)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_from_error': gi.FunctionInfo(new_from_error), 'is_valid': gi.FunctionInfo(is_valid), 'complete': gi.FunctionInfo(complete), 'complete_in_idle': gi.FunctionInfo(complete_in_idle), 'get_op_res_gboolean': gi.FunctionInfo(get_op_res_gboolean), 'get_op_res_gssize': gi.FunctionInfo(get_op_res_gssize), 'propagate_error': gi.FunctionInfo(propagate_error), 'set_check_cancellable': gi.FunctionInfo(set_check_cancellable), 'set_from_error': gi.FunctionInfo(set_from_error), 'set_handle_cancellation': gi.FunctionInfo(set_handle_cancellation), 'set_op_res_gboolean': gi.FunctionInfo(set_op_res_gboolean), 'set_op_res_gssize': gi.FunctionInfo(set_op_res_gssize)})"
     __gdoc__ = 'Object GSimpleAsyncResult\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GSimpleAsyncResult (94125582712160)>'
+    __gtype__ = None # (!) real value is '<GType GSimpleAsyncResult (94269257278096)>'
     __info__ = ObjectInfo(SimpleAsyncResult)
 
 

@@ -132,7 +132,7 @@ class DBusInterfaceIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(DBusInterfaceIface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'DBusInterfaceIface' objects>, '__weakref__': <attribute '__weakref__' of 'DBusInterfaceIface' objects>, '__doc__': None, 'parent_iface': <property object at 0x7f28ddec4360>, 'get_info': <property object at 0x7f28ddec4450>, 'get_object': <property object at 0x7f28ddec4540>, 'set_object': <property object at 0x7f28ddec4630>, 'dup_object': <property object at 0x7f28ddec4720>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(DBusInterfaceIface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'DBusInterfaceIface' objects>, '__weakref__': <attribute '__weakref__' of 'DBusInterfaceIface' objects>, '__doc__': None, 'parent_iface': <property object at 0x7f4b8802a4f0>, 'get_info': <property object at 0x7f4b8802a5e0>, 'get_object': <property object at 0x7f4b8802a6d0>, 'set_object': <property object at 0x7f4b8802a7c0>, 'dup_object': <property object at 0x7f4b8802a8b0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(DBusInterfaceIface)
 

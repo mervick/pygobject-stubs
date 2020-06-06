@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -125,7 +125,7 @@ class Point(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Point), '__module__': 'gi.repository.Gdk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'Point' objects>, '__weakref__': <attribute '__weakref__' of 'Point' objects>, '__doc__': None, 'x': <property object at 0x7f1e11c2e7c0>, 'y': <property object at 0x7f1e11c2e8b0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Point), '__module__': 'gi.repository.Gdk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'Point' objects>, '__weakref__': <attribute '__weakref__' of 'Point' objects>, '__doc__': None, 'x': <property object at 0x7fbaf812c1d0>, 'y': <property object at 0x7fbaf812c2c0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(Point)
 

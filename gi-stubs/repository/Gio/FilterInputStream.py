@@ -534,12 +534,12 @@ class FilterInputStream(InputStream):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28ddf6ccd0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b880d6160>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FilterInputStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GFilterInputStream (94125581594512)>, '__doc__': None, '__gsignals__': {}, 'get_base_stream': gi.FunctionInfo(get_base_stream), 'get_close_base_stream': gi.FunctionInfo(get_close_base_stream), 'set_close_base_stream': gi.FunctionInfo(set_close_base_stream), 'parent_instance': <property object at 0x7f28ddf2d400>, 'base_stream': <property object at 0x7f28ddf2d4f0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FilterInputStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GFilterInputStream (94269256345776)>, '__doc__': None, '__gsignals__': {}, 'get_base_stream': gi.FunctionInfo(get_base_stream), 'get_close_base_stream': gi.FunctionInfo(get_close_base_stream), 'set_close_base_stream': gi.FunctionInfo(set_close_base_stream), 'parent_instance': <property object at 0x7f4b8808f540>, 'base_stream': <property object at 0x7f4b8808f630>})"
     __gdoc__ = 'Object GFilterInputStream\n\nProperties from GFilterInputStream:\n  base-stream -> GInputStream: The Filter Base Stream\n    The underlying base stream on which the io ops will be done.\n  close-base-stream -> gboolean: Close Base Stream\n    If the base stream should be closed when the filter stream is closed.\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GFilterInputStream (94125581594512)>'
+    __gtype__ = None # (!) real value is '<GType GFilterInputStream (94269256345776)>'
     __info__ = ObjectInfo(FilterInputStream)
 
 

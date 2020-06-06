@@ -134,7 +134,7 @@ class MemoryInputStreamClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(MemoryInputStreamClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'MemoryInputStreamClass' objects>, '__weakref__': <attribute '__weakref__' of 'MemoryInputStreamClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28ddea4b80>, '_g_reserved1': <property object at 0x7f28ddea4c70>, '_g_reserved2': <property object at 0x7f28ddea4d60>, '_g_reserved3': <property object at 0x7f28ddea4e50>, '_g_reserved4': <property object at 0x7f28ddea4f40>, '_g_reserved5': <property object at 0x7f28ddea6090>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(MemoryInputStreamClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'MemoryInputStreamClass' objects>, '__weakref__': <attribute '__weakref__' of 'MemoryInputStreamClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b88006cc0>, '_g_reserved1': <property object at 0x7f4b88006db0>, '_g_reserved2': <property object at 0x7f4b88006ea0>, '_g_reserved3': <property object at 0x7f4b88006f90>, '_g_reserved4': <property object at 0x7f4b880080e0>, '_g_reserved5': <property object at 0x7f4b880081d0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(MemoryInputStreamClass)
 

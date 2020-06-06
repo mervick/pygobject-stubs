@@ -477,12 +477,12 @@ class SimpleIOStream(IOStream):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd15b130>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b870fb310>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SimpleIOStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSimpleIOStream (94125582705344)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SimpleIOStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSimpleIOStream (94269257347984)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new)})"
     __gdoc__ = 'Object GSimpleIOStream\n\nProperties from GSimpleIOStream:\n  input-stream -> GInputStream: Input stream\n    The GInputStream to read from\n  output-stream -> GOutputStream: Output stream\n    The GOutputStream to write to\n\nProperties from GIOStream:\n  input-stream -> GInputStream: Input stream\n    The GInputStream to read from\n  output-stream -> GOutputStream: Output stream\n    The GOutputStream to write to\n  closed -> gboolean: Closed\n    Is the stream closed\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GSimpleIOStream (94125582705344)>'
+    __gtype__ = None # (!) real value is '<GType GSimpleIOStream (94269257347984)>'
     __info__ = ObjectInfo(SimpleIOStream)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -594,12 +594,12 @@ class CellRendererToggle(CellRenderer):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe8307c0d90>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc63a0b8910>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(CellRendererToggle), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkCellRendererToggle (94846038079424)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_activatable': gi.FunctionInfo(get_activatable), 'get_active': gi.FunctionInfo(get_active), 'get_radio': gi.FunctionInfo(get_radio), 'set_activatable': gi.FunctionInfo(set_activatable), 'set_active': gi.FunctionInfo(set_active), 'set_radio': gi.FunctionInfo(set_radio), 'do_toggled': gi.VFuncInfo(toggled), 'parent': <property object at 0x7fe8310cc950>, 'priv': <property object at 0x7fe8310cca40>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(CellRendererToggle), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkCellRendererToggle (93897368294224)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_activatable': gi.FunctionInfo(get_activatable), 'get_active': gi.FunctionInfo(get_active), 'get_radio': gi.FunctionInfo(get_radio), 'set_activatable': gi.FunctionInfo(set_activatable), 'set_active': gi.FunctionInfo(set_active), 'set_radio': gi.FunctionInfo(set_radio), 'do_toggled': gi.VFuncInfo(toggled), 'parent': <property object at 0x7fc63a7e28b0>, 'priv': <property object at 0x7fc63a7e29a0>})"
     __gdoc__ = 'Object GtkCellRendererToggle\n\nSignals from GtkCellRendererToggle:\n  toggled (gchararray)\n\nProperties from GtkCellRendererToggle:\n  activatable -> gboolean: Activatable\n    The toggle button can be activated\n  active -> gboolean: Toggle state\n    The toggle state of the button\n  radio -> gboolean: Radio state\n    Draw the toggle button as a radio button\n  inconsistent -> gboolean: Inconsistent state\n    The inconsistent state of the button\n  indicator-size -> gint: Indicator size\n    Size of check or radio indicator\n\nSignals from GtkCellRenderer:\n  editing-canceled ()\n  editing-started (GtkCellEditable, gchararray)\n\nProperties from GtkCellRenderer:\n  mode -> GtkCellRendererMode: mode\n    Editable mode of the CellRenderer\n  visible -> gboolean: visible\n    Display the cell\n  sensitive -> gboolean: Sensitive\n    Display the cell sensitive\n  xalign -> gfloat: xalign\n    The x-align\n  yalign -> gfloat: yalign\n    The y-align\n  xpad -> guint: xpad\n    The xpad\n  ypad -> guint: ypad\n    The ypad\n  width -> gint: width\n    The fixed width\n  height -> gint: height\n    The fixed height\n  is-expander -> gboolean: Is Expander\n    Row has children\n  is-expanded -> gboolean: Is Expanded\n    Row is an expander row, and is expanded\n  cell-background -> gchararray: Cell background color name\n    Cell background color as a string\n  cell-background-gdk -> GdkColor: Cell background color\n    Cell background color as a GdkColor\n  cell-background-rgba -> GdkRGBA: Cell background RGBA color\n    Cell background color as a GdkRGBA\n  cell-background-set -> gboolean: Cell background set\n    Whether the cell background color is set\n  editing -> gboolean: Editing\n    Whether the cell renderer is currently in editing mode\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkCellRendererToggle (94846038079424)>'
+    __gtype__ = None # (!) real value is '<GType GtkCellRendererToggle (93897368294224)>'
     __info__ = ObjectInfo(CellRendererToggle)
 
 

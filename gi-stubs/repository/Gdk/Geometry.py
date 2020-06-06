@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -143,7 +143,7 @@ class Geometry(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Geometry), '__module__': 'gi.repository.Gdk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'Geometry' objects>, '__weakref__': <attribute '__weakref__' of 'Geometry' objects>, '__doc__': None, 'min_width': <property object at 0x7f1e11c6b450>, 'min_height': <property object at 0x7f1e11c6b540>, 'max_width': <property object at 0x7f1e11c6b630>, 'max_height': <property object at 0x7f1e11c6b720>, 'base_width': <property object at 0x7f1e11c6b810>, 'base_height': <property object at 0x7f1e11c6b900>, 'width_inc': <property object at 0x7f1e11c6b9f0>, 'height_inc': <property object at 0x7f1e11c6bae0>, 'min_aspect': <property object at 0x7f1e11c6bbd0>, 'max_aspect': <property object at 0x7f1e11c6bcc0>, 'win_gravity': <property object at 0x7f1e11c6bdb0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Geometry), '__module__': 'gi.repository.Gdk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'Geometry' objects>, '__weakref__': <attribute '__weakref__' of 'Geometry' objects>, '__doc__': None, 'min_width': <property object at 0x7fbaf8169770>, 'min_height': <property object at 0x7fbaf8169860>, 'max_width': <property object at 0x7fbaf8169950>, 'max_height': <property object at 0x7fbaf8169a40>, 'base_width': <property object at 0x7fbaf8169b30>, 'base_height': <property object at 0x7fbaf8169c20>, 'width_inc': <property object at 0x7fbaf8169d10>, 'height_inc': <property object at 0x7fbaf8169e00>, 'min_aspect': <property object at 0x7fbaf8169ef0>, 'max_aspect': <property object at 0x7fbaf8116040>, 'win_gravity': <property object at 0x7fbaf8116130>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(Geometry)
 

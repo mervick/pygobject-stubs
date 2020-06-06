@@ -151,10 +151,10 @@ class Document(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Document), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkDocument (93922956176048)>, '__dict__': <attribute '__dict__' of 'Document' objects>, '__weakref__': <attribute '__weakref__' of 'Document' objects>, '__doc__': None, '__gsignals__': {}, 'get_attribute_value': gi.FunctionInfo(get_attribute_value), 'get_attributes': gi.FunctionInfo(get_attributes), 'get_current_page_number': gi.FunctionInfo(get_current_page_number), 'get_document': gi.FunctionInfo(get_document), 'get_document_type': gi.FunctionInfo(get_document_type), 'get_locale': gi.FunctionInfo(get_locale), 'get_page_count': gi.FunctionInfo(get_page_count), 'set_attribute_value': gi.FunctionInfo(set_attribute_value)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Document), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkDocument (94258337646976)>, '__dict__': <attribute '__dict__' of 'Document' objects>, '__weakref__': <attribute '__weakref__' of 'Document' objects>, '__doc__': None, '__gsignals__': {}, 'get_attribute_value': gi.FunctionInfo(get_attribute_value), 'get_attributes': gi.FunctionInfo(get_attributes), 'get_current_page_number': gi.FunctionInfo(get_current_page_number), 'get_document': gi.FunctionInfo(get_document), 'get_document_type': gi.FunctionInfo(get_document_type), 'get_locale': gi.FunctionInfo(get_locale), 'get_page_count': gi.FunctionInfo(get_page_count), 'set_attribute_value': gi.FunctionInfo(set_attribute_value)})"
     __gdoc__ = 'Interface AtkDocument\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType AtkDocument (93922956176048)>'
+    __gtype__ = None # (!) real value is '<GType AtkDocument (94258337646976)>'
     __info__ = InterfaceInfo(Document)
 
 

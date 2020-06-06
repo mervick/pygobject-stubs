@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -362,13 +362,13 @@ class TextDirection(__gobject.GEnum):
     NONE = 0
     RTL = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'TextDirection' objects>, '__doc__': None, '__gtype__': <GType GtkTextDirection (94846037192512)>, '__enum_values__': {0: <enum GTK_TEXT_DIR_NONE of type Gtk.TextDirection>, 1: <enum GTK_TEXT_DIR_LTR of type Gtk.TextDirection>, 2: <enum GTK_TEXT_DIR_RTL of type Gtk.TextDirection>}, '__info__': gi.EnumInfo(TextDirection), 'NONE': <enum GTK_TEXT_DIR_NONE of type Gtk.TextDirection>, 'LTR': <enum GTK_TEXT_DIR_LTR of type Gtk.TextDirection>, 'RTL': <enum GTK_TEXT_DIR_RTL of type Gtk.TextDirection>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'TextDirection' objects>, '__doc__': None, '__gtype__': <GType GtkTextDirection (93897367405056)>, '__enum_values__': {0: <enum GTK_TEXT_DIR_NONE of type Gtk.TextDirection>, 1: <enum GTK_TEXT_DIR_LTR of type Gtk.TextDirection>, 2: <enum GTK_TEXT_DIR_RTL of type Gtk.TextDirection>}, '__info__': gi.EnumInfo(TextDirection), 'NONE': <enum GTK_TEXT_DIR_NONE of type Gtk.TextDirection>, 'LTR': <enum GTK_TEXT_DIR_LTR of type Gtk.TextDirection>, 'RTL': <enum GTK_TEXT_DIR_RTL of type Gtk.TextDirection>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GtkTextDirection (94846037192512)>'
+    __gtype__ = None # (!) real value is '<GType GtkTextDirection (93897367405056)>'
     __info__ = gi.EnumInfo(TextDirection)
 
 

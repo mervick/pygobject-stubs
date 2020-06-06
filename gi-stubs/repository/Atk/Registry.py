@@ -424,12 +424,12 @@ class Registry(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f0cd81d7430>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f44c6d28d90>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Registry), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkRegistry (93922956001248)>, '__doc__': None, '__gsignals__': {}, 'get_factory': gi.FunctionInfo(get_factory), 'get_factory_type': gi.FunctionInfo(get_factory_type), 'set_factory_type': gi.FunctionInfo(set_factory_type), 'parent': <property object at 0x7f0cd81a7270>, 'factory_type_registry': <property object at 0x7f0cd81a73b0>, 'factory_singleton_cache': <property object at 0x7f0cd81a74f0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Registry), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkRegistry (94258338113296)>, '__doc__': None, '__gsignals__': {}, 'get_factory': gi.FunctionInfo(get_factory), 'get_factory_type': gi.FunctionInfo(get_factory_type), 'set_factory_type': gi.FunctionInfo(set_factory_type), 'parent': <property object at 0x7f44c6dbf770>, 'factory_type_registry': <property object at 0x7f44c6dbf8b0>, 'factory_singleton_cache': <property object at 0x7f44c6dbf9f0>})"
     __gdoc__ = 'Object AtkRegistry\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType AtkRegistry (93922956001248)>'
+    __gtype__ = None # (!) real value is '<GType AtkRegistry (94258338113296)>'
     __info__ = ObjectInfo(Registry)
 
 

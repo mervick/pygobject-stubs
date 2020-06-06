@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -365,12 +365,12 @@ class RecentChooserError(__gobject.GEnum):
     INVALID_URI = 1
     NOT_FOUND = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'RecentChooserError' objects>, '__doc__': None, '__gtype__': <GType GtkRecentChooserError (94846039047136)>, '__enum_values__': {0: <enum GTK_RECENT_CHOOSER_ERROR_NOT_FOUND of type Gtk.RecentChooserError>, 1: <enum GTK_RECENT_CHOOSER_ERROR_INVALID_URI of type Gtk.RecentChooserError>}, '__info__': gi.EnumInfo(RecentChooserError), 'NOT_FOUND': <enum GTK_RECENT_CHOOSER_ERROR_NOT_FOUND of type Gtk.RecentChooserError>, 'INVALID_URI': <enum GTK_RECENT_CHOOSER_ERROR_INVALID_URI of type Gtk.RecentChooserError>, 'quark': gi.FunctionInfo(quark)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'RecentChooserError' objects>, '__doc__': None, '__gtype__': <GType GtkRecentChooserError (93897369255904)>, '__enum_values__': {0: <enum GTK_RECENT_CHOOSER_ERROR_NOT_FOUND of type Gtk.RecentChooserError>, 1: <enum GTK_RECENT_CHOOSER_ERROR_INVALID_URI of type Gtk.RecentChooserError>}, '__info__': gi.EnumInfo(RecentChooserError), 'NOT_FOUND': <enum GTK_RECENT_CHOOSER_ERROR_NOT_FOUND of type Gtk.RecentChooserError>, 'INVALID_URI': <enum GTK_RECENT_CHOOSER_ERROR_INVALID_URI of type Gtk.RecentChooserError>, 'quark': gi.FunctionInfo(quark)})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GtkRecentChooserError (94846039047136)>'
+    __gtype__ = None # (!) real value is '<GType GtkRecentChooserError (93897369255904)>'
     __info__ = gi.EnumInfo(RecentChooserError)
 
 

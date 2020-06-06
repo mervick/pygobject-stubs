@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -163,7 +163,7 @@ class ThemingEngineClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ThemingEngineClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ThemingEngineClass' objects>, '__weakref__': <attribute '__weakref__' of 'ThemingEngineClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830f9d540>, 'render_line': <property object at 0x7fe830f9d630>, 'render_background': <property object at 0x7fe830f9d770>, 'render_frame': <property object at 0x7fe830f9d860>, 'render_frame_gap': <property object at 0x7fe830f9d9a0>, 'render_extension': <property object at 0x7fe830f9dae0>, 'render_check': <property object at 0x7fe830f9dbd0>, 'render_option': <property object at 0x7fe830f9dcc0>, 'render_arrow': <property object at 0x7fe830f9ddb0>, 'render_expander': <property object at 0x7fe830f9dea0>, 'render_focus': <property object at 0x7fe830f9df90>, 'render_layout': <property object at 0x7fe830f9f0e0>, 'render_slider': <property object at 0x7fe830f9f1d0>, 'render_handle': <property object at 0x7fe830f9f2c0>, 'render_activity': <property object at 0x7fe830f9f3b0>, 'render_icon_pixbuf': <property object at 0x7fe830f9f4f0>, 'render_icon': <property object at 0x7fe830f9f590>, 'render_icon_surface': <property object at 0x7fe830f9f6d0>, 'padding': <property object at 0x7fe830f9f770>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ThemingEngineClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ThemingEngineClass' objects>, '__weakref__': <attribute '__weakref__' of 'ThemingEngineClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a6b1b80>, 'render_line': <property object at 0x7fc63a6b1c70>, 'render_background': <property object at 0x7fc63a6b1db0>, 'render_frame': <property object at 0x7fc63a6b1ea0>, 'render_frame_gap': <property object at 0x7fc63a634040>, 'render_extension': <property object at 0x7fc63a634180>, 'render_check': <property object at 0x7fc63a634270>, 'render_option': <property object at 0x7fc63a634360>, 'render_arrow': <property object at 0x7fc63a634450>, 'render_expander': <property object at 0x7fc63a634540>, 'render_focus': <property object at 0x7fc63a634630>, 'render_layout': <property object at 0x7fc63a634720>, 'render_slider': <property object at 0x7fc63a634810>, 'render_handle': <property object at 0x7fc63a634900>, 'render_activity': <property object at 0x7fc63a6349f0>, 'render_icon_pixbuf': <property object at 0x7fc63a634b30>, 'render_icon': <property object at 0x7fc63a634bd0>, 'render_icon_surface': <property object at 0x7fc63a634d10>, 'padding': <property object at 0x7fc63a634db0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ThemingEngineClass)
 

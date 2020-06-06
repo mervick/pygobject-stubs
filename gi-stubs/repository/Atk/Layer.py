@@ -368,7 +368,7 @@ class Layer(__gobject.GEnum):
     WIDGET = 3
     WINDOW = 7
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Atk', '__dict__': <attribute '__dict__' of 'Layer' objects>, '__doc__': None, '__gtype__': <GType AtkLayer (93922956222560)>, '__enum_values__': {0: <enum ATK_LAYER_INVALID of type Atk.Layer>, 1: <enum ATK_LAYER_BACKGROUND of type Atk.Layer>, 2: <enum ATK_LAYER_CANVAS of type Atk.Layer>, 3: <enum ATK_LAYER_WIDGET of type Atk.Layer>, 4: <enum ATK_LAYER_MDI of type Atk.Layer>, 5: <enum ATK_LAYER_POPUP of type Atk.Layer>, 6: <enum ATK_LAYER_OVERLAY of type Atk.Layer>, 7: <enum ATK_LAYER_WINDOW of type Atk.Layer>}, '__info__': gi.EnumInfo(Layer), 'INVALID': <enum ATK_LAYER_INVALID of type Atk.Layer>, 'BACKGROUND': <enum ATK_LAYER_BACKGROUND of type Atk.Layer>, 'CANVAS': <enum ATK_LAYER_CANVAS of type Atk.Layer>, 'WIDGET': <enum ATK_LAYER_WIDGET of type Atk.Layer>, 'MDI': <enum ATK_LAYER_MDI of type Atk.Layer>, 'POPUP': <enum ATK_LAYER_POPUP of type Atk.Layer>, 'OVERLAY': <enum ATK_LAYER_OVERLAY of type Atk.Layer>, 'WINDOW': <enum ATK_LAYER_WINDOW of type Atk.Layer>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Atk', '__dict__': <attribute '__dict__' of 'Layer' objects>, '__doc__': None, '__gtype__': <GType AtkLayer (94258338003600)>, '__enum_values__': {0: <enum ATK_LAYER_INVALID of type Atk.Layer>, 1: <enum ATK_LAYER_BACKGROUND of type Atk.Layer>, 2: <enum ATK_LAYER_CANVAS of type Atk.Layer>, 3: <enum ATK_LAYER_WIDGET of type Atk.Layer>, 4: <enum ATK_LAYER_MDI of type Atk.Layer>, 5: <enum ATK_LAYER_POPUP of type Atk.Layer>, 6: <enum ATK_LAYER_OVERLAY of type Atk.Layer>, 7: <enum ATK_LAYER_WINDOW of type Atk.Layer>}, '__info__': gi.EnumInfo(Layer), 'INVALID': <enum ATK_LAYER_INVALID of type Atk.Layer>, 'BACKGROUND': <enum ATK_LAYER_BACKGROUND of type Atk.Layer>, 'CANVAS': <enum ATK_LAYER_CANVAS of type Atk.Layer>, 'WIDGET': <enum ATK_LAYER_WIDGET of type Atk.Layer>, 'MDI': <enum ATK_LAYER_MDI of type Atk.Layer>, 'POPUP': <enum ATK_LAYER_POPUP of type Atk.Layer>, 'OVERLAY': <enum ATK_LAYER_OVERLAY of type Atk.Layer>, 'WINDOW': <enum ATK_LAYER_WINDOW of type Atk.Layer>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -379,7 +379,7 @@ class Layer(__gobject.GEnum):
         6: 6,
         7: 7,
     }
-    __gtype__ = None # (!) real value is '<GType AtkLayer (93922956222560)>'
+    __gtype__ = None # (!) real value is '<GType AtkLayer (94258338003600)>'
     __info__ = gi.EnumInfo(Layer)
 
 

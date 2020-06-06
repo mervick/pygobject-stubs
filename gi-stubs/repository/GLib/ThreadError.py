@@ -358,11 +358,11 @@ class ThreadError(__gobject.GEnum):
 
     THREAD_ERROR_AGAIN = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'ThreadError' objects>, '__doc__': None, '__gtype__': <GType PyGLibThreadError (94243599115232)>, '__enum_values__': {0: <enum G_THREAD_ERROR_AGAIN of type GLib.ThreadError>}, '__info__': gi.EnumInfo(ThreadError), 'THREAD_ERROR_AGAIN': <enum G_THREAD_ERROR_AGAIN of type GLib.ThreadError>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'ThreadError' objects>, '__doc__': None, '__gtype__': <GType PyGLibThreadError (94581033894096)>, '__enum_values__': {0: <enum G_THREAD_ERROR_AGAIN of type GLib.ThreadError>}, '__info__': gi.EnumInfo(ThreadError), 'THREAD_ERROR_AGAIN': <enum G_THREAD_ERROR_AGAIN of type GLib.ThreadError>})"
     __enum_values__ = {
         0: 0,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibThreadError (94243599115232)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibThreadError (94581033894096)>'
     __info__ = gi.EnumInfo(ThreadError)
 
 

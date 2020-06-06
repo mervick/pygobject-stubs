@@ -131,10 +131,10 @@ class DBusObjectManager(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(DBusObjectManager), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDBusObjectManager (94125582138880)>, '__dict__': <attribute '__dict__' of 'DBusObjectManager' objects>, '__weakref__': <attribute '__weakref__' of 'DBusObjectManager' objects>, '__doc__': None, '__gsignals__': {}, 'get_interface': gi.FunctionInfo(get_interface), 'get_object': gi.FunctionInfo(get_object), 'get_object_path': gi.FunctionInfo(get_object_path), 'get_objects': gi.FunctionInfo(get_objects)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(DBusObjectManager), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDBusObjectManager (94269256765440)>, '__dict__': <attribute '__dict__' of 'DBusObjectManager' objects>, '__weakref__': <attribute '__weakref__' of 'DBusObjectManager' objects>, '__doc__': None, '__gsignals__': {}, 'get_interface': gi.FunctionInfo(get_interface), 'get_object': gi.FunctionInfo(get_object), 'get_object_path': gi.FunctionInfo(get_object_path), 'get_objects': gi.FunctionInfo(get_objects)})"
     __gdoc__ = 'Interface GDBusObjectManager\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GDBusObjectManager (94125582138880)>'
+    __gtype__ = None # (!) real value is '<GType GDBusObjectManager (94269256765440)>'
     __info__ = InterfaceInfo(DBusObjectManager)
 
 

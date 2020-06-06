@@ -368,13 +368,13 @@ class TraverseFlags(__gobject.GFlags):
     NON_LEAFS = 2
     NON_LEAVES = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'TraverseFlags' objects>, '__doc__': None, '__gtype__': <GType PyGLibTraverseFlags (94243599135024)>, '__flags_values__': {1: <flags G_TRAVERSE_LEAVES | G_TRAVERSE_LEAFS of type GLib.TraverseFlags>, 2: <flags G_TRAVERSE_NON_LEAVES | G_TRAVERSE_NON_LEAFS of type GLib.TraverseFlags>, 3: <flags G_TRAVERSE_LEAVES | G_TRAVERSE_NON_LEAVES | G_TRAVERSE_ALL | G_TRAVERSE_MASK | G_TRAVERSE_LEAFS | G_TRAVERSE_NON_LEAFS of type GLib.TraverseFlags>}, '__info__': gi.EnumInfo(TraverseFlags), 'LEAVES': <flags G_TRAVERSE_LEAVES | G_TRAVERSE_LEAFS of type GLib.TraverseFlags>, 'NON_LEAVES': <flags G_TRAVERSE_NON_LEAVES | G_TRAVERSE_NON_LEAFS of type GLib.TraverseFlags>, 'ALL': <flags G_TRAVERSE_LEAVES | G_TRAVERSE_NON_LEAVES | G_TRAVERSE_ALL | G_TRAVERSE_MASK | G_TRAVERSE_LEAFS | G_TRAVERSE_NON_LEAFS of type GLib.TraverseFlags>, 'MASK': <flags G_TRAVERSE_LEAVES | G_TRAVERSE_NON_LEAVES | G_TRAVERSE_ALL | G_TRAVERSE_MASK | G_TRAVERSE_LEAFS | G_TRAVERSE_NON_LEAFS of type GLib.TraverseFlags>, 'LEAFS': <flags G_TRAVERSE_LEAVES | G_TRAVERSE_LEAFS of type GLib.TraverseFlags>, 'NON_LEAFS': <flags G_TRAVERSE_NON_LEAVES | G_TRAVERSE_NON_LEAFS of type GLib.TraverseFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'TraverseFlags' objects>, '__doc__': None, '__gtype__': <GType PyGLibTraverseFlags (94581033913888)>, '__flags_values__': {1: <flags G_TRAVERSE_LEAVES | G_TRAVERSE_LEAFS of type GLib.TraverseFlags>, 2: <flags G_TRAVERSE_NON_LEAVES | G_TRAVERSE_NON_LEAFS of type GLib.TraverseFlags>, 3: <flags G_TRAVERSE_LEAVES | G_TRAVERSE_NON_LEAVES | G_TRAVERSE_ALL | G_TRAVERSE_MASK | G_TRAVERSE_LEAFS | G_TRAVERSE_NON_LEAFS of type GLib.TraverseFlags>}, '__info__': gi.EnumInfo(TraverseFlags), 'LEAVES': <flags G_TRAVERSE_LEAVES | G_TRAVERSE_LEAFS of type GLib.TraverseFlags>, 'NON_LEAVES': <flags G_TRAVERSE_NON_LEAVES | G_TRAVERSE_NON_LEAFS of type GLib.TraverseFlags>, 'ALL': <flags G_TRAVERSE_LEAVES | G_TRAVERSE_NON_LEAVES | G_TRAVERSE_ALL | G_TRAVERSE_MASK | G_TRAVERSE_LEAFS | G_TRAVERSE_NON_LEAFS of type GLib.TraverseFlags>, 'MASK': <flags G_TRAVERSE_LEAVES | G_TRAVERSE_NON_LEAVES | G_TRAVERSE_ALL | G_TRAVERSE_MASK | G_TRAVERSE_LEAFS | G_TRAVERSE_NON_LEAFS of type GLib.TraverseFlags>, 'LEAFS': <flags G_TRAVERSE_LEAVES | G_TRAVERSE_LEAFS of type GLib.TraverseFlags>, 'NON_LEAFS': <flags G_TRAVERSE_NON_LEAVES | G_TRAVERSE_NON_LEAFS of type GLib.TraverseFlags>})"
     __flags_values__ = {
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibTraverseFlags (94243599135024)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibTraverseFlags (94581033913888)>'
     __info__ = gi.EnumInfo(TraverseFlags)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -361,7 +361,7 @@ class SubpixelLayout(__gobject.GEnum):
     VERTICAL_BGR = 5
     VERTICAL_RGB = 4
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'SubpixelLayout' objects>, '__doc__': None, '__gtype__': <GType GdkSubpixelLayout (94055650903776)>, '__enum_values__': {0: <enum GDK_SUBPIXEL_LAYOUT_UNKNOWN of type Gdk.SubpixelLayout>, 1: <enum GDK_SUBPIXEL_LAYOUT_NONE of type Gdk.SubpixelLayout>, 2: <enum GDK_SUBPIXEL_LAYOUT_HORIZONTAL_RGB of type Gdk.SubpixelLayout>, 3: <enum GDK_SUBPIXEL_LAYOUT_HORIZONTAL_BGR of type Gdk.SubpixelLayout>, 4: <enum GDK_SUBPIXEL_LAYOUT_VERTICAL_RGB of type Gdk.SubpixelLayout>, 5: <enum GDK_SUBPIXEL_LAYOUT_VERTICAL_BGR of type Gdk.SubpixelLayout>}, '__info__': gi.EnumInfo(SubpixelLayout), 'UNKNOWN': <enum GDK_SUBPIXEL_LAYOUT_UNKNOWN of type Gdk.SubpixelLayout>, 'NONE': <enum GDK_SUBPIXEL_LAYOUT_NONE of type Gdk.SubpixelLayout>, 'HORIZONTAL_RGB': <enum GDK_SUBPIXEL_LAYOUT_HORIZONTAL_RGB of type Gdk.SubpixelLayout>, 'HORIZONTAL_BGR': <enum GDK_SUBPIXEL_LAYOUT_HORIZONTAL_BGR of type Gdk.SubpixelLayout>, 'VERTICAL_RGB': <enum GDK_SUBPIXEL_LAYOUT_VERTICAL_RGB of type Gdk.SubpixelLayout>, 'VERTICAL_BGR': <enum GDK_SUBPIXEL_LAYOUT_VERTICAL_BGR of type Gdk.SubpixelLayout>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'SubpixelLayout' objects>, '__doc__': None, '__gtype__': <GType GdkSubpixelLayout (94915768472672)>, '__enum_values__': {0: <enum GDK_SUBPIXEL_LAYOUT_UNKNOWN of type Gdk.SubpixelLayout>, 1: <enum GDK_SUBPIXEL_LAYOUT_NONE of type Gdk.SubpixelLayout>, 2: <enum GDK_SUBPIXEL_LAYOUT_HORIZONTAL_RGB of type Gdk.SubpixelLayout>, 3: <enum GDK_SUBPIXEL_LAYOUT_HORIZONTAL_BGR of type Gdk.SubpixelLayout>, 4: <enum GDK_SUBPIXEL_LAYOUT_VERTICAL_RGB of type Gdk.SubpixelLayout>, 5: <enum GDK_SUBPIXEL_LAYOUT_VERTICAL_BGR of type Gdk.SubpixelLayout>}, '__info__': gi.EnumInfo(SubpixelLayout), 'UNKNOWN': <enum GDK_SUBPIXEL_LAYOUT_UNKNOWN of type Gdk.SubpixelLayout>, 'NONE': <enum GDK_SUBPIXEL_LAYOUT_NONE of type Gdk.SubpixelLayout>, 'HORIZONTAL_RGB': <enum GDK_SUBPIXEL_LAYOUT_HORIZONTAL_RGB of type Gdk.SubpixelLayout>, 'HORIZONTAL_BGR': <enum GDK_SUBPIXEL_LAYOUT_HORIZONTAL_BGR of type Gdk.SubpixelLayout>, 'VERTICAL_RGB': <enum GDK_SUBPIXEL_LAYOUT_VERTICAL_RGB of type Gdk.SubpixelLayout>, 'VERTICAL_BGR': <enum GDK_SUBPIXEL_LAYOUT_VERTICAL_BGR of type Gdk.SubpixelLayout>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -370,7 +370,7 @@ class SubpixelLayout(__gobject.GEnum):
         4: 4,
         5: 5,
     }
-    __gtype__ = None # (!) real value is '<GType GdkSubpixelLayout (94055650903776)>'
+    __gtype__ = None # (!) real value is '<GType GdkSubpixelLayout (94915768472672)>'
     __info__ = gi.EnumInfo(SubpixelLayout)
 
 

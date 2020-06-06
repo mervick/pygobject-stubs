@@ -360,14 +360,14 @@ class ConverterResult(__gobject.GEnum):
     FINISHED = 2
     FLUSHED = 3
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'ConverterResult' objects>, '__doc__': None, '__gtype__': <GType GConverterResult (94125582083408)>, '__enum_values__': {0: <enum G_CONVERTER_ERROR of type Gio.ConverterResult>, 1: <enum G_CONVERTER_CONVERTED of type Gio.ConverterResult>, 2: <enum G_CONVERTER_FINISHED of type Gio.ConverterResult>, 3: <enum G_CONVERTER_FLUSHED of type Gio.ConverterResult>}, '__info__': gi.EnumInfo(ConverterResult), 'ERROR': <enum G_CONVERTER_ERROR of type Gio.ConverterResult>, 'CONVERTED': <enum G_CONVERTER_CONVERTED of type Gio.ConverterResult>, 'FINISHED': <enum G_CONVERTER_FINISHED of type Gio.ConverterResult>, 'FLUSHED': <enum G_CONVERTER_FLUSHED of type Gio.ConverterResult>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'ConverterResult' objects>, '__doc__': None, '__gtype__': <GType GConverterResult (94269256709568)>, '__enum_values__': {0: <enum G_CONVERTER_ERROR of type Gio.ConverterResult>, 1: <enum G_CONVERTER_CONVERTED of type Gio.ConverterResult>, 2: <enum G_CONVERTER_FINISHED of type Gio.ConverterResult>, 3: <enum G_CONVERTER_FLUSHED of type Gio.ConverterResult>}, '__info__': gi.EnumInfo(ConverterResult), 'ERROR': <enum G_CONVERTER_ERROR of type Gio.ConverterResult>, 'CONVERTED': <enum G_CONVERTER_CONVERTED of type Gio.ConverterResult>, 'FINISHED': <enum G_CONVERTER_FINISHED of type Gio.ConverterResult>, 'FLUSHED': <enum G_CONVERTER_FLUSHED of type Gio.ConverterResult>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GConverterResult (94125582083408)>'
+    __gtype__ = None # (!) real value is '<GType GConverterResult (94269256709568)>'
     __info__ = gi.EnumInfo(ConverterResult)
 
 

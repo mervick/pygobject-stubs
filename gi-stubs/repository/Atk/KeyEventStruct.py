@@ -140,7 +140,7 @@ class KeyEventStruct(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(KeyEventStruct), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'KeyEventStruct' objects>, '__weakref__': <attribute '__weakref__' of 'KeyEventStruct' objects>, '__doc__': None, 'type': <property object at 0x7f0cd7beb310>, 'state': <property object at 0x7f0cd7beb400>, 'keyval': <property object at 0x7f0cd7beb4f0>, 'length': <property object at 0x7f0cd7beb5e0>, 'string': <property object at 0x7f0cd7beb6d0>, 'keycode': <property object at 0x7f0cd7beb7c0>, 'timestamp': <property object at 0x7f0cd7beb8b0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(KeyEventStruct), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'KeyEventStruct' objects>, '__weakref__': <attribute '__weakref__' of 'KeyEventStruct' objects>, '__doc__': None, 'type': <property object at 0x7f44c6db0720>, 'state': <property object at 0x7f44c6db0810>, 'keyval': <property object at 0x7f44c6db0900>, 'length': <property object at 0x7f44c6db09f0>, 'string': <property object at 0x7f44c6db0ae0>, 'keycode': <property object at 0x7f44c6db0bd0>, 'timestamp': <property object at 0x7f44c6db0cc0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(KeyEventStruct)
 

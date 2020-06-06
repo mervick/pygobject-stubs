@@ -560,12 +560,12 @@ class UnixInputStream(InputStream, FileDescriptorBased, PollableInputStream):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dcd3af10>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b86eb3a30>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(UnixInputStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GUnixInputStream (94125582945888)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_close_fd': gi.FunctionInfo(get_close_fd), 'get_fd': gi.FunctionInfo(get_fd), 'set_close_fd': gi.FunctionInfo(set_close_fd), 'parent_instance': <property object at 0x7f28dd6067c0>, 'priv': <property object at 0x7f28dd6068b0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(UnixInputStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GUnixInputStream (94269257575040)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_close_fd': gi.FunctionInfo(get_close_fd), 'get_fd': gi.FunctionInfo(get_fd), 'set_close_fd': gi.FunctionInfo(set_close_fd), 'parent_instance': <property object at 0x7f4b87767ae0>, 'priv': <property object at 0x7f4b87767bd0>})"
     __gdoc__ = 'Object GUnixInputStream\n\nProperties from GUnixInputStream:\n  fd -> gint: File descriptor\n    The file descriptor to read from\n  close-fd -> gboolean: Close file descriptor\n    Whether to close the file descriptor when the stream is closed\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GUnixInputStream (94125582945888)>'
+    __gtype__ = None # (!) real value is '<GType GUnixInputStream (94269257575040)>'
     __info__ = ObjectInfo(UnixInputStream)
 
 

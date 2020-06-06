@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -138,10 +138,10 @@ class ColorChooser(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(ColorChooser), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkColorChooser (94846038107024)>, '__dict__': <attribute '__dict__' of 'ColorChooser' objects>, '__weakref__': <attribute '__weakref__' of 'ColorChooser' objects>, '__doc__': None, '__gsignals__': {}, 'add_palette': gi.FunctionInfo(add_palette), 'get_rgba': gi.FunctionInfo(get_rgba), 'get_use_alpha': gi.FunctionInfo(get_use_alpha), 'set_rgba': gi.FunctionInfo(set_rgba), 'set_use_alpha': gi.FunctionInfo(set_use_alpha)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(ColorChooser), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkColorChooser (93897368321872)>, '__dict__': <attribute '__dict__' of 'ColorChooser' objects>, '__weakref__': <attribute '__weakref__' of 'ColorChooser' objects>, '__doc__': None, '__gsignals__': {}, 'add_palette': gi.FunctionInfo(add_palette), 'get_rgba': gi.FunctionInfo(get_rgba), 'get_use_alpha': gi.FunctionInfo(get_use_alpha), 'set_rgba': gi.FunctionInfo(set_rgba), 'set_use_alpha': gi.FunctionInfo(set_use_alpha)})"
     __gdoc__ = 'Interface GtkColorChooser\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkColorChooser (94846038107024)>'
+    __gtype__ = None # (!) real value is '<GType GtkColorChooser (93897368321872)>'
     __info__ = InterfaceInfo(ColorChooser)
 
 

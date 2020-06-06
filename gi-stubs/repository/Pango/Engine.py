@@ -402,12 +402,12 @@ class Engine(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f2474732670>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f85178a9e80>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Engine), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoEngine (94752680791968)>, '__doc__': None, '__gsignals__': {}, 'parent_instance': <property object at 0x7f24746e7f40>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Engine), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoEngine (94187428944160)>, '__doc__': None, '__gsignals__': {}, 'parent_instance': <property object at 0x7f851788bcc0>})"
     __gdoc__ = 'Object PangoEngine\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType PangoEngine (94752680791968)>'
+    __gtype__ = None # (!) real value is '<GType PangoEngine (94187428944160)>'
     __info__ = ObjectInfo(Engine)
 
 

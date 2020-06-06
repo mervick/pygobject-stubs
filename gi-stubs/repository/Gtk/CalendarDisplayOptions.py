@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -369,7 +369,7 @@ class CalendarDisplayOptions(__gobject.GFlags):
     SHOW_HEADING = 1
     SHOW_WEEK_NUMBERS = 8
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'CalendarDisplayOptions' objects>, '__doc__': None, '__gtype__': <GType GtkCalendarDisplayOptions (94846037872896)>, '__flags_values__': {1: <flags GTK_CALENDAR_SHOW_HEADING of type Gtk.CalendarDisplayOptions>, 2: <flags GTK_CALENDAR_SHOW_DAY_NAMES of type Gtk.CalendarDisplayOptions>, 4: <flags GTK_CALENDAR_NO_MONTH_CHANGE of type Gtk.CalendarDisplayOptions>, 8: <flags GTK_CALENDAR_SHOW_WEEK_NUMBERS of type Gtk.CalendarDisplayOptions>, 32: <flags GTK_CALENDAR_SHOW_DETAILS of type Gtk.CalendarDisplayOptions>}, '__info__': gi.EnumInfo(CalendarDisplayOptions), 'SHOW_HEADING': <flags GTK_CALENDAR_SHOW_HEADING of type Gtk.CalendarDisplayOptions>, 'SHOW_DAY_NAMES': <flags GTK_CALENDAR_SHOW_DAY_NAMES of type Gtk.CalendarDisplayOptions>, 'NO_MONTH_CHANGE': <flags GTK_CALENDAR_NO_MONTH_CHANGE of type Gtk.CalendarDisplayOptions>, 'SHOW_WEEK_NUMBERS': <flags GTK_CALENDAR_SHOW_WEEK_NUMBERS of type Gtk.CalendarDisplayOptions>, 'SHOW_DETAILS': <flags GTK_CALENDAR_SHOW_DETAILS of type Gtk.CalendarDisplayOptions>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'CalendarDisplayOptions' objects>, '__doc__': None, '__gtype__': <GType GtkCalendarDisplayOptions (93897368089760)>, '__flags_values__': {1: <flags GTK_CALENDAR_SHOW_HEADING of type Gtk.CalendarDisplayOptions>, 2: <flags GTK_CALENDAR_SHOW_DAY_NAMES of type Gtk.CalendarDisplayOptions>, 4: <flags GTK_CALENDAR_NO_MONTH_CHANGE of type Gtk.CalendarDisplayOptions>, 8: <flags GTK_CALENDAR_SHOW_WEEK_NUMBERS of type Gtk.CalendarDisplayOptions>, 32: <flags GTK_CALENDAR_SHOW_DETAILS of type Gtk.CalendarDisplayOptions>}, '__info__': gi.EnumInfo(CalendarDisplayOptions), 'SHOW_HEADING': <flags GTK_CALENDAR_SHOW_HEADING of type Gtk.CalendarDisplayOptions>, 'SHOW_DAY_NAMES': <flags GTK_CALENDAR_SHOW_DAY_NAMES of type Gtk.CalendarDisplayOptions>, 'NO_MONTH_CHANGE': <flags GTK_CALENDAR_NO_MONTH_CHANGE of type Gtk.CalendarDisplayOptions>, 'SHOW_WEEK_NUMBERS': <flags GTK_CALENDAR_SHOW_WEEK_NUMBERS of type Gtk.CalendarDisplayOptions>, 'SHOW_DETAILS': <flags GTK_CALENDAR_SHOW_DETAILS of type Gtk.CalendarDisplayOptions>})"
     __flags_values__ = {
         1: 1,
         2: 2,
@@ -377,7 +377,7 @@ class CalendarDisplayOptions(__gobject.GFlags):
         8: 8,
         32: 32,
     }
-    __gtype__ = None # (!) real value is '<GType GtkCalendarDisplayOptions (94846037872896)>'
+    __gtype__ = None # (!) real value is '<GType GtkCalendarDisplayOptions (93897368089760)>'
     __info__ = gi.EnumInfo(CalendarDisplayOptions)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -367,13 +367,13 @@ class AccelFlags(__gobject.GFlags):
     MASK = 7
     VISIBLE = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'AccelFlags' objects>, '__doc__': None, '__gtype__': <GType GtkAccelFlags (94846037714400)>, '__flags_values__': {1: <flags GTK_ACCEL_VISIBLE of type Gtk.AccelFlags>, 2: <flags GTK_ACCEL_LOCKED of type Gtk.AccelFlags>, 7: <flags GTK_ACCEL_VISIBLE | GTK_ACCEL_LOCKED | GTK_ACCEL_MASK of type Gtk.AccelFlags>}, '__info__': gi.EnumInfo(AccelFlags), 'VISIBLE': <flags GTK_ACCEL_VISIBLE of type Gtk.AccelFlags>, 'LOCKED': <flags GTK_ACCEL_LOCKED of type Gtk.AccelFlags>, 'MASK': <flags GTK_ACCEL_VISIBLE | GTK_ACCEL_LOCKED | GTK_ACCEL_MASK of type Gtk.AccelFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'AccelFlags' objects>, '__doc__': None, '__gtype__': <GType GtkAccelFlags (93897367931408)>, '__flags_values__': {1: <flags GTK_ACCEL_VISIBLE of type Gtk.AccelFlags>, 2: <flags GTK_ACCEL_LOCKED of type Gtk.AccelFlags>, 7: <flags GTK_ACCEL_VISIBLE | GTK_ACCEL_LOCKED | GTK_ACCEL_MASK of type Gtk.AccelFlags>}, '__info__': gi.EnumInfo(AccelFlags), 'VISIBLE': <flags GTK_ACCEL_VISIBLE of type Gtk.AccelFlags>, 'LOCKED': <flags GTK_ACCEL_LOCKED of type Gtk.AccelFlags>, 'MASK': <flags GTK_ACCEL_VISIBLE | GTK_ACCEL_LOCKED | GTK_ACCEL_MASK of type Gtk.AccelFlags>})"
     __flags_values__ = {
         1: 1,
         2: 2,
         7: 7,
     }
-    __gtype__ = None # (!) real value is '<GType GtkAccelFlags (94846037714400)>'
+    __gtype__ = None # (!) real value is '<GType GtkAccelFlags (93897367931408)>'
     __info__ = gi.EnumInfo(AccelFlags)
 
 

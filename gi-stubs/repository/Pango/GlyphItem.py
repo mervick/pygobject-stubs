@@ -151,8 +151,8 @@ class GlyphItem(__gi.Boxed):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(GlyphItem), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoGlyphItem (94752680910608)>, '__dict__': <attribute '__dict__' of 'GlyphItem' objects>, '__weakref__': <attribute '__weakref__' of 'GlyphItem' objects>, '__doc__': None, 'item': <property object at 0x7f24746f5c20>, 'glyphs': <property object at 0x7f24746f5d10>, 'apply_attrs': gi.FunctionInfo(apply_attrs), 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free), 'get_logical_widths': gi.FunctionInfo(get_logical_widths), 'letter_space': gi.FunctionInfo(letter_space), 'split': gi.FunctionInfo(split)})"
-    __gtype__ = None # (!) real value is '<GType PangoGlyphItem (94752680910608)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(GlyphItem), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoGlyphItem (94187429257712)>, '__dict__': <attribute '__dict__' of 'GlyphItem' objects>, '__weakref__': <attribute '__weakref__' of 'GlyphItem' objects>, '__doc__': None, 'item': <property object at 0x7f851789b9a0>, 'glyphs': <property object at 0x7f851789ba90>, 'apply_attrs': gi.FunctionInfo(apply_attrs), 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free), 'get_logical_widths': gi.FunctionInfo(get_logical_widths), 'letter_space': gi.FunctionInfo(letter_space), 'split': gi.FunctionInfo(split)})"
+    __gtype__ = None # (!) real value is '<GType PangoGlyphItem (94187429257712)>'
     __info__ = StructInfo(GlyphItem)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -490,12 +490,12 @@ class IconInfo(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe82fc53100>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc63943cb20>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(IconInfo), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkIconInfo (94846038539776)>, '__doc__': None, '__gsignals__': {}, 'new_for_pixbuf': gi.FunctionInfo(new_for_pixbuf), 'get_attach_points': gi.FunctionInfo(get_attach_points), 'get_base_scale': gi.FunctionInfo(get_base_scale), 'get_base_size': gi.FunctionInfo(get_base_size), 'get_builtin_pixbuf': gi.FunctionInfo(get_builtin_pixbuf), 'get_display_name': gi.FunctionInfo(get_display_name), 'get_embedded_rect': gi.FunctionInfo(get_embedded_rect), 'get_filename': gi.FunctionInfo(get_filename), 'is_symbolic': gi.FunctionInfo(is_symbolic), 'load_icon': gi.FunctionInfo(load_icon), 'load_icon_async': gi.FunctionInfo(load_icon_async), 'load_icon_finish': gi.FunctionInfo(load_icon_finish), 'load_surface': gi.FunctionInfo(load_surface), 'load_symbolic': gi.FunctionInfo(load_symbolic), 'load_symbolic_async': gi.FunctionInfo(load_symbolic_async), 'load_symbolic_finish': gi.FunctionInfo(load_symbolic_finish), 'load_symbolic_for_context': gi.FunctionInfo(load_symbolic_for_context), 'load_symbolic_for_context_async': gi.FunctionInfo(load_symbolic_for_context_async), 'load_symbolic_for_context_finish': gi.FunctionInfo(load_symbolic_for_context_finish), 'load_symbolic_for_style': gi.FunctionInfo(load_symbolic_for_style), 'set_raw_coordinates': gi.FunctionInfo(set_raw_coordinates)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(IconInfo), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkIconInfo (93897368748864)>, '__doc__': None, '__gsignals__': {}, 'new_for_pixbuf': gi.FunctionInfo(new_for_pixbuf), 'get_attach_points': gi.FunctionInfo(get_attach_points), 'get_base_scale': gi.FunctionInfo(get_base_scale), 'get_base_size': gi.FunctionInfo(get_base_size), 'get_builtin_pixbuf': gi.FunctionInfo(get_builtin_pixbuf), 'get_display_name': gi.FunctionInfo(get_display_name), 'get_embedded_rect': gi.FunctionInfo(get_embedded_rect), 'get_filename': gi.FunctionInfo(get_filename), 'is_symbolic': gi.FunctionInfo(is_symbolic), 'load_icon': gi.FunctionInfo(load_icon), 'load_icon_async': gi.FunctionInfo(load_icon_async), 'load_icon_finish': gi.FunctionInfo(load_icon_finish), 'load_surface': gi.FunctionInfo(load_surface), 'load_symbolic': gi.FunctionInfo(load_symbolic), 'load_symbolic_async': gi.FunctionInfo(load_symbolic_async), 'load_symbolic_finish': gi.FunctionInfo(load_symbolic_finish), 'load_symbolic_for_context': gi.FunctionInfo(load_symbolic_for_context), 'load_symbolic_for_context_async': gi.FunctionInfo(load_symbolic_for_context_async), 'load_symbolic_for_context_finish': gi.FunctionInfo(load_symbolic_for_context_finish), 'load_symbolic_for_style': gi.FunctionInfo(load_symbolic_for_style), 'set_raw_coordinates': gi.FunctionInfo(set_raw_coordinates)})"
     __gdoc__ = 'Object GtkIconInfo\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkIconInfo (94846038539776)>'
+    __gtype__ = None # (!) real value is '<GType GtkIconInfo (93897368748864)>'
     __info__ = ObjectInfo(IconInfo)
 
 

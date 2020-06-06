@@ -365,13 +365,13 @@ class TestSubprocessFlags(__gobject.GFlags):
     STDIN = 1
     STDOUT = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'TestSubprocessFlags' objects>, '__doc__': None, '__gtype__': <GType PyGLibTestSubprocessFlags (94243599103360)>, '__flags_values__': {1: <flags G_TEST_SUBPROCESS_INHERIT_STDIN of type GLib.TestSubprocessFlags>, 2: <flags G_TEST_SUBPROCESS_INHERIT_STDOUT of type GLib.TestSubprocessFlags>, 4: <flags G_TEST_SUBPROCESS_INHERIT_STDERR of type GLib.TestSubprocessFlags>}, '__info__': gi.EnumInfo(TestSubprocessFlags), 'STDIN': <flags G_TEST_SUBPROCESS_INHERIT_STDIN of type GLib.TestSubprocessFlags>, 'STDOUT': <flags G_TEST_SUBPROCESS_INHERIT_STDOUT of type GLib.TestSubprocessFlags>, 'STDERR': <flags G_TEST_SUBPROCESS_INHERIT_STDERR of type GLib.TestSubprocessFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'TestSubprocessFlags' objects>, '__doc__': None, '__gtype__': <GType PyGLibTestSubprocessFlags (94581033882336)>, '__flags_values__': {1: <flags G_TEST_SUBPROCESS_INHERIT_STDIN of type GLib.TestSubprocessFlags>, 2: <flags G_TEST_SUBPROCESS_INHERIT_STDOUT of type GLib.TestSubprocessFlags>, 4: <flags G_TEST_SUBPROCESS_INHERIT_STDERR of type GLib.TestSubprocessFlags>}, '__info__': gi.EnumInfo(TestSubprocessFlags), 'STDIN': <flags G_TEST_SUBPROCESS_INHERIT_STDIN of type GLib.TestSubprocessFlags>, 'STDOUT': <flags G_TEST_SUBPROCESS_INHERIT_STDOUT of type GLib.TestSubprocessFlags>, 'STDERR': <flags G_TEST_SUBPROCESS_INHERIT_STDERR of type GLib.TestSubprocessFlags>})"
     __flags_values__ = {
         1: 1,
         2: 2,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibTestSubprocessFlags (94243599103360)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibTestSubprocessFlags (94581033882336)>'
     __info__ = gi.EnumInfo(TestSubprocessFlags)
 
 

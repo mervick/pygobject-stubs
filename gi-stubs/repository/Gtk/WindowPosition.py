@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -364,7 +364,7 @@ class WindowPosition(__gobject.GEnum):
     MOUSE = 2
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'WindowPosition' objects>, '__doc__': None, '__gtype__': <GType GtkWindowPosition (94846037284288)>, '__enum_values__': {0: <enum GTK_WIN_POS_NONE of type Gtk.WindowPosition>, 1: <enum GTK_WIN_POS_CENTER of type Gtk.WindowPosition>, 2: <enum GTK_WIN_POS_MOUSE of type Gtk.WindowPosition>, 3: <enum GTK_WIN_POS_CENTER_ALWAYS of type Gtk.WindowPosition>, 4: <enum GTK_WIN_POS_CENTER_ON_PARENT of type Gtk.WindowPosition>}, '__info__': gi.EnumInfo(WindowPosition), 'NONE': <enum GTK_WIN_POS_NONE of type Gtk.WindowPosition>, 'CENTER': <enum GTK_WIN_POS_CENTER of type Gtk.WindowPosition>, 'MOUSE': <enum GTK_WIN_POS_MOUSE of type Gtk.WindowPosition>, 'CENTER_ALWAYS': <enum GTK_WIN_POS_CENTER_ALWAYS of type Gtk.WindowPosition>, 'CENTER_ON_PARENT': <enum GTK_WIN_POS_CENTER_ON_PARENT of type Gtk.WindowPosition>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'WindowPosition' objects>, '__doc__': None, '__gtype__': <GType GtkWindowPosition (93897367499280)>, '__enum_values__': {0: <enum GTK_WIN_POS_NONE of type Gtk.WindowPosition>, 1: <enum GTK_WIN_POS_CENTER of type Gtk.WindowPosition>, 2: <enum GTK_WIN_POS_MOUSE of type Gtk.WindowPosition>, 3: <enum GTK_WIN_POS_CENTER_ALWAYS of type Gtk.WindowPosition>, 4: <enum GTK_WIN_POS_CENTER_ON_PARENT of type Gtk.WindowPosition>}, '__info__': gi.EnumInfo(WindowPosition), 'NONE': <enum GTK_WIN_POS_NONE of type Gtk.WindowPosition>, 'CENTER': <enum GTK_WIN_POS_CENTER of type Gtk.WindowPosition>, 'MOUSE': <enum GTK_WIN_POS_MOUSE of type Gtk.WindowPosition>, 'CENTER_ALWAYS': <enum GTK_WIN_POS_CENTER_ALWAYS of type Gtk.WindowPosition>, 'CENTER_ON_PARENT': <enum GTK_WIN_POS_CENTER_ON_PARENT of type Gtk.WindowPosition>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -372,7 +372,7 @@ class WindowPosition(__gobject.GEnum):
         3: 3,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType GtkWindowPosition (94846037284288)>'
+    __gtype__ = None # (!) real value is '<GType GtkWindowPosition (93897367499280)>'
     __info__ = gi.EnumInfo(WindowPosition)
 
 

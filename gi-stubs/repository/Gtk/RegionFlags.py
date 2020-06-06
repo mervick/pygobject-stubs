@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -370,7 +370,7 @@ class RegionFlags(__gobject.GFlags):
     ONLY = 16
     SORTED = 32
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'RegionFlags' objects>, '__doc__': None, '__gtype__': <GType GtkRegionFlags (94846039089040)>, '__flags_values__': {1: <flags GTK_REGION_EVEN of type Gtk.RegionFlags>, 2: <flags GTK_REGION_ODD of type Gtk.RegionFlags>, 4: <flags GTK_REGION_FIRST of type Gtk.RegionFlags>, 8: <flags GTK_REGION_LAST of type Gtk.RegionFlags>, 16: <flags GTK_REGION_ONLY of type Gtk.RegionFlags>, 32: <flags GTK_REGION_SORTED of type Gtk.RegionFlags>}, '__info__': gi.EnumInfo(RegionFlags), 'EVEN': <flags GTK_REGION_EVEN of type Gtk.RegionFlags>, 'ODD': <flags GTK_REGION_ODD of type Gtk.RegionFlags>, 'FIRST': <flags GTK_REGION_FIRST of type Gtk.RegionFlags>, 'LAST': <flags GTK_REGION_LAST of type Gtk.RegionFlags>, 'ONLY': <flags GTK_REGION_ONLY of type Gtk.RegionFlags>, 'SORTED': <flags GTK_REGION_SORTED of type Gtk.RegionFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'RegionFlags' objects>, '__doc__': None, '__gtype__': <GType GtkRegionFlags (93897369247600)>, '__flags_values__': {1: <flags GTK_REGION_EVEN of type Gtk.RegionFlags>, 2: <flags GTK_REGION_ODD of type Gtk.RegionFlags>, 4: <flags GTK_REGION_FIRST of type Gtk.RegionFlags>, 8: <flags GTK_REGION_LAST of type Gtk.RegionFlags>, 16: <flags GTK_REGION_ONLY of type Gtk.RegionFlags>, 32: <flags GTK_REGION_SORTED of type Gtk.RegionFlags>}, '__info__': gi.EnumInfo(RegionFlags), 'EVEN': <flags GTK_REGION_EVEN of type Gtk.RegionFlags>, 'ODD': <flags GTK_REGION_ODD of type Gtk.RegionFlags>, 'FIRST': <flags GTK_REGION_FIRST of type Gtk.RegionFlags>, 'LAST': <flags GTK_REGION_LAST of type Gtk.RegionFlags>, 'ONLY': <flags GTK_REGION_ONLY of type Gtk.RegionFlags>, 'SORTED': <flags GTK_REGION_SORTED of type Gtk.RegionFlags>})"
     __flags_values__ = {
         1: 1,
         2: 2,
@@ -379,7 +379,7 @@ class RegionFlags(__gobject.GFlags):
         16: 16,
         32: 32,
     }
-    __gtype__ = None # (!) real value is '<GType GtkRegionFlags (94846039089040)>'
+    __gtype__ = None # (!) real value is '<GType GtkRegionFlags (93897369247600)>'
     __info__ = gi.EnumInfo(RegionFlags)
 
 

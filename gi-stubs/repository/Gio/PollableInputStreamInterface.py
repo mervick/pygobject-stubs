@@ -132,7 +132,7 @@ class PollableInputStreamInterface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PollableInputStreamInterface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'PollableInputStreamInterface' objects>, '__weakref__': <attribute '__weakref__' of 'PollableInputStreamInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f28dde3fe00>, 'can_poll': <property object at 0x7f28dde3fef0>, 'is_readable': <property object at 0x7f28dde40040>, 'create_source': <property object at 0x7f28dde40130>, 'read_nonblocking': <property object at 0x7f28dde40270>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PollableInputStreamInterface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'PollableInputStreamInterface' objects>, '__weakref__': <attribute '__weakref__' of 'PollableInputStreamInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f4b87fa2d60>, 'can_poll': <property object at 0x7f4b87fa2e50>, 'is_readable': <property object at 0x7f4b87fa2f40>, 'create_source': <property object at 0x7f4b87fa4090>, 'read_nonblocking': <property object at 0x7f4b87fa41d0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(PollableInputStreamInterface)
 

@@ -147,7 +147,7 @@ class RecMutex(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(RecMutex), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'RecMutex' objects>, '__weakref__': <attribute '__weakref__' of 'RecMutex' objects>, '__doc__': None, 'p': <property object at 0x7f1d2b8f7a90>, 'i': <property object at 0x7f1d2b8f7b80>, 'clear': gi.FunctionInfo(clear), 'init': gi.FunctionInfo(init), 'lock': gi.FunctionInfo(lock), 'trylock': gi.FunctionInfo(trylock), 'unlock': gi.FunctionInfo(unlock)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(RecMutex), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'RecMutex' objects>, '__weakref__': <attribute '__weakref__' of 'RecMutex' objects>, '__doc__': None, 'p': <property object at 0x7f85134f5c70>, 'i': <property object at 0x7f85134f5d60>, 'clear': gi.FunctionInfo(clear), 'init': gi.FunctionInfo(init), 'lock': gi.FunctionInfo(lock), 'trylock': gi.FunctionInfo(trylock), 'unlock': gi.FunctionInfo(unlock)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(RecMutex)
 

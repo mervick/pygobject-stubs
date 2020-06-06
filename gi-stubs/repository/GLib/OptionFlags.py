@@ -370,7 +370,7 @@ class OptionFlags(__gobject.GFlags):
     OPTIONAL_ARG = 32
     REVERSE = 4
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'OptionFlags' objects>, '__doc__': None, '__gtype__': <GType PyGLibOptionFlags (94243598361744)>, '__flags_values__': {0: <flags 0 of type GLib.OptionFlags>, 1: <flags G_OPTION_FLAG_HIDDEN of type GLib.OptionFlags>, 2: <flags G_OPTION_FLAG_IN_MAIN of type GLib.OptionFlags>, 4: <flags G_OPTION_FLAG_REVERSE of type GLib.OptionFlags>, 8: <flags G_OPTION_FLAG_NO_ARG of type GLib.OptionFlags>, 16: <flags G_OPTION_FLAG_FILENAME of type GLib.OptionFlags>, 32: <flags G_OPTION_FLAG_OPTIONAL_ARG of type GLib.OptionFlags>, 64: <flags G_OPTION_FLAG_NOALIAS of type GLib.OptionFlags>}, '__info__': gi.EnumInfo(OptionFlags), 'NONE': <flags 0 of type GLib.OptionFlags>, 'HIDDEN': <flags G_OPTION_FLAG_HIDDEN of type GLib.OptionFlags>, 'IN_MAIN': <flags G_OPTION_FLAG_IN_MAIN of type GLib.OptionFlags>, 'REVERSE': <flags G_OPTION_FLAG_REVERSE of type GLib.OptionFlags>, 'NO_ARG': <flags G_OPTION_FLAG_NO_ARG of type GLib.OptionFlags>, 'FILENAME': <flags G_OPTION_FLAG_FILENAME of type GLib.OptionFlags>, 'OPTIONAL_ARG': <flags G_OPTION_FLAG_OPTIONAL_ARG of type GLib.OptionFlags>, 'NOALIAS': <flags G_OPTION_FLAG_NOALIAS of type GLib.OptionFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'OptionFlags' objects>, '__doc__': None, '__gtype__': <GType PyGLibOptionFlags (94581033144592)>, '__flags_values__': {0: <flags 0 of type GLib.OptionFlags>, 1: <flags G_OPTION_FLAG_HIDDEN of type GLib.OptionFlags>, 2: <flags G_OPTION_FLAG_IN_MAIN of type GLib.OptionFlags>, 4: <flags G_OPTION_FLAG_REVERSE of type GLib.OptionFlags>, 8: <flags G_OPTION_FLAG_NO_ARG of type GLib.OptionFlags>, 16: <flags G_OPTION_FLAG_FILENAME of type GLib.OptionFlags>, 32: <flags G_OPTION_FLAG_OPTIONAL_ARG of type GLib.OptionFlags>, 64: <flags G_OPTION_FLAG_NOALIAS of type GLib.OptionFlags>}, '__info__': gi.EnumInfo(OptionFlags), 'NONE': <flags 0 of type GLib.OptionFlags>, 'HIDDEN': <flags G_OPTION_FLAG_HIDDEN of type GLib.OptionFlags>, 'IN_MAIN': <flags G_OPTION_FLAG_IN_MAIN of type GLib.OptionFlags>, 'REVERSE': <flags G_OPTION_FLAG_REVERSE of type GLib.OptionFlags>, 'NO_ARG': <flags G_OPTION_FLAG_NO_ARG of type GLib.OptionFlags>, 'FILENAME': <flags G_OPTION_FLAG_FILENAME of type GLib.OptionFlags>, 'OPTIONAL_ARG': <flags G_OPTION_FLAG_OPTIONAL_ARG of type GLib.OptionFlags>, 'NOALIAS': <flags G_OPTION_FLAG_NOALIAS of type GLib.OptionFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
@@ -381,7 +381,7 @@ class OptionFlags(__gobject.GFlags):
         32: 32,
         64: 64,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibOptionFlags (94243598361744)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibOptionFlags (94581033144592)>'
     __info__ = gi.EnumInfo(OptionFlags)
 
 

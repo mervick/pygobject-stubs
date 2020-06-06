@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -362,13 +362,13 @@ class ReliefStyle(__gobject.GEnum):
     NONE = 2
     NORMAL = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ReliefStyle' objects>, '__doc__': None, '__gtype__': <GType GtkReliefStyle (94846039090256)>, '__enum_values__': {0: <enum GTK_RELIEF_NORMAL of type Gtk.ReliefStyle>, 1: <enum GTK_RELIEF_HALF of type Gtk.ReliefStyle>, 2: <enum GTK_RELIEF_NONE of type Gtk.ReliefStyle>}, '__info__': gi.EnumInfo(ReliefStyle), 'NORMAL': <enum GTK_RELIEF_NORMAL of type Gtk.ReliefStyle>, 'HALF': <enum GTK_RELIEF_HALF of type Gtk.ReliefStyle>, 'NONE': <enum GTK_RELIEF_NONE of type Gtk.ReliefStyle>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ReliefStyle' objects>, '__doc__': None, '__gtype__': <GType GtkReliefStyle (93897369293296)>, '__enum_values__': {0: <enum GTK_RELIEF_NORMAL of type Gtk.ReliefStyle>, 1: <enum GTK_RELIEF_HALF of type Gtk.ReliefStyle>, 2: <enum GTK_RELIEF_NONE of type Gtk.ReliefStyle>}, '__info__': gi.EnumInfo(ReliefStyle), 'NORMAL': <enum GTK_RELIEF_NORMAL of type Gtk.ReliefStyle>, 'HALF': <enum GTK_RELIEF_HALF of type Gtk.ReliefStyle>, 'NONE': <enum GTK_RELIEF_NONE of type Gtk.ReliefStyle>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GtkReliefStyle (94846039090256)>'
+    __gtype__ = None # (!) real value is '<GType GtkReliefStyle (93897369293296)>'
     __info__ = gi.EnumInfo(ReliefStyle)
 
 

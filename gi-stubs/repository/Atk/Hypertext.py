@@ -131,10 +131,10 @@ class Hypertext(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Hypertext), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkHypertext (93922956205696)>, '__dict__': <attribute '__dict__' of 'Hypertext' objects>, '__weakref__': <attribute '__weakref__' of 'Hypertext' objects>, '__doc__': None, '__gsignals__': {}, 'get_link': gi.FunctionInfo(get_link), 'get_link_index': gi.FunctionInfo(get_link_index), 'get_n_links': gi.FunctionInfo(get_n_links)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Hypertext), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkHypertext (94258337678384)>, '__dict__': <attribute '__dict__' of 'Hypertext' objects>, '__weakref__': <attribute '__weakref__' of 'Hypertext' objects>, '__doc__': None, '__gsignals__': {}, 'get_link': gi.FunctionInfo(get_link), 'get_link_index': gi.FunctionInfo(get_link_index), 'get_n_links': gi.FunctionInfo(get_n_links)})"
     __gdoc__ = 'Interface AtkHypertext\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType AtkHypertext (93922956205696)>'
+    __gtype__ = None # (!) real value is '<GType AtkHypertext (94258337678384)>'
     __info__ = InterfaceInfo(Hypertext)
 
 

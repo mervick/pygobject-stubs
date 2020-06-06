@@ -388,14 +388,14 @@ class TypeFundamentalFlags(__gobject.GFlags):
     DERIVABLE = 4
     INSTANTIATABLE = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GObject', '__dict__': <attribute '__dict__' of 'TypeFundamentalFlags' objects>, '__doc__': None, '__gtype__': <GType PyGObjectTypeFundamentalFlags (93895379465264)>, '__flags_values__': {1: <flags G_TYPE_FLAG_CLASSED of type GObject.TypeFundamentalFlags>, 2: <flags G_TYPE_FLAG_INSTANTIATABLE of type GObject.TypeFundamentalFlags>, 4: <flags G_TYPE_FLAG_DERIVABLE of type GObject.TypeFundamentalFlags>, 8: <flags G_TYPE_FLAG_DEEP_DERIVABLE of type GObject.TypeFundamentalFlags>}, '__info__': gi.EnumInfo(TypeFundamentalFlags), 'CLASSED': <flags G_TYPE_FLAG_CLASSED of type GObject.TypeFundamentalFlags>, 'INSTANTIATABLE': <flags G_TYPE_FLAG_INSTANTIATABLE of type GObject.TypeFundamentalFlags>, 'DERIVABLE': <flags G_TYPE_FLAG_DERIVABLE of type GObject.TypeFundamentalFlags>, 'DEEP_DERIVABLE': <flags G_TYPE_FLAG_DEEP_DERIVABLE of type GObject.TypeFundamentalFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GObject', '__dict__': <attribute '__dict__' of 'TypeFundamentalFlags' objects>, '__doc__': None, '__gtype__': <GType PyGObjectTypeFundamentalFlags (94184341889776)>, '__flags_values__': {1: <flags G_TYPE_FLAG_CLASSED of type GObject.TypeFundamentalFlags>, 2: <flags G_TYPE_FLAG_INSTANTIATABLE of type GObject.TypeFundamentalFlags>, 4: <flags G_TYPE_FLAG_DERIVABLE of type GObject.TypeFundamentalFlags>, 8: <flags G_TYPE_FLAG_DEEP_DERIVABLE of type GObject.TypeFundamentalFlags>}, '__info__': gi.EnumInfo(TypeFundamentalFlags), 'CLASSED': <flags G_TYPE_FLAG_CLASSED of type GObject.TypeFundamentalFlags>, 'INSTANTIATABLE': <flags G_TYPE_FLAG_INSTANTIATABLE of type GObject.TypeFundamentalFlags>, 'DERIVABLE': <flags G_TYPE_FLAG_DERIVABLE of type GObject.TypeFundamentalFlags>, 'DEEP_DERIVABLE': <flags G_TYPE_FLAG_DEEP_DERIVABLE of type GObject.TypeFundamentalFlags>})"
     __flags_values__ = {
         1: 1,
         2: 2,
         4: 4,
         8: 8,
     }
-    __gtype__ = None # (!) real value is '<GType PyGObjectTypeFundamentalFlags (93895379465264)>'
+    __gtype__ = None # (!) real value is '<GType PyGObjectTypeFundamentalFlags (94184341889776)>'
     __info__ = gi.EnumInfo(TypeFundamentalFlags)
 
 

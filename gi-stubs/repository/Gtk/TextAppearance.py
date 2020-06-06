@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -141,7 +141,7 @@ class TextAppearance(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TextAppearance), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TextAppearance' objects>, '__weakref__': <attribute '__weakref__' of 'TextAppearance' objects>, '__doc__': None, 'bg_color': <property object at 0x7fe830f87720>, 'fg_color': <property object at 0x7fe830f87810>, 'rise': <property object at 0x7fe830f87900>, 'underline': <property object at 0x7fe830f879f0>, 'strikethrough': <property object at 0x7fe830f87ae0>, 'draw_bg': <property object at 0x7fe830f87bd0>, 'inside_selection': <property object at 0x7fe830f87d10>, 'is_text': <property object at 0x7fe830f87e00>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TextAppearance), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TextAppearance' objects>, '__weakref__': <attribute '__weakref__' of 'TextAppearance' objects>, '__doc__': None, 'bg_color': <property object at 0x7fc63a69cf40>, 'fg_color': <property object at 0x7fc63a6a0090>, 'rise': <property object at 0x7fc63a6a0180>, 'underline': <property object at 0x7fc63a6a0270>, 'strikethrough': <property object at 0x7fc63a6a0360>, 'draw_bg': <property object at 0x7fc63a6a0450>, 'inside_selection': <property object at 0x7fc63a6a0590>, 'is_text': <property object at 0x7fc63a6a0680>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TextAppearance)
 

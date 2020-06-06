@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -454,12 +454,12 @@ class RecentManager(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe83052b400>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc6388651f0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(RecentManager), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkRecentManager (94846039076800)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_default': gi.FunctionInfo(get_default), 'add_full': gi.FunctionInfo(add_full), 'add_item': gi.FunctionInfo(add_item), 'get_items': gi.FunctionInfo(get_items), 'has_item': gi.FunctionInfo(has_item), 'lookup_item': gi.FunctionInfo(lookup_item), 'move_item': gi.FunctionInfo(move_item), 'purge_items': gi.FunctionInfo(purge_items), 'remove_item': gi.FunctionInfo(remove_item), 'do_changed': gi.VFuncInfo(changed), 'parent_instance': <property object at 0x7fe830fbd590>, 'priv': <property object at 0x7fe830fbd680>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(RecentManager), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkRecentManager (93897369284400)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_default': gi.FunctionInfo(get_default), 'add_full': gi.FunctionInfo(add_full), 'add_item': gi.FunctionInfo(add_item), 'get_items': gi.FunctionInfo(get_items), 'has_item': gi.FunctionInfo(has_item), 'lookup_item': gi.FunctionInfo(lookup_item), 'move_item': gi.FunctionInfo(move_item), 'purge_items': gi.FunctionInfo(purge_items), 'remove_item': gi.FunctionInfo(remove_item), 'do_changed': gi.VFuncInfo(changed), 'parent_instance': <property object at 0x7fc63a6d3040>, 'priv': <property object at 0x7fc63a6d3130>})"
     __gdoc__ = 'Object GtkRecentManager\n\nSignals from GtkRecentManager:\n  changed ()\n\nProperties from GtkRecentManager:\n  filename -> gchararray: Filename\n    The full path to the file to be used to store and read the list\n  size -> gint: Size\n    The size of the recently used resources list\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkRecentManager (94846039076800)>'
+    __gtype__ = None # (!) real value is '<GType GtkRecentManager (93897369284400)>'
     __info__ = ObjectInfo(RecentManager)
 
 

@@ -147,8 +147,8 @@ class Language(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Language), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoLanguage (94752681046512)>, '__dict__': <attribute '__dict__' of 'Language' objects>, '__weakref__': <attribute '__weakref__' of 'Language' objects>, '__doc__': None, 'get_sample_string': gi.FunctionInfo(get_sample_string), 'get_scripts': gi.FunctionInfo(get_scripts), 'includes_script': gi.FunctionInfo(includes_script), 'matches': gi.FunctionInfo(matches), 'to_string': gi.FunctionInfo(to_string), 'from_string': gi.FunctionInfo(from_string), 'get_default': gi.FunctionInfo(get_default)})"
-    __gtype__ = None # (!) real value is '<GType PangoLanguage (94752681046512)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Language), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoLanguage (94187429270816)>, '__dict__': <attribute '__dict__' of 'Language' objects>, '__weakref__': <attribute '__weakref__' of 'Language' objects>, '__doc__': None, 'get_sample_string': gi.FunctionInfo(get_sample_string), 'get_scripts': gi.FunctionInfo(get_scripts), 'includes_script': gi.FunctionInfo(includes_script), 'matches': gi.FunctionInfo(matches), 'to_string': gi.FunctionInfo(to_string), 'from_string': gi.FunctionInfo(from_string), 'get_default': gi.FunctionInfo(get_default)})"
+    __gtype__ = None # (!) real value is '<GType PangoLanguage (94187429270816)>'
     __info__ = StructInfo(Language)
 
 

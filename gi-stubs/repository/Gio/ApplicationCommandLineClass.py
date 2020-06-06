@@ -132,7 +132,7 @@ class ApplicationCommandLineClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ApplicationCommandLineClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ApplicationCommandLineClass' objects>, '__weakref__': <attribute '__weakref__' of 'ApplicationCommandLineClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28ddf29220>, 'print_literal': <property object at 0x7f28ddf29310>, 'printerr_literal': <property object at 0x7f28ddf29450>, 'get_stdin': <property object at 0x7f28ddf29540>, 'padding': <property object at 0x7f28ddf29630>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ApplicationCommandLineClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ApplicationCommandLineClass' objects>, '__weakref__': <attribute '__weakref__' of 'ApplicationCommandLineClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b8808b1d0>, 'print_literal': <property object at 0x7f4b8808b2c0>, 'printerr_literal': <property object at 0x7f4b8808b400>, 'get_stdin': <property object at 0x7f4b8808b4f0>, 'padding': <property object at 0x7f4b8808b5e0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ApplicationCommandLineClass)
 

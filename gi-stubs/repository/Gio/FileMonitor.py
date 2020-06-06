@@ -430,12 +430,12 @@ class FileMonitor(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd310130>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b8760b460>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FileMonitor), '__module__': 'gi.repository.Gio', '__gtype__': <GType GFileMonitor (94125582336672)>, '__doc__': None, '__gsignals__': {}, 'cancel': gi.FunctionInfo(cancel), 'emit_event': gi.FunctionInfo(emit_event), 'is_cancelled': gi.FunctionInfo(is_cancelled), 'set_rate_limit': gi.FunctionInfo(set_rate_limit), 'do_cancel': gi.VFuncInfo(cancel), 'do_changed': gi.VFuncInfo(changed), 'parent_instance': <property object at 0x7f28dde892c0>, 'priv': <property object at 0x7f28dde893b0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FileMonitor), '__module__': 'gi.repository.Gio', '__gtype__': <GType GFileMonitor (94269256996496)>, '__doc__': None, '__gsignals__': {}, 'cancel': gi.FunctionInfo(cancel), 'emit_event': gi.FunctionInfo(emit_event), 'is_cancelled': gi.FunctionInfo(is_cancelled), 'set_rate_limit': gi.FunctionInfo(set_rate_limit), 'do_cancel': gi.VFuncInfo(cancel), 'do_changed': gi.VFuncInfo(changed), 'parent_instance': <property object at 0x7f4b87fec5e0>, 'priv': <property object at 0x7f4b87fec6d0>})"
     __gdoc__ = 'Object GFileMonitor\n\nSignals from GFileMonitor:\n  changed (GFile, GFile, GFileMonitorEvent)\n\nProperties from GFileMonitor:\n  rate-limit -> gint: Rate limit\n    The limit of the monitor to watch for changes, in milliseconds\n  cancelled -> gboolean: Cancelled\n    Whether the monitor has been cancelled\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GFileMonitor (94125582336672)>'
+    __gtype__ = None # (!) real value is '<GType GFileMonitor (94269256996496)>'
     __info__ = ObjectInfo(FileMonitor)
 
 

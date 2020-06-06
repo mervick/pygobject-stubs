@@ -133,8 +133,8 @@ class Array(__gi.Boxed):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Array), '__module__': 'gi.repository.GLib', '__gtype__': <GType GArray (94243598563472)>, '__dict__': <attribute '__dict__' of 'Array' objects>, '__weakref__': <attribute '__weakref__' of 'Array' objects>, '__doc__': None, 'data': <property object at 0x7f1d2b957590>, 'len': <property object at 0x7f1d2b959e50>})"
-    __gtype__ = None # (!) real value is '<GType GArray (94243598563472)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Array), '__module__': 'gi.repository.GLib', '__gtype__': <GType GArray (94581033345216)>, '__dict__': <attribute '__dict__' of 'Array' objects>, '__weakref__': <attribute '__weakref__' of 'Array' objects>, '__doc__': None, 'data': <property object at 0x7f8513556360>, 'len': <property object at 0x7f8513557c20>})"
+    __gtype__ = None # (!) real value is '<GType GArray (94581033345216)>'
     __info__ = StructInfo(Array)
 
 

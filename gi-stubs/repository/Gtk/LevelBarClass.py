@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -131,7 +131,7 @@ class LevelBarClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(LevelBarClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'LevelBarClass' objects>, '__weakref__': <attribute '__weakref__' of 'LevelBarClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe831055ae0>, 'offset_changed': <property object at 0x7fe831055bd0>, 'padding': <property object at 0x7fe831055cc0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(LevelBarClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'LevelBarClass' objects>, '__weakref__': <attribute '__weakref__' of 'LevelBarClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a76c860>, 'offset_changed': <property object at 0x7fc63a76c950>, 'padding': <property object at 0x7fc63a76ca40>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(LevelBarClass)
 

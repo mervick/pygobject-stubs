@@ -1322,11 +1322,11 @@ from .__class__ import __class__
 
 _introspection_module = None # (!) real value is "<IntrospectionModule 'Gio' from '/usr/lib64/girepository-1.0/Gio-2.0.typelib'>"
 
-__loader__ = None # (!) real value is '<gi.importer.DynamicImporter object at 0x7f28ded919d0>'
+__loader__ = None # (!) real value is '<gi.importer.DynamicImporter object at 0x7f4b88f01d00>'
 
 __path__ = [
     '/usr/lib64/girepository-1.0/Gio-2.0.typelib',
 ]
 
-__spec__ = None # (!) real value is "ModuleSpec(name='gi.repository.Gio', loader=<gi.importer.DynamicImporter object at 0x7f28ded919d0>)"
+__spec__ = None # (!) real value is "ModuleSpec(name='gi.repository.Gio', loader=<gi.importer.DynamicImporter object at 0x7f4b88f01d00>)"
 

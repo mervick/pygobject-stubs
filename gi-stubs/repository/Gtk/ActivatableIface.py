@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -131,7 +131,7 @@ class ActivatableIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ActivatableIface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ActivatableIface' objects>, '__weakref__': <attribute '__weakref__' of 'ActivatableIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7fe8310f0bd0>, 'update': <property object at 0x7fe8310f0cc0>, 'sync_action_properties': <property object at 0x7fe8310f0e00>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ActivatableIface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ActivatableIface' objects>, '__weakref__': <attribute '__weakref__' of 'ActivatableIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7fc63a805ae0>, 'update': <property object at 0x7fc63a805bd0>, 'sync_action_properties': <property object at 0x7fc63a805d10>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ActivatableIface)
 

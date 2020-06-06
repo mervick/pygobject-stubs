@@ -368,7 +368,7 @@ class TlsError(__gobject.GEnum):
     NOT_TLS = 3
     UNAVAILABLE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'TlsError' objects>, '__doc__': None, '__gtype__': <GType GTlsError (94125582394208)>, '__enum_values__': {0: <enum G_TLS_ERROR_UNAVAILABLE of type Gio.TlsError>, 1: <enum G_TLS_ERROR_MISC of type Gio.TlsError>, 2: <enum G_TLS_ERROR_BAD_CERTIFICATE of type Gio.TlsError>, 3: <enum G_TLS_ERROR_NOT_TLS of type Gio.TlsError>, 4: <enum G_TLS_ERROR_HANDSHAKE of type Gio.TlsError>, 5: <enum G_TLS_ERROR_CERTIFICATE_REQUIRED of type Gio.TlsError>, 6: <enum G_TLS_ERROR_EOF of type Gio.TlsError>, 7: <enum G_TLS_ERROR_INAPPROPRIATE_FALLBACK of type Gio.TlsError>}, '__info__': gi.EnumInfo(TlsError), 'UNAVAILABLE': <enum G_TLS_ERROR_UNAVAILABLE of type Gio.TlsError>, 'MISC': <enum G_TLS_ERROR_MISC of type Gio.TlsError>, 'BAD_CERTIFICATE': <enum G_TLS_ERROR_BAD_CERTIFICATE of type Gio.TlsError>, 'NOT_TLS': <enum G_TLS_ERROR_NOT_TLS of type Gio.TlsError>, 'HANDSHAKE': <enum G_TLS_ERROR_HANDSHAKE of type Gio.TlsError>, 'CERTIFICATE_REQUIRED': <enum G_TLS_ERROR_CERTIFICATE_REQUIRED of type Gio.TlsError>, 'EOF': <enum G_TLS_ERROR_EOF of type Gio.TlsError>, 'INAPPROPRIATE_FALLBACK': <enum G_TLS_ERROR_INAPPROPRIATE_FALLBACK of type Gio.TlsError>, 'quark': gi.FunctionInfo(quark)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'TlsError' objects>, '__doc__': None, '__gtype__': <GType GTlsError (94269257471216)>, '__enum_values__': {0: <enum G_TLS_ERROR_UNAVAILABLE of type Gio.TlsError>, 1: <enum G_TLS_ERROR_MISC of type Gio.TlsError>, 2: <enum G_TLS_ERROR_BAD_CERTIFICATE of type Gio.TlsError>, 3: <enum G_TLS_ERROR_NOT_TLS of type Gio.TlsError>, 4: <enum G_TLS_ERROR_HANDSHAKE of type Gio.TlsError>, 5: <enum G_TLS_ERROR_CERTIFICATE_REQUIRED of type Gio.TlsError>, 6: <enum G_TLS_ERROR_EOF of type Gio.TlsError>, 7: <enum G_TLS_ERROR_INAPPROPRIATE_FALLBACK of type Gio.TlsError>}, '__info__': gi.EnumInfo(TlsError), 'UNAVAILABLE': <enum G_TLS_ERROR_UNAVAILABLE of type Gio.TlsError>, 'MISC': <enum G_TLS_ERROR_MISC of type Gio.TlsError>, 'BAD_CERTIFICATE': <enum G_TLS_ERROR_BAD_CERTIFICATE of type Gio.TlsError>, 'NOT_TLS': <enum G_TLS_ERROR_NOT_TLS of type Gio.TlsError>, 'HANDSHAKE': <enum G_TLS_ERROR_HANDSHAKE of type Gio.TlsError>, 'CERTIFICATE_REQUIRED': <enum G_TLS_ERROR_CERTIFICATE_REQUIRED of type Gio.TlsError>, 'EOF': <enum G_TLS_ERROR_EOF of type Gio.TlsError>, 'INAPPROPRIATE_FALLBACK': <enum G_TLS_ERROR_INAPPROPRIATE_FALLBACK of type Gio.TlsError>, 'quark': gi.FunctionInfo(quark)})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -379,7 +379,7 @@ class TlsError(__gobject.GEnum):
         6: 6,
         7: 7,
     }
-    __gtype__ = None # (!) real value is '<GType GTlsError (94125582394208)>'
+    __gtype__ = None # (!) real value is '<GType GTlsError (94269257471216)>'
     __info__ = gi.EnumInfo(TlsError)
 
 

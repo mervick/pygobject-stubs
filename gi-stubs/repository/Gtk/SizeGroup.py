@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -491,12 +491,12 @@ class SizeGroup(SizeGroup):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe82fd97f40>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc63a2cfeb0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', '__init__': <function deprecated_init.<locals>.new_init at 0x7fe831d85d30>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', '__init__': <function deprecated_init.<locals>.new_init at 0x7fc63b4a8550>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Object GtkSizeGroup\n\nProperties from GtkSizeGroup:\n  mode -> GtkSizeGroupMode: Mode\n    The directions in which the size group affects the requested sizes of its component widgets\n  ignore-hidden -> gboolean: Ignore hidden\n    If TRUE, unmapped widgets are ignored when determining the size of the group\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkSizeGroup (94846036832080)>'
+    __gtype__ = None # (!) real value is '<GType GtkSizeGroup (93897367040224)>'
     __info__ = ObjectInfo(SizeGroup)
 
 

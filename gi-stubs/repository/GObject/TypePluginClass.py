@@ -155,7 +155,7 @@ class TypePluginClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TypePluginClass), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TypePluginClass' objects>, '__weakref__': <attribute '__weakref__' of 'TypePluginClass' objects>, '__doc__': None, 'base_iface': <property object at 0x7f7c2865bd60>, 'use_plugin': <property object at 0x7f7c2865be50>, 'unuse_plugin': <property object at 0x7f7c2865bf40>, 'complete_type_info': <property object at 0x7f7c2865d0e0>, 'complete_interface_info': <property object at 0x7f7c2865d1d0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TypePluginClass), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TypePluginClass' objects>, '__weakref__': <attribute '__weakref__' of 'TypePluginClass' objects>, '__doc__': None, 'base_iface': <property object at 0x7fe46b8cdea0>, 'use_plugin': <property object at 0x7fe46b8cdf90>, 'unuse_plugin': <property object at 0x7fe46b8cf0e0>, 'complete_type_info': <property object at 0x7fe46b8cf220>, 'complete_interface_info': <property object at 0x7fe46b8cf310>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TypePluginClass)
 

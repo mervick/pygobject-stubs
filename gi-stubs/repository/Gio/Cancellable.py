@@ -460,12 +460,12 @@ class Cancellable(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd62d8b0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87788a30>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Cancellable), '__module__': 'gi.repository.Gio', '__gtype__': <GType GCancellable (94125581853952)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_current': gi.FunctionInfo(get_current), 'cancel': gi.FunctionInfo(cancel), 'connect': gi.FunctionInfo(connect), 'disconnect': gi.FunctionInfo(disconnect), 'get_fd': gi.FunctionInfo(get_fd), 'is_cancelled': gi.FunctionInfo(is_cancelled), 'make_pollfd': gi.FunctionInfo(make_pollfd), 'pop_current': gi.FunctionInfo(pop_current), 'push_current': gi.FunctionInfo(push_current), 'release_fd': gi.FunctionInfo(release_fd), 'reset': gi.FunctionInfo(reset), 'set_error_if_cancelled': gi.FunctionInfo(set_error_if_cancelled), 'source_new': gi.FunctionInfo(source_new), 'do_cancelled': gi.VFuncInfo(cancelled), 'parent_instance': <property object at 0x7f28ddf33cc0>, 'priv': <property object at 0x7f28ddf33db0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Cancellable), '__module__': 'gi.repository.Gio', '__gtype__': <GType GCancellable (94269256473744)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_current': gi.FunctionInfo(get_current), 'cancel': gi.FunctionInfo(cancel), 'connect': gi.FunctionInfo(connect), 'disconnect': gi.FunctionInfo(disconnect), 'get_fd': gi.FunctionInfo(get_fd), 'is_cancelled': gi.FunctionInfo(is_cancelled), 'make_pollfd': gi.FunctionInfo(make_pollfd), 'pop_current': gi.FunctionInfo(pop_current), 'push_current': gi.FunctionInfo(push_current), 'release_fd': gi.FunctionInfo(release_fd), 'reset': gi.FunctionInfo(reset), 'set_error_if_cancelled': gi.FunctionInfo(set_error_if_cancelled), 'source_new': gi.FunctionInfo(source_new), 'do_cancelled': gi.VFuncInfo(cancelled), 'parent_instance': <property object at 0x7f4b88096ea0>, 'priv': <property object at 0x7f4b88096f90>})"
     __gdoc__ = 'Object GCancellable\n\nSignals from GCancellable:\n  cancelled ()\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GCancellable (94125581853952)>'
+    __gtype__ = None # (!) real value is '<GType GCancellable (94269256473744)>'
     __info__ = ObjectInfo(Cancellable)
 
 

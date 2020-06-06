@@ -450,12 +450,12 @@ class SocketAddress(__gi_overrides_GObject.Object, SocketConnectable):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd25ae20>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87316880>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SocketAddress), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSocketAddress (94125582438256)>, '__doc__': None, '__gsignals__': {}, 'new_from_native': gi.FunctionInfo(new_from_native), 'get_family': gi.FunctionInfo(get_family), 'get_native_size': gi.FunctionInfo(get_native_size), 'to_native': gi.FunctionInfo(to_native), 'do_get_family': gi.VFuncInfo(get_family), 'do_get_native_size': gi.VFuncInfo(get_native_size), 'do_to_native': gi.VFuncInfo(to_native), 'parent_instance': <property object at 0x7f28dde9e680>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SocketAddress), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSocketAddress (94269257084608)>, '__doc__': None, '__gsignals__': {}, 'new_from_native': gi.FunctionInfo(new_from_native), 'get_family': gi.FunctionInfo(get_family), 'get_native_size': gi.FunctionInfo(get_native_size), 'to_native': gi.FunctionInfo(to_native), 'do_get_family': gi.VFuncInfo(get_family), 'do_get_native_size': gi.VFuncInfo(get_native_size), 'do_to_native': gi.VFuncInfo(to_native), 'parent_instance': <property object at 0x7f4b87fff7c0>})"
     __gdoc__ = 'Object GSocketAddress\n\nProperties from GSocketAddress:\n  family -> GSocketFamily: Address family\n    The family of the socket address\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GSocketAddress (94125582438256)>'
+    __gtype__ = None # (!) real value is '<GType GSocketAddress (94269257084608)>'
     __info__ = ObjectInfo(SocketAddress)
 
 

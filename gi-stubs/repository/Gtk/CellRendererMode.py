@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -362,13 +362,13 @@ class CellRendererMode(__gobject.GEnum):
     EDITABLE = 2
     INERT = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'CellRendererMode' objects>, '__doc__': None, '__gtype__': <GType GtkCellRendererMode (94846038057200)>, '__enum_values__': {0: <enum GTK_CELL_RENDERER_MODE_INERT of type Gtk.CellRendererMode>, 1: <enum GTK_CELL_RENDERER_MODE_ACTIVATABLE of type Gtk.CellRendererMode>, 2: <enum GTK_CELL_RENDERER_MODE_EDITABLE of type Gtk.CellRendererMode>}, '__info__': gi.EnumInfo(CellRendererMode), 'INERT': <enum GTK_CELL_RENDERER_MODE_INERT of type Gtk.CellRendererMode>, 'ACTIVATABLE': <enum GTK_CELL_RENDERER_MODE_ACTIVATABLE of type Gtk.CellRendererMode>, 'EDITABLE': <enum GTK_CELL_RENDERER_MODE_EDITABLE of type Gtk.CellRendererMode>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'CellRendererMode' objects>, '__doc__': None, '__gtype__': <GType GtkCellRendererMode (93897368272128)>, '__enum_values__': {0: <enum GTK_CELL_RENDERER_MODE_INERT of type Gtk.CellRendererMode>, 1: <enum GTK_CELL_RENDERER_MODE_ACTIVATABLE of type Gtk.CellRendererMode>, 2: <enum GTK_CELL_RENDERER_MODE_EDITABLE of type Gtk.CellRendererMode>}, '__info__': gi.EnumInfo(CellRendererMode), 'INERT': <enum GTK_CELL_RENDERER_MODE_INERT of type Gtk.CellRendererMode>, 'ACTIVATABLE': <enum GTK_CELL_RENDERER_MODE_ACTIVATABLE of type Gtk.CellRendererMode>, 'EDITABLE': <enum GTK_CELL_RENDERER_MODE_EDITABLE of type Gtk.CellRendererMode>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GtkCellRendererMode (94846038057200)>'
+    __gtype__ = None # (!) real value is '<GType GtkCellRendererMode (93897368272128)>'
     __info__ = gi.EnumInfo(CellRendererMode)
 
 

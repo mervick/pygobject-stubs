@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -479,12 +479,12 @@ class IconFactory(__gi_overrides_GObject.Object, Buildable):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe830bb6bb0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc63925e370>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(IconFactory), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkIconFactory (94846038533232)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'lookup_default': gi.FunctionInfo(lookup_default), 'add': gi.FunctionInfo(add), 'add_default': gi.FunctionInfo(add_default), 'lookup': gi.FunctionInfo(lookup), 'remove_default': gi.FunctionInfo(remove_default), 'parent_instance': <property object at 0x7fe831037ef0>, 'priv': <property object at 0x7fe83103c040>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(IconFactory), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkIconFactory (93897368504880)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'lookup_default': gi.FunctionInfo(lookup_default), 'add': gi.FunctionInfo(add), 'add_default': gi.FunctionInfo(add_default), 'lookup': gi.FunctionInfo(lookup), 'remove_default': gi.FunctionInfo(remove_default), 'parent_instance': <property object at 0x7fc63a74fc70>, 'priv': <property object at 0x7fc63a74fdb0>})"
     __gdoc__ = 'Object GtkIconFactory\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkIconFactory (94846038533232)>'
+    __gtype__ = None # (!) real value is '<GType GtkIconFactory (93897368504880)>'
     __info__ = ObjectInfo(IconFactory)
 
 

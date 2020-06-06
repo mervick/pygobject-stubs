@@ -466,12 +466,12 @@ class MenuModel(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd4ad8e0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87732550>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(MenuModel), '__module__': 'gi.repository.Gio', '__gtype__': <GType GMenuModel (94125582095280)>, '__doc__': None, '__gsignals__': {}, 'get_item_attribute_value': gi.FunctionInfo(get_item_attribute_value), 'get_item_link': gi.FunctionInfo(get_item_link), 'get_n_items': gi.FunctionInfo(get_n_items), 'is_mutable': gi.FunctionInfo(is_mutable), 'items_changed': gi.FunctionInfo(items_changed), 'iterate_item_attributes': gi.FunctionInfo(iterate_item_attributes), 'iterate_item_links': gi.FunctionInfo(iterate_item_links), 'do_get_item_attribute_value': gi.VFuncInfo(get_item_attribute_value), 'do_get_item_attributes': gi.VFuncInfo(get_item_attributes), 'do_get_item_link': gi.VFuncInfo(get_item_link), 'do_get_item_links': gi.VFuncInfo(get_item_links), 'do_get_n_items': gi.VFuncInfo(get_n_items), 'do_is_mutable': gi.VFuncInfo(is_mutable), 'do_iterate_item_attributes': gi.VFuncInfo(iterate_item_attributes), 'do_iterate_item_links': gi.VFuncInfo(iterate_item_links), 'parent_instance': <property object at 0x7f28ddec9ef0>, 'priv': <property object at 0x7f28ddecb0e0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(MenuModel), '__module__': 'gi.repository.Gio', '__gtype__': <GType GMenuModel (94269256721664)>, '__doc__': None, '__gsignals__': {}, 'get_item_attribute_value': gi.FunctionInfo(get_item_attribute_value), 'get_item_link': gi.FunctionInfo(get_item_link), 'get_n_items': gi.FunctionInfo(get_n_items), 'is_mutable': gi.FunctionInfo(is_mutable), 'items_changed': gi.FunctionInfo(items_changed), 'iterate_item_attributes': gi.FunctionInfo(iterate_item_attributes), 'iterate_item_links': gi.FunctionInfo(iterate_item_links), 'do_get_item_attribute_value': gi.VFuncInfo(get_item_attribute_value), 'do_get_item_attributes': gi.VFuncInfo(get_item_attributes), 'do_get_item_link': gi.VFuncInfo(get_item_link), 'do_get_item_links': gi.VFuncInfo(get_item_links), 'do_get_n_items': gi.VFuncInfo(get_n_items), 'do_is_mutable': gi.VFuncInfo(is_mutable), 'do_iterate_item_attributes': gi.VFuncInfo(iterate_item_attributes), 'do_iterate_item_links': gi.VFuncInfo(iterate_item_links), 'parent_instance': <property object at 0x7f4b8802f1d0>, 'priv': <property object at 0x7f4b8802f360>})"
     __gdoc__ = 'Object GMenuModel\n\nSignals from GMenuModel:\n  items-changed (gint, gint, gint)\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GMenuModel (94125582095280)>'
+    __gtype__ = None # (!) real value is '<GType GMenuModel (94269256721664)>'
     __info__ = ObjectInfo(MenuModel)
 
 

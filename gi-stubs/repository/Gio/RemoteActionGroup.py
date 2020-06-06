@@ -123,10 +123,10 @@ class RemoteActionGroup(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(RemoteActionGroup), '__module__': 'gi.repository.Gio', '__gtype__': <GType GRemoteActionGroup (94125582089616)>, '__dict__': <attribute '__dict__' of 'RemoteActionGroup' objects>, '__weakref__': <attribute '__weakref__' of 'RemoteActionGroup' objects>, '__doc__': None, '__gsignals__': {}, 'activate_action_full': gi.FunctionInfo(activate_action_full), 'change_action_state_full': gi.FunctionInfo(change_action_state_full)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(RemoteActionGroup), '__module__': 'gi.repository.Gio', '__gtype__': <GType GRemoteActionGroup (94269256715840)>, '__dict__': <attribute '__dict__' of 'RemoteActionGroup' objects>, '__weakref__': <attribute '__weakref__' of 'RemoteActionGroup' objects>, '__doc__': None, '__gsignals__': {}, 'activate_action_full': gi.FunctionInfo(activate_action_full), 'change_action_state_full': gi.FunctionInfo(change_action_state_full)})"
     __gdoc__ = 'Interface GRemoteActionGroup\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GRemoteActionGroup (94125582089616)>'
+    __gtype__ = None # (!) real value is '<GType GRemoteActionGroup (94269256715840)>'
     __info__ = InterfaceInfo(RemoteActionGroup)
 
 

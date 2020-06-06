@@ -124,7 +124,7 @@ class EngineLangClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EngineLangClass), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EngineLangClass' objects>, '__weakref__': <attribute '__weakref__' of 'EngineLangClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f24746eba40>, 'script_break': <property object at 0x7f24746ebb30>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EngineLangClass), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EngineLangClass' objects>, '__weakref__': <attribute '__weakref__' of 'EngineLangClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f85178917c0>, 'script_break': <property object at 0x7f85178918b0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(EngineLangClass)
 

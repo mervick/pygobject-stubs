@@ -389,7 +389,7 @@ class TypeDebugFlags(__gobject.GFlags):
     OBJECTS = 1
     SIGNALS = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GObject', '__dict__': <attribute '__dict__' of 'TypeDebugFlags' objects>, '__doc__': None, '__gtype__': <GType PyGObjectTypeDebugFlags (93895379640160)>, '__flags_values__': {0: <flags 0 of type GObject.TypeDebugFlags>, 1: <flags G_TYPE_DEBUG_OBJECTS of type GObject.TypeDebugFlags>, 2: <flags G_TYPE_DEBUG_SIGNALS of type GObject.TypeDebugFlags>, 4: <flags G_TYPE_DEBUG_INSTANCE_COUNT of type GObject.TypeDebugFlags>, 7: <flags G_TYPE_DEBUG_OBJECTS | G_TYPE_DEBUG_SIGNALS | G_TYPE_DEBUG_INSTANCE_COUNT | G_TYPE_DEBUG_MASK of type GObject.TypeDebugFlags>}, '__info__': gi.EnumInfo(TypeDebugFlags), 'NONE': <flags 0 of type GObject.TypeDebugFlags>, 'OBJECTS': <flags G_TYPE_DEBUG_OBJECTS of type GObject.TypeDebugFlags>, 'SIGNALS': <flags G_TYPE_DEBUG_SIGNALS of type GObject.TypeDebugFlags>, 'INSTANCE_COUNT': <flags G_TYPE_DEBUG_INSTANCE_COUNT of type GObject.TypeDebugFlags>, 'MASK': <flags G_TYPE_DEBUG_OBJECTS | G_TYPE_DEBUG_SIGNALS | G_TYPE_DEBUG_INSTANCE_COUNT | G_TYPE_DEBUG_MASK of type GObject.TypeDebugFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GObject', '__dict__': <attribute '__dict__' of 'TypeDebugFlags' objects>, '__doc__': None, '__gtype__': <GType PyGObjectTypeDebugFlags (94184341858208)>, '__flags_values__': {0: <flags 0 of type GObject.TypeDebugFlags>, 1: <flags G_TYPE_DEBUG_OBJECTS of type GObject.TypeDebugFlags>, 2: <flags G_TYPE_DEBUG_SIGNALS of type GObject.TypeDebugFlags>, 4: <flags G_TYPE_DEBUG_INSTANCE_COUNT of type GObject.TypeDebugFlags>, 7: <flags G_TYPE_DEBUG_OBJECTS | G_TYPE_DEBUG_SIGNALS | G_TYPE_DEBUG_INSTANCE_COUNT | G_TYPE_DEBUG_MASK of type GObject.TypeDebugFlags>}, '__info__': gi.EnumInfo(TypeDebugFlags), 'NONE': <flags 0 of type GObject.TypeDebugFlags>, 'OBJECTS': <flags G_TYPE_DEBUG_OBJECTS of type GObject.TypeDebugFlags>, 'SIGNALS': <flags G_TYPE_DEBUG_SIGNALS of type GObject.TypeDebugFlags>, 'INSTANCE_COUNT': <flags G_TYPE_DEBUG_INSTANCE_COUNT of type GObject.TypeDebugFlags>, 'MASK': <flags G_TYPE_DEBUG_OBJECTS | G_TYPE_DEBUG_SIGNALS | G_TYPE_DEBUG_INSTANCE_COUNT | G_TYPE_DEBUG_MASK of type GObject.TypeDebugFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
@@ -397,7 +397,7 @@ class TypeDebugFlags(__gobject.GFlags):
         4: 4,
         7: 7,
     }
-    __gtype__ = None # (!) real value is '<GType PyGObjectTypeDebugFlags (93895379640160)>'
+    __gtype__ = None # (!) real value is '<GType PyGObjectTypeDebugFlags (94184341858208)>'
     __info__ = gi.EnumInfo(TypeDebugFlags)
 
 

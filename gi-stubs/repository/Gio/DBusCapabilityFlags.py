@@ -363,12 +363,12 @@ class DBusCapabilityFlags(__gobject.GFlags):
     NONE = 0
     UNIX_FD_PASSING = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusCapabilityFlags' objects>, '__doc__': None, '__gtype__': <GType GDBusCapabilityFlags (94125582095168)>, '__flags_values__': {0: <flags 0 of type Gio.DBusCapabilityFlags>, 1: <flags G_DBUS_CAPABILITY_FLAGS_UNIX_FD_PASSING of type Gio.DBusCapabilityFlags>}, '__info__': gi.EnumInfo(DBusCapabilityFlags), 'NONE': <flags 0 of type Gio.DBusCapabilityFlags>, 'UNIX_FD_PASSING': <flags G_DBUS_CAPABILITY_FLAGS_UNIX_FD_PASSING of type Gio.DBusCapabilityFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusCapabilityFlags' objects>, '__doc__': None, '__gtype__': <GType GDBusCapabilityFlags (94269256721552)>, '__flags_values__': {0: <flags 0 of type Gio.DBusCapabilityFlags>, 1: <flags G_DBUS_CAPABILITY_FLAGS_UNIX_FD_PASSING of type Gio.DBusCapabilityFlags>}, '__info__': gi.EnumInfo(DBusCapabilityFlags), 'NONE': <flags 0 of type Gio.DBusCapabilityFlags>, 'UNIX_FD_PASSING': <flags G_DBUS_CAPABILITY_FLAGS_UNIX_FD_PASSING of type Gio.DBusCapabilityFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GDBusCapabilityFlags (94125582095168)>'
+    __gtype__ = None # (!) real value is '<GType GDBusCapabilityFlags (94269256721552)>'
     __info__ = gi.EnumInfo(DBusCapabilityFlags)
 
 

@@ -364,7 +364,7 @@ class MarkupError(__gobject.GEnum):
     UNKNOWN_ATTRIBUTE = 4
     UNKNOWN_ELEMENT = 3
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'MarkupError' objects>, '__doc__': None, '__gtype__': <GType PyGLibMarkupError (94243599003024)>, '__enum_values__': {0: <enum G_MARKUP_ERROR_BAD_UTF8 of type GLib.MarkupError>, 1: <enum G_MARKUP_ERROR_EMPTY of type GLib.MarkupError>, 2: <enum G_MARKUP_ERROR_PARSE of type GLib.MarkupError>, 3: <enum G_MARKUP_ERROR_UNKNOWN_ELEMENT of type GLib.MarkupError>, 4: <enum G_MARKUP_ERROR_UNKNOWN_ATTRIBUTE of type GLib.MarkupError>, 5: <enum G_MARKUP_ERROR_INVALID_CONTENT of type GLib.MarkupError>, 6: <enum G_MARKUP_ERROR_MISSING_ATTRIBUTE of type GLib.MarkupError>}, '__info__': gi.EnumInfo(MarkupError), 'BAD_UTF8': <enum G_MARKUP_ERROR_BAD_UTF8 of type GLib.MarkupError>, 'EMPTY': <enum G_MARKUP_ERROR_EMPTY of type GLib.MarkupError>, 'PARSE': <enum G_MARKUP_ERROR_PARSE of type GLib.MarkupError>, 'UNKNOWN_ELEMENT': <enum G_MARKUP_ERROR_UNKNOWN_ELEMENT of type GLib.MarkupError>, 'UNKNOWN_ATTRIBUTE': <enum G_MARKUP_ERROR_UNKNOWN_ATTRIBUTE of type GLib.MarkupError>, 'INVALID_CONTENT': <enum G_MARKUP_ERROR_INVALID_CONTENT of type GLib.MarkupError>, 'MISSING_ATTRIBUTE': <enum G_MARKUP_ERROR_MISSING_ATTRIBUTE of type GLib.MarkupError>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'MarkupError' objects>, '__doc__': None, '__gtype__': <GType PyGLibMarkupError (94581033780080)>, '__enum_values__': {0: <enum G_MARKUP_ERROR_BAD_UTF8 of type GLib.MarkupError>, 1: <enum G_MARKUP_ERROR_EMPTY of type GLib.MarkupError>, 2: <enum G_MARKUP_ERROR_PARSE of type GLib.MarkupError>, 3: <enum G_MARKUP_ERROR_UNKNOWN_ELEMENT of type GLib.MarkupError>, 4: <enum G_MARKUP_ERROR_UNKNOWN_ATTRIBUTE of type GLib.MarkupError>, 5: <enum G_MARKUP_ERROR_INVALID_CONTENT of type GLib.MarkupError>, 6: <enum G_MARKUP_ERROR_MISSING_ATTRIBUTE of type GLib.MarkupError>}, '__info__': gi.EnumInfo(MarkupError), 'BAD_UTF8': <enum G_MARKUP_ERROR_BAD_UTF8 of type GLib.MarkupError>, 'EMPTY': <enum G_MARKUP_ERROR_EMPTY of type GLib.MarkupError>, 'PARSE': <enum G_MARKUP_ERROR_PARSE of type GLib.MarkupError>, 'UNKNOWN_ELEMENT': <enum G_MARKUP_ERROR_UNKNOWN_ELEMENT of type GLib.MarkupError>, 'UNKNOWN_ATTRIBUTE': <enum G_MARKUP_ERROR_UNKNOWN_ATTRIBUTE of type GLib.MarkupError>, 'INVALID_CONTENT': <enum G_MARKUP_ERROR_INVALID_CONTENT of type GLib.MarkupError>, 'MISSING_ATTRIBUTE': <enum G_MARKUP_ERROR_MISSING_ATTRIBUTE of type GLib.MarkupError>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -374,7 +374,7 @@ class MarkupError(__gobject.GEnum):
         5: 5,
         6: 6,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibMarkupError (94243599003024)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibMarkupError (94581033780080)>'
     __info__ = gi.EnumInfo(MarkupError)
 
 

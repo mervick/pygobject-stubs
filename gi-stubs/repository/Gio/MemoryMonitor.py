@@ -119,10 +119,10 @@ class MemoryMonitor(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(MemoryMonitor), '__module__': 'gi.repository.Gio', '__gtype__': <GType GMemoryMonitor (94125582100096)>, '__dict__': <attribute '__dict__' of 'MemoryMonitor' objects>, '__weakref__': <attribute '__weakref__' of 'MemoryMonitor' objects>, '__doc__': None, '__gsignals__': {}, 'dup_default': gi.FunctionInfo(dup_default)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(MemoryMonitor), '__module__': 'gi.repository.Gio', '__gtype__': <GType GMemoryMonitor (94269257095952)>, '__dict__': <attribute '__dict__' of 'MemoryMonitor' objects>, '__weakref__': <attribute '__weakref__' of 'MemoryMonitor' objects>, '__doc__': None, '__gsignals__': {}, 'dup_default': gi.FunctionInfo(dup_default)})"
     __gdoc__ = 'Interface GMemoryMonitor\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GMemoryMonitor (94125582100096)>'
+    __gtype__ = None # (!) real value is '<GType GMemoryMonitor (94269257095952)>'
     __info__ = InterfaceInfo(MemoryMonitor)
 
 

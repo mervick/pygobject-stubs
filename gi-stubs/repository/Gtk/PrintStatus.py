@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -368,7 +368,7 @@ class PrintStatus(__gobject.GEnum):
     PRINTING = 6
     SENDING_DATA = 3
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PrintStatus' objects>, '__doc__': None, '__gtype__': <GType GtkPrintStatus (94846038898528)>, '__enum_values__': {0: <enum GTK_PRINT_STATUS_INITIAL of type Gtk.PrintStatus>, 1: <enum GTK_PRINT_STATUS_PREPARING of type Gtk.PrintStatus>, 2: <enum GTK_PRINT_STATUS_GENERATING_DATA of type Gtk.PrintStatus>, 3: <enum GTK_PRINT_STATUS_SENDING_DATA of type Gtk.PrintStatus>, 4: <enum GTK_PRINT_STATUS_PENDING of type Gtk.PrintStatus>, 5: <enum GTK_PRINT_STATUS_PENDING_ISSUE of type Gtk.PrintStatus>, 6: <enum GTK_PRINT_STATUS_PRINTING of type Gtk.PrintStatus>, 7: <enum GTK_PRINT_STATUS_FINISHED of type Gtk.PrintStatus>, 8: <enum GTK_PRINT_STATUS_FINISHED_ABORTED of type Gtk.PrintStatus>}, '__info__': gi.EnumInfo(PrintStatus), 'INITIAL': <enum GTK_PRINT_STATUS_INITIAL of type Gtk.PrintStatus>, 'PREPARING': <enum GTK_PRINT_STATUS_PREPARING of type Gtk.PrintStatus>, 'GENERATING_DATA': <enum GTK_PRINT_STATUS_GENERATING_DATA of type Gtk.PrintStatus>, 'SENDING_DATA': <enum GTK_PRINT_STATUS_SENDING_DATA of type Gtk.PrintStatus>, 'PENDING': <enum GTK_PRINT_STATUS_PENDING of type Gtk.PrintStatus>, 'PENDING_ISSUE': <enum GTK_PRINT_STATUS_PENDING_ISSUE of type Gtk.PrintStatus>, 'PRINTING': <enum GTK_PRINT_STATUS_PRINTING of type Gtk.PrintStatus>, 'FINISHED': <enum GTK_PRINT_STATUS_FINISHED of type Gtk.PrintStatus>, 'FINISHED_ABORTED': <enum GTK_PRINT_STATUS_FINISHED_ABORTED of type Gtk.PrintStatus>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PrintStatus' objects>, '__doc__': None, '__gtype__': <GType GtkPrintStatus (93897368856928)>, '__enum_values__': {0: <enum GTK_PRINT_STATUS_INITIAL of type Gtk.PrintStatus>, 1: <enum GTK_PRINT_STATUS_PREPARING of type Gtk.PrintStatus>, 2: <enum GTK_PRINT_STATUS_GENERATING_DATA of type Gtk.PrintStatus>, 3: <enum GTK_PRINT_STATUS_SENDING_DATA of type Gtk.PrintStatus>, 4: <enum GTK_PRINT_STATUS_PENDING of type Gtk.PrintStatus>, 5: <enum GTK_PRINT_STATUS_PENDING_ISSUE of type Gtk.PrintStatus>, 6: <enum GTK_PRINT_STATUS_PRINTING of type Gtk.PrintStatus>, 7: <enum GTK_PRINT_STATUS_FINISHED of type Gtk.PrintStatus>, 8: <enum GTK_PRINT_STATUS_FINISHED_ABORTED of type Gtk.PrintStatus>}, '__info__': gi.EnumInfo(PrintStatus), 'INITIAL': <enum GTK_PRINT_STATUS_INITIAL of type Gtk.PrintStatus>, 'PREPARING': <enum GTK_PRINT_STATUS_PREPARING of type Gtk.PrintStatus>, 'GENERATING_DATA': <enum GTK_PRINT_STATUS_GENERATING_DATA of type Gtk.PrintStatus>, 'SENDING_DATA': <enum GTK_PRINT_STATUS_SENDING_DATA of type Gtk.PrintStatus>, 'PENDING': <enum GTK_PRINT_STATUS_PENDING of type Gtk.PrintStatus>, 'PENDING_ISSUE': <enum GTK_PRINT_STATUS_PENDING_ISSUE of type Gtk.PrintStatus>, 'PRINTING': <enum GTK_PRINT_STATUS_PRINTING of type Gtk.PrintStatus>, 'FINISHED': <enum GTK_PRINT_STATUS_FINISHED of type Gtk.PrintStatus>, 'FINISHED_ABORTED': <enum GTK_PRINT_STATUS_FINISHED_ABORTED of type Gtk.PrintStatus>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -380,7 +380,7 @@ class PrintStatus(__gobject.GEnum):
         7: 7,
         8: 8,
     }
-    __gtype__ = None # (!) real value is '<GType GtkPrintStatus (94846038898528)>'
+    __gtype__ = None # (!) real value is '<GType GtkPrintStatus (93897368856928)>'
     __info__ = gi.EnumInfo(PrintStatus)
 
 

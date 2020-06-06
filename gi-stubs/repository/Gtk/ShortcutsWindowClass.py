@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -131,7 +131,7 @@ class ShortcutsWindowClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ShortcutsWindowClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ShortcutsWindowClass' objects>, '__weakref__': <attribute '__weakref__' of 'ShortcutsWindowClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830fdc8b0>, 'close': <property object at 0x7fe830fdc9a0>, 'search': <property object at 0x7fe830fdca90>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ShortcutsWindowClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ShortcutsWindowClass' objects>, '__weakref__': <attribute '__weakref__' of 'ShortcutsWindowClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a6f3590>, 'close': <property object at 0x7fc63a6f3680>, 'search': <property object at 0x7fc63a6f3770>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ShortcutsWindowClass)
 

@@ -456,12 +456,12 @@ class EmblemedIcon(__gi_overrides_GObject.Object, Icon):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd38e880>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b8760b610>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(EmblemedIcon), '__module__': 'gi.repository.Gio', '__gtype__': <GType GEmblemedIcon (94125582256912)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add_emblem': gi.FunctionInfo(add_emblem), 'clear_emblems': gi.FunctionInfo(clear_emblems), 'get_emblems': gi.FunctionInfo(get_emblems), 'get_icon': gi.FunctionInfo(get_icon), 'parent_instance': <property object at 0x7f28ddeeac70>, 'priv': <property object at 0x7f28ddeead60>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(EmblemedIcon), '__module__': 'gi.repository.Gio', '__gtype__': <GType GEmblemedIcon (94269256752752)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add_emblem': gi.FunctionInfo(add_emblem), 'clear_emblems': gi.FunctionInfo(clear_emblems), 'get_emblems': gi.FunctionInfo(get_emblems), 'get_icon': gi.FunctionInfo(get_icon), 'parent_instance': <property object at 0x7f4b8804ed10>, 'priv': <property object at 0x7f4b8804ee00>})"
     __gdoc__ = 'Object GEmblemedIcon\n\nProperties from GEmblemedIcon:\n  gicon -> GIcon: The base GIcon\n    The GIcon to attach emblems to\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GEmblemedIcon (94125582256912)>'
+    __gtype__ = None # (!) real value is '<GType GEmblemedIcon (94269256752752)>'
     __info__ = ObjectInfo(EmblemedIcon)
 
 

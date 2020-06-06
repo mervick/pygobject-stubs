@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -465,12 +465,12 @@ class CellAreaContext(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe83088ceb0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc63a0b86a0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(CellAreaContext), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkCellAreaContext (94846038033488)>, '__doc__': None, '__gsignals__': {}, 'allocate': gi.FunctionInfo(allocate), 'get_allocation': gi.FunctionInfo(get_allocation), 'get_area': gi.FunctionInfo(get_area), 'get_preferred_height': gi.FunctionInfo(get_preferred_height), 'get_preferred_height_for_width': gi.FunctionInfo(get_preferred_height_for_width), 'get_preferred_width': gi.FunctionInfo(get_preferred_width), 'get_preferred_width_for_height': gi.FunctionInfo(get_preferred_width_for_height), 'push_preferred_height': gi.FunctionInfo(push_preferred_height), 'push_preferred_width': gi.FunctionInfo(push_preferred_width), 'reset': gi.FunctionInfo(reset), 'do_allocate': gi.VFuncInfo(allocate), 'do_get_preferred_height_for_width': gi.VFuncInfo(get_preferred_height_for_width), 'do_get_preferred_width_for_height': gi.VFuncInfo(get_preferred_width_for_height), 'do_reset': gi.VFuncInfo(reset), 'parent_instance': <property object at 0x7fe8310bb310>, 'priv': <property object at 0x7fe8310bb400>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(CellAreaContext), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkCellAreaContext (93897368248400)>, '__doc__': None, '__gsignals__': {}, 'allocate': gi.FunctionInfo(allocate), 'get_allocation': gi.FunctionInfo(get_allocation), 'get_area': gi.FunctionInfo(get_area), 'get_preferred_height': gi.FunctionInfo(get_preferred_height), 'get_preferred_height_for_width': gi.FunctionInfo(get_preferred_height_for_width), 'get_preferred_width': gi.FunctionInfo(get_preferred_width), 'get_preferred_width_for_height': gi.FunctionInfo(get_preferred_width_for_height), 'push_preferred_height': gi.FunctionInfo(push_preferred_height), 'push_preferred_width': gi.FunctionInfo(push_preferred_width), 'reset': gi.FunctionInfo(reset), 'do_allocate': gi.VFuncInfo(allocate), 'do_get_preferred_height_for_width': gi.VFuncInfo(get_preferred_height_for_width), 'do_get_preferred_width_for_height': gi.VFuncInfo(get_preferred_width_for_height), 'do_reset': gi.VFuncInfo(reset), 'parent_instance': <property object at 0x7fc63a7d1220>, 'priv': <property object at 0x7fc63a7d1310>})"
     __gdoc__ = 'Object GtkCellAreaContext\n\nProperties from GtkCellAreaContext:\n  area -> GtkCellArea: Area\n    The Cell Area this context was created for\n  minimum-width -> gint: Minimum Width\n    Minimum cached width\n  natural-width -> gint: Minimum Width\n    Minimum cached width\n  minimum-height -> gint: Minimum Height\n    Minimum cached height\n  natural-height -> gint: Minimum Height\n    Minimum cached height\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkCellAreaContext (94846038033488)>'
+    __gtype__ = None # (!) real value is '<GType GtkCellAreaContext (93897368248400)>'
     __info__ = ObjectInfo(CellAreaContext)
 
 

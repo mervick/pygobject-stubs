@@ -159,10 +159,10 @@ class Action(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Action), '__module__': 'gi.repository.Gio', '__gtype__': <GType GAction (94125581570240)>, '__dict__': <attribute '__dict__' of 'Action' objects>, '__weakref__': <attribute '__weakref__' of 'Action' objects>, '__doc__': None, '__gsignals__': {}, 'name_is_valid': gi.FunctionInfo(name_is_valid), 'parse_detailed_name': gi.FunctionInfo(parse_detailed_name), 'print_detailed_name': gi.FunctionInfo(print_detailed_name), 'activate': gi.FunctionInfo(activate), 'change_state': gi.FunctionInfo(change_state), 'get_enabled': gi.FunctionInfo(get_enabled), 'get_name': gi.FunctionInfo(get_name), 'get_parameter_type': gi.FunctionInfo(get_parameter_type), 'get_state': gi.FunctionInfo(get_state), 'get_state_hint': gi.FunctionInfo(get_state_hint), 'get_state_type': gi.FunctionInfo(get_state_type)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Action), '__module__': 'gi.repository.Gio', '__gtype__': <GType GAction (94269256186784)>, '__dict__': <attribute '__dict__' of 'Action' objects>, '__weakref__': <attribute '__weakref__' of 'Action' objects>, '__doc__': None, '__gsignals__': {}, 'name_is_valid': gi.FunctionInfo(name_is_valid), 'parse_detailed_name': gi.FunctionInfo(parse_detailed_name), 'print_detailed_name': gi.FunctionInfo(print_detailed_name), 'activate': gi.FunctionInfo(activate), 'change_state': gi.FunctionInfo(change_state), 'get_enabled': gi.FunctionInfo(get_enabled), 'get_name': gi.FunctionInfo(get_name), 'get_parameter_type': gi.FunctionInfo(get_parameter_type), 'get_state': gi.FunctionInfo(get_state), 'get_state_hint': gi.FunctionInfo(get_state_hint), 'get_state_type': gi.FunctionInfo(get_state_type)})"
     __gdoc__ = 'Interface GAction\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GAction (94125581570240)>'
+    __gtype__ = None # (!) real value is '<GType GAction (94269256186784)>'
     __info__ = InterfaceInfo(Action)
 
 

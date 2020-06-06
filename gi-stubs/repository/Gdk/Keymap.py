@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -461,12 +461,12 @@ class Keymap(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f1e11a3fe80>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fbaf7f3ba90>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Keymap), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkKeymap (94055651249840)>, '__doc__': None, '__gsignals__': {}, 'get_default': gi.FunctionInfo(get_default), 'get_for_display': gi.FunctionInfo(get_for_display), 'add_virtual_modifiers': gi.FunctionInfo(add_virtual_modifiers), 'get_caps_lock_state': gi.FunctionInfo(get_caps_lock_state), 'get_direction': gi.FunctionInfo(get_direction), 'get_entries_for_keycode': gi.FunctionInfo(get_entries_for_keycode), 'get_entries_for_keyval': gi.FunctionInfo(get_entries_for_keyval), 'get_modifier_mask': gi.FunctionInfo(get_modifier_mask), 'get_modifier_state': gi.FunctionInfo(get_modifier_state), 'get_num_lock_state': gi.FunctionInfo(get_num_lock_state), 'get_scroll_lock_state': gi.FunctionInfo(get_scroll_lock_state), 'have_bidi_layouts': gi.FunctionInfo(have_bidi_layouts), 'lookup_key': gi.FunctionInfo(lookup_key), 'map_virtual_modifiers': gi.FunctionInfo(map_virtual_modifiers), 'translate_keyboard_state': gi.FunctionInfo(translate_keyboard_state)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Keymap), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkKeymap (94915769025344)>, '__doc__': None, '__gsignals__': {}, 'get_default': gi.FunctionInfo(get_default), 'get_for_display': gi.FunctionInfo(get_for_display), 'add_virtual_modifiers': gi.FunctionInfo(add_virtual_modifiers), 'get_caps_lock_state': gi.FunctionInfo(get_caps_lock_state), 'get_direction': gi.FunctionInfo(get_direction), 'get_entries_for_keycode': gi.FunctionInfo(get_entries_for_keycode), 'get_entries_for_keyval': gi.FunctionInfo(get_entries_for_keyval), 'get_modifier_mask': gi.FunctionInfo(get_modifier_mask), 'get_modifier_state': gi.FunctionInfo(get_modifier_state), 'get_num_lock_state': gi.FunctionInfo(get_num_lock_state), 'get_scroll_lock_state': gi.FunctionInfo(get_scroll_lock_state), 'have_bidi_layouts': gi.FunctionInfo(have_bidi_layouts), 'lookup_key': gi.FunctionInfo(lookup_key), 'map_virtual_modifiers': gi.FunctionInfo(map_virtual_modifiers), 'translate_keyboard_state': gi.FunctionInfo(translate_keyboard_state)})"
     __gdoc__ = 'Object GdkKeymap\n\nSignals from GdkKeymap:\n  direction-changed ()\n  keys-changed ()\n  state-changed ()\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GdkKeymap (94055651249840)>'
+    __gtype__ = None # (!) real value is '<GType GdkKeymap (94915769025344)>'
     __info__ = ObjectInfo(Keymap)
 
 

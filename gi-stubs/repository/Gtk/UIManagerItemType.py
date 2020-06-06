@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -375,7 +375,7 @@ class UIManagerItemType(__gobject.GFlags):
     TOOLBAR = 4
     TOOLITEM = 64
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'UIManagerItemType' objects>, '__doc__': None, '__gtype__': <GType GtkUIManagerItemType (94846039531072)>, '__flags_values__': {0: <flags 0 of type Gtk.UIManagerItemType>, 1: <flags GTK_UI_MANAGER_MENUBAR of type Gtk.UIManagerItemType>, 2: <flags GTK_UI_MANAGER_MENU of type Gtk.UIManagerItemType>, 4: <flags GTK_UI_MANAGER_TOOLBAR of type Gtk.UIManagerItemType>, 8: <flags GTK_UI_MANAGER_PLACEHOLDER of type Gtk.UIManagerItemType>, 16: <flags GTK_UI_MANAGER_POPUP of type Gtk.UIManagerItemType>, 32: <flags GTK_UI_MANAGER_MENUITEM of type Gtk.UIManagerItemType>, 64: <flags GTK_UI_MANAGER_TOOLITEM of type Gtk.UIManagerItemType>, 128: <flags GTK_UI_MANAGER_SEPARATOR of type Gtk.UIManagerItemType>, 256: <flags GTK_UI_MANAGER_ACCELERATOR of type Gtk.UIManagerItemType>, 512: <flags GTK_UI_MANAGER_POPUP_WITH_ACCELS of type Gtk.UIManagerItemType>}, '__info__': gi.EnumInfo(UIManagerItemType), 'AUTO': <flags 0 of type Gtk.UIManagerItemType>, 'MENUBAR': <flags GTK_UI_MANAGER_MENUBAR of type Gtk.UIManagerItemType>, 'MENU': <flags GTK_UI_MANAGER_MENU of type Gtk.UIManagerItemType>, 'TOOLBAR': <flags GTK_UI_MANAGER_TOOLBAR of type Gtk.UIManagerItemType>, 'PLACEHOLDER': <flags GTK_UI_MANAGER_PLACEHOLDER of type Gtk.UIManagerItemType>, 'POPUP': <flags GTK_UI_MANAGER_POPUP of type Gtk.UIManagerItemType>, 'MENUITEM': <flags GTK_UI_MANAGER_MENUITEM of type Gtk.UIManagerItemType>, 'TOOLITEM': <flags GTK_UI_MANAGER_TOOLITEM of type Gtk.UIManagerItemType>, 'SEPARATOR': <flags GTK_UI_MANAGER_SEPARATOR of type Gtk.UIManagerItemType>, 'ACCELERATOR': <flags GTK_UI_MANAGER_ACCELERATOR of type Gtk.UIManagerItemType>, 'POPUP_WITH_ACCELS': <flags GTK_UI_MANAGER_POPUP_WITH_ACCELS of type Gtk.UIManagerItemType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'UIManagerItemType' objects>, '__doc__': None, '__gtype__': <GType GtkUIManagerItemType (93897369782960)>, '__flags_values__': {0: <flags 0 of type Gtk.UIManagerItemType>, 1: <flags GTK_UI_MANAGER_MENUBAR of type Gtk.UIManagerItemType>, 2: <flags GTK_UI_MANAGER_MENU of type Gtk.UIManagerItemType>, 4: <flags GTK_UI_MANAGER_TOOLBAR of type Gtk.UIManagerItemType>, 8: <flags GTK_UI_MANAGER_PLACEHOLDER of type Gtk.UIManagerItemType>, 16: <flags GTK_UI_MANAGER_POPUP of type Gtk.UIManagerItemType>, 32: <flags GTK_UI_MANAGER_MENUITEM of type Gtk.UIManagerItemType>, 64: <flags GTK_UI_MANAGER_TOOLITEM of type Gtk.UIManagerItemType>, 128: <flags GTK_UI_MANAGER_SEPARATOR of type Gtk.UIManagerItemType>, 256: <flags GTK_UI_MANAGER_ACCELERATOR of type Gtk.UIManagerItemType>, 512: <flags GTK_UI_MANAGER_POPUP_WITH_ACCELS of type Gtk.UIManagerItemType>}, '__info__': gi.EnumInfo(UIManagerItemType), 'AUTO': <flags 0 of type Gtk.UIManagerItemType>, 'MENUBAR': <flags GTK_UI_MANAGER_MENUBAR of type Gtk.UIManagerItemType>, 'MENU': <flags GTK_UI_MANAGER_MENU of type Gtk.UIManagerItemType>, 'TOOLBAR': <flags GTK_UI_MANAGER_TOOLBAR of type Gtk.UIManagerItemType>, 'PLACEHOLDER': <flags GTK_UI_MANAGER_PLACEHOLDER of type Gtk.UIManagerItemType>, 'POPUP': <flags GTK_UI_MANAGER_POPUP of type Gtk.UIManagerItemType>, 'MENUITEM': <flags GTK_UI_MANAGER_MENUITEM of type Gtk.UIManagerItemType>, 'TOOLITEM': <flags GTK_UI_MANAGER_TOOLITEM of type Gtk.UIManagerItemType>, 'SEPARATOR': <flags GTK_UI_MANAGER_SEPARATOR of type Gtk.UIManagerItemType>, 'ACCELERATOR': <flags GTK_UI_MANAGER_ACCELERATOR of type Gtk.UIManagerItemType>, 'POPUP_WITH_ACCELS': <flags GTK_UI_MANAGER_POPUP_WITH_ACCELS of type Gtk.UIManagerItemType>})"
     __flags_values__ = {
         0: 0,
         1: 1,
@@ -389,7 +389,7 @@ class UIManagerItemType(__gobject.GFlags):
         256: 256,
         512: 512,
     }
-    __gtype__ = None # (!) real value is '<GType GtkUIManagerItemType (94846039531072)>'
+    __gtype__ = None # (!) real value is '<GType GtkUIManagerItemType (93897369782960)>'
     __info__ = gi.EnumInfo(UIManagerItemType)
 
 

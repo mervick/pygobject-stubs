@@ -233,9 +233,9 @@ class ParamSpecDouble(ParamSpec):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ParamSpecDouble), '__module__': 'gi.repository.GObject', '__gtype__': <GType GParamDouble (93895378954048)>, '__doc__': None, '__gsignals__': {}, 'parent_instance': <property object at 0x7f7c286455e0>, 'minimum': <property object at 0x7f7c28645720>, 'maximum': <property object at 0x7f7c28645810>, 'default_value': <property object at 0x7f7c28645900>, 'epsilon': <property object at 0x7f7c286459f0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ParamSpecDouble), '__module__': 'gi.repository.GObject', '__gtype__': <GType GParamDouble (94184341419184)>, '__doc__': None, '__gsignals__': {}, 'parent_instance': <property object at 0x7fe46b8b9ae0>, 'minimum': <property object at 0x7fe46b8b9c20>, 'maximum': <property object at 0x7fe46b8b9d10>, 'default_value': <property object at 0x7fe46b8b9e00>, 'epsilon': <property object at 0x7fe46b8b9ef0>})"
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GParamDouble (93895378954048)>'
+    __gtype__ = None # (!) real value is '<GType GParamDouble (94184341419184)>'
     __info__ = ObjectInfo(ParamSpecDouble)
 
 

@@ -359,7 +359,7 @@ class Underline(__gobject.GEnum):
     NONE = 0
     SINGLE = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'Underline' objects>, '__doc__': None, '__gtype__': <GType PangoUnderline (94752681349696)>, '__enum_values__': {0: <enum PANGO_UNDERLINE_NONE of type Pango.Underline>, 1: <enum PANGO_UNDERLINE_SINGLE of type Pango.Underline>, 2: <enum PANGO_UNDERLINE_DOUBLE of type Pango.Underline>, 3: <enum PANGO_UNDERLINE_LOW of type Pango.Underline>, 4: <enum PANGO_UNDERLINE_ERROR of type Pango.Underline>}, '__info__': gi.EnumInfo(Underline), 'NONE': <enum PANGO_UNDERLINE_NONE of type Pango.Underline>, 'SINGLE': <enum PANGO_UNDERLINE_SINGLE of type Pango.Underline>, 'DOUBLE': <enum PANGO_UNDERLINE_DOUBLE of type Pango.Underline>, 'LOW': <enum PANGO_UNDERLINE_LOW of type Pango.Underline>, 'ERROR': <enum PANGO_UNDERLINE_ERROR of type Pango.Underline>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'Underline' objects>, '__doc__': None, '__gtype__': <GType PangoUnderline (94187429569488)>, '__enum_values__': {0: <enum PANGO_UNDERLINE_NONE of type Pango.Underline>, 1: <enum PANGO_UNDERLINE_SINGLE of type Pango.Underline>, 2: <enum PANGO_UNDERLINE_DOUBLE of type Pango.Underline>, 3: <enum PANGO_UNDERLINE_LOW of type Pango.Underline>, 4: <enum PANGO_UNDERLINE_ERROR of type Pango.Underline>}, '__info__': gi.EnumInfo(Underline), 'NONE': <enum PANGO_UNDERLINE_NONE of type Pango.Underline>, 'SINGLE': <enum PANGO_UNDERLINE_SINGLE of type Pango.Underline>, 'DOUBLE': <enum PANGO_UNDERLINE_DOUBLE of type Pango.Underline>, 'LOW': <enum PANGO_UNDERLINE_LOW of type Pango.Underline>, 'ERROR': <enum PANGO_UNDERLINE_ERROR of type Pango.Underline>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -367,7 +367,7 @@ class Underline(__gobject.GEnum):
         3: 3,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType PangoUnderline (94752681349696)>'
+    __gtype__ = None # (!) real value is '<GType PangoUnderline (94187429569488)>'
     __info__ = gi.EnumInfo(Underline)
 
 

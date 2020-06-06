@@ -141,7 +141,7 @@ class Private(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Private), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'Private' objects>, '__weakref__': <attribute '__weakref__' of 'Private' objects>, '__doc__': None, 'p': <property object at 0x7f1d2b8f6c20>, 'notify': <property object at 0x7f1d2b8f6d10>, 'future': <property object at 0x7f1d2b8f6e00>, 'get': gi.FunctionInfo(get), 'replace': gi.FunctionInfo(replace), 'set': gi.FunctionInfo(set)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Private), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'Private' objects>, '__weakref__': <attribute '__weakref__' of 'Private' objects>, '__doc__': None, 'p': <property object at 0x7f85134f3e00>, 'notify': <property object at 0x7f85134f3ef0>, 'future': <property object at 0x7f85134f5040>, 'get': gi.FunctionInfo(get), 'replace': gi.FunctionInfo(replace), 'set': gi.FunctionInfo(set)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(Private)
 

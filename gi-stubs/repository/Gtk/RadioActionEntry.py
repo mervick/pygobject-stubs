@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -137,7 +137,7 @@ class RadioActionEntry(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(RadioActionEntry), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'RadioActionEntry' objects>, '__weakref__': <attribute '__weakref__' of 'RadioActionEntry' objects>, '__doc__': None, 'name': <property object at 0x7fe830fa4630>, 'stock_id': <property object at 0x7fe830fa4720>, 'label': <property object at 0x7fe830fa4810>, 'accelerator': <property object at 0x7fe830fa4900>, 'tooltip': <property object at 0x7fe830fa49f0>, 'value': <property object at 0x7fe830fa4ae0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(RadioActionEntry), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'RadioActionEntry' objects>, '__weakref__': <attribute '__weakref__' of 'RadioActionEntry' objects>, '__doc__': None, 'name': <property object at 0x7fc63a6ba400>, 'stock_id': <property object at 0x7fc63a6ba4f0>, 'label': <property object at 0x7fc63a6ba5e0>, 'accelerator': <property object at 0x7fc63a6ba6d0>, 'tooltip': <property object at 0x7fc63a6ba7c0>, 'value': <property object at 0x7fc63a6ba8b0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(RadioActionEntry)
 

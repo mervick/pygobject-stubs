@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -143,7 +143,7 @@ class LockButtonClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(LockButtonClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'LockButtonClass' objects>, '__weakref__': <attribute '__weakref__' of 'LockButtonClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830fe4220>, 'reserved0': <property object at 0x7fe830fe4310>, 'reserved1': <property object at 0x7fe830fe4400>, 'reserved2': <property object at 0x7fe830fe44f0>, 'reserved3': <property object at 0x7fe830fe45e0>, 'reserved4': <property object at 0x7fe830fe46d0>, 'reserved5': <property object at 0x7fe830fe47c0>, 'reserved6': <property object at 0x7fe830fe48b0>, 'reserved7': <property object at 0x7fe830fe49a0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(LockButtonClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'LockButtonClass' objects>, '__weakref__': <attribute '__weakref__' of 'LockButtonClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a6f82c0>, 'reserved0': <property object at 0x7fc63a6f83b0>, 'reserved1': <property object at 0x7fc63a6f84a0>, 'reserved2': <property object at 0x7fc63a6f8590>, 'reserved3': <property object at 0x7fc63a6f8680>, 'reserved4': <property object at 0x7fc63a6f8770>, 'reserved5': <property object at 0x7fc63a6f8860>, 'reserved6': <property object at 0x7fc63a6f8950>, 'reserved7': <property object at 0x7fc63a6f8a40>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(LockButtonClass)
 

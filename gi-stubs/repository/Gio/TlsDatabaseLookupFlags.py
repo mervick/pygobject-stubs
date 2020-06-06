@@ -358,12 +358,12 @@ class TlsDatabaseLookupFlags(__gobject.GEnum):
     KEYPAIR = 1
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'TlsDatabaseLookupFlags' objects>, '__doc__': None, '__gtype__': <GType GTlsDatabaseLookupFlags (94125582874432)>, '__enum_values__': {0: <enum G_TLS_DATABASE_LOOKUP_NONE of type Gio.TlsDatabaseLookupFlags>, 1: <enum G_TLS_DATABASE_LOOKUP_KEYPAIR of type Gio.TlsDatabaseLookupFlags>}, '__info__': gi.EnumInfo(TlsDatabaseLookupFlags), 'NONE': <enum G_TLS_DATABASE_LOOKUP_NONE of type Gio.TlsDatabaseLookupFlags>, 'KEYPAIR': <enum G_TLS_DATABASE_LOOKUP_KEYPAIR of type Gio.TlsDatabaseLookupFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'TlsDatabaseLookupFlags' objects>, '__doc__': None, '__gtype__': <GType GTlsDatabaseLookupFlags (94269257518720)>, '__enum_values__': {0: <enum G_TLS_DATABASE_LOOKUP_NONE of type Gio.TlsDatabaseLookupFlags>, 1: <enum G_TLS_DATABASE_LOOKUP_KEYPAIR of type Gio.TlsDatabaseLookupFlags>}, '__info__': gi.EnumInfo(TlsDatabaseLookupFlags), 'NONE': <enum G_TLS_DATABASE_LOOKUP_NONE of type Gio.TlsDatabaseLookupFlags>, 'KEYPAIR': <enum G_TLS_DATABASE_LOOKUP_KEYPAIR of type Gio.TlsDatabaseLookupFlags>})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GTlsDatabaseLookupFlags (94125582874432)>'
+    __gtype__ = None # (!) real value is '<GType GTlsDatabaseLookupFlags (94269257518720)>'
     __info__ = gi.EnumInfo(TlsDatabaseLookupFlags)
 
 

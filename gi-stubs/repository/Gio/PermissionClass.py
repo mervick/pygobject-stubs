@@ -138,7 +138,7 @@ class PermissionClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PermissionClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'PermissionClass' objects>, '__weakref__': <attribute '__weakref__' of 'PermissionClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28dde3f4a0>, 'acquire': <property object at 0x7f28dde3f590>, 'acquire_async': <property object at 0x7f28dde3f680>, 'acquire_finish': <property object at 0x7f28dde3f770>, 'release': <property object at 0x7f28dde3f860>, 'release_async': <property object at 0x7f28dde3f950>, 'release_finish': <property object at 0x7f28dde3fa40>, 'reserved': <property object at 0x7f28dde3fb30>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PermissionClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'PermissionClass' objects>, '__weakref__': <attribute '__weakref__' of 'PermissionClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b87fa2400>, 'acquire': <property object at 0x7f4b87fa24f0>, 'acquire_async': <property object at 0x7f4b87fa25e0>, 'acquire_finish': <property object at 0x7f4b87fa26d0>, 'release': <property object at 0x7f4b87fa27c0>, 'release_async': <property object at 0x7f4b87fa28b0>, 'release_finish': <property object at 0x7f4b87fa29a0>, 'reserved': <property object at 0x7f4b87fa2a90>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(PermissionClass)
 

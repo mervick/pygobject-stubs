@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -145,7 +145,7 @@ class SpinButtonClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SpinButtonClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SpinButtonClass' objects>, '__weakref__': <attribute '__weakref__' of 'SpinButtonClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830f61c20>, 'input': <property object at 0x7fe830f61d10>, 'output': <property object at 0x7fe830f61e00>, 'value_changed': <property object at 0x7fe830f61ef0>, 'change_value': <property object at 0x7fe830f65040>, 'wrapped': <property object at 0x7fe830f65130>, '_gtk_reserved1': <property object at 0x7fe830f65220>, '_gtk_reserved2': <property object at 0x7fe830f65310>, '_gtk_reserved3': <property object at 0x7fe830f65400>, '_gtk_reserved4': <property object at 0x7fe830f654f0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SpinButtonClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SpinButtonClass' objects>, '__weakref__': <attribute '__weakref__' of 'SpinButtonClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a679900>, 'input': <property object at 0x7fc63a6799f0>, 'output': <property object at 0x7fc63a679ae0>, 'value_changed': <property object at 0x7fc63a679bd0>, 'change_value': <property object at 0x7fc63a679cc0>, 'wrapped': <property object at 0x7fc63a679db0>, '_gtk_reserved1': <property object at 0x7fc63a679ea0>, '_gtk_reserved2': <property object at 0x7fc63a679f90>, '_gtk_reserved3': <property object at 0x7fc63a67b0e0>, '_gtk_reserved4': <property object at 0x7fc63a67b1d0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(SpinButtonClass)
 

@@ -130,7 +130,7 @@ class DBusInterfaceVTable(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(DBusInterfaceVTable), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'DBusInterfaceVTable' objects>, '__weakref__': <attribute '__weakref__' of 'DBusInterfaceVTable' objects>, '__doc__': None, 'method_call': <property object at 0x7f28ddec9900>, 'get_property': <property object at 0x7f28ddec99a0>, 'set_property': <property object at 0x7f28ddec9a90>, 'padding': <property object at 0x7f28ddec9b80>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(DBusInterfaceVTable), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'DBusInterfaceVTable' objects>, '__weakref__': <attribute '__weakref__' of 'DBusInterfaceVTable' objects>, '__doc__': None, 'method_call': <property object at 0x7f4b8802dae0>, 'get_property': <property object at 0x7f4b8802dbd0>, 'set_property': <property object at 0x7f4b8802dcc0>, 'padding': <property object at 0x7f4b8802ddb0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(DBusInterfaceVTable)
 

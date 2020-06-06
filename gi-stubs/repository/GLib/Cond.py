@@ -151,7 +151,7 @@ class Cond(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Cond), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'Cond' objects>, '__weakref__': <attribute '__weakref__' of 'Cond' objects>, '__doc__': None, 'p': <property object at 0x7f1d2b9464a0>, 'i': <property object at 0x7f1d2b946590>, 'broadcast': gi.FunctionInfo(broadcast), 'clear': gi.FunctionInfo(clear), 'init': gi.FunctionInfo(init), 'signal': gi.FunctionInfo(signal), 'wait': gi.FunctionInfo(wait), 'wait_until': gi.FunctionInfo(wait_until)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Cond), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'Cond' objects>, '__weakref__': <attribute '__weakref__' of 'Cond' objects>, '__doc__': None, 'p': <property object at 0x7f85135463b0>, 'i': <property object at 0x7f85135464a0>, 'broadcast': gi.FunctionInfo(broadcast), 'clear': gi.FunctionInfo(clear), 'init': gi.FunctionInfo(init), 'signal': gi.FunctionInfo(signal), 'wait': gi.FunctionInfo(wait), 'wait_until': gi.FunctionInfo(wait_until)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(Cond)
 

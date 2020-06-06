@@ -366,11 +366,11 @@ class HyperlinkStateFlags(__gobject.GFlags):
 
     INLINE = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Atk', '__dict__': <attribute '__dict__' of 'HyperlinkStateFlags' objects>, '__doc__': None, '__gtype__': <GType AtkHyperlinkStateFlags (93922956203904)>, '__flags_values__': {1: <flags ATK_HYPERLINK_IS_INLINE of type Atk.HyperlinkStateFlags>}, '__info__': gi.EnumInfo(HyperlinkStateFlags), 'INLINE': <flags ATK_HYPERLINK_IS_INLINE of type Atk.HyperlinkStateFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Atk', '__dict__': <attribute '__dict__' of 'HyperlinkStateFlags' objects>, '__doc__': None, '__gtype__': <GType AtkHyperlinkStateFlags (94258337680608)>, '__flags_values__': {1: <flags ATK_HYPERLINK_IS_INLINE of type Atk.HyperlinkStateFlags>}, '__info__': gi.EnumInfo(HyperlinkStateFlags), 'INLINE': <flags ATK_HYPERLINK_IS_INLINE of type Atk.HyperlinkStateFlags>})"
     __flags_values__ = {
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType AtkHyperlinkStateFlags (93922956203904)>'
+    __gtype__ = None # (!) real value is '<GType AtkHyperlinkStateFlags (94258337680608)>'
     __info__ = gi.EnumInfo(HyperlinkStateFlags)
 
 

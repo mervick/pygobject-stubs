@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,7 +363,7 @@ class DragProtocol(__gobject.GEnum):
     WIN32_DROPFILES = 4
     XDND = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'DragProtocol' objects>, '__doc__': None, '__gtype__': <GType GdkDragProtocol (94055651435104)>, '__enum_values__': {0: <enum GDK_DRAG_PROTO_NONE of type Gdk.DragProtocol>, 1: <enum GDK_DRAG_PROTO_MOTIF of type Gdk.DragProtocol>, 2: <enum GDK_DRAG_PROTO_XDND of type Gdk.DragProtocol>, 3: <enum GDK_DRAG_PROTO_ROOTWIN of type Gdk.DragProtocol>, 4: <enum GDK_DRAG_PROTO_WIN32_DROPFILES of type Gdk.DragProtocol>, 5: <enum GDK_DRAG_PROTO_OLE2 of type Gdk.DragProtocol>, 6: <enum GDK_DRAG_PROTO_LOCAL of type Gdk.DragProtocol>, 7: <enum GDK_DRAG_PROTO_WAYLAND of type Gdk.DragProtocol>}, '__info__': gi.EnumInfo(DragProtocol), 'NONE': <enum GDK_DRAG_PROTO_NONE of type Gdk.DragProtocol>, 'MOTIF': <enum GDK_DRAG_PROTO_MOTIF of type Gdk.DragProtocol>, 'XDND': <enum GDK_DRAG_PROTO_XDND of type Gdk.DragProtocol>, 'ROOTWIN': <enum GDK_DRAG_PROTO_ROOTWIN of type Gdk.DragProtocol>, 'WIN32_DROPFILES': <enum GDK_DRAG_PROTO_WIN32_DROPFILES of type Gdk.DragProtocol>, 'OLE2': <enum GDK_DRAG_PROTO_OLE2 of type Gdk.DragProtocol>, 'LOCAL': <enum GDK_DRAG_PROTO_LOCAL of type Gdk.DragProtocol>, 'WAYLAND': <enum GDK_DRAG_PROTO_WAYLAND of type Gdk.DragProtocol>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'DragProtocol' objects>, '__doc__': None, '__gtype__': <GType GdkDragProtocol (94915769001680)>, '__enum_values__': {0: <enum GDK_DRAG_PROTO_NONE of type Gdk.DragProtocol>, 1: <enum GDK_DRAG_PROTO_MOTIF of type Gdk.DragProtocol>, 2: <enum GDK_DRAG_PROTO_XDND of type Gdk.DragProtocol>, 3: <enum GDK_DRAG_PROTO_ROOTWIN of type Gdk.DragProtocol>, 4: <enum GDK_DRAG_PROTO_WIN32_DROPFILES of type Gdk.DragProtocol>, 5: <enum GDK_DRAG_PROTO_OLE2 of type Gdk.DragProtocol>, 6: <enum GDK_DRAG_PROTO_LOCAL of type Gdk.DragProtocol>, 7: <enum GDK_DRAG_PROTO_WAYLAND of type Gdk.DragProtocol>}, '__info__': gi.EnumInfo(DragProtocol), 'NONE': <enum GDK_DRAG_PROTO_NONE of type Gdk.DragProtocol>, 'MOTIF': <enum GDK_DRAG_PROTO_MOTIF of type Gdk.DragProtocol>, 'XDND': <enum GDK_DRAG_PROTO_XDND of type Gdk.DragProtocol>, 'ROOTWIN': <enum GDK_DRAG_PROTO_ROOTWIN of type Gdk.DragProtocol>, 'WIN32_DROPFILES': <enum GDK_DRAG_PROTO_WIN32_DROPFILES of type Gdk.DragProtocol>, 'OLE2': <enum GDK_DRAG_PROTO_OLE2 of type Gdk.DragProtocol>, 'LOCAL': <enum GDK_DRAG_PROTO_LOCAL of type Gdk.DragProtocol>, 'WAYLAND': <enum GDK_DRAG_PROTO_WAYLAND of type Gdk.DragProtocol>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -374,7 +374,7 @@ class DragProtocol(__gobject.GEnum):
         6: 6,
         7: 7,
     }
-    __gtype__ = None # (!) real value is '<GType GdkDragProtocol (94055651435104)>'
+    __gtype__ = None # (!) real value is '<GType GdkDragProtocol (94915769001680)>'
     __info__ = gi.EnumInfo(DragProtocol)
 
 

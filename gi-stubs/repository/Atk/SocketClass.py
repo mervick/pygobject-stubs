@@ -130,7 +130,7 @@ class SocketClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SocketClass), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SocketClass' objects>, '__weakref__': <attribute '__weakref__' of 'SocketClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f0cd81b6860>, 'embed': <property object at 0x7f0cd81b6950>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SocketClass), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SocketClass' objects>, '__weakref__': <attribute '__weakref__' of 'SocketClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f44c6dce0e0>, 'embed': <property object at 0x7f44c6dce1d0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(SocketClass)
 

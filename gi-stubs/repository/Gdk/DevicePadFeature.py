@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -358,13 +358,13 @@ class DevicePadFeature(__gobject.GEnum):
     RING = 1
     STRIP = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'DevicePadFeature' objects>, '__doc__': None, '__gtype__': <GType GdkDevicePadFeature (94055651083344)>, '__enum_values__': {0: <enum GDK_DEVICE_PAD_FEATURE_BUTTON of type Gdk.DevicePadFeature>, 1: <enum GDK_DEVICE_PAD_FEATURE_RING of type Gdk.DevicePadFeature>, 2: <enum GDK_DEVICE_PAD_FEATURE_STRIP of type Gdk.DevicePadFeature>}, '__info__': gi.EnumInfo(DevicePadFeature), 'BUTTON': <enum GDK_DEVICE_PAD_FEATURE_BUTTON of type Gdk.DevicePadFeature>, 'RING': <enum GDK_DEVICE_PAD_FEATURE_RING of type Gdk.DevicePadFeature>, 'STRIP': <enum GDK_DEVICE_PAD_FEATURE_STRIP of type Gdk.DevicePadFeature>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'DevicePadFeature' objects>, '__doc__': None, '__gtype__': <GType GdkDevicePadFeature (94915768617696)>, '__enum_values__': {0: <enum GDK_DEVICE_PAD_FEATURE_BUTTON of type Gdk.DevicePadFeature>, 1: <enum GDK_DEVICE_PAD_FEATURE_RING of type Gdk.DevicePadFeature>, 2: <enum GDK_DEVICE_PAD_FEATURE_STRIP of type Gdk.DevicePadFeature>}, '__info__': gi.EnumInfo(DevicePadFeature), 'BUTTON': <enum GDK_DEVICE_PAD_FEATURE_BUTTON of type Gdk.DevicePadFeature>, 'RING': <enum GDK_DEVICE_PAD_FEATURE_RING of type Gdk.DevicePadFeature>, 'STRIP': <enum GDK_DEVICE_PAD_FEATURE_STRIP of type Gdk.DevicePadFeature>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GdkDevicePadFeature (94055651083344)>'
+    __gtype__ = None # (!) real value is '<GType GdkDevicePadFeature (94915768617696)>'
     __info__ = gi.EnumInfo(DevicePadFeature)
 
 

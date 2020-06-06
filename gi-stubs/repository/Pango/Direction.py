@@ -361,7 +361,7 @@ class Direction(__gobject.GEnum):
     WEAK_LTR = 4
     WEAK_RTL = 5
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'Direction' objects>, '__doc__': None, '__gtype__': <GType PangoDirection (94752680735472)>, '__enum_values__': {0: <enum PANGO_DIRECTION_LTR of type Pango.Direction>, 1: <enum PANGO_DIRECTION_RTL of type Pango.Direction>, 2: <enum PANGO_DIRECTION_TTB_LTR of type Pango.Direction>, 3: <enum PANGO_DIRECTION_TTB_RTL of type Pango.Direction>, 4: <enum PANGO_DIRECTION_WEAK_LTR of type Pango.Direction>, 5: <enum PANGO_DIRECTION_WEAK_RTL of type Pango.Direction>, 6: <enum PANGO_DIRECTION_NEUTRAL of type Pango.Direction>}, '__info__': gi.EnumInfo(Direction), 'LTR': <enum PANGO_DIRECTION_LTR of type Pango.Direction>, 'RTL': <enum PANGO_DIRECTION_RTL of type Pango.Direction>, 'TTB_LTR': <enum PANGO_DIRECTION_TTB_LTR of type Pango.Direction>, 'TTB_RTL': <enum PANGO_DIRECTION_TTB_RTL of type Pango.Direction>, 'WEAK_LTR': <enum PANGO_DIRECTION_WEAK_LTR of type Pango.Direction>, 'WEAK_RTL': <enum PANGO_DIRECTION_WEAK_RTL of type Pango.Direction>, 'NEUTRAL': <enum PANGO_DIRECTION_NEUTRAL of type Pango.Direction>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'Direction' objects>, '__doc__': None, '__gtype__': <GType PangoDirection (94187429070400)>, '__enum_values__': {0: <enum PANGO_DIRECTION_LTR of type Pango.Direction>, 1: <enum PANGO_DIRECTION_RTL of type Pango.Direction>, 2: <enum PANGO_DIRECTION_TTB_LTR of type Pango.Direction>, 3: <enum PANGO_DIRECTION_TTB_RTL of type Pango.Direction>, 4: <enum PANGO_DIRECTION_WEAK_LTR of type Pango.Direction>, 5: <enum PANGO_DIRECTION_WEAK_RTL of type Pango.Direction>, 6: <enum PANGO_DIRECTION_NEUTRAL of type Pango.Direction>}, '__info__': gi.EnumInfo(Direction), 'LTR': <enum PANGO_DIRECTION_LTR of type Pango.Direction>, 'RTL': <enum PANGO_DIRECTION_RTL of type Pango.Direction>, 'TTB_LTR': <enum PANGO_DIRECTION_TTB_LTR of type Pango.Direction>, 'TTB_RTL': <enum PANGO_DIRECTION_TTB_RTL of type Pango.Direction>, 'WEAK_LTR': <enum PANGO_DIRECTION_WEAK_LTR of type Pango.Direction>, 'WEAK_RTL': <enum PANGO_DIRECTION_WEAK_RTL of type Pango.Direction>, 'NEUTRAL': <enum PANGO_DIRECTION_NEUTRAL of type Pango.Direction>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -371,7 +371,7 @@ class Direction(__gobject.GEnum):
         5: 5,
         6: 6,
     }
-    __gtype__ = None # (!) real value is '<GType PangoDirection (94752680735472)>'
+    __gtype__ = None # (!) real value is '<GType PangoDirection (94187429070400)>'
     __info__ = gi.EnumInfo(Direction)
 
 

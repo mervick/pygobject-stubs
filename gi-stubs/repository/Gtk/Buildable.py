@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -158,10 +158,10 @@ class Buildable(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Buildable), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkBuildable (94846036699808)>, '__dict__': <attribute '__dict__' of 'Buildable' objects>, '__weakref__': <attribute '__weakref__' of 'Buildable' objects>, '__doc__': None, '__gsignals__': {}, 'add_child': gi.FunctionInfo(add_child), 'construct_child': gi.FunctionInfo(construct_child), 'custom_finished': gi.FunctionInfo(custom_finished), 'custom_tag_end': gi.FunctionInfo(custom_tag_end), 'custom_tag_start': gi.FunctionInfo(custom_tag_start), 'get_internal_child': gi.FunctionInfo(get_internal_child), 'get_name': gi.FunctionInfo(get_name), 'parser_finished': gi.FunctionInfo(parser_finished), 'set_buildable_property': gi.FunctionInfo(set_buildable_property), 'set_name': gi.FunctionInfo(set_name)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Buildable), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkBuildable (93897366899152)>, '__dict__': <attribute '__dict__' of 'Buildable' objects>, '__weakref__': <attribute '__weakref__' of 'Buildable' objects>, '__doc__': None, '__gsignals__': {}, 'add_child': gi.FunctionInfo(add_child), 'construct_child': gi.FunctionInfo(construct_child), 'custom_finished': gi.FunctionInfo(custom_finished), 'custom_tag_end': gi.FunctionInfo(custom_tag_end), 'custom_tag_start': gi.FunctionInfo(custom_tag_start), 'get_internal_child': gi.FunctionInfo(get_internal_child), 'get_name': gi.FunctionInfo(get_name), 'parser_finished': gi.FunctionInfo(parser_finished), 'set_buildable_property': gi.FunctionInfo(set_buildable_property), 'set_name': gi.FunctionInfo(set_name)})"
     __gdoc__ = 'Interface GtkBuildable\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkBuildable (94846036699808)>'
+    __gtype__ = None # (!) real value is '<GType GtkBuildable (93897366899152)>'
     __info__ = InterfaceInfo(Buildable)
 
 

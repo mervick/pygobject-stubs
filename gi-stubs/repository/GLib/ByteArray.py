@@ -157,8 +157,8 @@ class ByteArray(__gi.Boxed):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ByteArray), '__module__': 'gi.repository.GLib', '__gtype__': <GType GByteArray (94243598477680)>, '__dict__': <attribute '__dict__' of 'ByteArray' objects>, '__weakref__': <attribute '__weakref__' of 'ByteArray' objects>, '__doc__': None, 'data': <property object at 0x7f1d2b943e50>, 'len': <property object at 0x7f1d2b943ea0>, 'free': gi.FunctionInfo(free), 'free_to_bytes': gi.FunctionInfo(free_to_bytes), 'new': gi.FunctionInfo(new), 'new_take': gi.FunctionInfo(new_take), 'steal': gi.FunctionInfo(steal), 'unref': gi.FunctionInfo(unref)})"
-    __gtype__ = None # (!) real value is '<GType GByteArray (94243598477680)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ByteArray), '__module__': 'gi.repository.GLib', '__gtype__': <GType GByteArray (94581033259456)>, '__dict__': <attribute '__dict__' of 'ByteArray' objects>, '__weakref__': <attribute '__weakref__' of 'ByteArray' objects>, '__doc__': None, 'data': <property object at 0x7f8513579d10>, 'len': <property object at 0x7f8513579d60>, 'free': gi.FunctionInfo(free), 'free_to_bytes': gi.FunctionInfo(free_to_bytes), 'new': gi.FunctionInfo(new), 'new_take': gi.FunctionInfo(new_take), 'steal': gi.FunctionInfo(steal), 'unref': gi.FunctionInfo(unref)})"
+    __gtype__ = None # (!) real value is '<GType GByteArray (94581033259456)>'
     __info__ = StructInfo(ByteArray)
 
 

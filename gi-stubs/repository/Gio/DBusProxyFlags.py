@@ -367,7 +367,7 @@ class DBusProxyFlags(__gobject.GFlags):
     GET_INVALIDATED_PROPERTIES = 8
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusProxyFlags' objects>, '__doc__': None, '__gtype__': <GType GDBusProxyFlags (94125582067408)>, '__flags_values__': {0: <flags 0 of type Gio.DBusProxyFlags>, 1: <flags G_DBUS_PROXY_FLAGS_DO_NOT_LOAD_PROPERTIES of type Gio.DBusProxyFlags>, 2: <flags G_DBUS_PROXY_FLAGS_DO_NOT_CONNECT_SIGNALS of type Gio.DBusProxyFlags>, 4: <flags G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START of type Gio.DBusProxyFlags>, 8: <flags G_DBUS_PROXY_FLAGS_GET_INVALIDATED_PROPERTIES of type Gio.DBusProxyFlags>, 16: <flags G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START_AT_CONSTRUCTION of type Gio.DBusProxyFlags>}, '__info__': gi.EnumInfo(DBusProxyFlags), 'NONE': <flags 0 of type Gio.DBusProxyFlags>, 'DO_NOT_LOAD_PROPERTIES': <flags G_DBUS_PROXY_FLAGS_DO_NOT_LOAD_PROPERTIES of type Gio.DBusProxyFlags>, 'DO_NOT_CONNECT_SIGNALS': <flags G_DBUS_PROXY_FLAGS_DO_NOT_CONNECT_SIGNALS of type Gio.DBusProxyFlags>, 'DO_NOT_AUTO_START': <flags G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START of type Gio.DBusProxyFlags>, 'GET_INVALIDATED_PROPERTIES': <flags G_DBUS_PROXY_FLAGS_GET_INVALIDATED_PROPERTIES of type Gio.DBusProxyFlags>, 'DO_NOT_AUTO_START_AT_CONSTRUCTION': <flags G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START_AT_CONSTRUCTION of type Gio.DBusProxyFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusProxyFlags' objects>, '__doc__': None, '__gtype__': <GType GDBusProxyFlags (94269256791728)>, '__flags_values__': {0: <flags 0 of type Gio.DBusProxyFlags>, 1: <flags G_DBUS_PROXY_FLAGS_DO_NOT_LOAD_PROPERTIES of type Gio.DBusProxyFlags>, 2: <flags G_DBUS_PROXY_FLAGS_DO_NOT_CONNECT_SIGNALS of type Gio.DBusProxyFlags>, 4: <flags G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START of type Gio.DBusProxyFlags>, 8: <flags G_DBUS_PROXY_FLAGS_GET_INVALIDATED_PROPERTIES of type Gio.DBusProxyFlags>, 16: <flags G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START_AT_CONSTRUCTION of type Gio.DBusProxyFlags>}, '__info__': gi.EnumInfo(DBusProxyFlags), 'NONE': <flags 0 of type Gio.DBusProxyFlags>, 'DO_NOT_LOAD_PROPERTIES': <flags G_DBUS_PROXY_FLAGS_DO_NOT_LOAD_PROPERTIES of type Gio.DBusProxyFlags>, 'DO_NOT_CONNECT_SIGNALS': <flags G_DBUS_PROXY_FLAGS_DO_NOT_CONNECT_SIGNALS of type Gio.DBusProxyFlags>, 'DO_NOT_AUTO_START': <flags G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START of type Gio.DBusProxyFlags>, 'GET_INVALIDATED_PROPERTIES': <flags G_DBUS_PROXY_FLAGS_GET_INVALIDATED_PROPERTIES of type Gio.DBusProxyFlags>, 'DO_NOT_AUTO_START_AT_CONSTRUCTION': <flags G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START_AT_CONSTRUCTION of type Gio.DBusProxyFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
@@ -376,7 +376,7 @@ class DBusProxyFlags(__gobject.GFlags):
         8: 8,
         16: 16,
     }
-    __gtype__ = None # (!) real value is '<GType GDBusProxyFlags (94125582067408)>'
+    __gtype__ = None # (!) real value is '<GType GDBusProxyFlags (94269256791728)>'
     __info__ = gi.EnumInfo(DBusProxyFlags)
 
 

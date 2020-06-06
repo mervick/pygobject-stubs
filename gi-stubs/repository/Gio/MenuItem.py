@@ -468,12 +468,12 @@ class MenuItem(MenuItem):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd088190>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87334c70>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gio', 'set_attribute': <function MenuItem.set_attribute at 0x7f28de00c9d0>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gio', 'set_attribute': <function MenuItem.set_attribute at 0x7f4b881811f0>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Object GMenuItem\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GMenuItem (94125581482640)>'
+    __gtype__ = None # (!) real value is '<GType GMenuItem (94269256103824)>'
     __info__ = ObjectInfo(MenuItem)
 
 

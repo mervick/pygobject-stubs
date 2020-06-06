@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -152,8 +152,8 @@ class FrameTimings(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FrameTimings), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkFrameTimings (94055650614208)>, '__dict__': <attribute '__dict__' of 'FrameTimings' objects>, '__weakref__': <attribute '__weakref__' of 'FrameTimings' objects>, '__doc__': None, 'get_complete': gi.FunctionInfo(get_complete), 'get_frame_counter': gi.FunctionInfo(get_frame_counter), 'get_frame_time': gi.FunctionInfo(get_frame_time), 'get_predicted_presentation_time': gi.FunctionInfo(get_predicted_presentation_time), 'get_presentation_time': gi.FunctionInfo(get_presentation_time), 'get_refresh_interval': gi.FunctionInfo(get_refresh_interval), 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref)})"
-    __gtype__ = None # (!) real value is '<GType GdkFrameTimings (94055650614208)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FrameTimings), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkFrameTimings (94915769035600)>, '__dict__': <attribute '__dict__' of 'FrameTimings' objects>, '__weakref__': <attribute '__weakref__' of 'FrameTimings' objects>, '__doc__': None, 'get_complete': gi.FunctionInfo(get_complete), 'get_frame_counter': gi.FunctionInfo(get_frame_counter), 'get_frame_time': gi.FunctionInfo(get_frame_time), 'get_predicted_presentation_time': gi.FunctionInfo(get_predicted_presentation_time), 'get_presentation_time': gi.FunctionInfo(get_presentation_time), 'get_refresh_interval': gi.FunctionInfo(get_refresh_interval), 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref)})"
+    __gtype__ = None # (!) real value is '<GType GdkFrameTimings (94915769035600)>'
     __info__ = StructInfo(FrameTimings)
 
 

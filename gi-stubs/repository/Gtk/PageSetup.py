@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -517,12 +517,12 @@ class PageSetup(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe82f479ca0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc638b86a00>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(PageSetup), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkPageSetup (94846038773472)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_from_file': gi.FunctionInfo(new_from_file), 'new_from_gvariant': gi.FunctionInfo(new_from_gvariant), 'new_from_key_file': gi.FunctionInfo(new_from_key_file), 'copy': gi.FunctionInfo(copy), 'get_bottom_margin': gi.FunctionInfo(get_bottom_margin), 'get_left_margin': gi.FunctionInfo(get_left_margin), 'get_orientation': gi.FunctionInfo(get_orientation), 'get_page_height': gi.FunctionInfo(get_page_height), 'get_page_width': gi.FunctionInfo(get_page_width), 'get_paper_height': gi.FunctionInfo(get_paper_height), 'get_paper_size': gi.FunctionInfo(get_paper_size), 'get_paper_width': gi.FunctionInfo(get_paper_width), 'get_right_margin': gi.FunctionInfo(get_right_margin), 'get_top_margin': gi.FunctionInfo(get_top_margin), 'load_file': gi.FunctionInfo(load_file), 'load_key_file': gi.FunctionInfo(load_key_file), 'set_bottom_margin': gi.FunctionInfo(set_bottom_margin), 'set_left_margin': gi.FunctionInfo(set_left_margin), 'set_orientation': gi.FunctionInfo(set_orientation), 'set_paper_size': gi.FunctionInfo(set_paper_size), 'set_paper_size_and_default_margins': gi.FunctionInfo(set_paper_size_and_default_margins), 'set_right_margin': gi.FunctionInfo(set_right_margin), 'set_top_margin': gi.FunctionInfo(set_top_margin), 'to_file': gi.FunctionInfo(to_file), 'to_gvariant': gi.FunctionInfo(to_gvariant), 'to_key_file': gi.FunctionInfo(to_key_file)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(PageSetup), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkPageSetup (93897369027216)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_from_file': gi.FunctionInfo(new_from_file), 'new_from_gvariant': gi.FunctionInfo(new_from_gvariant), 'new_from_key_file': gi.FunctionInfo(new_from_key_file), 'copy': gi.FunctionInfo(copy), 'get_bottom_margin': gi.FunctionInfo(get_bottom_margin), 'get_left_margin': gi.FunctionInfo(get_left_margin), 'get_orientation': gi.FunctionInfo(get_orientation), 'get_page_height': gi.FunctionInfo(get_page_height), 'get_page_width': gi.FunctionInfo(get_page_width), 'get_paper_height': gi.FunctionInfo(get_paper_height), 'get_paper_size': gi.FunctionInfo(get_paper_size), 'get_paper_width': gi.FunctionInfo(get_paper_width), 'get_right_margin': gi.FunctionInfo(get_right_margin), 'get_top_margin': gi.FunctionInfo(get_top_margin), 'load_file': gi.FunctionInfo(load_file), 'load_key_file': gi.FunctionInfo(load_key_file), 'set_bottom_margin': gi.FunctionInfo(set_bottom_margin), 'set_left_margin': gi.FunctionInfo(set_left_margin), 'set_orientation': gi.FunctionInfo(set_orientation), 'set_paper_size': gi.FunctionInfo(set_paper_size), 'set_paper_size_and_default_margins': gi.FunctionInfo(set_paper_size_and_default_margins), 'set_right_margin': gi.FunctionInfo(set_right_margin), 'set_top_margin': gi.FunctionInfo(set_top_margin), 'to_file': gi.FunctionInfo(to_file), 'to_gvariant': gi.FunctionInfo(to_gvariant), 'to_key_file': gi.FunctionInfo(to_key_file)})"
     __gdoc__ = 'Object GtkPageSetup\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkPageSetup (94846038773472)>'
+    __gtype__ = None # (!) real value is '<GType GtkPageSetup (93897369027216)>'
     __info__ = ObjectInfo(PageSetup)
 
 

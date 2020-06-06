@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -434,12 +434,12 @@ class WindowGroup(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe82e8d6fa0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc6395363a0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(WindowGroup), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkWindowGroup (94846039644080)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add_window': gi.FunctionInfo(add_window), 'get_current_device_grab': gi.FunctionInfo(get_current_device_grab), 'get_current_grab': gi.FunctionInfo(get_current_grab), 'list_windows': gi.FunctionInfo(list_windows), 'remove_window': gi.FunctionInfo(remove_window), 'parent_instance': <property object at 0x7fe83104edb0>, 'priv': <property object at 0x7fe830f50a90>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(WindowGroup), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkWindowGroup (93897369846704)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add_window': gi.FunctionInfo(add_window), 'get_current_device_grab': gi.FunctionInfo(get_current_device_grab), 'get_current_grab': gi.FunctionInfo(get_current_grab), 'list_windows': gi.FunctionInfo(list_windows), 'remove_window': gi.FunctionInfo(remove_window), 'parent_instance': <property object at 0x7fc63a669270>, 'priv': <property object at 0x7fc63a669360>})"
     __gdoc__ = 'Object GtkWindowGroup\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkWindowGroup (94846039644080)>'
+    __gtype__ = None # (!) real value is '<GType GtkWindowGroup (93897369846704)>'
     __info__ = ObjectInfo(WindowGroup)
 
 

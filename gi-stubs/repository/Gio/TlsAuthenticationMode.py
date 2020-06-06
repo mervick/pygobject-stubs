@@ -359,13 +359,13 @@ class TlsAuthenticationMode(__gobject.GEnum):
     REQUESTED = 1
     REQUIRED = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'TlsAuthenticationMode' objects>, '__doc__': None, '__gtype__': <GType GTlsAuthenticationMode (94125582450256)>, '__enum_values__': {0: <enum G_TLS_AUTHENTICATION_NONE of type Gio.TlsAuthenticationMode>, 1: <enum G_TLS_AUTHENTICATION_REQUESTED of type Gio.TlsAuthenticationMode>, 2: <enum G_TLS_AUTHENTICATION_REQUIRED of type Gio.TlsAuthenticationMode>}, '__info__': gi.EnumInfo(TlsAuthenticationMode), 'NONE': <enum G_TLS_AUTHENTICATION_NONE of type Gio.TlsAuthenticationMode>, 'REQUESTED': <enum G_TLS_AUTHENTICATION_REQUESTED of type Gio.TlsAuthenticationMode>, 'REQUIRED': <enum G_TLS_AUTHENTICATION_REQUIRED of type Gio.TlsAuthenticationMode>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'TlsAuthenticationMode' objects>, '__doc__': None, '__gtype__': <GType GTlsAuthenticationMode (94269257071360)>, '__enum_values__': {0: <enum G_TLS_AUTHENTICATION_NONE of type Gio.TlsAuthenticationMode>, 1: <enum G_TLS_AUTHENTICATION_REQUESTED of type Gio.TlsAuthenticationMode>, 2: <enum G_TLS_AUTHENTICATION_REQUIRED of type Gio.TlsAuthenticationMode>}, '__info__': gi.EnumInfo(TlsAuthenticationMode), 'NONE': <enum G_TLS_AUTHENTICATION_NONE of type Gio.TlsAuthenticationMode>, 'REQUESTED': <enum G_TLS_AUTHENTICATION_REQUESTED of type Gio.TlsAuthenticationMode>, 'REQUIRED': <enum G_TLS_AUTHENTICATION_REQUIRED of type Gio.TlsAuthenticationMode>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GTlsAuthenticationMode (94125582450256)>'
+    __gtype__ = None # (!) real value is '<GType GTlsAuthenticationMode (94269257071360)>'
     __info__ = gi.EnumInfo(TlsAuthenticationMode)
 
 

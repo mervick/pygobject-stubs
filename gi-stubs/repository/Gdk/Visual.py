@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -465,12 +465,12 @@ class Visual(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f1e11c18e80>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fbaf808ea60>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Visual), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkVisual (94055650908000)>, '__doc__': None, '__gsignals__': {}, 'get_best': gi.FunctionInfo(get_best), 'get_best_depth': gi.FunctionInfo(get_best_depth), 'get_best_type': gi.FunctionInfo(get_best_type), 'get_best_with_both': gi.FunctionInfo(get_best_with_both), 'get_best_with_depth': gi.FunctionInfo(get_best_with_depth), 'get_best_with_type': gi.FunctionInfo(get_best_with_type), 'get_system': gi.FunctionInfo(get_system), 'get_bits_per_rgb': gi.FunctionInfo(get_bits_per_rgb), 'get_blue_pixel_details': gi.FunctionInfo(get_blue_pixel_details), 'get_byte_order': gi.FunctionInfo(get_byte_order), 'get_colormap_size': gi.FunctionInfo(get_colormap_size), 'get_depth': gi.FunctionInfo(get_depth), 'get_green_pixel_details': gi.FunctionInfo(get_green_pixel_details), 'get_red_pixel_details': gi.FunctionInfo(get_red_pixel_details), 'get_screen': gi.FunctionInfo(get_screen), 'get_visual_type': gi.FunctionInfo(get_visual_type)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Visual), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkVisual (94915768473936)>, '__doc__': None, '__gsignals__': {}, 'get_best': gi.FunctionInfo(get_best), 'get_best_depth': gi.FunctionInfo(get_best_depth), 'get_best_type': gi.FunctionInfo(get_best_type), 'get_best_with_both': gi.FunctionInfo(get_best_with_both), 'get_best_with_depth': gi.FunctionInfo(get_best_with_depth), 'get_best_with_type': gi.FunctionInfo(get_best_with_type), 'get_system': gi.FunctionInfo(get_system), 'get_bits_per_rgb': gi.FunctionInfo(get_bits_per_rgb), 'get_blue_pixel_details': gi.FunctionInfo(get_blue_pixel_details), 'get_byte_order': gi.FunctionInfo(get_byte_order), 'get_colormap_size': gi.FunctionInfo(get_colormap_size), 'get_depth': gi.FunctionInfo(get_depth), 'get_green_pixel_details': gi.FunctionInfo(get_green_pixel_details), 'get_red_pixel_details': gi.FunctionInfo(get_red_pixel_details), 'get_screen': gi.FunctionInfo(get_screen), 'get_visual_type': gi.FunctionInfo(get_visual_type)})"
     __gdoc__ = 'Object GdkVisual\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GdkVisual (94055650908000)>'
+    __gtype__ = None # (!) real value is '<GType GdkVisual (94915768473936)>'
     __info__ = ObjectInfo(Visual)
 
 

@@ -119,7 +119,7 @@ class DoubleIEEE754(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': gi.UnionInfo(DoubleIEEE754), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'DoubleIEEE754' objects>, '__weakref__': <attribute '__weakref__' of 'DoubleIEEE754' objects>, '__doc__': None, 'v_double': <property object at 0x7f1d2b942810>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': gi.UnionInfo(DoubleIEEE754), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'DoubleIEEE754' objects>, '__weakref__': <attribute '__weakref__' of 'DoubleIEEE754' objects>, '__doc__': None, 'v_double': <property object at 0x7f851354d6d0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = gi.UnionInfo(DoubleIEEE754)
 

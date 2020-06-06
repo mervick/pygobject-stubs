@@ -417,8 +417,8 @@ class Value(Value):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.GObject', '__init__': <function Value.__init__ at 0x7f7c29a2ac10>, '_Value__g_type': <property object at 0x7f7c29a39db0>, 'set_boxed': <function Value.set_boxed at 0x7f7c29a2ad30>, 'get_boxed': <function Value.get_boxed at 0x7f7c29a2adc0>, 'set_value': <function Value.set_value at 0x7f7c29a2ae50>, 'get_value': <function Value.get_value at 0x7f7c29a2aee0>, '__repr__': <function Value.__repr__ at 0x7f7c29a2af70>, '__doc__': None})"
-    __gtype__ = None # (!) forward: TYPE_VALUE, real value is '<GType GValue (93895379331568)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.GObject', '__init__': <function Value.__init__ at 0x7fe46cc5e430>, '_Value__g_type': <property object at 0x7fe46cc69900>, 'set_boxed': <function Value.set_boxed at 0x7fe46cc5e550>, 'get_boxed': <function Value.get_boxed at 0x7fe46cc5e5e0>, 'set_value': <function Value.set_value at 0x7fe46cc5e670>, 'get_value': <function Value.get_value at 0x7fe46cc5e700>, '__repr__': <function Value.__repr__ at 0x7fe46cc5e790>, '__doc__': None})"
+    __gtype__ = None # (!) forward: TYPE_VALUE, real value is '<GType GValue (94184341797360)>'
     __info__ = StructInfo(Value)
 
 

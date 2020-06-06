@@ -134,7 +134,7 @@ class TlsConnectionClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TlsConnectionClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TlsConnectionClass' objects>, '__weakref__': <attribute '__weakref__' of 'TlsConnectionClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28dde769a0>, 'accept_certificate': <property object at 0x7f28dde76ae0>, 'handshake': <property object at 0x7f28dde76b80>, 'handshake_async': <property object at 0x7f28dde76c70>, 'handshake_finish': <property object at 0x7f28dde76db0>, 'padding': <property object at 0x7f28dde76e50>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TlsConnectionClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TlsConnectionClass' objects>, '__weakref__': <attribute '__weakref__' of 'TlsConnectionClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b87fd8a90>, 'accept_certificate': <property object at 0x7f4b87fd8bd0>, 'handshake': <property object at 0x7f4b87fd8c70>, 'handshake_async': <property object at 0x7f4b87fd8d60>, 'handshake_finish': <property object at 0x7f4b87fd8ea0>, 'padding': <property object at 0x7f4b87fd8f40>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TlsConnectionClass)
 

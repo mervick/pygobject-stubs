@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -438,12 +438,12 @@ class TextMark(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe82e973850>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc639536f10>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(TextMark), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkTextMark (94846039294736)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_buffer': gi.FunctionInfo(get_buffer), 'get_deleted': gi.FunctionInfo(get_deleted), 'get_left_gravity': gi.FunctionInfo(get_left_gravity), 'get_name': gi.FunctionInfo(get_name), 'get_visible': gi.FunctionInfo(get_visible), 'set_visible': gi.FunctionInfo(set_visible), 'parent_instance': <property object at 0x7fe830f91090>, 'segment': <property object at 0x7fe830f91180>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(TextMark), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkTextMark (93897369165696)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_buffer': gi.FunctionInfo(get_buffer), 'get_deleted': gi.FunctionInfo(get_deleted), 'get_left_gravity': gi.FunctionInfo(get_left_gravity), 'get_name': gi.FunctionInfo(get_name), 'get_visible': gi.FunctionInfo(get_visible), 'set_visible': gi.FunctionInfo(set_visible), 'parent_instance': <property object at 0x7fc63a6a7720>, 'segment': <property object at 0x7fc63a6a7810>})"
     __gdoc__ = 'Object GtkTextMark\n\nProperties from GtkTextMark:\n  name -> gchararray: Name\n    Mark name\n  left-gravity -> gboolean: Left gravity\n    Whether the mark has left gravity\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkTextMark (94846039294736)>'
+    __gtype__ = None # (!) real value is '<GType GtkTextMark (93897369165696)>'
     __info__ = ObjectInfo(TextMark)
 
 

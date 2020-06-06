@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -137,7 +137,7 @@ class AccessibleClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AccessibleClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AccessibleClass' objects>, '__weakref__': <attribute '__weakref__' of 'AccessibleClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe8310ebbd0>, 'connect_widget_destroyed': <property object at 0x7fe8310ebd10>, 'widget_set': <property object at 0x7fe8310ebdb0>, 'widget_unset': <property object at 0x7fe8310ebea0>, '_gtk_reserved3': <property object at 0x7fe8310ebf90>, '_gtk_reserved4': <property object at 0x7fe8310ec0e0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AccessibleClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AccessibleClass' objects>, '__weakref__': <attribute '__weakref__' of 'AccessibleClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a7ffa90>, 'connect_widget_destroyed': <property object at 0x7fc63a7ffbd0>, 'widget_set': <property object at 0x7fc63a7ffc70>, 'widget_unset': <property object at 0x7fc63a7ffd60>, '_gtk_reserved3': <property object at 0x7fc63a7ffe50>, '_gtk_reserved4': <property object at 0x7fc63a7fff40>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(AccessibleClass)
 

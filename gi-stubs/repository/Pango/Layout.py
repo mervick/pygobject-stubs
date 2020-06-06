@@ -639,12 +639,12 @@ class Layout(Layout):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f24746d3c40>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f8517823be0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Pango', '__new__': <staticmethod object at 0x7f2474989490>, 'set_markup': <function Layout.set_markup at 0x7f24749884c0>, 'set_text': <function Layout.set_text at 0x7f2474988550>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Pango', '__new__': <staticmethod object at 0x7f8517b31880>, 'set_markup': <function Layout.set_markup at 0x7f8517b26ca0>, 'set_text': <function Layout.set_text at 0x7f8517b26d30>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Object PangoLayout\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType PangoLayout (94752679259440)>'
+    __gtype__ = None # (!) real value is '<GType PangoLayout (94187428934576)>'
     __info__ = ObjectInfo(Layout)
 
 

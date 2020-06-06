@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -360,7 +360,7 @@ class Status(__gobject.GEnum):
     ERROR_PARAM = -2
     OK = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'Status' objects>, '__doc__': None, '__gtype__': <GType GdkStatus (94055651823072)>, '__enum_values__': {0: <enum GDK_OK of type Gdk.Status>, -1: <enum GDK_ERROR of type Gdk.Status>, -2: <enum GDK_ERROR_PARAM of type Gdk.Status>, -3: <enum GDK_ERROR_FILE of type Gdk.Status>, -4: <enum GDK_ERROR_MEM of type Gdk.Status>}, '__info__': gi.EnumInfo(Status), 'OK': <enum GDK_OK of type Gdk.Status>, 'ERROR': <enum GDK_ERROR of type Gdk.Status>, 'ERROR_PARAM': <enum GDK_ERROR_PARAM of type Gdk.Status>, 'ERROR_FILE': <enum GDK_ERROR_FILE of type Gdk.Status>, 'ERROR_MEM': <enum GDK_ERROR_MEM of type Gdk.Status>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'Status' objects>, '__doc__': None, '__gtype__': <GType GdkStatus (94915769413808)>, '__enum_values__': {0: <enum GDK_OK of type Gdk.Status>, -1: <enum GDK_ERROR of type Gdk.Status>, -2: <enum GDK_ERROR_PARAM of type Gdk.Status>, -3: <enum GDK_ERROR_FILE of type Gdk.Status>, -4: <enum GDK_ERROR_MEM of type Gdk.Status>}, '__info__': gi.EnumInfo(Status), 'OK': <enum GDK_OK of type Gdk.Status>, 'ERROR': <enum GDK_ERROR of type Gdk.Status>, 'ERROR_PARAM': <enum GDK_ERROR_PARAM of type Gdk.Status>, 'ERROR_FILE': <enum GDK_ERROR_FILE of type Gdk.Status>, 'ERROR_MEM': <enum GDK_ERROR_MEM of type Gdk.Status>})"
     __enum_values__ = {
         -4: -4,
         -3: -3,
@@ -368,7 +368,7 @@ class Status(__gobject.GEnum):
         -1: -1,
         0: 0,
     }
-    __gtype__ = None # (!) real value is '<GType GdkStatus (94055651823072)>'
+    __gtype__ = None # (!) real value is '<GType GdkStatus (94915769413808)>'
     __info__ = gi.EnumInfo(Status)
 
 

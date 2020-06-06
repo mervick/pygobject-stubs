@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -370,7 +370,7 @@ class ResponseType(__gobject.GEnum):
     REJECT = -2
     YES = -8
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ResponseType' objects>, '__doc__': None, '__gtype__': <GType GtkResponseType (94846039082800)>, '__enum_values__': {-1: <enum GTK_RESPONSE_NONE of type Gtk.ResponseType>, -2: <enum GTK_RESPONSE_REJECT of type Gtk.ResponseType>, -3: <enum GTK_RESPONSE_ACCEPT of type Gtk.ResponseType>, -4: <enum GTK_RESPONSE_DELETE_EVENT of type Gtk.ResponseType>, -5: <enum GTK_RESPONSE_OK of type Gtk.ResponseType>, -6: <enum GTK_RESPONSE_CANCEL of type Gtk.ResponseType>, -7: <enum GTK_RESPONSE_CLOSE of type Gtk.ResponseType>, -8: <enum GTK_RESPONSE_YES of type Gtk.ResponseType>, -9: <enum GTK_RESPONSE_NO of type Gtk.ResponseType>, -10: <enum GTK_RESPONSE_APPLY of type Gtk.ResponseType>, -11: <enum GTK_RESPONSE_HELP of type Gtk.ResponseType>}, '__info__': gi.EnumInfo(ResponseType), 'NONE': <enum GTK_RESPONSE_NONE of type Gtk.ResponseType>, 'REJECT': <enum GTK_RESPONSE_REJECT of type Gtk.ResponseType>, 'ACCEPT': <enum GTK_RESPONSE_ACCEPT of type Gtk.ResponseType>, 'DELETE_EVENT': <enum GTK_RESPONSE_DELETE_EVENT of type Gtk.ResponseType>, 'OK': <enum GTK_RESPONSE_OK of type Gtk.ResponseType>, 'CANCEL': <enum GTK_RESPONSE_CANCEL of type Gtk.ResponseType>, 'CLOSE': <enum GTK_RESPONSE_CLOSE of type Gtk.ResponseType>, 'YES': <enum GTK_RESPONSE_YES of type Gtk.ResponseType>, 'NO': <enum GTK_RESPONSE_NO of type Gtk.ResponseType>, 'APPLY': <enum GTK_RESPONSE_APPLY of type Gtk.ResponseType>, 'HELP': <enum GTK_RESPONSE_HELP of type Gtk.ResponseType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ResponseType' objects>, '__doc__': None, '__gtype__': <GType GtkResponseType (93897369293584)>, '__enum_values__': {-1: <enum GTK_RESPONSE_NONE of type Gtk.ResponseType>, -2: <enum GTK_RESPONSE_REJECT of type Gtk.ResponseType>, -3: <enum GTK_RESPONSE_ACCEPT of type Gtk.ResponseType>, -4: <enum GTK_RESPONSE_DELETE_EVENT of type Gtk.ResponseType>, -5: <enum GTK_RESPONSE_OK of type Gtk.ResponseType>, -6: <enum GTK_RESPONSE_CANCEL of type Gtk.ResponseType>, -7: <enum GTK_RESPONSE_CLOSE of type Gtk.ResponseType>, -8: <enum GTK_RESPONSE_YES of type Gtk.ResponseType>, -9: <enum GTK_RESPONSE_NO of type Gtk.ResponseType>, -10: <enum GTK_RESPONSE_APPLY of type Gtk.ResponseType>, -11: <enum GTK_RESPONSE_HELP of type Gtk.ResponseType>}, '__info__': gi.EnumInfo(ResponseType), 'NONE': <enum GTK_RESPONSE_NONE of type Gtk.ResponseType>, 'REJECT': <enum GTK_RESPONSE_REJECT of type Gtk.ResponseType>, 'ACCEPT': <enum GTK_RESPONSE_ACCEPT of type Gtk.ResponseType>, 'DELETE_EVENT': <enum GTK_RESPONSE_DELETE_EVENT of type Gtk.ResponseType>, 'OK': <enum GTK_RESPONSE_OK of type Gtk.ResponseType>, 'CANCEL': <enum GTK_RESPONSE_CANCEL of type Gtk.ResponseType>, 'CLOSE': <enum GTK_RESPONSE_CLOSE of type Gtk.ResponseType>, 'YES': <enum GTK_RESPONSE_YES of type Gtk.ResponseType>, 'NO': <enum GTK_RESPONSE_NO of type Gtk.ResponseType>, 'APPLY': <enum GTK_RESPONSE_APPLY of type Gtk.ResponseType>, 'HELP': <enum GTK_RESPONSE_HELP of type Gtk.ResponseType>})"
     __enum_values__ = {
         -11: -11,
         -10: -10,
@@ -384,7 +384,7 @@ class ResponseType(__gobject.GEnum):
         -2: -2,
         -1: -1,
     }
-    __gtype__ = None # (!) real value is '<GType GtkResponseType (94846039082800)>'
+    __gtype__ = None # (!) real value is '<GType GtkResponseType (93897369293584)>'
     __info__ = gi.EnumInfo(ResponseType)
 
 

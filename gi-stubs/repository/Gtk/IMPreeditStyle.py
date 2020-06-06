@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -362,13 +362,13 @@ class IMPreeditStyle(__gobject.GEnum):
     NONE = 2
     NOTHING = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'IMPreeditStyle' objects>, '__doc__': None, '__gtype__': <GType GtkIMPreeditStyle (94846038530112)>, '__enum_values__': {0: <enum GTK_IM_PREEDIT_NOTHING of type Gtk.IMPreeditStyle>, 1: <enum GTK_IM_PREEDIT_CALLBACK of type Gtk.IMPreeditStyle>, 2: <enum GTK_IM_PREEDIT_NONE of type Gtk.IMPreeditStyle>}, '__info__': gi.EnumInfo(IMPreeditStyle), 'NOTHING': <enum GTK_IM_PREEDIT_NOTHING of type Gtk.IMPreeditStyle>, 'CALLBACK': <enum GTK_IM_PREEDIT_CALLBACK of type Gtk.IMPreeditStyle>, 'NONE': <enum GTK_IM_PREEDIT_NONE of type Gtk.IMPreeditStyle>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'IMPreeditStyle' objects>, '__doc__': None, '__gtype__': <GType GtkIMPreeditStyle (93897368740368)>, '__enum_values__': {0: <enum GTK_IM_PREEDIT_NOTHING of type Gtk.IMPreeditStyle>, 1: <enum GTK_IM_PREEDIT_CALLBACK of type Gtk.IMPreeditStyle>, 2: <enum GTK_IM_PREEDIT_NONE of type Gtk.IMPreeditStyle>}, '__info__': gi.EnumInfo(IMPreeditStyle), 'NOTHING': <enum GTK_IM_PREEDIT_NOTHING of type Gtk.IMPreeditStyle>, 'CALLBACK': <enum GTK_IM_PREEDIT_CALLBACK of type Gtk.IMPreeditStyle>, 'NONE': <enum GTK_IM_PREEDIT_NONE of type Gtk.IMPreeditStyle>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GtkIMPreeditStyle (94846038530112)>'
+    __gtype__ = None # (!) real value is '<GType GtkIMPreeditStyle (93897368740368)>'
     __info__ = gi.EnumInfo(IMPreeditStyle)
 
 

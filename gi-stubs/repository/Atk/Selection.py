@@ -147,10 +147,10 @@ class Selection(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Selection), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkSelection (93922955835456)>, '__dict__': <attribute '__dict__' of 'Selection' objects>, '__weakref__': <attribute '__weakref__' of 'Selection' objects>, '__doc__': None, '__gsignals__': {}, 'add_selection': gi.FunctionInfo(add_selection), 'clear_selection': gi.FunctionInfo(clear_selection), 'get_selection_count': gi.FunctionInfo(get_selection_count), 'is_child_selected': gi.FunctionInfo(is_child_selected), 'ref_selection': gi.FunctionInfo(ref_selection), 'remove_selection': gi.FunctionInfo(remove_selection), 'select_all_selection': gi.FunctionInfo(select_all_selection)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Selection), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkSelection (94258337631520)>, '__dict__': <attribute '__dict__' of 'Selection' objects>, '__weakref__': <attribute '__weakref__' of 'Selection' objects>, '__doc__': None, '__gsignals__': {}, 'add_selection': gi.FunctionInfo(add_selection), 'clear_selection': gi.FunctionInfo(clear_selection), 'get_selection_count': gi.FunctionInfo(get_selection_count), 'is_child_selected': gi.FunctionInfo(is_child_selected), 'ref_selection': gi.FunctionInfo(ref_selection), 'remove_selection': gi.FunctionInfo(remove_selection), 'select_all_selection': gi.FunctionInfo(select_all_selection)})"
     __gdoc__ = 'Interface AtkSelection\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType AtkSelection (93922955835456)>'
+    __gtype__ = None # (!) real value is '<GType AtkSelection (94258337631520)>'
     __info__ = InterfaceInfo(Selection)
 
 

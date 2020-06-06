@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -165,8 +165,8 @@ class TreeRowReference(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TreeRowReference), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkTreeRowReference (94846039546640)>, '__dict__': <attribute '__dict__' of 'TreeRowReference' objects>, '__weakref__': <attribute '__weakref__' of 'TreeRowReference' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'new_proxy': gi.FunctionInfo(new_proxy), 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free), 'get_model': gi.FunctionInfo(get_model), 'get_path': gi.FunctionInfo(get_path), 'valid': gi.FunctionInfo(valid), 'deleted': gi.FunctionInfo(deleted), 'inserted': gi.FunctionInfo(inserted), '__new__': <staticmethod object at 0x7fe830f2ea60>, '__init__': <function nothing at 0x7fe832514430>})"
-    __gtype__ = None # (!) real value is '<GType GtkTreeRowReference (94846039546640)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TreeRowReference), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkTreeRowReference (93897369527648)>, '__dict__': <attribute '__dict__' of 'TreeRowReference' objects>, '__weakref__': <attribute '__weakref__' of 'TreeRowReference' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'new_proxy': gi.FunctionInfo(new_proxy), 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free), 'get_model': gi.FunctionInfo(get_model), 'get_path': gi.FunctionInfo(get_path), 'valid': gi.FunctionInfo(valid), 'deleted': gi.FunctionInfo(deleted), 'inserted': gi.FunctionInfo(inserted), '__new__': <staticmethod object at 0x7fc63a644e50>, '__init__': <function nothing at 0x7fc63bc2eee0>})"
+    __gtype__ = None # (!) real value is '<GType GtkTreeRowReference (93897369527648)>'
     __info__ = StructInfo(TreeRowReference)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -143,7 +143,7 @@ class WindowClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(WindowClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'WindowClass' objects>, '__weakref__': <attribute '__weakref__' of 'WindowClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830f4ee50>, 'set_focus': <property object at 0x7fe830f4ef40>, 'activate_focus': <property object at 0x7fe830f50090>, 'activate_default': <property object at 0x7fe830f501d0>, 'keys_changed': <property object at 0x7fe830f50270>, 'enable_debugging': <property object at 0x7fe830f503b0>, '_gtk_reserved1': <property object at 0x7fe830f504a0>, '_gtk_reserved2': <property object at 0x7fe830f50590>, '_gtk_reserved3': <property object at 0x7fe830f50680>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(WindowClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'WindowClass' objects>, '__weakref__': <attribute '__weakref__' of 'WindowClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a666720>, 'set_focus': <property object at 0x7fc63a666810>, 'activate_focus': <property object at 0x7fc63a666900>, 'activate_default': <property object at 0x7fc63a666a40>, 'keys_changed': <property object at 0x7fc63a666ae0>, 'enable_debugging': <property object at 0x7fc63a666c20>, '_gtk_reserved1': <property object at 0x7fc63a666d10>, '_gtk_reserved2': <property object at 0x7fc63a666e00>, '_gtk_reserved3': <property object at 0x7fc63a666ef0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(WindowClass)
 

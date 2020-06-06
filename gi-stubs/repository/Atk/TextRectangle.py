@@ -134,7 +134,7 @@ class TextRectangle(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TextRectangle), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TextRectangle' objects>, '__weakref__': <attribute '__weakref__' of 'TextRectangle' objects>, '__doc__': None, 'x': <property object at 0x7f0cd81c5590>, 'y': <property object at 0x7f0cd81c5680>, 'width': <property object at 0x7f0cd81c5770>, 'height': <property object at 0x7f0cd81c5860>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TextRectangle), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TextRectangle' objects>, '__weakref__': <attribute '__weakref__' of 'TextRectangle' objects>, '__doc__': None, 'x': <property object at 0x7f44c6d092c0>, 'y': <property object at 0x7f44c6d093b0>, 'width': <property object at 0x7f44c6d094a0>, 'height': <property object at 0x7f44c6d09590>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TextRectangle)
 

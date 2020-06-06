@@ -358,12 +358,12 @@ class DBusMessageByteOrder(__gobject.GEnum):
     BIG_ENDIAN = 66
     LITTLE_ENDIAN = 108
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusMessageByteOrder' objects>, '__doc__': None, '__gtype__': <GType GDBusMessageByteOrder (94125582126016)>, '__enum_values__': {66: <enum G_DBUS_MESSAGE_BYTE_ORDER_BIG_ENDIAN of type Gio.DBusMessageByteOrder>, 108: <enum G_DBUS_MESSAGE_BYTE_ORDER_LITTLE_ENDIAN of type Gio.DBusMessageByteOrder>}, '__info__': gi.EnumInfo(DBusMessageByteOrder), 'BIG_ENDIAN': <enum G_DBUS_MESSAGE_BYTE_ORDER_BIG_ENDIAN of type Gio.DBusMessageByteOrder>, 'LITTLE_ENDIAN': <enum G_DBUS_MESSAGE_BYTE_ORDER_LITTLE_ENDIAN of type Gio.DBusMessageByteOrder>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusMessageByteOrder' objects>, '__doc__': None, '__gtype__': <GType GDBusMessageByteOrder (94269256752400)>, '__enum_values__': {66: <enum G_DBUS_MESSAGE_BYTE_ORDER_BIG_ENDIAN of type Gio.DBusMessageByteOrder>, 108: <enum G_DBUS_MESSAGE_BYTE_ORDER_LITTLE_ENDIAN of type Gio.DBusMessageByteOrder>}, '__info__': gi.EnumInfo(DBusMessageByteOrder), 'BIG_ENDIAN': <enum G_DBUS_MESSAGE_BYTE_ORDER_BIG_ENDIAN of type Gio.DBusMessageByteOrder>, 'LITTLE_ENDIAN': <enum G_DBUS_MESSAGE_BYTE_ORDER_LITTLE_ENDIAN of type Gio.DBusMessageByteOrder>})"
     __enum_values__ = {
         66: 66,
         108: 108,
     }
-    __gtype__ = None # (!) real value is '<GType GDBusMessageByteOrder (94125582126016)>'
+    __gtype__ = None # (!) real value is '<GType GDBusMessageByteOrder (94269256752400)>'
     __info__ = gi.EnumInfo(DBusMessageByteOrder)
 
 

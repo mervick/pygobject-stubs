@@ -128,7 +128,7 @@ class AttrFontFeatures(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AttrFontFeatures), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AttrFontFeatures' objects>, '__weakref__': <attribute '__weakref__' of 'AttrFontFeatures' objects>, '__doc__': None, 'attr': <property object at 0x7f24746e1540>, 'features': <property object at 0x7f24746e1630>, 'new': gi.FunctionInfo(new)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AttrFontFeatures), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AttrFontFeatures' objects>, '__weakref__': <attribute '__weakref__' of 'AttrFontFeatures' objects>, '__doc__': None, 'attr': <property object at 0x7f8517884360>, 'features': <property object at 0x7f8517884450>, 'new': gi.FunctionInfo(new)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(AttrFontFeatures)
 

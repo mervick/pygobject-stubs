@@ -473,12 +473,12 @@ class SimpleAction(__gi_overrides_GObject.Object, Action):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dcf9ceb0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b871c12e0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SimpleAction), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSimpleAction (94125582704944)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_stateful': gi.FunctionInfo(new_stateful), 'set_enabled': gi.FunctionInfo(set_enabled), 'set_state': gi.FunctionInfo(set_state), 'set_state_hint': gi.FunctionInfo(set_state_hint)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SimpleAction), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSimpleAction (94269257331600)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_stateful': gi.FunctionInfo(new_stateful), 'set_enabled': gi.FunctionInfo(set_enabled), 'set_state': gi.FunctionInfo(set_state), 'set_state_hint': gi.FunctionInfo(set_state_hint)})"
     __gdoc__ = 'Object GSimpleAction\n\nSignals from GSimpleAction:\n  activate (GVariant)\n  change-state (GVariant)\n\nProperties from GSimpleAction:\n  name -> gchararray: Action Name\n    The name used to invoke the action\n  parameter-type -> GVariantType: Parameter Type\n    The type of GVariant passed to activate()\n  enabled -> gboolean: Enabled\n    If the action can be activated\n  state-type -> GVariantType: State Type\n    The type of the state kept by the action\n  state -> GVariant: State\n    The state the action is in\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GSimpleAction (94125582704944)>'
+    __gtype__ = None # (!) real value is '<GType GSimpleAction (94269257331600)>'
     __info__ = ObjectInfo(SimpleAction)
 
 

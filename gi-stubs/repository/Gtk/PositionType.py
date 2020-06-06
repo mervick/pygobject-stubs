@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,14 +363,14 @@ class PositionType(__gobject.GEnum):
     RIGHT = 1
     TOP = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PositionType' objects>, '__doc__': None, '__gtype__': <GType GtkPositionType (94846037247008)>, '__enum_values__': {0: <enum GTK_POS_LEFT of type Gtk.PositionType>, 1: <enum GTK_POS_RIGHT of type Gtk.PositionType>, 2: <enum GTK_POS_TOP of type Gtk.PositionType>, 3: <enum GTK_POS_BOTTOM of type Gtk.PositionType>}, '__info__': gi.EnumInfo(PositionType), 'LEFT': <enum GTK_POS_LEFT of type Gtk.PositionType>, 'RIGHT': <enum GTK_POS_RIGHT of type Gtk.PositionType>, 'TOP': <enum GTK_POS_TOP of type Gtk.PositionType>, 'BOTTOM': <enum GTK_POS_BOTTOM of type Gtk.PositionType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PositionType' objects>, '__doc__': None, '__gtype__': <GType GtkPositionType (93897367461984)>, '__enum_values__': {0: <enum GTK_POS_LEFT of type Gtk.PositionType>, 1: <enum GTK_POS_RIGHT of type Gtk.PositionType>, 2: <enum GTK_POS_TOP of type Gtk.PositionType>, 3: <enum GTK_POS_BOTTOM of type Gtk.PositionType>}, '__info__': gi.EnumInfo(PositionType), 'LEFT': <enum GTK_POS_LEFT of type Gtk.PositionType>, 'RIGHT': <enum GTK_POS_RIGHT of type Gtk.PositionType>, 'TOP': <enum GTK_POS_TOP of type Gtk.PositionType>, 'BOTTOM': <enum GTK_POS_BOTTOM of type Gtk.PositionType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkPositionType (94846037247008)>'
+    __gtype__ = None # (!) real value is '<GType GtkPositionType (93897367461984)>'
     __info__ = gi.EnumInfo(PositionType)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -362,13 +362,13 @@ class TextBufferTargetInfo(__gobject.GEnum):
     RICH_TEXT = -2
     TEXT = -3
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'TextBufferTargetInfo' objects>, '__doc__': None, '__gtype__': <GType GtkTextBufferTargetInfo (94846039394144)>, '__enum_values__': {-1: <enum GTK_TEXT_BUFFER_TARGET_INFO_BUFFER_CONTENTS of type Gtk.TextBufferTargetInfo>, -2: <enum GTK_TEXT_BUFFER_TARGET_INFO_RICH_TEXT of type Gtk.TextBufferTargetInfo>, -3: <enum GTK_TEXT_BUFFER_TARGET_INFO_TEXT of type Gtk.TextBufferTargetInfo>}, '__info__': gi.EnumInfo(TextBufferTargetInfo), 'BUFFER_CONTENTS': <enum GTK_TEXT_BUFFER_TARGET_INFO_BUFFER_CONTENTS of type Gtk.TextBufferTargetInfo>, 'RICH_TEXT': <enum GTK_TEXT_BUFFER_TARGET_INFO_RICH_TEXT of type Gtk.TextBufferTargetInfo>, 'TEXT': <enum GTK_TEXT_BUFFER_TARGET_INFO_TEXT of type Gtk.TextBufferTargetInfo>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'TextBufferTargetInfo' objects>, '__doc__': None, '__gtype__': <GType GtkTextBufferTargetInfo (93897369595744)>, '__enum_values__': {-1: <enum GTK_TEXT_BUFFER_TARGET_INFO_BUFFER_CONTENTS of type Gtk.TextBufferTargetInfo>, -2: <enum GTK_TEXT_BUFFER_TARGET_INFO_RICH_TEXT of type Gtk.TextBufferTargetInfo>, -3: <enum GTK_TEXT_BUFFER_TARGET_INFO_TEXT of type Gtk.TextBufferTargetInfo>}, '__info__': gi.EnumInfo(TextBufferTargetInfo), 'BUFFER_CONTENTS': <enum GTK_TEXT_BUFFER_TARGET_INFO_BUFFER_CONTENTS of type Gtk.TextBufferTargetInfo>, 'RICH_TEXT': <enum GTK_TEXT_BUFFER_TARGET_INFO_RICH_TEXT of type Gtk.TextBufferTargetInfo>, 'TEXT': <enum GTK_TEXT_BUFFER_TARGET_INFO_TEXT of type Gtk.TextBufferTargetInfo>})"
     __enum_values__ = {
         -3: -3,
         -2: -2,
         -1: -1,
     }
-    __gtype__ = None # (!) real value is '<GType GtkTextBufferTargetInfo (94846039394144)>'
+    __gtype__ = None # (!) real value is '<GType GtkTextBufferTargetInfo (93897369595744)>'
     __info__ = gi.EnumInfo(TextBufferTargetInfo)
 
 

@@ -128,7 +128,7 @@ class AttrLanguage(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AttrLanguage), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AttrLanguage' objects>, '__weakref__': <attribute '__weakref__' of 'AttrLanguage' objects>, '__doc__': None, 'attr': <property object at 0x7f24746e1ae0>, 'value': <property object at 0x7f24746e1bd0>, 'new': gi.FunctionInfo(new)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AttrLanguage), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AttrLanguage' objects>, '__weakref__': <attribute '__weakref__' of 'AttrLanguage' objects>, '__doc__': None, 'attr': <property object at 0x7f8517884900>, 'value': <property object at 0x7f85178849f0>, 'new': gi.FunctionInfo(new)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(AttrLanguage)
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -147,8 +147,8 @@ class Rectangle(__gi.Boxed):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Rectangle), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkRectangle (94055650605840)>, '__dict__': <attribute '__dict__' of 'Rectangle' objects>, '__weakref__': <attribute '__weakref__' of 'Rectangle' objects>, '__doc__': None, 'x': <property object at 0x7f1e122fd270>, 'y': <property object at 0x7f1e122fd360>, 'width': <property object at 0x7f1e122fd450>, 'height': <property object at 0x7f1e122fd540>, 'equal': gi.FunctionInfo(equal), 'intersect': gi.FunctionInfo(intersect), 'union': gi.FunctionInfo(union)})"
-    __gtype__ = None # (!) real value is '<GType GdkRectangle (94055650605840)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Rectangle), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkRectangle (94915768180672)>, '__dict__': <attribute '__dict__' of 'Rectangle' objects>, '__weakref__': <attribute '__weakref__' of 'Rectangle' objects>, '__doc__': None, 'x': <property object at 0x7fbaf87f8860>, 'y': <property object at 0x7fbaf87f8950>, 'width': <property object at 0x7fbaf87f8a40>, 'height': <property object at 0x7fbaf87f8b30>, 'equal': gi.FunctionInfo(equal), 'intersect': gi.FunctionInfo(intersect), 'union': gi.FunctionInfo(union)})"
+    __gtype__ = None # (!) real value is '<GType GdkRectangle (94915768180672)>'
     __info__ = StructInfo(Rectangle)
 
 

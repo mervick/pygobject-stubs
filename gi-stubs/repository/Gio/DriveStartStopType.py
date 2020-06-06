@@ -361,7 +361,7 @@ class DriveStartStopType(__gobject.GEnum):
     SHUTDOWN = 1
     UNKNOWN = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DriveStartStopType' objects>, '__doc__': None, '__gtype__': <GType GDriveStartStopType (94125582231408)>, '__enum_values__': {0: <enum G_DRIVE_START_STOP_TYPE_UNKNOWN of type Gio.DriveStartStopType>, 1: <enum G_DRIVE_START_STOP_TYPE_SHUTDOWN of type Gio.DriveStartStopType>, 2: <enum G_DRIVE_START_STOP_TYPE_NETWORK of type Gio.DriveStartStopType>, 3: <enum G_DRIVE_START_STOP_TYPE_MULTIDISK of type Gio.DriveStartStopType>, 4: <enum G_DRIVE_START_STOP_TYPE_PASSWORD of type Gio.DriveStartStopType>}, '__info__': gi.EnumInfo(DriveStartStopType), 'UNKNOWN': <enum G_DRIVE_START_STOP_TYPE_UNKNOWN of type Gio.DriveStartStopType>, 'SHUTDOWN': <enum G_DRIVE_START_STOP_TYPE_SHUTDOWN of type Gio.DriveStartStopType>, 'NETWORK': <enum G_DRIVE_START_STOP_TYPE_NETWORK of type Gio.DriveStartStopType>, 'MULTIDISK': <enum G_DRIVE_START_STOP_TYPE_MULTIDISK of type Gio.DriveStartStopType>, 'PASSWORD': <enum G_DRIVE_START_STOP_TYPE_PASSWORD of type Gio.DriveStartStopType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DriveStartStopType' objects>, '__doc__': None, '__gtype__': <GType GDriveStartStopType (94269256866112)>, '__enum_values__': {0: <enum G_DRIVE_START_STOP_TYPE_UNKNOWN of type Gio.DriveStartStopType>, 1: <enum G_DRIVE_START_STOP_TYPE_SHUTDOWN of type Gio.DriveStartStopType>, 2: <enum G_DRIVE_START_STOP_TYPE_NETWORK of type Gio.DriveStartStopType>, 3: <enum G_DRIVE_START_STOP_TYPE_MULTIDISK of type Gio.DriveStartStopType>, 4: <enum G_DRIVE_START_STOP_TYPE_PASSWORD of type Gio.DriveStartStopType>}, '__info__': gi.EnumInfo(DriveStartStopType), 'UNKNOWN': <enum G_DRIVE_START_STOP_TYPE_UNKNOWN of type Gio.DriveStartStopType>, 'SHUTDOWN': <enum G_DRIVE_START_STOP_TYPE_SHUTDOWN of type Gio.DriveStartStopType>, 'NETWORK': <enum G_DRIVE_START_STOP_TYPE_NETWORK of type Gio.DriveStartStopType>, 'MULTIDISK': <enum G_DRIVE_START_STOP_TYPE_MULTIDISK of type Gio.DriveStartStopType>, 'PASSWORD': <enum G_DRIVE_START_STOP_TYPE_PASSWORD of type Gio.DriveStartStopType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -369,7 +369,7 @@ class DriveStartStopType(__gobject.GEnum):
         3: 3,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType GDriveStartStopType (94125582231408)>'
+    __gtype__ = None # (!) real value is '<GType GDriveStartStopType (94269256866112)>'
     __info__ = gi.EnumInfo(DriveStartStopType)
 
 

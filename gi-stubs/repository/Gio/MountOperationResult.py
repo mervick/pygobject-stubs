@@ -359,13 +359,13 @@ class MountOperationResult(__gobject.GEnum):
     HANDLED = 0
     UNHANDLED = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'MountOperationResult' objects>, '__doc__': None, '__gtype__': <GType GMountOperationResult (94125582542672)>, '__enum_values__': {0: <enum G_MOUNT_OPERATION_HANDLED of type Gio.MountOperationResult>, 1: <enum G_MOUNT_OPERATION_ABORTED of type Gio.MountOperationResult>, 2: <enum G_MOUNT_OPERATION_UNHANDLED of type Gio.MountOperationResult>}, '__info__': gi.EnumInfo(MountOperationResult), 'HANDLED': <enum G_MOUNT_OPERATION_HANDLED of type Gio.MountOperationResult>, 'ABORTED': <enum G_MOUNT_OPERATION_ABORTED of type Gio.MountOperationResult>, 'UNHANDLED': <enum G_MOUNT_OPERATION_UNHANDLED of type Gio.MountOperationResult>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'MountOperationResult' objects>, '__doc__': None, '__gtype__': <GType GMountOperationResult (94269257193488)>, '__enum_values__': {0: <enum G_MOUNT_OPERATION_HANDLED of type Gio.MountOperationResult>, 1: <enum G_MOUNT_OPERATION_ABORTED of type Gio.MountOperationResult>, 2: <enum G_MOUNT_OPERATION_UNHANDLED of type Gio.MountOperationResult>}, '__info__': gi.EnumInfo(MountOperationResult), 'HANDLED': <enum G_MOUNT_OPERATION_HANDLED of type Gio.MountOperationResult>, 'ABORTED': <enum G_MOUNT_OPERATION_ABORTED of type Gio.MountOperationResult>, 'UNHANDLED': <enum G_MOUNT_OPERATION_UNHANDLED of type Gio.MountOperationResult>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GMountOperationResult (94125582542672)>'
+    __gtype__ = None # (!) real value is '<GType GMountOperationResult (94269257193488)>'
     __info__ = gi.EnumInfo(MountOperationResult)
 
 

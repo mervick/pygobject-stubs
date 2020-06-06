@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -362,13 +362,13 @@ class PadActionType(__gobject.GEnum):
     RING = 1
     STRIP = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PadActionType' objects>, '__doc__': None, '__gtype__': <GType GtkPadActionType (94846038809424)>, '__enum_values__': {0: <enum GTK_PAD_ACTION_BUTTON of type Gtk.PadActionType>, 1: <enum GTK_PAD_ACTION_RING of type Gtk.PadActionType>, 2: <enum GTK_PAD_ACTION_STRIP of type Gtk.PadActionType>}, '__info__': gi.EnumInfo(PadActionType), 'BUTTON': <enum GTK_PAD_ACTION_BUTTON of type Gtk.PadActionType>, 'RING': <enum GTK_PAD_ACTION_RING of type Gtk.PadActionType>, 'STRIP': <enum GTK_PAD_ACTION_STRIP of type Gtk.PadActionType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PadActionType' objects>, '__doc__': None, '__gtype__': <GType GtkPadActionType (93897369024288)>, '__enum_values__': {0: <enum GTK_PAD_ACTION_BUTTON of type Gtk.PadActionType>, 1: <enum GTK_PAD_ACTION_RING of type Gtk.PadActionType>, 2: <enum GTK_PAD_ACTION_STRIP of type Gtk.PadActionType>}, '__info__': gi.EnumInfo(PadActionType), 'BUTTON': <enum GTK_PAD_ACTION_BUTTON of type Gtk.PadActionType>, 'RING': <enum GTK_PAD_ACTION_RING of type Gtk.PadActionType>, 'STRIP': <enum GTK_PAD_ACTION_STRIP of type Gtk.PadActionType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GtkPadActionType (94846038809424)>'
+    __gtype__ = None # (!) real value is '<GType GtkPadActionType (93897369024288)>'
     __info__ = gi.EnumInfo(PadActionType)
 
 

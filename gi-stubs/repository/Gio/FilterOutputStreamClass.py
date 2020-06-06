@@ -130,7 +130,7 @@ class FilterOutputStreamClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FilterOutputStreamClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FilterOutputStreamClass' objects>, '__weakref__': <attribute '__weakref__' of 'FilterOutputStreamClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28dde91ef0>, '_g_reserved1': <property object at 0x7f28dde93040>, '_g_reserved2': <property object at 0x7f28dde93130>, '_g_reserved3': <property object at 0x7f28dde93220>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FilterOutputStreamClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FilterOutputStreamClass' objects>, '__weakref__': <attribute '__weakref__' of 'FilterOutputStreamClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b87ff5310>, '_g_reserved1': <property object at 0x7f4b87ff5400>, '_g_reserved2': <property object at 0x7f4b87ff54f0>, '_g_reserved3': <property object at 0x7f4b87ff55e0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(FilterOutputStreamClass)
 

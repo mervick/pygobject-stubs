@@ -135,10 +135,10 @@ class ProxyResolver(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(ProxyResolver), '__module__': 'gi.repository.Gio', '__gtype__': <GType GProxyResolver (94125582644224)>, '__dict__': <attribute '__dict__' of 'ProxyResolver' objects>, '__weakref__': <attribute '__weakref__' of 'ProxyResolver' objects>, '__doc__': None, '__gsignals__': {}, 'get_default': gi.FunctionInfo(get_default), 'is_supported': gi.FunctionInfo(is_supported), 'lookup': gi.FunctionInfo(lookup), 'lookup_async': gi.FunctionInfo(lookup_async), 'lookup_finish': gi.FunctionInfo(lookup_finish)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(ProxyResolver), '__module__': 'gi.repository.Gio', '__gtype__': <GType GProxyResolver (94269257263824)>, '__dict__': <attribute '__dict__' of 'ProxyResolver' objects>, '__weakref__': <attribute '__weakref__' of 'ProxyResolver' objects>, '__doc__': None, '__gsignals__': {}, 'get_default': gi.FunctionInfo(get_default), 'is_supported': gi.FunctionInfo(is_supported), 'lookup': gi.FunctionInfo(lookup), 'lookup_async': gi.FunctionInfo(lookup_async), 'lookup_finish': gi.FunctionInfo(lookup_finish)})"
     __gdoc__ = 'Interface GProxyResolver\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GProxyResolver (94125582644224)>'
+    __gtype__ = None # (!) real value is '<GType GProxyResolver (94269257263824)>'
     __info__ = InterfaceInfo(ProxyResolver)
 
 

@@ -126,7 +126,7 @@ class TlsClientConnectionInterface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TlsClientConnectionInterface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TlsClientConnectionInterface' objects>, '__weakref__': <attribute '__weakref__' of 'TlsClientConnectionInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f28dde762c0>, 'copy_session_state': <property object at 0x7f28dde76400>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TlsClientConnectionInterface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TlsClientConnectionInterface' objects>, '__weakref__': <attribute '__weakref__' of 'TlsClientConnectionInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f4b87fd8400>, 'copy_session_state': <property object at 0x7f4b87fd8540>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TlsClientConnectionInterface)
 

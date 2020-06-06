@@ -357,13 +357,13 @@ class Alignment(__gobject.GEnum):
     LEFT = 0
     RIGHT = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'Alignment' objects>, '__doc__': None, '__gtype__': <GType PangoAlignment (94752680761968)>, '__enum_values__': {0: <enum PANGO_ALIGN_LEFT of type Pango.Alignment>, 1: <enum PANGO_ALIGN_CENTER of type Pango.Alignment>, 2: <enum PANGO_ALIGN_RIGHT of type Pango.Alignment>}, '__info__': gi.EnumInfo(Alignment), 'LEFT': <enum PANGO_ALIGN_LEFT of type Pango.Alignment>, 'CENTER': <enum PANGO_ALIGN_CENTER of type Pango.Alignment>, 'RIGHT': <enum PANGO_ALIGN_RIGHT of type Pango.Alignment>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'Alignment' objects>, '__doc__': None, '__gtype__': <GType PangoAlignment (94187428939200)>, '__enum_values__': {0: <enum PANGO_ALIGN_LEFT of type Pango.Alignment>, 1: <enum PANGO_ALIGN_CENTER of type Pango.Alignment>, 2: <enum PANGO_ALIGN_RIGHT of type Pango.Alignment>}, '__info__': gi.EnumInfo(Alignment), 'LEFT': <enum PANGO_ALIGN_LEFT of type Pango.Alignment>, 'CENTER': <enum PANGO_ALIGN_CENTER of type Pango.Alignment>, 'RIGHT': <enum PANGO_ALIGN_RIGHT of type Pango.Alignment>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType PangoAlignment (94752680761968)>'
+    __gtype__ = None # (!) real value is '<GType PangoAlignment (94187428939200)>'
     __info__ = gi.EnumInfo(Alignment)
 
 

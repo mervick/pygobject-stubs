@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -130,10 +130,10 @@ class StyleProvider(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(StyleProvider), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkStyleProvider (94846038033696)>, '__dict__': <attribute '__dict__' of 'StyleProvider' objects>, '__weakref__': <attribute '__weakref__' of 'StyleProvider' objects>, '__doc__': None, '__gsignals__': {}, 'get_icon_factory': gi.FunctionInfo(get_icon_factory), 'get_style': gi.FunctionInfo(get_style), 'get_style_property': gi.FunctionInfo(get_style_property)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(StyleProvider), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkStyleProvider (93897368248608)>, '__dict__': <attribute '__dict__' of 'StyleProvider' objects>, '__weakref__': <attribute '__weakref__' of 'StyleProvider' objects>, '__doc__': None, '__gsignals__': {}, 'get_icon_factory': gi.FunctionInfo(get_icon_factory), 'get_style': gi.FunctionInfo(get_style), 'get_style_property': gi.FunctionInfo(get_style_property)})"
     __gdoc__ = 'Interface GtkStyleProvider\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkStyleProvider (94846038033696)>'
+    __gtype__ = None # (!) real value is '<GType GtkStyleProvider (93897368248608)>'
     __info__ = InterfaceInfo(StyleProvider)
 
 

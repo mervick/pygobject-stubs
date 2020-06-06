@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,14 +363,14 @@ class PrintQuality(__gobject.GEnum):
     LOW = 0
     NORMAL = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PrintQuality' objects>, '__doc__': None, '__gtype__': <GType GtkPrintQuality (94846037268416)>, '__enum_values__': {0: <enum GTK_PRINT_QUALITY_LOW of type Gtk.PrintQuality>, 1: <enum GTK_PRINT_QUALITY_NORMAL of type Gtk.PrintQuality>, 2: <enum GTK_PRINT_QUALITY_HIGH of type Gtk.PrintQuality>, 3: <enum GTK_PRINT_QUALITY_DRAFT of type Gtk.PrintQuality>}, '__info__': gi.EnumInfo(PrintQuality), 'LOW': <enum GTK_PRINT_QUALITY_LOW of type Gtk.PrintQuality>, 'NORMAL': <enum GTK_PRINT_QUALITY_NORMAL of type Gtk.PrintQuality>, 'HIGH': <enum GTK_PRINT_QUALITY_HIGH of type Gtk.PrintQuality>, 'DRAFT': <enum GTK_PRINT_QUALITY_DRAFT of type Gtk.PrintQuality>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PrintQuality' objects>, '__doc__': None, '__gtype__': <GType GtkPrintQuality (93897367483456)>, '__enum_values__': {0: <enum GTK_PRINT_QUALITY_LOW of type Gtk.PrintQuality>, 1: <enum GTK_PRINT_QUALITY_NORMAL of type Gtk.PrintQuality>, 2: <enum GTK_PRINT_QUALITY_HIGH of type Gtk.PrintQuality>, 3: <enum GTK_PRINT_QUALITY_DRAFT of type Gtk.PrintQuality>}, '__info__': gi.EnumInfo(PrintQuality), 'LOW': <enum GTK_PRINT_QUALITY_LOW of type Gtk.PrintQuality>, 'NORMAL': <enum GTK_PRINT_QUALITY_NORMAL of type Gtk.PrintQuality>, 'HIGH': <enum GTK_PRINT_QUALITY_HIGH of type Gtk.PrintQuality>, 'DRAFT': <enum GTK_PRINT_QUALITY_DRAFT of type Gtk.PrintQuality>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkPrintQuality (94846037268416)>'
+    __gtype__ = None # (!) real value is '<GType GtkPrintQuality (93897367483456)>'
     __info__ = gi.EnumInfo(PrintQuality)
 
 

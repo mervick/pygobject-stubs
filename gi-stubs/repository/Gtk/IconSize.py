@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -390,7 +390,7 @@ class IconSize(__gobject.GEnum):
     MENU = 1
     SMALL_TOOLBAR = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'IconSize' objects>, '__doc__': None, '__gtype__': <GType GtkIconSize (94846038545984)>, '__enum_values__': {0: <enum GTK_ICON_SIZE_INVALID of type Gtk.IconSize>, 1: <enum GTK_ICON_SIZE_MENU of type Gtk.IconSize>, 2: <enum GTK_ICON_SIZE_SMALL_TOOLBAR of type Gtk.IconSize>, 3: <enum GTK_ICON_SIZE_LARGE_TOOLBAR of type Gtk.IconSize>, 4: <enum GTK_ICON_SIZE_BUTTON of type Gtk.IconSize>, 5: <enum GTK_ICON_SIZE_DND of type Gtk.IconSize>, 6: <enum GTK_ICON_SIZE_DIALOG of type Gtk.IconSize>}, '__info__': gi.EnumInfo(IconSize), 'INVALID': <enum GTK_ICON_SIZE_INVALID of type Gtk.IconSize>, 'MENU': <enum GTK_ICON_SIZE_MENU of type Gtk.IconSize>, 'SMALL_TOOLBAR': <enum GTK_ICON_SIZE_SMALL_TOOLBAR of type Gtk.IconSize>, 'LARGE_TOOLBAR': <enum GTK_ICON_SIZE_LARGE_TOOLBAR of type Gtk.IconSize>, 'BUTTON': <enum GTK_ICON_SIZE_BUTTON of type Gtk.IconSize>, 'DND': <enum GTK_ICON_SIZE_DND of type Gtk.IconSize>, 'DIALOG': <enum GTK_ICON_SIZE_DIALOG of type Gtk.IconSize>, 'from_name': gi.FunctionInfo(from_name), 'get_name': gi.FunctionInfo(get_name), 'lookup': gi.FunctionInfo(lookup), 'lookup_for_settings': gi.FunctionInfo(lookup_for_settings), 'register': gi.FunctionInfo(register), 'register_alias': gi.FunctionInfo(register_alias)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'IconSize' objects>, '__doc__': None, '__gtype__': <GType GtkIconSize (93897368758800)>, '__enum_values__': {0: <enum GTK_ICON_SIZE_INVALID of type Gtk.IconSize>, 1: <enum GTK_ICON_SIZE_MENU of type Gtk.IconSize>, 2: <enum GTK_ICON_SIZE_SMALL_TOOLBAR of type Gtk.IconSize>, 3: <enum GTK_ICON_SIZE_LARGE_TOOLBAR of type Gtk.IconSize>, 4: <enum GTK_ICON_SIZE_BUTTON of type Gtk.IconSize>, 5: <enum GTK_ICON_SIZE_DND of type Gtk.IconSize>, 6: <enum GTK_ICON_SIZE_DIALOG of type Gtk.IconSize>}, '__info__': gi.EnumInfo(IconSize), 'INVALID': <enum GTK_ICON_SIZE_INVALID of type Gtk.IconSize>, 'MENU': <enum GTK_ICON_SIZE_MENU of type Gtk.IconSize>, 'SMALL_TOOLBAR': <enum GTK_ICON_SIZE_SMALL_TOOLBAR of type Gtk.IconSize>, 'LARGE_TOOLBAR': <enum GTK_ICON_SIZE_LARGE_TOOLBAR of type Gtk.IconSize>, 'BUTTON': <enum GTK_ICON_SIZE_BUTTON of type Gtk.IconSize>, 'DND': <enum GTK_ICON_SIZE_DND of type Gtk.IconSize>, 'DIALOG': <enum GTK_ICON_SIZE_DIALOG of type Gtk.IconSize>, 'from_name': gi.FunctionInfo(from_name), 'get_name': gi.FunctionInfo(get_name), 'lookup': gi.FunctionInfo(lookup), 'lookup_for_settings': gi.FunctionInfo(lookup_for_settings), 'register': gi.FunctionInfo(register), 'register_alias': gi.FunctionInfo(register_alias)})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -400,7 +400,7 @@ class IconSize(__gobject.GEnum):
         5: 5,
         6: 6,
     }
-    __gtype__ = None # (!) real value is '<GType GtkIconSize (94846038545984)>'
+    __gtype__ = None # (!) real value is '<GType GtkIconSize (93897368758800)>'
     __info__ = gi.EnumInfo(IconSize)
 
 

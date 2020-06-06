@@ -358,14 +358,14 @@ class EllipsizeMode(__gobject.GEnum):
     NONE = 0
     START = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'EllipsizeMode' objects>, '__doc__': None, '__gtype__': <GType PangoEllipsizeMode (94752680794112)>, '__enum_values__': {0: <enum PANGO_ELLIPSIZE_NONE of type Pango.EllipsizeMode>, 1: <enum PANGO_ELLIPSIZE_START of type Pango.EllipsizeMode>, 2: <enum PANGO_ELLIPSIZE_MIDDLE of type Pango.EllipsizeMode>, 3: <enum PANGO_ELLIPSIZE_END of type Pango.EllipsizeMode>}, '__info__': gi.EnumInfo(EllipsizeMode), 'NONE': <enum PANGO_ELLIPSIZE_NONE of type Pango.EllipsizeMode>, 'START': <enum PANGO_ELLIPSIZE_START of type Pango.EllipsizeMode>, 'MIDDLE': <enum PANGO_ELLIPSIZE_MIDDLE of type Pango.EllipsizeMode>, 'END': <enum PANGO_ELLIPSIZE_END of type Pango.EllipsizeMode>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'EllipsizeMode' objects>, '__doc__': None, '__gtype__': <GType PangoEllipsizeMode (94187429070592)>, '__enum_values__': {0: <enum PANGO_ELLIPSIZE_NONE of type Pango.EllipsizeMode>, 1: <enum PANGO_ELLIPSIZE_START of type Pango.EllipsizeMode>, 2: <enum PANGO_ELLIPSIZE_MIDDLE of type Pango.EllipsizeMode>, 3: <enum PANGO_ELLIPSIZE_END of type Pango.EllipsizeMode>}, '__info__': gi.EnumInfo(EllipsizeMode), 'NONE': <enum PANGO_ELLIPSIZE_NONE of type Pango.EllipsizeMode>, 'START': <enum PANGO_ELLIPSIZE_START of type Pango.EllipsizeMode>, 'MIDDLE': <enum PANGO_ELLIPSIZE_MIDDLE of type Pango.EllipsizeMode>, 'END': <enum PANGO_ELLIPSIZE_END of type Pango.EllipsizeMode>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType PangoEllipsizeMode (94752680794112)>'
+    __gtype__ = None # (!) real value is '<GType PangoEllipsizeMode (94187429070592)>'
     __info__ = gi.EnumInfo(EllipsizeMode)
 
 

@@ -124,7 +124,7 @@ class EngineScriptInfo(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EngineScriptInfo), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EngineScriptInfo' objects>, '__weakref__': <attribute '__weakref__' of 'EngineScriptInfo' objects>, '__doc__': None, 'script': <property object at 0x7f24746ebd10>, 'langs': <property object at 0x7f24746ebe00>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EngineScriptInfo), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EngineScriptInfo' objects>, '__weakref__': <attribute '__weakref__' of 'EngineScriptInfo' objects>, '__doc__': None, 'script': <property object at 0x7f8517891a90>, 'langs': <property object at 0x7f8517891b80>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(EngineScriptInfo)
 

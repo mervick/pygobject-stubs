@@ -363,7 +363,7 @@ class Stretch(__gobject.GEnum):
     ULTRA_CONDENSED = 0
     ULTRA_EXPANDED = 8
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'Stretch' objects>, '__doc__': None, '__gtype__': <GType PangoStretch (94752681197600)>, '__enum_values__': {0: <enum PANGO_STRETCH_ULTRA_CONDENSED of type Pango.Stretch>, 1: <enum PANGO_STRETCH_EXTRA_CONDENSED of type Pango.Stretch>, 2: <enum PANGO_STRETCH_CONDENSED of type Pango.Stretch>, 3: <enum PANGO_STRETCH_SEMI_CONDENSED of type Pango.Stretch>, 4: <enum PANGO_STRETCH_NORMAL of type Pango.Stretch>, 5: <enum PANGO_STRETCH_SEMI_EXPANDED of type Pango.Stretch>, 6: <enum PANGO_STRETCH_EXPANDED of type Pango.Stretch>, 7: <enum PANGO_STRETCH_EXTRA_EXPANDED of type Pango.Stretch>, 8: <enum PANGO_STRETCH_ULTRA_EXPANDED of type Pango.Stretch>}, '__info__': gi.EnumInfo(Stretch), 'ULTRA_CONDENSED': <enum PANGO_STRETCH_ULTRA_CONDENSED of type Pango.Stretch>, 'EXTRA_CONDENSED': <enum PANGO_STRETCH_EXTRA_CONDENSED of type Pango.Stretch>, 'CONDENSED': <enum PANGO_STRETCH_CONDENSED of type Pango.Stretch>, 'SEMI_CONDENSED': <enum PANGO_STRETCH_SEMI_CONDENSED of type Pango.Stretch>, 'NORMAL': <enum PANGO_STRETCH_NORMAL of type Pango.Stretch>, 'SEMI_EXPANDED': <enum PANGO_STRETCH_SEMI_EXPANDED of type Pango.Stretch>, 'EXPANDED': <enum PANGO_STRETCH_EXPANDED of type Pango.Stretch>, 'EXTRA_EXPANDED': <enum PANGO_STRETCH_EXTRA_EXPANDED of type Pango.Stretch>, 'ULTRA_EXPANDED': <enum PANGO_STRETCH_ULTRA_EXPANDED of type Pango.Stretch>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'Stretch' objects>, '__doc__': None, '__gtype__': <GType PangoStretch (94187429534288)>, '__enum_values__': {0: <enum PANGO_STRETCH_ULTRA_CONDENSED of type Pango.Stretch>, 1: <enum PANGO_STRETCH_EXTRA_CONDENSED of type Pango.Stretch>, 2: <enum PANGO_STRETCH_CONDENSED of type Pango.Stretch>, 3: <enum PANGO_STRETCH_SEMI_CONDENSED of type Pango.Stretch>, 4: <enum PANGO_STRETCH_NORMAL of type Pango.Stretch>, 5: <enum PANGO_STRETCH_SEMI_EXPANDED of type Pango.Stretch>, 6: <enum PANGO_STRETCH_EXPANDED of type Pango.Stretch>, 7: <enum PANGO_STRETCH_EXTRA_EXPANDED of type Pango.Stretch>, 8: <enum PANGO_STRETCH_ULTRA_EXPANDED of type Pango.Stretch>}, '__info__': gi.EnumInfo(Stretch), 'ULTRA_CONDENSED': <enum PANGO_STRETCH_ULTRA_CONDENSED of type Pango.Stretch>, 'EXTRA_CONDENSED': <enum PANGO_STRETCH_EXTRA_CONDENSED of type Pango.Stretch>, 'CONDENSED': <enum PANGO_STRETCH_CONDENSED of type Pango.Stretch>, 'SEMI_CONDENSED': <enum PANGO_STRETCH_SEMI_CONDENSED of type Pango.Stretch>, 'NORMAL': <enum PANGO_STRETCH_NORMAL of type Pango.Stretch>, 'SEMI_EXPANDED': <enum PANGO_STRETCH_SEMI_EXPANDED of type Pango.Stretch>, 'EXPANDED': <enum PANGO_STRETCH_EXPANDED of type Pango.Stretch>, 'EXTRA_EXPANDED': <enum PANGO_STRETCH_EXTRA_EXPANDED of type Pango.Stretch>, 'ULTRA_EXPANDED': <enum PANGO_STRETCH_ULTRA_EXPANDED of type Pango.Stretch>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -375,7 +375,7 @@ class Stretch(__gobject.GEnum):
         7: 7,
         8: 8,
     }
-    __gtype__ = None # (!) real value is '<GType PangoStretch (94752681197600)>'
+    __gtype__ = None # (!) real value is '<GType PangoStretch (94187429534288)>'
     __info__ = gi.EnumInfo(Stretch)
 
 

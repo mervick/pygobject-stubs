@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -577,12 +577,12 @@ class CellRendererProgress(CellRenderer, Orientable):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe83088c3a0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc639e033d0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(CellRendererProgress), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkCellRendererProgress (94846038063104)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'parent_instance': <property object at 0x7fe8310c80e0>, 'priv': <property object at 0x7fe8310c81d0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(CellRendererProgress), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkCellRendererProgress (93897368278032)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'parent_instance': <property object at 0x7fc63a7dbf90>, 'priv': <property object at 0x7fc63a7de0e0>})"
     __gdoc__ = "Object GtkCellRendererProgress\n\nProperties from GtkCellRendererProgress:\n  value -> gint: Value\n    Value of the progress bar\n  text -> gchararray: Text\n    Text on the progress bar\n  pulse -> gint: Pulse\n    Set this to positive values to indicate that some progress is made, but you don't know how much.\n  text-xalign -> gfloat: Text x alignment\n    The horizontal text alignment, from 0 (left) to 1 (right). Reversed for RTL layouts.\n  text-yalign -> gfloat: Text y alignment\n    The vertical text alignment, from 0 (top) to 1 (bottom).\n  inverted -> gboolean: Inverted\n    Invert the direction in which the progress bar grows\n\nSignals from GtkCellRenderer:\n  editing-canceled ()\n  editing-started (GtkCellEditable, gchararray)\n\nProperties from GtkCellRenderer:\n  mode -> GtkCellRendererMode: mode\n    Editable mode of the CellRenderer\n  visible -> gboolean: visible\n    Display the cell\n  sensitive -> gboolean: Sensitive\n    Display the cell sensitive\n  xalign -> gfloat: xalign\n    The x-align\n  yalign -> gfloat: yalign\n    The y-align\n  xpad -> guint: xpad\n    The xpad\n  ypad -> guint: ypad\n    The ypad\n  width -> gint: width\n    The fixed width\n  height -> gint: height\n    The fixed height\n  is-expander -> gboolean: Is Expander\n    Row has children\n  is-expanded -> gboolean: Is Expanded\n    Row is an expander row, and is expanded\n  cell-background -> gchararray: Cell background color name\n    Cell background color as a string\n  cell-background-gdk -> GdkColor: Cell background color\n    Cell background color as a GdkColor\n  cell-background-rgba -> GdkRGBA: Cell background RGBA color\n    Cell background color as a GdkRGBA\n  cell-background-set -> gboolean: Cell background set\n    Whether the cell background color is set\n  editing -> gboolean: Editing\n    Whether the cell renderer is currently in editing mode\n\nSignals from GObject:\n  notify (GParam)\n\n"
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkCellRendererProgress (94846038063104)>'
+    __gtype__ = None # (!) real value is '<GType GtkCellRendererProgress (93897368278032)>'
     __info__ = ObjectInfo(CellRendererProgress)
 
 

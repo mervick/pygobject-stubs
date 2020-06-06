@@ -359,12 +359,12 @@ class LogWriterOutput(__gobject.GEnum):
     HANDLED = 1
     UNHANDLED = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'LogWriterOutput' objects>, '__doc__': None, '__gtype__': <GType PyGLibLogWriterOutput (94243598996048)>, '__enum_values__': {1: <enum G_LOG_WRITER_HANDLED of type GLib.LogWriterOutput>, 0: <enum G_LOG_WRITER_UNHANDLED of type GLib.LogWriterOutput>}, '__info__': gi.EnumInfo(LogWriterOutput), 'HANDLED': <enum G_LOG_WRITER_HANDLED of type GLib.LogWriterOutput>, 'UNHANDLED': <enum G_LOG_WRITER_UNHANDLED of type GLib.LogWriterOutput>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'LogWriterOutput' objects>, '__doc__': None, '__gtype__': <GType PyGLibLogWriterOutput (94581033773104)>, '__enum_values__': {1: <enum G_LOG_WRITER_HANDLED of type GLib.LogWriterOutput>, 0: <enum G_LOG_WRITER_UNHANDLED of type GLib.LogWriterOutput>}, '__info__': gi.EnumInfo(LogWriterOutput), 'HANDLED': <enum G_LOG_WRITER_HANDLED of type GLib.LogWriterOutput>, 'UNHANDLED': <enum G_LOG_WRITER_UNHANDLED of type GLib.LogWriterOutput>})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibLogWriterOutput (94243598996048)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibLogWriterOutput (94581033773104)>'
     __info__ = gi.EnumInfo(LogWriterOutput)
 
 

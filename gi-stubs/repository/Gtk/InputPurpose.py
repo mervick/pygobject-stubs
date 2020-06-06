@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -370,7 +370,7 @@ class InputPurpose(__gobject.GEnum):
     TERMINAL = 10
     URL = 5
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'InputPurpose' objects>, '__doc__': None, '__gtype__': <GType GtkInputPurpose (94846038607872)>, '__enum_values__': {0: <enum GTK_INPUT_PURPOSE_FREE_FORM of type Gtk.InputPurpose>, 1: <enum GTK_INPUT_PURPOSE_ALPHA of type Gtk.InputPurpose>, 2: <enum GTK_INPUT_PURPOSE_DIGITS of type Gtk.InputPurpose>, 3: <enum GTK_INPUT_PURPOSE_NUMBER of type Gtk.InputPurpose>, 4: <enum GTK_INPUT_PURPOSE_PHONE of type Gtk.InputPurpose>, 5: <enum GTK_INPUT_PURPOSE_URL of type Gtk.InputPurpose>, 6: <enum GTK_INPUT_PURPOSE_EMAIL of type Gtk.InputPurpose>, 7: <enum GTK_INPUT_PURPOSE_NAME of type Gtk.InputPurpose>, 8: <enum GTK_INPUT_PURPOSE_PASSWORD of type Gtk.InputPurpose>, 9: <enum GTK_INPUT_PURPOSE_PIN of type Gtk.InputPurpose>, 10: <enum GTK_INPUT_PURPOSE_TERMINAL of type Gtk.InputPurpose>}, '__info__': gi.EnumInfo(InputPurpose), 'FREE_FORM': <enum GTK_INPUT_PURPOSE_FREE_FORM of type Gtk.InputPurpose>, 'ALPHA': <enum GTK_INPUT_PURPOSE_ALPHA of type Gtk.InputPurpose>, 'DIGITS': <enum GTK_INPUT_PURPOSE_DIGITS of type Gtk.InputPurpose>, 'NUMBER': <enum GTK_INPUT_PURPOSE_NUMBER of type Gtk.InputPurpose>, 'PHONE': <enum GTK_INPUT_PURPOSE_PHONE of type Gtk.InputPurpose>, 'URL': <enum GTK_INPUT_PURPOSE_URL of type Gtk.InputPurpose>, 'EMAIL': <enum GTK_INPUT_PURPOSE_EMAIL of type Gtk.InputPurpose>, 'NAME': <enum GTK_INPUT_PURPOSE_NAME of type Gtk.InputPurpose>, 'PASSWORD': <enum GTK_INPUT_PURPOSE_PASSWORD of type Gtk.InputPurpose>, 'PIN': <enum GTK_INPUT_PURPOSE_PIN of type Gtk.InputPurpose>, 'TERMINAL': <enum GTK_INPUT_PURPOSE_TERMINAL of type Gtk.InputPurpose>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'InputPurpose' objects>, '__doc__': None, '__gtype__': <GType GtkInputPurpose (93897368822976)>, '__enum_values__': {0: <enum GTK_INPUT_PURPOSE_FREE_FORM of type Gtk.InputPurpose>, 1: <enum GTK_INPUT_PURPOSE_ALPHA of type Gtk.InputPurpose>, 2: <enum GTK_INPUT_PURPOSE_DIGITS of type Gtk.InputPurpose>, 3: <enum GTK_INPUT_PURPOSE_NUMBER of type Gtk.InputPurpose>, 4: <enum GTK_INPUT_PURPOSE_PHONE of type Gtk.InputPurpose>, 5: <enum GTK_INPUT_PURPOSE_URL of type Gtk.InputPurpose>, 6: <enum GTK_INPUT_PURPOSE_EMAIL of type Gtk.InputPurpose>, 7: <enum GTK_INPUT_PURPOSE_NAME of type Gtk.InputPurpose>, 8: <enum GTK_INPUT_PURPOSE_PASSWORD of type Gtk.InputPurpose>, 9: <enum GTK_INPUT_PURPOSE_PIN of type Gtk.InputPurpose>, 10: <enum GTK_INPUT_PURPOSE_TERMINAL of type Gtk.InputPurpose>}, '__info__': gi.EnumInfo(InputPurpose), 'FREE_FORM': <enum GTK_INPUT_PURPOSE_FREE_FORM of type Gtk.InputPurpose>, 'ALPHA': <enum GTK_INPUT_PURPOSE_ALPHA of type Gtk.InputPurpose>, 'DIGITS': <enum GTK_INPUT_PURPOSE_DIGITS of type Gtk.InputPurpose>, 'NUMBER': <enum GTK_INPUT_PURPOSE_NUMBER of type Gtk.InputPurpose>, 'PHONE': <enum GTK_INPUT_PURPOSE_PHONE of type Gtk.InputPurpose>, 'URL': <enum GTK_INPUT_PURPOSE_URL of type Gtk.InputPurpose>, 'EMAIL': <enum GTK_INPUT_PURPOSE_EMAIL of type Gtk.InputPurpose>, 'NAME': <enum GTK_INPUT_PURPOSE_NAME of type Gtk.InputPurpose>, 'PASSWORD': <enum GTK_INPUT_PURPOSE_PASSWORD of type Gtk.InputPurpose>, 'PIN': <enum GTK_INPUT_PURPOSE_PIN of type Gtk.InputPurpose>, 'TERMINAL': <enum GTK_INPUT_PURPOSE_TERMINAL of type Gtk.InputPurpose>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -384,7 +384,7 @@ class InputPurpose(__gobject.GEnum):
         9: 9,
         10: 10,
     }
-    __gtype__ = None # (!) real value is '<GType GtkInputPurpose (94846038607872)>'
+    __gtype__ = None # (!) real value is '<GType GtkInputPurpose (93897368822976)>'
     __info__ = gi.EnumInfo(InputPurpose)
 
 

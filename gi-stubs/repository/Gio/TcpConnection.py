@@ -513,12 +513,12 @@ class TcpConnection(SocketConnection):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28de0824f0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b871ea9d0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(TcpConnection), '__module__': 'gi.repository.Gio', '__gtype__': <GType GTcpConnection (94125582827152)>, '__doc__': None, '__gsignals__': {}, 'get_graceful_disconnect': gi.FunctionInfo(get_graceful_disconnect), 'set_graceful_disconnect': gi.FunctionInfo(set_graceful_disconnect), 'parent_instance': <property object at 0x7f28dde6b7c0>, 'priv': <property object at 0x7f28dde6b8b0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(TcpConnection), '__module__': 'gi.repository.Gio', '__gtype__': <GType GTcpConnection (94269257439616)>, '__doc__': None, '__gsignals__': {}, 'get_graceful_disconnect': gi.FunctionInfo(get_graceful_disconnect), 'set_graceful_disconnect': gi.FunctionInfo(set_graceful_disconnect), 'parent_instance': <property object at 0x7f4b87fcd950>, 'priv': <property object at 0x7f4b87fcda40>})"
     __gdoc__ = 'Object GTcpConnection\n\nProperties from GTcpConnection:\n  graceful-disconnect -> gboolean: Graceful Disconnect\n    Whether or not close does a graceful disconnect\n\nProperties from GSocketConnection:\n  socket -> GSocket: Socket\n    The underlying GSocket\n\nProperties from GIOStream:\n  input-stream -> GInputStream: Input stream\n    The GInputStream to read from\n  output-stream -> GOutputStream: Output stream\n    The GOutputStream to write to\n  closed -> gboolean: Closed\n    Is the stream closed\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GTcpConnection (94125582827152)>'
+    __gtype__ = None # (!) real value is '<GType GTcpConnection (94269257439616)>'
     __info__ = ObjectInfo(TcpConnection)
 
 

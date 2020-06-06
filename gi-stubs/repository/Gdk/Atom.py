@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -126,7 +126,7 @@ class Atom(__gi.Struct):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Atom), '__module__': 'gi.repository.Gdk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'Atom' objects>, '__weakref__': <attribute '__weakref__' of 'Atom' objects>, '__doc__': None, 'name': gi.FunctionInfo(name), 'intern': gi.FunctionInfo(intern), 'intern_static_string': gi.FunctionInfo(intern_static_string), '__str__': <function _gdk_atom_str at 0x7f1e11dd0820>, '__repr__': <function _gdk_atom_repr at 0x7f1e11dd08b0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Atom), '__module__': 'gi.repository.Gdk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'Atom' objects>, '__weakref__': <attribute '__weakref__' of 'Atom' objects>, '__doc__': None, 'name': gi.FunctionInfo(name), 'intern': gi.FunctionInfo(intern), 'intern_static_string': gi.FunctionInfo(intern_static_string), '__str__': <function _gdk_atom_str at 0x7fbaf82d0040>, '__repr__': <function _gdk_atom_repr at 0x7fbaf82d00d0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(Atom)
 

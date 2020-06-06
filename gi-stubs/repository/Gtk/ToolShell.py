@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -154,10 +154,10 @@ class ToolShell(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(ToolShell), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkToolShell (94846039500640)>, '__dict__': <attribute '__dict__' of 'ToolShell' objects>, '__weakref__': <attribute '__weakref__' of 'ToolShell' objects>, '__doc__': None, '__gsignals__': {}, 'get_ellipsize_mode': gi.FunctionInfo(get_ellipsize_mode), 'get_icon_size': gi.FunctionInfo(get_icon_size), 'get_orientation': gi.FunctionInfo(get_orientation), 'get_relief_style': gi.FunctionInfo(get_relief_style), 'get_style': gi.FunctionInfo(get_style), 'get_text_alignment': gi.FunctionInfo(get_text_alignment), 'get_text_orientation': gi.FunctionInfo(get_text_orientation), 'get_text_size_group': gi.FunctionInfo(get_text_size_group), 'rebuild_menu': gi.FunctionInfo(rebuild_menu)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(ToolShell), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkToolShell (93897369599584)>, '__dict__': <attribute '__dict__' of 'ToolShell' objects>, '__weakref__': <attribute '__weakref__' of 'ToolShell' objects>, '__doc__': None, '__gsignals__': {}, 'get_ellipsize_mode': gi.FunctionInfo(get_ellipsize_mode), 'get_icon_size': gi.FunctionInfo(get_icon_size), 'get_orientation': gi.FunctionInfo(get_orientation), 'get_relief_style': gi.FunctionInfo(get_relief_style), 'get_style': gi.FunctionInfo(get_style), 'get_text_alignment': gi.FunctionInfo(get_text_alignment), 'get_text_orientation': gi.FunctionInfo(get_text_orientation), 'get_text_size_group': gi.FunctionInfo(get_text_size_group), 'rebuild_menu': gi.FunctionInfo(rebuild_menu)})"
     __gdoc__ = 'Interface GtkToolShell\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkToolShell (94846039500640)>'
+    __gtype__ = None # (!) real value is '<GType GtkToolShell (93897369599584)>'
     __info__ = InterfaceInfo(ToolShell)
 
 

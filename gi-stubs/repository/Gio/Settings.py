@@ -646,12 +646,12 @@ class Settings(Settings):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd07c970>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b871c13a0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gio', '__doc__': 'Provide dictionary-like access to GLib.Settings.', '__init__': <function deprecated_init.<locals>.new_init at 0x7f28de00ca60>, '__contains__': <function Settings.__contains__ at 0x7f28de00caf0>, '__len__': <function Settings.__len__ at 0x7f28de00cb80>, '__iter__': <function Settings.__iter__ at 0x7f28de00cc10>, '__bool__': <function Settings.__bool__ at 0x7f28de00cca0>, '__nonzero__': <function Settings.__bool__ at 0x7f28de00cca0>, '__getitem__': <function Settings.__getitem__ at 0x7f28de00cd30>, '__setitem__': <function Settings.__setitem__ at 0x7f28de00cdc0>, 'keys': <function Settings.keys at 0x7f28de00ce50>, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gio', '__doc__': 'Provide dictionary-like access to GLib.Settings.', '__init__': <function deprecated_init.<locals>.new_init at 0x7f4b88181280>, '__contains__': <function Settings.__contains__ at 0x7f4b88181310>, '__len__': <function Settings.__len__ at 0x7f4b881813a0>, '__iter__': <function Settings.__iter__ at 0x7f4b88181430>, '__bool__': <function Settings.__bool__ at 0x7f4b881814c0>, '__nonzero__': <function Settings.__bool__ at 0x7f4b881814c0>, '__getitem__': <function Settings.__getitem__ at 0x7f4b88181550>, '__setitem__': <function Settings.__setitem__ at 0x7f4b881815e0>, 'keys': <function Settings.keys at 0x7f4b88181670>, '__gsignals__': {}})"
     __gdoc__ = 'Object GSettings\n\nProvide dictionary-like access to GLib.Settings.\n\nSignals from GSettings:\n  changed (gchararray)\n  change-event (gpointer, gint) -> gboolean\n  writable-changed (gchararray)\n  writable-change-event (guint) -> gboolean\n\nProperties from GSettings:\n  settings-schema -> GSettingsSchema: schema\n    The GSettingsSchema for this settings object\n  schema -> gchararray: Schema name\n    The name of the schema for this settings object\n  schema-id -> gchararray: Schema name\n    The name of the schema for this settings object\n  backend -> GSettingsBackend: GSettingsBackend\n    The GSettingsBackend for this settings object\n  path -> gchararray: Base path\n    The path within the backend where the settings are\n  has-unapplied -> gboolean: Has unapplied changes\n    TRUE if there are outstanding changes to apply()\n  delay-apply -> gboolean: Delay-apply mode\n    Whether this settings object is in “delay-apply” mode\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GSettings (94125581489072)>'
+    __gtype__ = None # (!) real value is '<GType GSettings (94269256118064)>'
     __info__ = ObjectInfo(Settings)
 
 

@@ -132,7 +132,7 @@ class PropertyValues(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PropertyValues), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'PropertyValues' objects>, '__weakref__': <attribute '__weakref__' of 'PropertyValues' objects>, '__doc__': None, 'property_name': <property object at 0x7f0cd81a5900>, 'old_value': <property object at 0x7f0cd81a59f0>, 'new_value': <property object at 0x7f0cd81a5ae0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PropertyValues), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'PropertyValues' objects>, '__weakref__': <attribute '__weakref__' of 'PropertyValues' objects>, '__doc__': None, 'property_name': <property object at 0x7f44c6dbed10>, 'old_value': <property object at 0x7f44c6dbee00>, 'new_value': <property object at 0x7f44c6dbeef0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(PropertyValues)
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -153,7 +153,7 @@ class RcProperty(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(RcProperty), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'RcProperty' objects>, '__weakref__': <attribute '__weakref__' of 'RcProperty' objects>, '__doc__': None, 'type_name': <property object at 0x7fe830faf130>, 'property_name': <property object at 0x7fe830faf220>, 'origin': <property object at 0x7fe830faf310>, 'value': <property object at 0x7fe830faf400>, 'parse_border': gi.FunctionInfo(parse_border), 'parse_color': gi.FunctionInfo(parse_color), 'parse_enum': gi.FunctionInfo(parse_enum), 'parse_flags': gi.FunctionInfo(parse_flags), 'parse_requisition': gi.FunctionInfo(parse_requisition)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(RcProperty), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'RcProperty' objects>, '__weakref__': <attribute '__weakref__' of 'RcProperty' objects>, '__doc__': None, 'type_name': <property object at 0x7fc63a6c3ef0>, 'property_name': <property object at 0x7fc63a6c5040>, 'origin': <property object at 0x7fc63a6c5130>, 'value': <property object at 0x7fc63a6c5220>, 'parse_border': gi.FunctionInfo(parse_border), 'parse_color': gi.FunctionInfo(parse_color), 'parse_enum': gi.FunctionInfo(parse_enum), 'parse_flags': gi.FunctionInfo(parse_flags), 'parse_requisition': gi.FunctionInfo(parse_requisition)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(RcProperty)
 

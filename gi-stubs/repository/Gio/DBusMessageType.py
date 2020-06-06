@@ -361,7 +361,7 @@ class DBusMessageType(__gobject.GEnum):
     METHOD_RETURN = 2
     SIGNAL = 4
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusMessageType' objects>, '__doc__': None, '__gtype__': <GType GDBusMessageType (94125582132384)>, '__enum_values__': {0: <enum G_DBUS_MESSAGE_TYPE_INVALID of type Gio.DBusMessageType>, 1: <enum G_DBUS_MESSAGE_TYPE_METHOD_CALL of type Gio.DBusMessageType>, 2: <enum G_DBUS_MESSAGE_TYPE_METHOD_RETURN of type Gio.DBusMessageType>, 3: <enum G_DBUS_MESSAGE_TYPE_ERROR of type Gio.DBusMessageType>, 4: <enum G_DBUS_MESSAGE_TYPE_SIGNAL of type Gio.DBusMessageType>}, '__info__': gi.EnumInfo(DBusMessageType), 'INVALID': <enum G_DBUS_MESSAGE_TYPE_INVALID of type Gio.DBusMessageType>, 'METHOD_CALL': <enum G_DBUS_MESSAGE_TYPE_METHOD_CALL of type Gio.DBusMessageType>, 'METHOD_RETURN': <enum G_DBUS_MESSAGE_TYPE_METHOD_RETURN of type Gio.DBusMessageType>, 'ERROR': <enum G_DBUS_MESSAGE_TYPE_ERROR of type Gio.DBusMessageType>, 'SIGNAL': <enum G_DBUS_MESSAGE_TYPE_SIGNAL of type Gio.DBusMessageType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusMessageType' objects>, '__doc__': None, '__gtype__': <GType GDBusMessageType (94269256758944)>, '__enum_values__': {0: <enum G_DBUS_MESSAGE_TYPE_INVALID of type Gio.DBusMessageType>, 1: <enum G_DBUS_MESSAGE_TYPE_METHOD_CALL of type Gio.DBusMessageType>, 2: <enum G_DBUS_MESSAGE_TYPE_METHOD_RETURN of type Gio.DBusMessageType>, 3: <enum G_DBUS_MESSAGE_TYPE_ERROR of type Gio.DBusMessageType>, 4: <enum G_DBUS_MESSAGE_TYPE_SIGNAL of type Gio.DBusMessageType>}, '__info__': gi.EnumInfo(DBusMessageType), 'INVALID': <enum G_DBUS_MESSAGE_TYPE_INVALID of type Gio.DBusMessageType>, 'METHOD_CALL': <enum G_DBUS_MESSAGE_TYPE_METHOD_CALL of type Gio.DBusMessageType>, 'METHOD_RETURN': <enum G_DBUS_MESSAGE_TYPE_METHOD_RETURN of type Gio.DBusMessageType>, 'ERROR': <enum G_DBUS_MESSAGE_TYPE_ERROR of type Gio.DBusMessageType>, 'SIGNAL': <enum G_DBUS_MESSAGE_TYPE_SIGNAL of type Gio.DBusMessageType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -369,7 +369,7 @@ class DBusMessageType(__gobject.GEnum):
         3: 3,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType GDBusMessageType (94125582132384)>'
+    __gtype__ = None # (!) real value is '<GType GDBusMessageType (94269256758944)>'
     __info__ = gi.EnumInfo(DBusMessageType)
 
 

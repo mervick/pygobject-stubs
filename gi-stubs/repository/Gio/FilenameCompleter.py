@@ -423,12 +423,12 @@ class FilenameCompleter(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd310bb0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87462250>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FilenameCompleter), '__module__': 'gi.repository.Gio', '__gtype__': <GType GFilenameCompleter (94125582334864)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_completion_suffix': gi.FunctionInfo(get_completion_suffix), 'get_completions': gi.FunctionInfo(get_completions), 'set_dirs_only': gi.FunctionInfo(set_dirs_only), 'do_got_completion_data': gi.VFuncInfo(got_completion_data)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FilenameCompleter), '__module__': 'gi.repository.Gio', '__gtype__': <GType GFilenameCompleter (94269256775088)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_completion_suffix': gi.FunctionInfo(get_completion_suffix), 'get_completions': gi.FunctionInfo(get_completions), 'set_dirs_only': gi.FunctionInfo(set_dirs_only), 'do_got_completion_data': gi.VFuncInfo(got_completion_data)})"
     __gdoc__ = 'Object GFilenameCompleter\n\nSignals from GFilenameCompleter:\n  got-completion-data ()\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GFilenameCompleter (94125582334864)>'
+    __gtype__ = None # (!) real value is '<GType GFilenameCompleter (94269256775088)>'
     __info__ = ObjectInfo(FilenameCompleter)
 
 

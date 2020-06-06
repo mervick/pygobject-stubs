@@ -362,12 +362,12 @@ class ResourceError(__gobject.GEnum):
     INTERNAL = 1
     NOT_FOUND = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'ResourceError' objects>, '__doc__': None, '__gtype__': <GType GResourceError (94125582073584)>, '__enum_values__': {0: <enum G_RESOURCE_ERROR_NOT_FOUND of type Gio.ResourceError>, 1: <enum G_RESOURCE_ERROR_INTERNAL of type Gio.ResourceError>}, '__info__': gi.EnumInfo(ResourceError), 'NOT_FOUND': <enum G_RESOURCE_ERROR_NOT_FOUND of type Gio.ResourceError>, 'INTERNAL': <enum G_RESOURCE_ERROR_INTERNAL of type Gio.ResourceError>, 'quark': gi.FunctionInfo(quark)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'ResourceError' objects>, '__doc__': None, '__gtype__': <GType GResourceError (94269257194032)>, '__enum_values__': {0: <enum G_RESOURCE_ERROR_NOT_FOUND of type Gio.ResourceError>, 1: <enum G_RESOURCE_ERROR_INTERNAL of type Gio.ResourceError>}, '__info__': gi.EnumInfo(ResourceError), 'NOT_FOUND': <enum G_RESOURCE_ERROR_NOT_FOUND of type Gio.ResourceError>, 'INTERNAL': <enum G_RESOURCE_ERROR_INTERNAL of type Gio.ResourceError>, 'quark': gi.FunctionInfo(quark)})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GResourceError (94125582073584)>'
+    __gtype__ = None # (!) real value is '<GType GResourceError (94269257194032)>'
     __info__ = gi.EnumInfo(ResourceError)
 
 

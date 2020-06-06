@@ -489,12 +489,12 @@ class ThreadedSocketService(SocketService):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd07c790>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b8822dee0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ThreadedSocketService), '__module__': 'gi.repository.Gio', '__gtype__': <GType GThreadedSocketService (94125582817072)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'do_run': gi.VFuncInfo(run), 'parent_instance': <property object at 0x7f28dde6f6d0>, 'priv': <property object at 0x7f28dde6f7c0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ThreadedSocketService), '__module__': 'gi.repository.Gio', '__gtype__': <GType GThreadedSocketService (94269257449840)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'do_run': gi.VFuncInfo(run), 'parent_instance': <property object at 0x7f4b87fd2860>, 'priv': <property object at 0x7f4b87fd2950>})"
     __gdoc__ = 'Object GThreadedSocketService\n\nSignals from GThreadedSocketService:\n  run (GSocketConnection, GObject) -> gboolean\n\nProperties from GThreadedSocketService:\n  max-threads -> gint: Max threads\n    The max number of threads handling clients for this service\n\nSignals from GSocketService:\n  incoming (GSocketConnection, GObject) -> gboolean\n\nProperties from GSocketService:\n  active -> gboolean: Active\n    Whether the service is currently accepting connections\n\nSignals from GSocketListener:\n  event (GSocketListenerEvent, GSocket)\n\nProperties from GSocketListener:\n  listen-backlog -> gint: Listen backlog\n    outstanding connections in the listen queue\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GThreadedSocketService (94125582817072)>'
+    __gtype__ = None # (!) real value is '<GType GThreadedSocketService (94269257449840)>'
     __info__ = ObjectInfo(ThreadedSocketService)
 
 

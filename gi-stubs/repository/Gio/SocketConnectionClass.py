@@ -136,7 +136,7 @@ class SocketConnectionClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SocketConnectionClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SocketConnectionClass' objects>, '__weakref__': <attribute '__weakref__' of 'SocketConnectionClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28dde60180>, '_g_reserved1': <property object at 0x7f28dde60270>, '_g_reserved2': <property object at 0x7f28dde60360>, '_g_reserved3': <property object at 0x7f28dde60450>, '_g_reserved4': <property object at 0x7f28dde60540>, '_g_reserved5': <property object at 0x7f28dde60630>, '_g_reserved6': <property object at 0x7f28dde60720>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SocketConnectionClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SocketConnectionClass' objects>, '__weakref__': <attribute '__weakref__' of 'SocketConnectionClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b87fc14a0>, '_g_reserved1': <property object at 0x7f4b87fc1590>, '_g_reserved2': <property object at 0x7f4b87fc1680>, '_g_reserved3': <property object at 0x7f4b87fc1770>, '_g_reserved4': <property object at 0x7f4b87fc1860>, '_g_reserved5': <property object at 0x7f4b87fc1950>, '_g_reserved6': <property object at 0x7f4b87fc1a40>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(SocketConnectionClass)
 

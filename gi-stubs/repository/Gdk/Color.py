@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -170,8 +170,8 @@ class Color(Color):
 
     MAX_VALUE = 65535
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gdk', 'MAX_VALUE': 65535, '__init__': <function Color.__init__ at 0x7f1e122eac10>, '__eq__': <function Color.__eq__ at 0x7f1e122eab80>, '__repr__': <function Color.__repr__ at 0x7f1e122ead30>, 'red_float': <property object at 0x7f1e122fa9a0>, 'green_float': <property object at 0x7f1e122fa9f0>, 'blue_float': <property object at 0x7f1e122faa40>, 'to_floats': <function Color.to_floats at 0x7f1e122fb160>, 'from_floats': <staticmethod object at 0x7f1e1308e340>, '__doc__': None, '__hash__': None})"
-    __gtype__ = None # (!) real value is '<GType GdkColor (94055650603408)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gdk', 'MAX_VALUE': 65535, '__init__': <function Color.__init__ at 0x7fbaf87ed430>, '__eq__': <function Color.__eq__ at 0x7fbaf87ed3a0>, '__repr__': <function Color.__repr__ at 0x7fbaf87ed550>, 'red_float': <property object at 0x7fbaf87f6f90>, 'green_float': <property object at 0x7fbaf87f8040>, 'blue_float': <property object at 0x7fbaf87f8090>, 'to_floats': <function Color.to_floats at 0x7fbaf87ed940>, 'from_floats': <staticmethod object at 0x7fbaf95978b0>, '__doc__': None, '__hash__': None})"
+    __gtype__ = None # (!) real value is '<GType GdkColor (94915768168288)>'
     __hash__ = None
     __info__ = StructInfo(Color)
 

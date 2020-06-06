@@ -462,12 +462,12 @@ class Font(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f2474720e20>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f851783f9a0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Font), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoFont (94752681174912)>, '__doc__': None, '__gsignals__': {}, 'descriptions_free': gi.FunctionInfo(descriptions_free), 'describe': gi.FunctionInfo(describe), 'describe_with_absolute_size': gi.FunctionInfo(describe_with_absolute_size), 'find_shaper': gi.FunctionInfo(find_shaper), 'get_coverage': gi.FunctionInfo(get_coverage), 'get_font_map': gi.FunctionInfo(get_font_map), 'get_glyph_extents': gi.FunctionInfo(get_glyph_extents), 'get_metrics': gi.FunctionInfo(get_metrics), 'has_char': gi.FunctionInfo(has_char), 'do_describe': gi.VFuncInfo(describe), 'do_describe_absolute': gi.VFuncInfo(describe_absolute), 'do_get_coverage': gi.VFuncInfo(get_coverage), 'do_get_font_map': gi.VFuncInfo(get_font_map), 'do_get_glyph_extents': gi.VFuncInfo(get_glyph_extents), 'do_get_metrics': gi.VFuncInfo(get_metrics), 'parent_instance': <property object at 0x7f2475c581d0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Font), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoFont (94187429389344)>, '__doc__': None, '__gsignals__': {}, 'descriptions_free': gi.FunctionInfo(descriptions_free), 'describe': gi.FunctionInfo(describe), 'describe_with_absolute_size': gi.FunctionInfo(describe_with_absolute_size), 'find_shaper': gi.FunctionInfo(find_shaper), 'get_coverage': gi.FunctionInfo(get_coverage), 'get_font_map': gi.FunctionInfo(get_font_map), 'get_glyph_extents': gi.FunctionInfo(get_glyph_extents), 'get_metrics': gi.FunctionInfo(get_metrics), 'has_char': gi.FunctionInfo(has_char), 'do_describe': gi.VFuncInfo(describe), 'do_describe_absolute': gi.VFuncInfo(describe_absolute), 'do_get_coverage': gi.VFuncInfo(get_coverage), 'do_get_font_map': gi.VFuncInfo(get_font_map), 'do_get_glyph_extents': gi.VFuncInfo(get_glyph_extents), 'do_get_metrics': gi.VFuncInfo(get_metrics), 'parent_instance': <property object at 0x7f8517892400>})"
     __gdoc__ = 'Object PangoFont\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType PangoFont (94752681174912)>'
+    __gtype__ = None # (!) real value is '<GType PangoFont (94187429389344)>'
     __info__ = ObjectInfo(Font)
 
 

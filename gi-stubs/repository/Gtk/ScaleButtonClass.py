@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -137,7 +137,7 @@ class ScaleButtonClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ScaleButtonClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ScaleButtonClass' objects>, '__weakref__': <attribute '__weakref__' of 'ScaleButtonClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830fc9c20>, 'value_changed': <property object at 0x7fe830fc9d10>, '_gtk_reserved1': <property object at 0x7fe830fc9e00>, '_gtk_reserved2': <property object at 0x7fe830fc9ef0>, '_gtk_reserved3': <property object at 0x7fe830fcb040>, '_gtk_reserved4': <property object at 0x7fe830fcb130>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ScaleButtonClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ScaleButtonClass' objects>, '__weakref__': <attribute '__weakref__' of 'ScaleButtonClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a6df6d0>, 'value_changed': <property object at 0x7fc63a6df7c0>, '_gtk_reserved1': <property object at 0x7fc63a6df8b0>, '_gtk_reserved2': <property object at 0x7fc63a6df9a0>, '_gtk_reserved3': <property object at 0x7fc63a6dfa90>, '_gtk_reserved4': <property object at 0x7fc63a6dfb80>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ScaleButtonClass)
 

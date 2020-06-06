@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -788,12 +788,12 @@ class RecentAction(__gi_overrides_Gtk.Action, RecentChooser):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe82f255a00>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc638b86df0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(RecentAction), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkRecentAction (94846038302496)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_for_manager': gi.FunctionInfo(new_for_manager), 'get_show_numbers': gi.FunctionInfo(get_show_numbers), 'set_show_numbers': gi.FunctionInfo(set_show_numbers), 'parent_instance': <property object at 0x7fe830fb2c70>, 'priv': <property object at 0x7fe830fb2d60>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(RecentAction), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkRecentAction (93897369109104)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_for_manager': gi.FunctionInfo(new_for_manager), 'get_show_numbers': gi.FunctionInfo(get_show_numbers), 'set_show_numbers': gi.FunctionInfo(set_show_numbers), 'parent_instance': <property object at 0x7fc63a750db0>, 'priv': <property object at 0x7fc63a7648b0>})"
     __gdoc__ = 'Object GtkRecentAction\n\nProperties from GtkRecentAction:\n  show-numbers -> gboolean: Show Numbers\n    Whether the items should be displayed with a number\n\nSignals from GtkRecentChooser:\n  selection-changed ()\n  item-activated ()\n\nSignals from GtkAction:\n  activate ()\n\nProperties from GtkAction:\n  name -> gchararray: Name\n    A unique name for the action.\n  label -> gchararray: Label\n    The label used for menu items and buttons that activate this action.\n  short-label -> gchararray: Short label\n    A shorter label that may be used on toolbar buttons.\n  tooltip -> gchararray: Tooltip\n    A tooltip for this action.\n  stock-id -> gchararray: Stock Icon\n    The stock icon displayed in widgets representing this action.\n  icon-name -> gchararray: Icon Name\n    The name of the icon from the icon theme\n  gicon -> GIcon: GIcon\n    The GIcon being displayed\n  visible-horizontal -> gboolean: Visible when horizontal\n    Whether the toolbar item is visible when the toolbar is in a horizontal orientation.\n  visible-vertical -> gboolean: Visible when vertical\n    Whether the toolbar item is visible when the toolbar is in a vertical orientation.\n  visible-overflown -> gboolean: Visible when overflown\n    When TRUE, toolitem proxies for this action are represented in the toolbar overflow menu.\n  is-important -> gboolean: Is important\n    Whether the action is considered important. When TRUE, toolitem proxies for this action show text in GTK_TOOLBAR_BOTH_HORIZ mode.\n  hide-if-empty -> gboolean: Hide if empty\n    When TRUE, empty menu proxies for this action are hidden.\n  sensitive -> gboolean: Sensitive\n    Whether the action is enabled.\n  visible -> gboolean: Visible\n    Whether the action is visible.\n  action-group -> GtkActionGroup: Action Group\n    The GtkActionGroup this GtkAction is associated with, or NULL (for internal use).\n  always-show-image -> gboolean: Always show image\n    Whether the image will always be shown\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkRecentAction (94846038302496)>'
+    __gtype__ = None # (!) real value is '<GType GtkRecentAction (93897369109104)>'
     __info__ = ObjectInfo(RecentAction)
 
 

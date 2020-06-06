@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -440,12 +440,12 @@ class EventControllerScroll(EventController):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe830cfa400>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc63a864940>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(EventControllerScroll), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkEventControllerScroll (94846038184768)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_flags': gi.FunctionInfo(get_flags), 'set_flags': gi.FunctionInfo(set_flags)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(EventControllerScroll), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkEventControllerScroll (93897368428160)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_flags': gi.FunctionInfo(get_flags), 'set_flags': gi.FunctionInfo(set_flags)})"
     __gdoc__ = 'Object GtkEventControllerScroll\n\nSignals from GtkEventControllerScroll:\n  scroll-begin ()\n  scroll (gdouble, gdouble)\n  scroll-end ()\n  decelerate (gdouble, gdouble)\n\nProperties from GtkEventControllerScroll:\n  flags -> GtkEventControllerScrollFlags: Flags\n    Flags\n\nProperties from GtkEventController:\n  widget -> GtkWidget: Widget\n    Widget the gesture relates to\n  propagation-phase -> GtkPropagationPhase: Propagation phase\n    Propagation phase at which this controller is run\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkEventControllerScroll (94846038184768)>'
+    __gtype__ = None # (!) real value is '<GType GtkEventControllerScroll (93897368428160)>'
     __info__ = ObjectInfo(EventControllerScroll)
 
 

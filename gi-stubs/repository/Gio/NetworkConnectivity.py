@@ -360,14 +360,14 @@ class NetworkConnectivity(__gobject.GEnum):
     LOCAL = 1
     PORTAL = 3
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'NetworkConnectivity' objects>, '__doc__': None, '__gtype__': <GType GNetworkConnectivity (94125582272640)>, '__enum_values__': {1: <enum G_NETWORK_CONNECTIVITY_LOCAL of type Gio.NetworkConnectivity>, 2: <enum G_NETWORK_CONNECTIVITY_LIMITED of type Gio.NetworkConnectivity>, 3: <enum G_NETWORK_CONNECTIVITY_PORTAL of type Gio.NetworkConnectivity>, 4: <enum G_NETWORK_CONNECTIVITY_FULL of type Gio.NetworkConnectivity>}, '__info__': gi.EnumInfo(NetworkConnectivity), 'LOCAL': <enum G_NETWORK_CONNECTIVITY_LOCAL of type Gio.NetworkConnectivity>, 'LIMITED': <enum G_NETWORK_CONNECTIVITY_LIMITED of type Gio.NetworkConnectivity>, 'PORTAL': <enum G_NETWORK_CONNECTIVITY_PORTAL of type Gio.NetworkConnectivity>, 'FULL': <enum G_NETWORK_CONNECTIVITY_FULL of type Gio.NetworkConnectivity>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'NetworkConnectivity' objects>, '__doc__': None, '__gtype__': <GType GNetworkConnectivity (94269256901936)>, '__enum_values__': {1: <enum G_NETWORK_CONNECTIVITY_LOCAL of type Gio.NetworkConnectivity>, 2: <enum G_NETWORK_CONNECTIVITY_LIMITED of type Gio.NetworkConnectivity>, 3: <enum G_NETWORK_CONNECTIVITY_PORTAL of type Gio.NetworkConnectivity>, 4: <enum G_NETWORK_CONNECTIVITY_FULL of type Gio.NetworkConnectivity>}, '__info__': gi.EnumInfo(NetworkConnectivity), 'LOCAL': <enum G_NETWORK_CONNECTIVITY_LOCAL of type Gio.NetworkConnectivity>, 'LIMITED': <enum G_NETWORK_CONNECTIVITY_LIMITED of type Gio.NetworkConnectivity>, 'PORTAL': <enum G_NETWORK_CONNECTIVITY_PORTAL of type Gio.NetworkConnectivity>, 'FULL': <enum G_NETWORK_CONNECTIVITY_FULL of type Gio.NetworkConnectivity>})"
     __enum_values__ = {
         1: 1,
         2: 2,
         3: 3,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType GNetworkConnectivity (94125582272640)>'
+    __gtype__ = None # (!) real value is '<GType GNetworkConnectivity (94269256901936)>'
     __info__ = gi.EnumInfo(NetworkConnectivity)
 
 

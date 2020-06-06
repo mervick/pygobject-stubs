@@ -136,7 +136,7 @@ class InputMessage(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(InputMessage), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'InputMessage' objects>, '__weakref__': <attribute '__weakref__' of 'InputMessage' objects>, '__doc__': None, 'address': <property object at 0x7f28ddea10e0>, 'vectors': <property object at 0x7f28ddea11d0>, 'num_vectors': <property object at 0x7f28ddea12c0>, 'bytes_received': <property object at 0x7f28ddea13b0>, 'flags': <property object at 0x7f28ddea14a0>, 'control_messages': <property object at 0x7f28ddea15e0>, 'num_control_messages': <property object at 0x7f28ddea1720>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(InputMessage), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'InputMessage' objects>, '__weakref__': <attribute '__weakref__' of 'InputMessage' objects>, '__doc__': None, 'address': <property object at 0x7f4b88003220>, 'vectors': <property object at 0x7f4b88003310>, 'num_vectors': <property object at 0x7f4b88003400>, 'bytes_received': <property object at 0x7f4b880034f0>, 'flags': <property object at 0x7f4b880035e0>, 'control_messages': <property object at 0x7f4b88003720>, 'num_control_messages': <property object at 0x7f4b88003860>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(InputMessage)
 

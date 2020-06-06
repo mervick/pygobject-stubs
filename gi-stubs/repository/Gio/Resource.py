@@ -167,8 +167,8 @@ class Resource(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Resource), '__module__': 'gi.repository.Gio', '__gtype__': <GType GResource (94125582659408)>, '__dict__': <attribute '__dict__' of 'Resource' objects>, '__weakref__': <attribute '__weakref__' of 'Resource' objects>, '__doc__': None, 'new_from_data': gi.FunctionInfo(new_from_data), '_register': gi.FunctionInfo(_register), '_unregister': gi.FunctionInfo(_unregister), 'enumerate_children': gi.FunctionInfo(enumerate_children), 'get_info': gi.FunctionInfo(get_info), 'lookup_data': gi.FunctionInfo(lookup_data), 'open_stream': gi.FunctionInfo(open_stream), 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref), 'load': gi.FunctionInfo(load)})"
-    __gtype__ = None # (!) real value is '<GType GResource (94125582659408)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Resource), '__module__': 'gi.repository.Gio', '__gtype__': <GType GResource (94269257253136)>, '__dict__': <attribute '__dict__' of 'Resource' objects>, '__weakref__': <attribute '__weakref__' of 'Resource' objects>, '__doc__': None, 'new_from_data': gi.FunctionInfo(new_from_data), '_register': gi.FunctionInfo(_register), '_unregister': gi.FunctionInfo(_unregister), 'enumerate_children': gi.FunctionInfo(enumerate_children), 'get_info': gi.FunctionInfo(get_info), 'lookup_data': gi.FunctionInfo(lookup_data), 'open_stream': gi.FunctionInfo(open_stream), 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref), 'load': gi.FunctionInfo(load)})"
+    __gtype__ = None # (!) real value is '<GType GResource (94269257253136)>'
     __info__ = StructInfo(Resource)
 
 

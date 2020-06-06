@@ -360,14 +360,14 @@ class SocketFamily(__gobject.GEnum):
     IPV6 = 10
     UNIX = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'SocketFamily' objects>, '__doc__': None, '__gtype__': <GType GSocketFamily (94125582715776)>, '__enum_values__': {0: <enum G_SOCKET_FAMILY_INVALID of type Gio.SocketFamily>, 1: <enum G_SOCKET_FAMILY_UNIX of type Gio.SocketFamily>, 2: <enum G_SOCKET_FAMILY_IPV4 of type Gio.SocketFamily>, 10: <enum G_SOCKET_FAMILY_IPV6 of type Gio.SocketFamily>}, '__info__': gi.EnumInfo(SocketFamily), 'INVALID': <enum G_SOCKET_FAMILY_INVALID of type Gio.SocketFamily>, 'UNIX': <enum G_SOCKET_FAMILY_UNIX of type Gio.SocketFamily>, 'IPV4': <enum G_SOCKET_FAMILY_IPV4 of type Gio.SocketFamily>, 'IPV6': <enum G_SOCKET_FAMILY_IPV6 of type Gio.SocketFamily>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'SocketFamily' objects>, '__doc__': None, '__gtype__': <GType GSocketFamily (94269257358848)>, '__enum_values__': {0: <enum G_SOCKET_FAMILY_INVALID of type Gio.SocketFamily>, 1: <enum G_SOCKET_FAMILY_UNIX of type Gio.SocketFamily>, 2: <enum G_SOCKET_FAMILY_IPV4 of type Gio.SocketFamily>, 10: <enum G_SOCKET_FAMILY_IPV6 of type Gio.SocketFamily>}, '__info__': gi.EnumInfo(SocketFamily), 'INVALID': <enum G_SOCKET_FAMILY_INVALID of type Gio.SocketFamily>, 'UNIX': <enum G_SOCKET_FAMILY_UNIX of type Gio.SocketFamily>, 'IPV4': <enum G_SOCKET_FAMILY_IPV4 of type Gio.SocketFamily>, 'IPV6': <enum G_SOCKET_FAMILY_IPV6 of type Gio.SocketFamily>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         10: 10,
     }
-    __gtype__ = None # (!) real value is '<GType GSocketFamily (94125582715776)>'
+    __gtype__ = None # (!) real value is '<GType GSocketFamily (94269257358848)>'
     __info__ = gi.EnumInfo(SocketFamily)
 
 

@@ -119,10 +119,10 @@ class DtlsServerConnection(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(DtlsServerConnection), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDtlsServerConnection (94125582251792)>, '__dict__': <attribute '__dict__' of 'DtlsServerConnection' objects>, '__weakref__': <attribute '__weakref__' of 'DtlsServerConnection' objects>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(DtlsServerConnection), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDtlsServerConnection (94269256878816)>, '__dict__': <attribute '__dict__' of 'DtlsServerConnection' objects>, '__weakref__': <attribute '__weakref__' of 'DtlsServerConnection' objects>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new)})"
     __gdoc__ = 'Interface GDtlsServerConnection\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GDtlsServerConnection (94125582251792)>'
+    __gtype__ = None # (!) real value is '<GType GDtlsServerConnection (94269256878816)>'
     __info__ = InterfaceInfo(DtlsServerConnection)
 
 

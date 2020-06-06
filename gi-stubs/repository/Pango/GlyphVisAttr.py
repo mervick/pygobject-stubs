@@ -122,7 +122,7 @@ class GlyphVisAttr(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(GlyphVisAttr), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'GlyphVisAttr' objects>, '__weakref__': <attribute '__weakref__' of 'GlyphVisAttr' objects>, '__doc__': None, 'is_cluster_start': <property object at 0x7f24746f7d10>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(GlyphVisAttr), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'GlyphVisAttr' objects>, '__weakref__': <attribute '__weakref__' of 'GlyphVisAttr' objects>, '__doc__': None, 'is_cluster_start': <property object at 0x7f851789ea40>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(GlyphVisAttr)
 

@@ -154,8 +154,8 @@ class Checksum(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Checksum), '__module__': 'gi.repository.GLib', '__gtype__': <GType GChecksum (94243598426608)>, '__dict__': <attribute '__dict__' of 'Checksum' objects>, '__weakref__': <attribute '__weakref__' of 'Checksum' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free), 'get_string': gi.FunctionInfo(get_string), 'reset': gi.FunctionInfo(reset), 'update': gi.FunctionInfo(update), 'type_get_length': gi.FunctionInfo(type_get_length), '__new__': <staticmethod object at 0x7f1d2b944220>, '__init__': <function nothing at 0x7f1d2baee430>})"
-    __gtype__ = None # (!) real value is '<GType GChecksum (94243598426608)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Checksum), '__module__': 'gi.repository.GLib', '__gtype__': <GType GChecksum (94581033382768)>, '__dict__': <attribute '__dict__' of 'Checksum' objects>, '__weakref__': <attribute '__weakref__' of 'Checksum' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free), 'get_string': gi.FunctionInfo(get_string), 'reset': gi.FunctionInfo(reset), 'update': gi.FunctionInfo(update), 'type_get_length': gi.FunctionInfo(type_get_length), '__new__': <staticmethod object at 0x7f851353e6a0>, '__init__': <function nothing at 0x7f85136ebee0>})"
+    __gtype__ = None # (!) real value is '<GType GChecksum (94581033382768)>'
     __info__ = StructInfo(Checksum)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -362,13 +362,13 @@ class GLError(__gobject.GEnum):
     UNSUPPORTED_FORMAT = 1
     UNSUPPORTED_PROFILE = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'GLError' objects>, '__doc__': None, '__gtype__': <GType GdkGLError (94055651106080)>, '__enum_values__': {0: <enum GDK_GL_ERROR_NOT_AVAILABLE of type Gdk.GLError>, 1: <enum GDK_GL_ERROR_UNSUPPORTED_FORMAT of type Gdk.GLError>, 2: <enum GDK_GL_ERROR_UNSUPPORTED_PROFILE of type Gdk.GLError>}, '__info__': gi.EnumInfo(GLError), 'NOT_AVAILABLE': <enum GDK_GL_ERROR_NOT_AVAILABLE of type Gdk.GLError>, 'UNSUPPORTED_FORMAT': <enum GDK_GL_ERROR_UNSUPPORTED_FORMAT of type Gdk.GLError>, 'UNSUPPORTED_PROFILE': <enum GDK_GL_ERROR_UNSUPPORTED_PROFILE of type Gdk.GLError>, 'quark': gi.FunctionInfo(quark)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'GLError' objects>, '__doc__': None, '__gtype__': <GType GdkGLError (94915768727248)>, '__enum_values__': {0: <enum GDK_GL_ERROR_NOT_AVAILABLE of type Gdk.GLError>, 1: <enum GDK_GL_ERROR_UNSUPPORTED_FORMAT of type Gdk.GLError>, 2: <enum GDK_GL_ERROR_UNSUPPORTED_PROFILE of type Gdk.GLError>}, '__info__': gi.EnumInfo(GLError), 'NOT_AVAILABLE': <enum GDK_GL_ERROR_NOT_AVAILABLE of type Gdk.GLError>, 'UNSUPPORTED_FORMAT': <enum GDK_GL_ERROR_UNSUPPORTED_FORMAT of type Gdk.GLError>, 'UNSUPPORTED_PROFILE': <enum GDK_GL_ERROR_UNSUPPORTED_PROFILE of type Gdk.GLError>, 'quark': gi.FunctionInfo(quark)})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GdkGLError (94055651106080)>'
+    __gtype__ = None # (!) real value is '<GType GdkGLError (94915768727248)>'
     __info__ = gi.EnumInfo(GLError)
 
 

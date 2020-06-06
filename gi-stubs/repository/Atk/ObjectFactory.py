@@ -424,12 +424,12 @@ class ObjectFactory(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f0cd81d7730>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f44c6d0c880>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ObjectFactory), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkObjectFactory (93922955976800)>, '__doc__': None, '__gsignals__': {}, 'create_accessible': gi.FunctionInfo(create_accessible), 'get_accessible_type': gi.FunctionInfo(get_accessible_type), 'invalidate': gi.FunctionInfo(invalidate), 'do_invalidate': gi.VFuncInfo(invalidate), 'parent': <property object at 0x7f0cd819ec70>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ObjectFactory), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkObjectFactory (94258338120576)>, '__doc__': None, '__gsignals__': {}, 'create_accessible': gi.FunctionInfo(create_accessible), 'get_accessible_type': gi.FunctionInfo(get_accessible_type), 'invalidate': gi.FunctionInfo(invalidate), 'do_invalidate': gi.VFuncInfo(invalidate), 'parent': <property object at 0x7f44c6dba090>})"
     __gdoc__ = 'Object AtkObjectFactory\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType AtkObjectFactory (93922955976800)>'
+    __gtype__ = None # (!) real value is '<GType AtkObjectFactory (94258338120576)>'
     __info__ = ObjectInfo(ObjectFactory)
 
 

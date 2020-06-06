@@ -362,11 +362,11 @@ class TlsDatabaseVerifyFlags(__gobject.GFlags):
 
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'TlsDatabaseVerifyFlags' objects>, '__doc__': None, '__gtype__': <GType GTlsDatabaseVerifyFlags (94125582897664)>, '__flags_values__': {0: <flags 0 of type Gio.TlsDatabaseVerifyFlags>}, '__info__': gi.EnumInfo(TlsDatabaseVerifyFlags), 'NONE': <flags 0 of type Gio.TlsDatabaseVerifyFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'TlsDatabaseVerifyFlags' objects>, '__doc__': None, '__gtype__': <GType GTlsDatabaseVerifyFlags (94269257518992)>, '__flags_values__': {0: <flags 0 of type Gio.TlsDatabaseVerifyFlags>}, '__info__': gi.EnumInfo(TlsDatabaseVerifyFlags), 'NONE': <flags 0 of type Gio.TlsDatabaseVerifyFlags>})"
     __flags_values__ = {
         0: 0,
     }
-    __gtype__ = None # (!) real value is '<GType GTlsDatabaseVerifyFlags (94125582897664)>'
+    __gtype__ = None # (!) real value is '<GType GTlsDatabaseVerifyFlags (94269257518992)>'
     __info__ = gi.EnumInfo(TlsDatabaseVerifyFlags)
 
 

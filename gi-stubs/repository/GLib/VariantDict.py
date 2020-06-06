@@ -165,8 +165,8 @@ class VariantDict(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(VariantDict), '__module__': 'gi.repository.GLib', '__gtype__': <GType GVariantDict (94243599205600)>, '__dict__': <attribute '__dict__' of 'VariantDict' objects>, '__weakref__': <attribute '__weakref__' of 'VariantDict' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'clear': gi.FunctionInfo(clear), 'contains': gi.FunctionInfo(contains), 'end': gi.FunctionInfo(end), 'insert_value': gi.FunctionInfo(insert_value), 'lookup_value': gi.FunctionInfo(lookup_value), 'ref': gi.FunctionInfo(ref), 'remove': gi.FunctionInfo(remove), 'unref': gi.FunctionInfo(unref), '__new__': <staticmethod object at 0x7f1d2b903df0>, '__init__': <function nothing at 0x7f1d2baee430>})"
-    __gtype__ = None # (!) real value is '<GType GVariantDict (94243599205600)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(VariantDict), '__module__': 'gi.repository.GLib', '__gtype__': <GType GVariantDict (94581033984400)>, '__dict__': <attribute '__dict__' of 'VariantDict' objects>, '__weakref__': <attribute '__weakref__' of 'VariantDict' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'clear': gi.FunctionInfo(clear), 'contains': gi.FunctionInfo(contains), 'end': gi.FunctionInfo(end), 'insert_value': gi.FunctionInfo(insert_value), 'lookup_value': gi.FunctionInfo(lookup_value), 'ref': gi.FunctionInfo(ref), 'remove': gi.FunctionInfo(remove), 'unref': gi.FunctionInfo(unref), '__new__': <staticmethod object at 0x7f8513511100>, '__init__': <function nothing at 0x7f85136ebee0>})"
+    __gtype__ = None # (!) real value is '<GType GVariantDict (94581033984400)>'
     __info__ = StructInfo(VariantDict)
 
 

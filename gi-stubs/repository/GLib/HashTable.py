@@ -178,8 +178,8 @@ class HashTable(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(HashTable), '__module__': 'gi.repository.GLib', '__gtype__': <GType GHashTable (94243598925488)>, '__dict__': <attribute '__dict__' of 'HashTable' objects>, '__weakref__': <attribute '__weakref__' of 'HashTable' objects>, '__doc__': None, 'add': gi.FunctionInfo(add), 'contains': gi.FunctionInfo(contains), 'destroy': gi.FunctionInfo(destroy), 'insert': gi.FunctionInfo(insert), 'lookup': gi.FunctionInfo(lookup), 'lookup_extended': gi.FunctionInfo(lookup_extended), 'remove': gi.FunctionInfo(remove), 'remove_all': gi.FunctionInfo(remove_all), 'replace': gi.FunctionInfo(replace), 'size': gi.FunctionInfo(size), 'steal': gi.FunctionInfo(steal), 'steal_all': gi.FunctionInfo(steal_all), 'steal_extended': gi.FunctionInfo(steal_extended), 'unref': gi.FunctionInfo(unref)})"
-    __gtype__ = None # (!) real value is '<GType GHashTable (94243598925488)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(HashTable), '__module__': 'gi.repository.GLib', '__gtype__': <GType GHashTable (94581033701392)>, '__dict__': <attribute '__dict__' of 'HashTable' objects>, '__weakref__': <attribute '__weakref__' of 'HashTable' objects>, '__doc__': None, 'add': gi.FunctionInfo(add), 'contains': gi.FunctionInfo(contains), 'destroy': gi.FunctionInfo(destroy), 'insert': gi.FunctionInfo(insert), 'lookup': gi.FunctionInfo(lookup), 'lookup_extended': gi.FunctionInfo(lookup_extended), 'remove': gi.FunctionInfo(remove), 'remove_all': gi.FunctionInfo(remove_all), 'replace': gi.FunctionInfo(replace), 'size': gi.FunctionInfo(size), 'steal': gi.FunctionInfo(steal), 'steal_all': gi.FunctionInfo(steal_all), 'steal_extended': gi.FunctionInfo(steal_extended), 'unref': gi.FunctionInfo(unref)})"
+    __gtype__ = None # (!) real value is '<GType GHashTable (94581033701392)>'
     __info__ = StructInfo(HashTable)
 
 

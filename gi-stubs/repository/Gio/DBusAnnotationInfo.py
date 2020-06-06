@@ -151,8 +151,8 @@ class DBusAnnotationInfo(DBusAnnotationInfo):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gio', '__init__': <function _warn_init.<locals>.new_init at 0x7f28de00c4c0>, '__doc__': None})"
-    __gtype__ = None # (!) real value is '<GType GDBusAnnotationInfo (94125581350816)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gio', '__init__': <function _warn_init.<locals>.new_init at 0x7f4b88165ca0>, '__doc__': None})"
+    __gtype__ = None # (!) real value is '<GType GDBusAnnotationInfo (94269256040208)>'
     __info__ = StructInfo(DBusAnnotationInfo)
 
 

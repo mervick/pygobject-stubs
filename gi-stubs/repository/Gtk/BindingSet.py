@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -153,7 +153,7 @@ class BindingSet(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(BindingSet), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'BindingSet' objects>, '__weakref__': <attribute '__weakref__' of 'BindingSet' objects>, '__doc__': None, 'set_name': <property object at 0x7fe8310a1590>, 'priority': <property object at 0x7fe8310a1680>, 'widget_path_pspecs': <property object at 0x7fe8310a17c0>, 'widget_class_pspecs': <property object at 0x7fe8310a1900>, 'class_branch_pspecs': <property object at 0x7fe8310a1a40>, 'entries': <property object at 0x7fe8310a1b30>, 'current': <property object at 0x7fe8310a1c20>, 'parsed': <property object at 0x7fe8310a1d10>, 'activate': gi.FunctionInfo(activate), 'add_path': gi.FunctionInfo(add_path), 'find': gi.FunctionInfo(find)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(BindingSet), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'BindingSet' objects>, '__weakref__': <attribute '__weakref__' of 'BindingSet' objects>, '__doc__': None, 'set_name': <property object at 0x7fc63a7b5450>, 'priority': <property object at 0x7fc63a7b5540>, 'widget_path_pspecs': <property object at 0x7fc63a7b5680>, 'widget_class_pspecs': <property object at 0x7fc63a7b57c0>, 'class_branch_pspecs': <property object at 0x7fc63a7b5900>, 'entries': <property object at 0x7fc63a7b59f0>, 'current': <property object at 0x7fc63a7b5ae0>, 'parsed': <property object at 0x7fc63a7b5bd0>, 'activate': gi.FunctionInfo(activate), 'add_path': gi.FunctionInfo(add_path), 'find': gi.FunctionInfo(find)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(BindingSet)
 

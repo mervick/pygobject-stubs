@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -130,10 +130,10 @@ class PrintOperationPreview(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(PrintOperationPreview), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkPrintOperationPreview (94846038834720)>, '__dict__': <attribute '__dict__' of 'PrintOperationPreview' objects>, '__weakref__': <attribute '__weakref__' of 'PrintOperationPreview' objects>, '__doc__': None, '__gsignals__': {}, 'end_preview': gi.FunctionInfo(end_preview), 'is_selected': gi.FunctionInfo(is_selected), 'render_page': gi.FunctionInfo(render_page)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(PrintOperationPreview), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkPrintOperationPreview (93897367226320)>, '__dict__': <attribute '__dict__' of 'PrintOperationPreview' objects>, '__weakref__': <attribute '__weakref__' of 'PrintOperationPreview' objects>, '__doc__': None, '__gsignals__': {}, 'end_preview': gi.FunctionInfo(end_preview), 'is_selected': gi.FunctionInfo(is_selected), 'render_page': gi.FunctionInfo(render_page)})"
     __gdoc__ = 'Interface GtkPrintOperationPreview\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkPrintOperationPreview (94846038834720)>'
+    __gtype__ = None # (!) real value is '<GType GtkPrintOperationPreview (93897367226320)>'
     __info__ = InterfaceInfo(PrintOperationPreview)
 
 

@@ -135,7 +135,7 @@ class TestLogBuffer(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TestLogBuffer), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TestLogBuffer' objects>, '__weakref__': <attribute '__weakref__' of 'TestLogBuffer' objects>, '__doc__': None, 'data': <property object at 0x7f1d2b9c94f0>, 'msgs': <property object at 0x7f1d2b9c95e0>, 'free': gi.FunctionInfo(free), 'push': gi.FunctionInfo(push)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TestLogBuffer), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TestLogBuffer' objects>, '__weakref__': <attribute '__weakref__' of 'TestLogBuffer' objects>, '__doc__': None, 'data': <property object at 0x7f8513505ae0>, 'msgs': <property object at 0x7f8513505bd0>, 'free': gi.FunctionInfo(free), 'push': gi.FunctionInfo(push)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TestLogBuffer)
 

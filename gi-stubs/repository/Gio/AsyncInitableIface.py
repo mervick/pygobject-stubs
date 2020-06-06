@@ -128,7 +128,7 @@ class AsyncInitableIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AsyncInitableIface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AsyncInitableIface' objects>, '__weakref__': <attribute '__weakref__' of 'AsyncInitableIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f28ddf2b680>, 'init_async': <property object at 0x7f28ddf2b770>, 'init_finish': <property object at 0x7f28ddf2b860>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AsyncInitableIface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AsyncInitableIface' objects>, '__weakref__': <attribute '__weakref__' of 'AsyncInitableIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f4b8808e720>, 'init_async': <property object at 0x7f4b8808e810>, 'init_finish': <property object at 0x7f4b8808e900>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(AsyncInitableIface)
 

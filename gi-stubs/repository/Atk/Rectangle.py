@@ -140,8 +140,8 @@ class Rectangle(__gi.Boxed):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Rectangle), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkRectangle (93922955958384)>, '__dict__': <attribute '__dict__' of 'Rectangle' objects>, '__weakref__': <attribute '__weakref__' of 'Rectangle' objects>, '__doc__': None, 'x': <property object at 0x7f0cd81a5d10>, 'y': <property object at 0x7f0cd81a5e00>, 'width': <property object at 0x7f0cd81a5ef0>, 'height': <property object at 0x7f0cd81a7040>})"
-    __gtype__ = None # (!) real value is '<GType AtkRectangle (93922955958384)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Rectangle), '__module__': 'gi.repository.Atk', '__gtype__': <GType AtkRectangle (94258337947968)>, '__dict__': <attribute '__dict__' of 'Rectangle' objects>, '__weakref__': <attribute '__weakref__' of 'Rectangle' objects>, '__doc__': None, 'x': <property object at 0x7f44c6dbf270>, 'y': <property object at 0x7f44c6dbf360>, 'width': <property object at 0x7f44c6dbf450>, 'height': <property object at 0x7f44c6dbf540>})"
+    __gtype__ = None # (!) real value is '<GType AtkRectangle (94258337947968)>'
     __info__ = StructInfo(Rectangle)
 
 

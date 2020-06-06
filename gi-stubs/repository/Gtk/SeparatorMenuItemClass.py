@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -135,7 +135,7 @@ class SeparatorMenuItemClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SeparatorMenuItemClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SeparatorMenuItemClass' objects>, '__weakref__': <attribute '__weakref__' of 'SeparatorMenuItemClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830fd4c20>, '_gtk_reserved1': <property object at 0x7fe830fd4d10>, '_gtk_reserved2': <property object at 0x7fe830fd4e00>, '_gtk_reserved3': <property object at 0x7fe830fd4ef0>, '_gtk_reserved4': <property object at 0x7fe830fd6040>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SeparatorMenuItemClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SeparatorMenuItemClass' objects>, '__weakref__': <attribute '__weakref__' of 'SeparatorMenuItemClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a6ec7c0>, '_gtk_reserved1': <property object at 0x7fc63a6ec8b0>, '_gtk_reserved2': <property object at 0x7fc63a6ec9a0>, '_gtk_reserved3': <property object at 0x7fc63a6eca90>, '_gtk_reserved4': <property object at 0x7fc63a6ecb80>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(SeparatorMenuItemClass)
 

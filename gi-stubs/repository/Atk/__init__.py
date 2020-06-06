@@ -352,11 +352,11 @@ from .WindowIface import WindowIface
 from .__class__ import __class__
 # variables with complex values
 
-__loader__ = None # (!) real value is '<gi.importer.DynamicImporter object at 0x7f0cd8f6c9d0>'
+__loader__ = None # (!) real value is '<gi.importer.DynamicImporter object at 0x7f44c7bdfd00>'
 
 __path__ = [
     '/usr/lib64/girepository-1.0/Atk-1.0.typelib',
 ]
 
-__spec__ = None # (!) real value is "ModuleSpec(name='gi.repository.Atk', loader=<gi.importer.DynamicImporter object at 0x7f0cd8f6c9d0>)"
+__spec__ = None # (!) real value is "ModuleSpec(name='gi.repository.Atk', loader=<gi.importer.DynamicImporter object at 0x7f44c7bdfd00>)"
 

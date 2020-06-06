@@ -363,13 +363,13 @@ class KeyEventType(__gobject.GEnum):
     PRESS = 0
     RELEASE = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Atk', '__dict__': <attribute '__dict__' of 'KeyEventType' objects>, '__doc__': None, '__gtype__': <GType AtkKeyEventType (93922955502272)>, '__enum_values__': {0: <enum ATK_KEY_EVENT_PRESS of type Atk.KeyEventType>, 1: <enum ATK_KEY_EVENT_RELEASE of type Atk.KeyEventType>, 2: <enum ATK_KEY_EVENT_LAST_DEFINED of type Atk.KeyEventType>}, '__info__': gi.EnumInfo(KeyEventType), 'PRESS': <enum ATK_KEY_EVENT_PRESS of type Atk.KeyEventType>, 'RELEASE': <enum ATK_KEY_EVENT_RELEASE of type Atk.KeyEventType>, 'LAST_DEFINED': <enum ATK_KEY_EVENT_LAST_DEFINED of type Atk.KeyEventType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Atk', '__dict__': <attribute '__dict__' of 'KeyEventType' objects>, '__doc__': None, '__gtype__': <GType AtkKeyEventType (94258337735520)>, '__enum_values__': {0: <enum ATK_KEY_EVENT_PRESS of type Atk.KeyEventType>, 1: <enum ATK_KEY_EVENT_RELEASE of type Atk.KeyEventType>, 2: <enum ATK_KEY_EVENT_LAST_DEFINED of type Atk.KeyEventType>}, '__info__': gi.EnumInfo(KeyEventType), 'PRESS': <enum ATK_KEY_EVENT_PRESS of type Atk.KeyEventType>, 'RELEASE': <enum ATK_KEY_EVENT_RELEASE of type Atk.KeyEventType>, 'LAST_DEFINED': <enum ATK_KEY_EVENT_LAST_DEFINED of type Atk.KeyEventType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType AtkKeyEventType (93922955502272)>'
+    __gtype__ = None # (!) real value is '<GType AtkKeyEventType (94258337735520)>'
     __info__ = gi.EnumInfo(KeyEventType)
 
 

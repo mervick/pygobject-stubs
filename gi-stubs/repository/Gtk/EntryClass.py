@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -165,7 +165,7 @@ class EntryClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EntryClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EntryClass' objects>, '__weakref__': <attribute '__weakref__' of 'EntryClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe831078c70>, 'populate_popup': <property object at 0x7fe831078d60>, 'activate': <property object at 0x7fe831078e50>, 'move_cursor': <property object at 0x7fe831078f40>, 'insert_at_cursor': <property object at 0x7fe83107a0e0>, 'delete_from_cursor': <property object at 0x7fe83107a1d0>, 'backspace': <property object at 0x7fe83107a2c0>, 'cut_clipboard': <property object at 0x7fe83107a3b0>, 'copy_clipboard': <property object at 0x7fe83107a4a0>, 'paste_clipboard': <property object at 0x7fe83107a590>, 'toggle_overwrite': <property object at 0x7fe83107a6d0>, 'get_text_area_size': <property object at 0x7fe83107a810>, 'get_frame_size': <property object at 0x7fe83107a900>, 'insert_emoji': <property object at 0x7fe83107a9f0>, '_gtk_reserved1': <property object at 0x7fe83107aae0>, '_gtk_reserved2': <property object at 0x7fe83107abd0>, '_gtk_reserved3': <property object at 0x7fe83107acc0>, '_gtk_reserved4': <property object at 0x7fe83107adb0>, '_gtk_reserved5': <property object at 0x7fe83107aea0>, '_gtk_reserved6': <property object at 0x7fe83107af90>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EntryClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EntryClass' objects>, '__weakref__': <attribute '__weakref__' of 'EntryClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a78e9f0>, 'populate_popup': <property object at 0x7fc63a78eae0>, 'activate': <property object at 0x7fc63a78ebd0>, 'move_cursor': <property object at 0x7fc63a78ecc0>, 'insert_at_cursor': <property object at 0x7fc63a78ee00>, 'delete_from_cursor': <property object at 0x7fc63a78eef0>, 'backspace': <property object at 0x7fc63a78f040>, 'cut_clipboard': <property object at 0x7fc63a78f130>, 'copy_clipboard': <property object at 0x7fc63a78f220>, 'paste_clipboard': <property object at 0x7fc63a78f310>, 'toggle_overwrite': <property object at 0x7fc63a78f450>, 'get_text_area_size': <property object at 0x7fc63a78f590>, 'get_frame_size': <property object at 0x7fc63a78f680>, 'insert_emoji': <property object at 0x7fc63a78f770>, '_gtk_reserved1': <property object at 0x7fc63a78f860>, '_gtk_reserved2': <property object at 0x7fc63a78f950>, '_gtk_reserved3': <property object at 0x7fc63a78fa40>, '_gtk_reserved4': <property object at 0x7fc63a78fb30>, '_gtk_reserved5': <property object at 0x7fc63a78fc20>, '_gtk_reserved6': <property object at 0x7fc63a78fd10>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(EntryClass)
 

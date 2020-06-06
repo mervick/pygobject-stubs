@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -137,7 +137,7 @@ class EventPadAxis(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EventPadAxis), '__module__': 'gi.repository.Gdk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EventPadAxis' objects>, '__weakref__': <attribute '__weakref__' of 'EventPadAxis' objects>, '__doc__': None, 'type': <property object at 0x7f1e11c62040>, 'window': <property object at 0x7f1e11c61310>, 'send_event': <property object at 0x7f1e11c62090>, 'time': <property object at 0x7f1e11c620e0>, 'group': <property object at 0x7f1e11c62130>, 'index': <property object at 0x7f1e11c62180>, 'mode': <property object at 0x7f1e11c62270>, 'value': <property object at 0x7f1e11c62360>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EventPadAxis), '__module__': 'gi.repository.Gdk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EventPadAxis' objects>, '__weakref__': <attribute '__weakref__' of 'EventPadAxis' objects>, '__doc__': None, 'type': <property object at 0x7fbaf8161590>, 'window': <property object at 0x7fbaf81615e0>, 'send_event': <property object at 0x7fbaf8161630>, 'time': <property object at 0x7fbaf8161680>, 'group': <property object at 0x7fbaf81616d0>, 'index': <property object at 0x7fbaf8161720>, 'mode': <property object at 0x7fbaf8161810>, 'value': <property object at 0x7fbaf8161900>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(EventPadAxis)
 

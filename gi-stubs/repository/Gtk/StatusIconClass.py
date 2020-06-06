@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -149,7 +149,7 @@ class StatusIconClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(StatusIconClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'StatusIconClass' objects>, '__weakref__': <attribute '__weakref__' of 'StatusIconClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830f6ecc0>, 'activate': <property object at 0x7fe830f6edb0>, 'popup_menu': <property object at 0x7fe830f6eea0>, 'size_changed': <property object at 0x7fe830f6ef90>, 'button_press_event': <property object at 0x7fe830f70130>, 'button_release_event': <property object at 0x7fe830f70270>, 'scroll_event': <property object at 0x7fe830f70360>, 'query_tooltip': <property object at 0x7fe830f70450>, '__gtk_reserved1': <property object at 0x7fe830f70540>, '__gtk_reserved2': <property object at 0x7fe830f70630>, '__gtk_reserved3': <property object at 0x7fe830f70720>, '__gtk_reserved4': <property object at 0x7fe830f70810>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(StatusIconClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'StatusIconClass' objects>, '__weakref__': <attribute '__weakref__' of 'StatusIconClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a6849a0>, 'activate': <property object at 0x7fc63a684a90>, 'popup_menu': <property object at 0x7fc63a684b80>, 'size_changed': <property object at 0x7fc63a684c70>, 'button_press_event': <property object at 0x7fc63a684db0>, 'button_release_event': <property object at 0x7fc63a684ef0>, 'scroll_event': <property object at 0x7fc63a687040>, 'query_tooltip': <property object at 0x7fc63a687130>, '__gtk_reserved1': <property object at 0x7fc63a687220>, '__gtk_reserved2': <property object at 0x7fc63a687310>, '__gtk_reserved3': <property object at 0x7fc63a687400>, '__gtk_reserved4': <property object at 0x7fc63a6874f0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(StatusIconClass)
 

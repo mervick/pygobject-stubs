@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -502,12 +502,12 @@ class NumerableIcon(__gi_repository_Gio.EmblemedIcon):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe83088c0d0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc63a444520>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(NumerableIcon), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkNumerableIcon (94846038759152)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_with_style_context': gi.FunctionInfo(new_with_style_context), 'get_background_gicon': gi.FunctionInfo(get_background_gicon), 'get_background_icon_name': gi.FunctionInfo(get_background_icon_name), 'get_count': gi.FunctionInfo(get_count), 'get_label': gi.FunctionInfo(get_label), 'get_style_context': gi.FunctionInfo(get_style_context), 'set_background_gicon': gi.FunctionInfo(set_background_gicon), 'set_background_icon_name': gi.FunctionInfo(set_background_icon_name), 'set_count': gi.FunctionInfo(set_count), 'set_label': gi.FunctionInfo(set_label), 'set_style_context': gi.FunctionInfo(set_style_context), 'parent': <property object at 0x7fe830fff950>, 'priv': <property object at 0x7fe830fffa40>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(NumerableIcon), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkNumerableIcon (93897368985264)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_with_style_context': gi.FunctionInfo(new_with_style_context), 'get_background_gicon': gi.FunctionInfo(get_background_gicon), 'get_background_icon_name': gi.FunctionInfo(get_background_icon_name), 'get_count': gi.FunctionInfo(get_count), 'get_label': gi.FunctionInfo(get_label), 'get_style_context': gi.FunctionInfo(get_style_context), 'set_background_gicon': gi.FunctionInfo(set_background_gicon), 'set_background_icon_name': gi.FunctionInfo(set_background_icon_name), 'set_count': gi.FunctionInfo(set_count), 'set_label': gi.FunctionInfo(set_label), 'set_style_context': gi.FunctionInfo(set_style_context), 'parent': <property object at 0x7fc63a7147c0>, 'priv': <property object at 0x7fc63a7148b0>})"
     __gdoc__ = "Object GtkNumerableIcon\n\nProperties from GtkNumerableIcon:\n  count -> gint: Icon's count\n    The count of the emblem currently displayed\n  label -> gchararray: Icon's label\n    The label to be displayed over the icon\n  style-context -> GtkStyleContext: Icon's style context\n    The style context to theme the icon appearance\n  background-icon -> GIcon: Background icon\n    The icon for the number emblem background\n  background-icon-name -> gchararray: Background icon name\n    The icon name for the number emblem background\n\nProperties from GEmblemedIcon:\n  gicon -> GIcon: The base GIcon\n    The GIcon to attach emblems to\n\nSignals from GObject:\n  notify (GParam)\n\n"
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkNumerableIcon (94846038759152)>'
+    __gtype__ = None # (!) real value is '<GType GtkNumerableIcon (93897368985264)>'
     __info__ = ObjectInfo(NumerableIcon)
 
 

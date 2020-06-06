@@ -187,8 +187,8 @@ class ValueArray(__gi.Boxed):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ValueArray), '__module__': 'gi.repository.GObject', '__gtype__': <GType GValueArray (93895378956528)>, '__dict__': <attribute '__dict__' of 'ValueArray' objects>, '__weakref__': <attribute '__weakref__' of 'ValueArray' objects>, '__doc__': None, 'n_values': <property object at 0x7f7c28655130>, 'values': <property object at 0x7f7c28655220>, 'n_prealloced': <property object at 0x7f7c28655310>, 'new': gi.FunctionInfo(new), 'append': gi.FunctionInfo(append), 'copy': gi.FunctionInfo(copy), 'get_nth': gi.FunctionInfo(get_nth), 'insert': gi.FunctionInfo(insert), 'prepend': gi.FunctionInfo(prepend), 'remove': gi.FunctionInfo(remove), 'sort': gi.FunctionInfo(sort)})"
-    __gtype__ = None # (!) real value is '<GType GValueArray (93895378956528)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ValueArray), '__module__': 'gi.repository.GObject', '__gtype__': <GType GValueArray (94184341423200)>, '__dict__': <attribute '__dict__' of 'ValueArray' objects>, '__weakref__': <attribute '__weakref__' of 'ValueArray' objects>, '__doc__': None, 'n_values': <property object at 0x7fe46b8d0180>, 'values': <property object at 0x7fe46b8d0270>, 'n_prealloced': <property object at 0x7fe46b8d0360>, 'new': gi.FunctionInfo(new), 'append': gi.FunctionInfo(append), 'copy': gi.FunctionInfo(copy), 'get_nth': gi.FunctionInfo(get_nth), 'insert': gi.FunctionInfo(insert), 'prepend': gi.FunctionInfo(prepend), 'remove': gi.FunctionInfo(remove), 'sort': gi.FunctionInfo(sort)})"
+    __gtype__ = None # (!) real value is '<GType GValueArray (94184341423200)>'
     __info__ = StructInfo(ValueArray)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,14 +363,14 @@ class PrintOperationResult(__gobject.GEnum):
     ERROR = 0
     IN_PROGRESS = 3
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PrintOperationResult' objects>, '__doc__': None, '__gtype__': <GType GtkPrintOperationResult (94846038898368)>, '__enum_values__': {0: <enum GTK_PRINT_OPERATION_RESULT_ERROR of type Gtk.PrintOperationResult>, 1: <enum GTK_PRINT_OPERATION_RESULT_APPLY of type Gtk.PrintOperationResult>, 2: <enum GTK_PRINT_OPERATION_RESULT_CANCEL of type Gtk.PrintOperationResult>, 3: <enum GTK_PRINT_OPERATION_RESULT_IN_PROGRESS of type Gtk.PrintOperationResult>}, '__info__': gi.EnumInfo(PrintOperationResult), 'ERROR': <enum GTK_PRINT_OPERATION_RESULT_ERROR of type Gtk.PrintOperationResult>, 'APPLY': <enum GTK_PRINT_OPERATION_RESULT_APPLY of type Gtk.PrintOperationResult>, 'CANCEL': <enum GTK_PRINT_OPERATION_RESULT_CANCEL of type Gtk.PrintOperationResult>, 'IN_PROGRESS': <enum GTK_PRINT_OPERATION_RESULT_IN_PROGRESS of type Gtk.PrintOperationResult>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PrintOperationResult' objects>, '__doc__': None, '__gtype__': <GType GtkPrintOperationResult (93897369121632)>, '__enum_values__': {0: <enum GTK_PRINT_OPERATION_RESULT_ERROR of type Gtk.PrintOperationResult>, 1: <enum GTK_PRINT_OPERATION_RESULT_APPLY of type Gtk.PrintOperationResult>, 2: <enum GTK_PRINT_OPERATION_RESULT_CANCEL of type Gtk.PrintOperationResult>, 3: <enum GTK_PRINT_OPERATION_RESULT_IN_PROGRESS of type Gtk.PrintOperationResult>}, '__info__': gi.EnumInfo(PrintOperationResult), 'ERROR': <enum GTK_PRINT_OPERATION_RESULT_ERROR of type Gtk.PrintOperationResult>, 'APPLY': <enum GTK_PRINT_OPERATION_RESULT_APPLY of type Gtk.PrintOperationResult>, 'CANCEL': <enum GTK_PRINT_OPERATION_RESULT_CANCEL of type Gtk.PrintOperationResult>, 'IN_PROGRESS': <enum GTK_PRINT_OPERATION_RESULT_IN_PROGRESS of type Gtk.PrintOperationResult>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkPrintOperationResult (94846038898368)>'
+    __gtype__ = None # (!) real value is '<GType GtkPrintOperationResult (93897369121632)>'
     __info__ = gi.EnumInfo(PrintOperationResult)
 
 

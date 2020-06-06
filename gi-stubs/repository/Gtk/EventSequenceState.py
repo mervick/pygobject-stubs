@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -362,13 +362,13 @@ class EventSequenceState(__gobject.GEnum):
     DENIED = 2
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'EventSequenceState' objects>, '__doc__': None, '__gtype__': <GType GtkEventSequenceState (94846038265600)>, '__enum_values__': {0: <enum GTK_EVENT_SEQUENCE_NONE of type Gtk.EventSequenceState>, 1: <enum GTK_EVENT_SEQUENCE_CLAIMED of type Gtk.EventSequenceState>, 2: <enum GTK_EVENT_SEQUENCE_DENIED of type Gtk.EventSequenceState>}, '__info__': gi.EnumInfo(EventSequenceState), 'NONE': <enum GTK_EVENT_SEQUENCE_NONE of type Gtk.EventSequenceState>, 'CLAIMED': <enum GTK_EVENT_SEQUENCE_CLAIMED of type Gtk.EventSequenceState>, 'DENIED': <enum GTK_EVENT_SEQUENCE_DENIED of type Gtk.EventSequenceState>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'EventSequenceState' objects>, '__doc__': None, '__gtype__': <GType GtkEventSequenceState (93897368486048)>, '__enum_values__': {0: <enum GTK_EVENT_SEQUENCE_NONE of type Gtk.EventSequenceState>, 1: <enum GTK_EVENT_SEQUENCE_CLAIMED of type Gtk.EventSequenceState>, 2: <enum GTK_EVENT_SEQUENCE_DENIED of type Gtk.EventSequenceState>}, '__info__': gi.EnumInfo(EventSequenceState), 'NONE': <enum GTK_EVENT_SEQUENCE_NONE of type Gtk.EventSequenceState>, 'CLAIMED': <enum GTK_EVENT_SEQUENCE_CLAIMED of type Gtk.EventSequenceState>, 'DENIED': <enum GTK_EVENT_SEQUENCE_DENIED of type Gtk.EventSequenceState>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GtkEventSequenceState (94846038265600)>'
+    __gtype__ = None # (!) real value is '<GType GtkEventSequenceState (93897368486048)>'
     __info__ = gi.EnumInfo(EventSequenceState)
 
 

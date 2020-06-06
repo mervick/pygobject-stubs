@@ -505,12 +505,12 @@ class SocketConnection(IOStream):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dcf9c9a0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b871c1b80>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SocketConnection), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSocketConnection (94125582753824)>, '__doc__': None, '__gsignals__': {}, 'factory_lookup_type': gi.FunctionInfo(factory_lookup_type), 'factory_register_type': gi.FunctionInfo(factory_register_type), 'connect': gi.FunctionInfo(connect), 'connect_async': gi.FunctionInfo(connect_async), 'connect_finish': gi.FunctionInfo(connect_finish), 'get_local_address': gi.FunctionInfo(get_local_address), 'get_remote_address': gi.FunctionInfo(get_remote_address), 'get_socket': gi.FunctionInfo(get_socket), 'is_connected': gi.FunctionInfo(is_connected), 'parent_instance': <property object at 0x7f28dde5dea0>, 'priv': <property object at 0x7f28dde5df90>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SocketConnection), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSocketConnection (94269257361280)>, '__doc__': None, '__gsignals__': {}, 'factory_lookup_type': gi.FunctionInfo(factory_lookup_type), 'factory_register_type': gi.FunctionInfo(factory_register_type), 'connect': gi.FunctionInfo(connect), 'connect_async': gi.FunctionInfo(connect_async), 'connect_finish': gi.FunctionInfo(connect_finish), 'get_local_address': gi.FunctionInfo(get_local_address), 'get_remote_address': gi.FunctionInfo(get_remote_address), 'get_socket': gi.FunctionInfo(get_socket), 'is_connected': gi.FunctionInfo(is_connected), 'parent_instance': <property object at 0x7f4b87fc1220>, 'priv': <property object at 0x7f4b87fc1310>})"
     __gdoc__ = 'Object GSocketConnection\n\nProperties from GSocketConnection:\n  socket -> GSocket: Socket\n    The underlying GSocket\n\nProperties from GIOStream:\n  input-stream -> GInputStream: Input stream\n    The GInputStream to read from\n  output-stream -> GOutputStream: Output stream\n    The GOutputStream to write to\n  closed -> gboolean: Closed\n    Is the stream closed\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GSocketConnection (94125582753824)>'
+    __gtype__ = None # (!) real value is '<GType GSocketConnection (94269257361280)>'
     __info__ = ObjectInfo(SocketConnection)
 
 

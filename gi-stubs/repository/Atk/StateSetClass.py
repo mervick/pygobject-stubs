@@ -128,7 +128,7 @@ class StateSetClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(StateSetClass), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'StateSetClass' objects>, '__weakref__': <attribute '__weakref__' of 'StateSetClass' objects>, '__doc__': None, 'parent': <property object at 0x7f0cd81b6c70>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(StateSetClass), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'StateSetClass' objects>, '__weakref__': <attribute '__weakref__' of 'StateSetClass' objects>, '__doc__': None, 'parent': <property object at 0x7f44c6dce590>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(StateSetClass)
 

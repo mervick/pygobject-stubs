@@ -449,12 +449,12 @@ class InetAddressMask(__gi_overrides_GObject.Object, Initable):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd1d5550>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b874623a0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(InetAddressMask), '__module__': 'gi.repository.Gio', '__gtype__': <GType GInetAddressMask (94125582171952)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_from_string': gi.FunctionInfo(new_from_string), 'equal': gi.FunctionInfo(equal), 'get_address': gi.FunctionInfo(get_address), 'get_family': gi.FunctionInfo(get_family), 'get_length': gi.FunctionInfo(get_length), 'matches': gi.FunctionInfo(matches), 'to_string': gi.FunctionInfo(to_string), 'parent_instance': <property object at 0x7f28dde9cea0>, 'priv': <property object at 0x7f28dde9cf90>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(InetAddressMask), '__module__': 'gi.repository.Gio', '__gtype__': <GType GInetAddressMask (94269256799920)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_from_string': gi.FunctionInfo(new_from_string), 'equal': gi.FunctionInfo(equal), 'get_address': gi.FunctionInfo(get_address), 'get_family': gi.FunctionInfo(get_family), 'get_length': gi.FunctionInfo(get_length), 'matches': gi.FunctionInfo(matches), 'to_string': gi.FunctionInfo(to_string), 'parent_instance': <property object at 0x7f4b87fff0e0>, 'priv': <property object at 0x7f4b87fff1d0>})"
     __gdoc__ = 'Object GInetAddressMask\n\nProperties from GInetAddressMask:\n  family -> GSocketFamily: Address family\n    The address family (IPv4 or IPv6)\n  address -> GInetAddress: Address\n    The base address\n  length -> guint: Length\n    The prefix length\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GInetAddressMask (94125582171952)>'
+    __gtype__ = None # (!) real value is '<GType GInetAddressMask (94269256799920)>'
     __info__ = ObjectInfo(InetAddressMask)
 
 

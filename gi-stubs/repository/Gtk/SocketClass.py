@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -139,7 +139,7 @@ class SocketClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SocketClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SocketClass' objects>, '__weakref__': <attribute '__weakref__' of 'SocketClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830fdd860>, 'plug_added': <property object at 0x7fe830fdd950>, 'plug_removed': <property object at 0x7fe830fdda40>, '_gtk_reserved1': <property object at 0x7fe830fddb30>, '_gtk_reserved2': <property object at 0x7fe830fddc20>, '_gtk_reserved3': <property object at 0x7fe830fddd10>, '_gtk_reserved4': <property object at 0x7fe830fdde00>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SocketClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SocketClass' objects>, '__weakref__': <attribute '__weakref__' of 'SocketClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a675540>, 'plug_added': <property object at 0x7fc63a675630>, 'plug_removed': <property object at 0x7fc63a675720>, '_gtk_reserved1': <property object at 0x7fc63a675810>, '_gtk_reserved2': <property object at 0x7fc63a675900>, '_gtk_reserved3': <property object at 0x7fc63a6759f0>, '_gtk_reserved4': <property object at 0x7fc63a675ae0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(SocketClass)
 

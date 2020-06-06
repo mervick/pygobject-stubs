@@ -142,7 +142,7 @@ class StreamableContentIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(StreamableContentIface), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'StreamableContentIface' objects>, '__weakref__': <attribute '__weakref__' of 'StreamableContentIface' objects>, '__doc__': None, 'parent': <property object at 0x7f0cd81b8e00>, 'get_n_mime_types': <property object at 0x7f0cd81b8f40>, 'get_mime_type': <property object at 0x7f0cd81bc040>, 'get_stream': <property object at 0x7f0cd81bc130>, 'get_uri': <property object at 0x7f0cd81bc220>, 'pad1': <property object at 0x7f0cd81bc310>, 'pad2': <property object at 0x7f0cd81bc400>, 'pad3': <property object at 0x7f0cd81bc4f0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(StreamableContentIface), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'StreamableContentIface' objects>, '__weakref__': <attribute '__weakref__' of 'StreamableContentIface' objects>, '__doc__': None, 'parent': <property object at 0x7f44c6dd07c0>, 'get_n_mime_types': <property object at 0x7f44c6dd0900>, 'get_mime_type': <property object at 0x7f44c6dd09a0>, 'get_stream': <property object at 0x7f44c6dd0a90>, 'get_uri': <property object at 0x7f44c6dd0b80>, 'pad1': <property object at 0x7f44c6dd0c70>, 'pad2': <property object at 0x7f44c6dd0d60>, 'pad3': <property object at 0x7f44c6dd0e50>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(StreamableContentIface)
 

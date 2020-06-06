@@ -150,8 +150,8 @@ class Thread(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Thread), '__module__': 'gi.repository.GLib', '__gtype__': <GType GThread (94243599027856)>, '__dict__': <attribute '__dict__' of 'Thread' objects>, '__weakref__': <attribute '__weakref__' of 'Thread' objects>, '__doc__': None, 'join': gi.FunctionInfo(join), 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref), 'error_quark': gi.FunctionInfo(error_quark), 'exit': gi.FunctionInfo(exit), 'self': gi.FunctionInfo(self), 'yield_': gi.FunctionInfo(yield)})"
-    __gtype__ = None # (!) real value is '<GType GThread (94243599027856)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Thread), '__module__': 'gi.repository.GLib', '__gtype__': <GType GThread (94581033840656)>, '__dict__': <attribute '__dict__' of 'Thread' objects>, '__weakref__': <attribute '__weakref__' of 'Thread' objects>, '__doc__': None, 'join': gi.FunctionInfo(join), 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref), 'error_quark': gi.FunctionInfo(error_quark), 'exit': gi.FunctionInfo(exit), 'self': gi.FunctionInfo(self), 'yield_': gi.FunctionInfo(yield)})"
+    __gtype__ = None # (!) real value is '<GType GThread (94581033840656)>'
     __info__ = StructInfo(Thread)
 
 

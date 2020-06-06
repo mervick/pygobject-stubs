@@ -361,14 +361,14 @@ class TraverseType(__gobject.GEnum):
     POST_ORDER = 2
     PRE_ORDER = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'TraverseType' objects>, '__doc__': None, '__gtype__': <GType PyGLibTraverseType (94243599137248)>, '__enum_values__': {0: <enum G_IN_ORDER of type GLib.TraverseType>, 1: <enum G_PRE_ORDER of type GLib.TraverseType>, 2: <enum G_POST_ORDER of type GLib.TraverseType>, 3: <enum G_LEVEL_ORDER of type GLib.TraverseType>}, '__info__': gi.EnumInfo(TraverseType), 'IN_ORDER': <enum G_IN_ORDER of type GLib.TraverseType>, 'PRE_ORDER': <enum G_PRE_ORDER of type GLib.TraverseType>, 'POST_ORDER': <enum G_POST_ORDER of type GLib.TraverseType>, 'LEVEL_ORDER': <enum G_LEVEL_ORDER of type GLib.TraverseType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'TraverseType' objects>, '__doc__': None, '__gtype__': <GType PyGLibTraverseType (94581033916112)>, '__enum_values__': {0: <enum G_IN_ORDER of type GLib.TraverseType>, 1: <enum G_PRE_ORDER of type GLib.TraverseType>, 2: <enum G_POST_ORDER of type GLib.TraverseType>, 3: <enum G_LEVEL_ORDER of type GLib.TraverseType>}, '__info__': gi.EnumInfo(TraverseType), 'IN_ORDER': <enum G_IN_ORDER of type GLib.TraverseType>, 'PRE_ORDER': <enum G_PRE_ORDER of type GLib.TraverseType>, 'POST_ORDER': <enum G_POST_ORDER of type GLib.TraverseType>, 'LEVEL_ORDER': <enum G_LEVEL_ORDER of type GLib.TraverseType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibTraverseType (94243599137248)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibTraverseType (94581033916112)>'
     __info__ = gi.EnumInfo(TraverseType)
 
 

@@ -179,7 +179,7 @@ class TypeClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TypeClass), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TypeClass' objects>, '__weakref__': <attribute '__weakref__' of 'TypeClass' objects>, '__doc__': None, 'g_type': <property object at 0x7f7c286571d0>, 'add_private': gi.FunctionInfo(add_private), 'get_private': gi.FunctionInfo(get_private), 'peek_parent': gi.FunctionInfo(peek_parent), 'unref': gi.FunctionInfo(unref), 'adjust_private_offset': gi.FunctionInfo(adjust_private_offset), 'peek': gi.FunctionInfo(peek), 'peek_static': gi.FunctionInfo(peek_static), 'ref': gi.FunctionInfo(ref)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TypeClass), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TypeClass' objects>, '__weakref__': <attribute '__weakref__' of 'TypeClass' objects>, '__doc__': None, 'g_type': <property object at 0x7fe46b8c93b0>, 'add_private': gi.FunctionInfo(add_private), 'get_private': gi.FunctionInfo(get_private), 'peek_parent': gi.FunctionInfo(peek_parent), 'unref': gi.FunctionInfo(unref), 'adjust_private_offset': gi.FunctionInfo(adjust_private_offset), 'peek': gi.FunctionInfo(peek), 'peek_static': gi.FunctionInfo(peek_static), 'ref': gi.FunctionInfo(ref)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TypeClass)
 

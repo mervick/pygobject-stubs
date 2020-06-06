@@ -360,13 +360,13 @@ class TimeType(__gobject.GEnum):
     STANDARD = 0
     UNIVERSAL = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'TimeType' objects>, '__doc__': None, '__gtype__': <GType PyGLibTimeType (94243599119456)>, '__enum_values__': {0: <enum G_TIME_TYPE_STANDARD of type GLib.TimeType>, 1: <enum G_TIME_TYPE_DAYLIGHT of type GLib.TimeType>, 2: <enum G_TIME_TYPE_UNIVERSAL of type GLib.TimeType>}, '__info__': gi.EnumInfo(TimeType), 'STANDARD': <enum G_TIME_TYPE_STANDARD of type GLib.TimeType>, 'DAYLIGHT': <enum G_TIME_TYPE_DAYLIGHT of type GLib.TimeType>, 'UNIVERSAL': <enum G_TIME_TYPE_UNIVERSAL of type GLib.TimeType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'TimeType' objects>, '__doc__': None, '__gtype__': <GType PyGLibTimeType (94581033898320)>, '__enum_values__': {0: <enum G_TIME_TYPE_STANDARD of type GLib.TimeType>, 1: <enum G_TIME_TYPE_DAYLIGHT of type GLib.TimeType>, 2: <enum G_TIME_TYPE_UNIVERSAL of type GLib.TimeType>}, '__info__': gi.EnumInfo(TimeType), 'STANDARD': <enum G_TIME_TYPE_STANDARD of type GLib.TimeType>, 'DAYLIGHT': <enum G_TIME_TYPE_DAYLIGHT of type GLib.TimeType>, 'UNIVERSAL': <enum G_TIME_TYPE_UNIVERSAL of type GLib.TimeType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibTimeType (94243599119456)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibTimeType (94581033898320)>'
     __info__ = gi.EnumInfo(TimeType)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -365,7 +365,7 @@ class DirectionType(__gobject.GEnum):
     TAB_FORWARD = 0
     UP = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'DirectionType' objects>, '__doc__': None, '__gtype__': <GType GtkDirectionType (94846037194768)>, '__enum_values__': {0: <enum GTK_DIR_TAB_FORWARD of type Gtk.DirectionType>, 1: <enum GTK_DIR_TAB_BACKWARD of type Gtk.DirectionType>, 2: <enum GTK_DIR_UP of type Gtk.DirectionType>, 3: <enum GTK_DIR_DOWN of type Gtk.DirectionType>, 4: <enum GTK_DIR_LEFT of type Gtk.DirectionType>, 5: <enum GTK_DIR_RIGHT of type Gtk.DirectionType>}, '__info__': gi.EnumInfo(DirectionType), 'TAB_FORWARD': <enum GTK_DIR_TAB_FORWARD of type Gtk.DirectionType>, 'TAB_BACKWARD': <enum GTK_DIR_TAB_BACKWARD of type Gtk.DirectionType>, 'UP': <enum GTK_DIR_UP of type Gtk.DirectionType>, 'DOWN': <enum GTK_DIR_DOWN of type Gtk.DirectionType>, 'LEFT': <enum GTK_DIR_LEFT of type Gtk.DirectionType>, 'RIGHT': <enum GTK_DIR_RIGHT of type Gtk.DirectionType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'DirectionType' objects>, '__doc__': None, '__gtype__': <GType GtkDirectionType (93897367406912)>, '__enum_values__': {0: <enum GTK_DIR_TAB_FORWARD of type Gtk.DirectionType>, 1: <enum GTK_DIR_TAB_BACKWARD of type Gtk.DirectionType>, 2: <enum GTK_DIR_UP of type Gtk.DirectionType>, 3: <enum GTK_DIR_DOWN of type Gtk.DirectionType>, 4: <enum GTK_DIR_LEFT of type Gtk.DirectionType>, 5: <enum GTK_DIR_RIGHT of type Gtk.DirectionType>}, '__info__': gi.EnumInfo(DirectionType), 'TAB_FORWARD': <enum GTK_DIR_TAB_FORWARD of type Gtk.DirectionType>, 'TAB_BACKWARD': <enum GTK_DIR_TAB_BACKWARD of type Gtk.DirectionType>, 'UP': <enum GTK_DIR_UP of type Gtk.DirectionType>, 'DOWN': <enum GTK_DIR_DOWN of type Gtk.DirectionType>, 'LEFT': <enum GTK_DIR_LEFT of type Gtk.DirectionType>, 'RIGHT': <enum GTK_DIR_RIGHT of type Gtk.DirectionType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -374,7 +374,7 @@ class DirectionType(__gobject.GEnum):
         4: 4,
         5: 5,
     }
-    __gtype__ = None # (!) real value is '<GType GtkDirectionType (94846037194768)>'
+    __gtype__ = None # (!) real value is '<GType GtkDirectionType (93897367406912)>'
     __info__ = gi.EnumInfo(DirectionType)
 
 

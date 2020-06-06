@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -133,7 +133,7 @@ class ApplicationClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ApplicationClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ApplicationClass' objects>, '__weakref__': <attribute '__weakref__' of 'ApplicationClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe8311108b0>, 'window_added': <property object at 0x7fe8311109a0>, 'window_removed': <property object at 0x7fe831110a90>, 'padding': <property object at 0x7fe831110b80>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ApplicationClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ApplicationClass' objects>, '__weakref__': <attribute '__weakref__' of 'ApplicationClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a8266d0>, 'window_added': <property object at 0x7fc63a8267c0>, 'window_removed': <property object at 0x7fc63a8268b0>, 'padding': <property object at 0x7fc63a8269a0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ApplicationClass)
 

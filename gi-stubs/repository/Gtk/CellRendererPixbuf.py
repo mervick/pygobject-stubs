@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -566,12 +566,12 @@ class CellRendererPixbuf(CellRenderer):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe83088cfa0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc639d4b460>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(CellRendererPixbuf), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkCellRendererPixbuf (94846038059024)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'parent': <property object at 0x7fe8310c6680>, 'priv': <property object at 0x7fe8310c6770>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(CellRendererPixbuf), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkCellRendererPixbuf (93897368273952)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'parent': <property object at 0x7fc63a7db590>, 'priv': <property object at 0x7fc63a7db680>})"
     __gdoc__ = 'Object GtkCellRendererPixbuf\n\nProperties from GtkCellRendererPixbuf:\n  pixbuf -> GdkPixbuf: Pixbuf Object\n    The pixbuf to render\n  pixbuf-expander-open -> GdkPixbuf: Pixbuf Expander Open\n    Pixbuf for open expander\n  pixbuf-expander-closed -> GdkPixbuf: Pixbuf Expander Closed\n    Pixbuf for closed expander\n  surface -> CairoSurface: surface\n    The surface to render\n  stock-id -> gchararray: Stock ID\n    The stock ID of the stock icon to render\n  stock-size -> guint: Size\n    The GtkIconSize value that specifies the size of the rendered icon\n  stock-detail -> gchararray: Detail\n    Render detail to pass to the theme engine\n  follow-state -> gboolean: Follow State\n    Whether the rendered pixbuf should be colorized according to the state\n  icon-name -> gchararray: Icon Name\n    The name of the icon from the icon theme\n  gicon -> GIcon: Icon\n    The GIcon being displayed\n\nSignals from GtkCellRenderer:\n  editing-canceled ()\n  editing-started (GtkCellEditable, gchararray)\n\nProperties from GtkCellRenderer:\n  mode -> GtkCellRendererMode: mode\n    Editable mode of the CellRenderer\n  visible -> gboolean: visible\n    Display the cell\n  sensitive -> gboolean: Sensitive\n    Display the cell sensitive\n  xalign -> gfloat: xalign\n    The x-align\n  yalign -> gfloat: yalign\n    The y-align\n  xpad -> guint: xpad\n    The xpad\n  ypad -> guint: ypad\n    The ypad\n  width -> gint: width\n    The fixed width\n  height -> gint: height\n    The fixed height\n  is-expander -> gboolean: Is Expander\n    Row has children\n  is-expanded -> gboolean: Is Expanded\n    Row is an expander row, and is expanded\n  cell-background -> gchararray: Cell background color name\n    Cell background color as a string\n  cell-background-gdk -> GdkColor: Cell background color\n    Cell background color as a GdkColor\n  cell-background-rgba -> GdkRGBA: Cell background RGBA color\n    Cell background color as a GdkRGBA\n  cell-background-set -> gboolean: Cell background set\n    Whether the cell background color is set\n  editing -> gboolean: Editing\n    Whether the cell renderer is currently in editing mode\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkCellRendererPixbuf (94846038059024)>'
+    __gtype__ = None # (!) real value is '<GType GtkCellRendererPixbuf (93897368273952)>'
     __info__ = ObjectInfo(CellRendererPixbuf)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -512,12 +512,12 @@ class GestureRotate(Gesture):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe830f518b0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc639bb8850>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(GestureRotate), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkGestureRotate (94846038433680)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_angle_delta': gi.FunctionInfo(get_angle_delta)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(GestureRotate), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkGestureRotate (93897368647568)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_angle_delta': gi.FunctionInfo(get_angle_delta)})"
     __gdoc__ = 'Object GtkGestureRotate\n\nSignals from GtkGestureRotate:\n  angle-changed (gdouble, gdouble)\n\nSignals from GtkGesture:\n  update (GdkEventSequence)\n  cancel (GdkEventSequence)\n  begin (GdkEventSequence)\n  end (GdkEventSequence)\n  sequence-state-changed (GdkEventSequence, GtkEventSequenceState)\n\nProperties from GtkGesture:\n  n-points -> guint: Number of points\n    Number of points needed to trigger the gesture\n  window -> GdkWindow: GdkWindow to receive events about\n    GdkWindow to receive events about\n\nProperties from GtkEventController:\n  widget -> GtkWidget: Widget\n    Widget the gesture relates to\n  propagation-phase -> GtkPropagationPhase: Propagation phase\n    Propagation phase at which this controller is run\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkGestureRotate (94846038433680)>'
+    __gtype__ = None # (!) real value is '<GType GtkGestureRotate (93897368647568)>'
     __info__ = ObjectInfo(GestureRotate)
 
 

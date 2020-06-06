@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -413,12 +413,12 @@ class DeviceManager(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f1e11c39940>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fbaf81be3d0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DeviceManager), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkDeviceManager (94055650950576)>, '__doc__': None, '__gsignals__': {}, 'get_client_pointer': gi.FunctionInfo(get_client_pointer), 'get_display': gi.FunctionInfo(get_display), 'list_devices': gi.FunctionInfo(list_devices)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DeviceManager), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkDeviceManager (94915768515472)>, '__doc__': None, '__gsignals__': {}, 'get_client_pointer': gi.FunctionInfo(get_client_pointer), 'get_display': gi.FunctionInfo(get_display), 'list_devices': gi.FunctionInfo(list_devices)})"
     __gdoc__ = 'Object GdkDeviceManager\n\nSignals from GdkDeviceManager:\n  device-added (GdkDevice)\n  device-removed (GdkDevice)\n  device-changed (GdkDevice)\n\nProperties from GdkDeviceManager:\n  display -> GdkDisplay: Display\n    Display for the device manager\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GdkDeviceManager (94055650950576)>'
+    __gtype__ = None # (!) real value is '<GType GdkDeviceManager (94915768515472)>'
     __info__ = ObjectInfo(DeviceManager)
 
 

@@ -428,12 +428,12 @@ class SocketAddressEnumerator(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd07cfa0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b871ea2b0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SocketAddressEnumerator), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSocketAddressEnumerator (94125582632368)>, '__doc__': None, '__gsignals__': {}, 'next': gi.FunctionInfo(next), 'next_async': gi.FunctionInfo(next_async), 'next_finish': gi.FunctionInfo(next_finish), 'do_next': gi.VFuncInfo(next), 'do_next_async': gi.VFuncInfo(next_async), 'do_next_finish': gi.VFuncInfo(next_finish), 'parent_instance': <property object at 0x7f28dde44400>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SocketAddressEnumerator), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSocketAddressEnumerator (94269257257696)>, '__doc__': None, '__gsignals__': {}, 'next': gi.FunctionInfo(next), 'next_async': gi.FunctionInfo(next_async), 'next_finish': gi.FunctionInfo(next_finish), 'do_next': gi.VFuncInfo(next), 'do_next_async': gi.VFuncInfo(next_async), 'do_next_finish': gi.VFuncInfo(next_finish), 'parent_instance': <property object at 0x7f4b87fa6360>})"
     __gdoc__ = 'Object GSocketAddressEnumerator\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GSocketAddressEnumerator (94125582632368)>'
+    __gtype__ = None # (!) real value is '<GType GSocketAddressEnumerator (94269257257696)>'
     __info__ = ObjectInfo(SocketAddressEnumerator)
 
 

@@ -130,7 +130,7 @@ class AsyncResultIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AsyncResultIface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AsyncResultIface' objects>, '__weakref__': <attribute '__weakref__' of 'AsyncResultIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f28ddf2bb30>, 'get_user_data': <property object at 0x7f28ddf2bc20>, 'get_source_object': <property object at 0x7f28ddf2bd60>, 'is_tagged': <property object at 0x7f28ddf2be00>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AsyncResultIface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AsyncResultIface' objects>, '__weakref__': <attribute '__weakref__' of 'AsyncResultIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f4b8808ec70>, 'get_user_data': <property object at 0x7f4b8808ed60>, 'get_source_object': <property object at 0x7f4b8808eea0>, 'is_tagged': <property object at 0x7f4b8808ef40>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(AsyncResultIface)
 

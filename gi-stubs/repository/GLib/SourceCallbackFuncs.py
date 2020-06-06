@@ -129,7 +129,7 @@ class SourceCallbackFuncs(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SourceCallbackFuncs), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SourceCallbackFuncs' objects>, '__weakref__': <attribute '__weakref__' of 'SourceCallbackFuncs' objects>, '__doc__': None, 'ref': <property object at 0x7f1d2ba23db0>, 'unref': <property object at 0x7f1d2b9a53b0>, 'get': <property object at 0x7f1d2b9aca40>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SourceCallbackFuncs), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SourceCallbackFuncs' objects>, '__weakref__': <attribute '__weakref__' of 'SourceCallbackFuncs' objects>, '__doc__': None, 'ref': <property object at 0x7f8513501810>, 'unref': <property object at 0x7f8513501900>, 'get': <property object at 0x7f85135019f0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(SourceCallbackFuncs)
 

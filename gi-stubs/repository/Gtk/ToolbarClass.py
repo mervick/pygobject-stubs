@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -141,7 +141,7 @@ class ToolbarClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ToolbarClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ToolbarClass' objects>, '__weakref__': <attribute '__weakref__' of 'ToolbarClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830f2a360>, 'orientation_changed': <property object at 0x7fe830f2a4a0>, 'style_changed': <property object at 0x7fe830f2a590>, 'popup_context_menu': <property object at 0x7fe830f2a6d0>, '_gtk_reserved1': <property object at 0x7fe830f2a7c0>, '_gtk_reserved2': <property object at 0x7fe830f2a8b0>, '_gtk_reserved3': <property object at 0x7fe830f2a9a0>, '_gtk_reserved4': <property object at 0x7fe830f2aa90>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ToolbarClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ToolbarClass' objects>, '__weakref__': <attribute '__weakref__' of 'ToolbarClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a640a90>, 'orientation_changed': <property object at 0x7fc63a640bd0>, 'style_changed': <property object at 0x7fc63a640cc0>, 'popup_context_menu': <property object at 0x7fc63a640e00>, '_gtk_reserved1': <property object at 0x7fc63a640ef0>, '_gtk_reserved2': <property object at 0x7fc63a642040>, '_gtk_reserved3': <property object at 0x7fc63a642130>, '_gtk_reserved4': <property object at 0x7fc63a642220>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ToolbarClass)
 

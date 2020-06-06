@@ -130,7 +130,7 @@ class HyperlinkImplIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(HyperlinkImplIface), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'HyperlinkImplIface' objects>, '__weakref__': <attribute '__weakref__' of 'HyperlinkImplIface' objects>, '__doc__': None, 'parent': <property object at 0x7f0cd7be9ef0>, 'get_hyperlink': <property object at 0x7f0cd7be6040>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(HyperlinkImplIface), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'HyperlinkImplIface' objects>, '__weakref__': <attribute '__weakref__' of 'HyperlinkImplIface' objects>, '__doc__': None, 'parent': <property object at 0x7f44c6dad3b0>, 'get_hyperlink': <property object at 0x7f44c6dad4a0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(HyperlinkImplIface)
 

@@ -135,10 +135,10 @@ class PollableOutputStream(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(PollableOutputStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GPollableOutputStream (94125582077808)>, '__dict__': <attribute '__dict__' of 'PollableOutputStream' objects>, '__weakref__': <attribute '__weakref__' of 'PollableOutputStream' objects>, '__doc__': None, '__gsignals__': {}, 'can_poll': gi.FunctionInfo(can_poll), 'create_source': gi.FunctionInfo(create_source), 'is_writable': gi.FunctionInfo(is_writable), 'write_nonblocking': gi.FunctionInfo(write_nonblocking), 'writev_nonblocking': gi.FunctionInfo(writev_nonblocking)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(PollableOutputStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GPollableOutputStream (94269256703968)>, '__dict__': <attribute '__dict__' of 'PollableOutputStream' objects>, '__weakref__': <attribute '__weakref__' of 'PollableOutputStream' objects>, '__doc__': None, '__gsignals__': {}, 'can_poll': gi.FunctionInfo(can_poll), 'create_source': gi.FunctionInfo(create_source), 'is_writable': gi.FunctionInfo(is_writable), 'write_nonblocking': gi.FunctionInfo(write_nonblocking), 'writev_nonblocking': gi.FunctionInfo(writev_nonblocking)})"
     __gdoc__ = 'Interface GPollableOutputStream\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GPollableOutputStream (94125582077808)>'
+    __gtype__ = None # (!) real value is '<GType GPollableOutputStream (94269256703968)>'
     __info__ = InterfaceInfo(PollableOutputStream)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -452,12 +452,12 @@ class RcStyle(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe82f384940>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc638b9f130>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(RcStyle), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkRcStyle (94846038339312)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'copy': gi.FunctionInfo(copy), 'do_merge': gi.VFuncInfo(merge), 'do_parse': gi.VFuncInfo(parse), 'parent_instance': <property object at 0x7fe830faf540>, 'name': <property object at 0x7fe830faf680>, 'bg_pixmap_name': <property object at 0x7fe830faf770>, 'font_desc': <property object at 0x7fe830faf860>, 'color_flags': <property object at 0x7fe830faf950>, 'fg': <property object at 0x7fe830fafa40>, 'bg': <property object at 0x7fe830fafb30>, 'text': <property object at 0x7fe830fafc20>, 'base': <property object at 0x7fe830fafd10>, 'xthickness': <property object at 0x7fe830fafe00>, 'ythickness': <property object at 0x7fe830fafef0>, 'rc_properties': <property object at 0x7fe830fb1040>, 'rc_style_lists': <property object at 0x7fe830fb1130>, 'icon_factories': <property object at 0x7fe830fb1220>, 'engine_specified': <property object at 0x7fe830fb1360>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(RcStyle), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkRcStyle (93897369239328)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'copy': gi.FunctionInfo(copy), 'do_merge': gi.VFuncInfo(merge), 'do_parse': gi.VFuncInfo(parse), 'parent_instance': <property object at 0x7fc63a6c5310>, 'name': <property object at 0x7fc63a6c5450>, 'bg_pixmap_name': <property object at 0x7fc63a6c5540>, 'font_desc': <property object at 0x7fc63a6c5630>, 'color_flags': <property object at 0x7fc63a6c5720>, 'fg': <property object at 0x7fc63a6c5810>, 'bg': <property object at 0x7fc63a6c5900>, 'text': <property object at 0x7fc63a6c59f0>, 'base': <property object at 0x7fc63a6c5ae0>, 'xthickness': <property object at 0x7fc63a6c5bd0>, 'ythickness': <property object at 0x7fc63a6c5cc0>, 'rc_properties': <property object at 0x7fc63a6c5db0>, 'rc_style_lists': <property object at 0x7fc63a6c5ea0>, 'icon_factories': <property object at 0x7fc63a6c5f90>, 'engine_specified': <property object at 0x7fc63a6c8130>})"
     __gdoc__ = 'Object GtkRcStyle\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkRcStyle (94846038339312)>'
+    __gtype__ = None # (!) real value is '<GType GtkRcStyle (93897369239328)>'
     __info__ = ObjectInfo(RcStyle)
 
 

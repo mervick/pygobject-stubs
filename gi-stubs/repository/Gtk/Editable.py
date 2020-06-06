@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -172,10 +172,10 @@ class Editable(Editable):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', 'insert_text': <function Editable.insert_text at 0x7fe831d85670>, 'get_selection_bounds': <function strip_boolean_result.<locals>.wrapped at 0x7fe831d85700>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', 'insert_text': <function Editable.insert_text at 0x7fc63b491e50>, 'get_selection_bounds': <function strip_boolean_result.<locals>.wrapped at 0x7fc63b491ee0>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Interface GtkEditable\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkEditable (94846036754272)>'
+    __gtype__ = None # (!) real value is '<GType GtkEditable (93897366909840)>'
     __info__ = InterfaceInfo(Editable)
 
 

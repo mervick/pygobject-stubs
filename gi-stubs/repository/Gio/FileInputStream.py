@@ -581,12 +581,12 @@ class FileInputStream(InputStream, Seekable):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd25a460>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87462340>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FileInputStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GFileInputStream (94125582363568)>, '__doc__': None, '__gsignals__': {}, 'query_info': gi.FunctionInfo(query_info), 'query_info_async': gi.FunctionInfo(query_info_async), 'query_info_finish': gi.FunctionInfo(query_info_finish), 'do_can_seek': gi.VFuncInfo(can_seek), 'do_query_info': gi.VFuncInfo(query_info), 'do_query_info_async': gi.VFuncInfo(query_info_async), 'do_query_info_finish': gi.VFuncInfo(query_info_finish), 'do_seek': gi.VFuncInfo(seek), 'do_tell': gi.VFuncInfo(tell), 'parent_instance': <property object at 0x7f28dde85f40>, 'priv': <property object at 0x7f28dde85f90>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FileInputStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GFileInputStream (94269256975232)>, '__doc__': None, '__gsignals__': {}, 'query_info': gi.FunctionInfo(query_info), 'query_info_async': gi.FunctionInfo(query_info_async), 'query_info_finish': gi.FunctionInfo(query_info_finish), 'do_can_seek': gi.VFuncInfo(can_seek), 'do_query_info': gi.VFuncInfo(query_info), 'do_query_info_async': gi.VFuncInfo(query_info_async), 'do_query_info_finish': gi.VFuncInfo(query_info_finish), 'do_seek': gi.VFuncInfo(seek), 'do_tell': gi.VFuncInfo(tell), 'parent_instance': <property object at 0x7f4b87fea220>, 'priv': <property object at 0x7f4b87fea270>})"
     __gdoc__ = 'Object GFileInputStream\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GFileInputStream (94125582363568)>'
+    __gtype__ = None # (!) real value is '<GType GFileInputStream (94269256975232)>'
     __info__ = ObjectInfo(FileInputStream)
 
 

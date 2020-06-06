@@ -126,7 +126,7 @@ class DBusErrorEntry(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(DBusErrorEntry), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'DBusErrorEntry' objects>, '__weakref__': <attribute '__weakref__' of 'DBusErrorEntry' objects>, '__doc__': None, 'error_code': <property object at 0x7f28ddec4040>, 'dbus_error_name': <property object at 0x7f28ddec4130>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(DBusErrorEntry), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'DBusErrorEntry' objects>, '__weakref__': <attribute '__weakref__' of 'DBusErrorEntry' objects>, '__doc__': None, 'error_code': <property object at 0x7f4b8802a1d0>, 'dbus_error_name': <property object at 0x7f4b8802a2c0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(DBusErrorEntry)
 

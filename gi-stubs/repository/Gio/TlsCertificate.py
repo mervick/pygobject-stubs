@@ -441,12 +441,12 @@ class TlsCertificate(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd07cc10>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b8822da90>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(TlsCertificate), '__module__': 'gi.repository.Gio', '__gtype__': <GType GTlsCertificate (94125582861904)>, '__doc__': None, '__gsignals__': {}, 'new_from_file': gi.FunctionInfo(new_from_file), 'new_from_files': gi.FunctionInfo(new_from_files), 'new_from_pem': gi.FunctionInfo(new_from_pem), 'list_new_from_file': gi.FunctionInfo(list_new_from_file), 'get_issuer': gi.FunctionInfo(get_issuer), 'is_same': gi.FunctionInfo(is_same), 'verify': gi.FunctionInfo(verify), 'do_verify': gi.VFuncInfo(verify), 'parent_instance': <property object at 0x7f28dde732c0>, 'priv': <property object at 0x7f28dde733b0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(TlsCertificate), '__module__': 'gi.repository.Gio', '__gtype__': <GType GTlsCertificate (94269257491296)>, '__doc__': None, '__gsignals__': {}, 'new_from_file': gi.FunctionInfo(new_from_file), 'new_from_files': gi.FunctionInfo(new_from_files), 'new_from_pem': gi.FunctionInfo(new_from_pem), 'list_new_from_file': gi.FunctionInfo(list_new_from_file), 'get_issuer': gi.FunctionInfo(get_issuer), 'is_same': gi.FunctionInfo(is_same), 'verify': gi.FunctionInfo(verify), 'do_verify': gi.VFuncInfo(verify), 'parent_instance': <property object at 0x7f4b87fd6400>, 'priv': <property object at 0x7f4b87fd64f0>})"
     __gdoc__ = 'Object GTlsCertificate\n\nProperties from GTlsCertificate:\n  certificate -> GByteArray: Certificate\n    The DER representation of the certificate\n  certificate-pem -> gchararray: Certificate (PEM)\n    The PEM representation of the certificate\n  private-key -> GByteArray: Private key\n    The DER representation of the certificate’s private key\n  private-key-pem -> gchararray: Private key (PEM)\n    The PEM representation of the certificate’s private key\n  issuer -> GTlsCertificate: Issuer\n    The certificate for the issuing entity\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GTlsCertificate (94125582861904)>'
+    __gtype__ = None # (!) real value is '<GType GTlsCertificate (94269257491296)>'
     __info__ = ObjectInfo(TlsCertificate)
 
 

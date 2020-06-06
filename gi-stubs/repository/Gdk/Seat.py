@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -431,12 +431,12 @@ class Seat(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f1e11a3fe80>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fbaf808e130>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Seat), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkSeat (94055650887376)>, '__doc__': None, '__gsignals__': {}, 'get_capabilities': gi.FunctionInfo(get_capabilities), 'get_display': gi.FunctionInfo(get_display), 'get_keyboard': gi.FunctionInfo(get_keyboard), 'get_pointer': gi.FunctionInfo(get_pointer), 'get_slaves': gi.FunctionInfo(get_slaves), 'grab': gi.FunctionInfo(grab), 'ungrab': gi.FunctionInfo(ungrab), 'parent_instance': <property object at 0x7f1e11c315e0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Seat), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkSeat (94915768453056)>, '__doc__': None, '__gsignals__': {}, 'get_capabilities': gi.FunctionInfo(get_capabilities), 'get_display': gi.FunctionInfo(get_display), 'get_keyboard': gi.FunctionInfo(get_keyboard), 'get_pointer': gi.FunctionInfo(get_pointer), 'get_slaves': gi.FunctionInfo(get_slaves), 'grab': gi.FunctionInfo(grab), 'ungrab': gi.FunctionInfo(ungrab), 'parent_instance': <property object at 0x7fbaf812ce50>})"
     __gdoc__ = 'Object GdkSeat\n\nSignals from GdkSeat:\n  device-added (GdkDevice)\n  device-removed (GdkDevice)\n  tool-added (GdkDeviceTool)\n  tool-removed (GdkDeviceTool)\n\nProperties from GdkSeat:\n  display -> GdkDisplay: Display\n    Display\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GdkSeat (94055650887376)>'
+    __gtype__ = None # (!) real value is '<GType GdkSeat (94915768453056)>'
     __info__ = ObjectInfo(Seat)
 
 

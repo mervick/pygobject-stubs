@@ -463,12 +463,12 @@ class SubprocessLauncher(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd07c7c0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b8822dc70>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SubprocessLauncher), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSubprocessLauncher (94125582761392)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'getenv': gi.FunctionInfo(getenv), 'set_cwd': gi.FunctionInfo(set_cwd), 'set_environ': gi.FunctionInfo(set_environ), 'set_flags': gi.FunctionInfo(set_flags), 'set_stderr_file_path': gi.FunctionInfo(set_stderr_file_path), 'set_stdin_file_path': gi.FunctionInfo(set_stdin_file_path), 'set_stdout_file_path': gi.FunctionInfo(set_stdout_file_path), 'setenv': gi.FunctionInfo(setenv), 'spawnv': gi.FunctionInfo(spawnv), 'take_fd': gi.FunctionInfo(take_fd), 'take_stderr_fd': gi.FunctionInfo(take_stderr_fd), 'take_stdin_fd': gi.FunctionInfo(take_stdin_fd), 'take_stdout_fd': gi.FunctionInfo(take_stdout_fd), 'unsetenv': gi.FunctionInfo(unsetenv)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SubprocessLauncher), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSubprocessLauncher (94269257359872)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'getenv': gi.FunctionInfo(getenv), 'set_cwd': gi.FunctionInfo(set_cwd), 'set_environ': gi.FunctionInfo(set_environ), 'set_flags': gi.FunctionInfo(set_flags), 'set_stderr_file_path': gi.FunctionInfo(set_stderr_file_path), 'set_stdin_file_path': gi.FunctionInfo(set_stdin_file_path), 'set_stdout_file_path': gi.FunctionInfo(set_stdout_file_path), 'setenv': gi.FunctionInfo(setenv), 'spawnv': gi.FunctionInfo(spawnv), 'take_fd': gi.FunctionInfo(take_fd), 'take_stderr_fd': gi.FunctionInfo(take_stderr_fd), 'take_stdin_fd': gi.FunctionInfo(take_stdin_fd), 'take_stdout_fd': gi.FunctionInfo(take_stdout_fd), 'unsetenv': gi.FunctionInfo(unsetenv)})"
     __gdoc__ = 'Object GSubprocessLauncher\n\nProperties from GSubprocessLauncher:\n  flags -> GSubprocessFlags: Flags\n    GSubprocessFlags for launched processes\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GSubprocessLauncher (94125582761392)>'
+    __gtype__ = None # (!) real value is '<GType GSubprocessLauncher (94269257359872)>'
     __info__ = ObjectInfo(SubprocessLauncher)
 
 

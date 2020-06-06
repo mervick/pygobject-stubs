@@ -363,12 +363,12 @@ class DBusObjectManagerClientFlags(__gobject.GFlags):
     DO_NOT_AUTO_START = 1
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusObjectManagerClientFlags' objects>, '__doc__': None, '__gtype__': <GType GDBusObjectManagerClientFlags (94125582065184)>, '__flags_values__': {0: <flags 0 of type Gio.DBusObjectManagerClientFlags>, 1: <flags G_DBUS_OBJECT_MANAGER_CLIENT_FLAGS_DO_NOT_AUTO_START of type Gio.DBusObjectManagerClientFlags>}, '__info__': gi.EnumInfo(DBusObjectManagerClientFlags), 'NONE': <flags 0 of type Gio.DBusObjectManagerClientFlags>, 'DO_NOT_AUTO_START': <flags G_DBUS_OBJECT_MANAGER_CLIENT_FLAGS_DO_NOT_AUTO_START of type Gio.DBusObjectManagerClientFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusObjectManagerClientFlags' objects>, '__doc__': None, '__gtype__': <GType GDBusObjectManagerClientFlags (94269256691056)>, '__flags_values__': {0: <flags 0 of type Gio.DBusObjectManagerClientFlags>, 1: <flags G_DBUS_OBJECT_MANAGER_CLIENT_FLAGS_DO_NOT_AUTO_START of type Gio.DBusObjectManagerClientFlags>}, '__info__': gi.EnumInfo(DBusObjectManagerClientFlags), 'NONE': <flags 0 of type Gio.DBusObjectManagerClientFlags>, 'DO_NOT_AUTO_START': <flags G_DBUS_OBJECT_MANAGER_CLIENT_FLAGS_DO_NOT_AUTO_START of type Gio.DBusObjectManagerClientFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GDBusObjectManagerClientFlags (94125582065184)>'
+    __gtype__ = None # (!) real value is '<GType GDBusObjectManagerClientFlags (94269256691056)>'
     __info__ = gi.EnumInfo(DBusObjectManagerClientFlags)
 
 

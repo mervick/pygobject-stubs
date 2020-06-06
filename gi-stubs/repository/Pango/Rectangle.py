@@ -128,7 +128,7 @@ class Rectangle(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Rectangle), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'Rectangle' objects>, '__weakref__': <attribute '__weakref__' of 'Rectangle' objects>, '__doc__': None, 'x': <property object at 0x7f24746ff310>, 'y': <property object at 0x7f24746ff400>, 'width': <property object at 0x7f24746ff4f0>, 'height': <property object at 0x7f24746ff5e0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Rectangle), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'Rectangle' objects>, '__weakref__': <attribute '__weakref__' of 'Rectangle' objects>, '__doc__': None, 'x': <property object at 0x7f85178a7040>, 'y': <property object at 0x7f85178a7130>, 'width': <property object at 0x7f85178a7220>, 'height': <property object at 0x7f85178a7310>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(Rectangle)
 

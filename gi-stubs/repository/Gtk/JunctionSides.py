@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -373,7 +373,7 @@ class JunctionSides(__gobject.GFlags):
     RIGHT = 10
     TOP = 3
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'JunctionSides' objects>, '__doc__': None, '__gtype__': <GType GtkJunctionSides (94846038613680)>, '__flags_values__': {0: <flags 0 of type Gtk.JunctionSides>, 1: <flags GTK_JUNCTION_CORNER_TOPLEFT of type Gtk.JunctionSides>, 2: <flags GTK_JUNCTION_CORNER_TOPRIGHT of type Gtk.JunctionSides>, 4: <flags GTK_JUNCTION_CORNER_BOTTOMLEFT of type Gtk.JunctionSides>, 8: <flags GTK_JUNCTION_CORNER_BOTTOMRIGHT of type Gtk.JunctionSides>, 3: <flags GTK_JUNCTION_CORNER_TOPLEFT | GTK_JUNCTION_CORNER_TOPRIGHT | GTK_JUNCTION_TOP of type Gtk.JunctionSides>, 12: <flags GTK_JUNCTION_CORNER_BOTTOMLEFT | GTK_JUNCTION_CORNER_BOTTOMRIGHT | GTK_JUNCTION_BOTTOM of type Gtk.JunctionSides>, 5: <flags GTK_JUNCTION_CORNER_TOPLEFT | GTK_JUNCTION_CORNER_BOTTOMLEFT | GTK_JUNCTION_LEFT of type Gtk.JunctionSides>, 10: <flags GTK_JUNCTION_CORNER_TOPRIGHT | GTK_JUNCTION_CORNER_BOTTOMRIGHT | GTK_JUNCTION_RIGHT of type Gtk.JunctionSides>}, '__info__': gi.EnumInfo(JunctionSides), 'NONE': <flags 0 of type Gtk.JunctionSides>, 'CORNER_TOPLEFT': <flags GTK_JUNCTION_CORNER_TOPLEFT of type Gtk.JunctionSides>, 'CORNER_TOPRIGHT': <flags GTK_JUNCTION_CORNER_TOPRIGHT of type Gtk.JunctionSides>, 'CORNER_BOTTOMLEFT': <flags GTK_JUNCTION_CORNER_BOTTOMLEFT of type Gtk.JunctionSides>, 'CORNER_BOTTOMRIGHT': <flags GTK_JUNCTION_CORNER_BOTTOMRIGHT of type Gtk.JunctionSides>, 'TOP': <flags GTK_JUNCTION_CORNER_TOPLEFT | GTK_JUNCTION_CORNER_TOPRIGHT | GTK_JUNCTION_TOP of type Gtk.JunctionSides>, 'BOTTOM': <flags GTK_JUNCTION_CORNER_BOTTOMLEFT | GTK_JUNCTION_CORNER_BOTTOMRIGHT | GTK_JUNCTION_BOTTOM of type Gtk.JunctionSides>, 'LEFT': <flags GTK_JUNCTION_CORNER_TOPLEFT | GTK_JUNCTION_CORNER_BOTTOMLEFT | GTK_JUNCTION_LEFT of type Gtk.JunctionSides>, 'RIGHT': <flags GTK_JUNCTION_CORNER_TOPRIGHT | GTK_JUNCTION_CORNER_BOTTOMRIGHT | GTK_JUNCTION_RIGHT of type Gtk.JunctionSides>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'JunctionSides' objects>, '__doc__': None, '__gtype__': <GType GtkJunctionSides (93897368828736)>, '__flags_values__': {0: <flags 0 of type Gtk.JunctionSides>, 1: <flags GTK_JUNCTION_CORNER_TOPLEFT of type Gtk.JunctionSides>, 2: <flags GTK_JUNCTION_CORNER_TOPRIGHT of type Gtk.JunctionSides>, 4: <flags GTK_JUNCTION_CORNER_BOTTOMLEFT of type Gtk.JunctionSides>, 8: <flags GTK_JUNCTION_CORNER_BOTTOMRIGHT of type Gtk.JunctionSides>, 3: <flags GTK_JUNCTION_CORNER_TOPLEFT | GTK_JUNCTION_CORNER_TOPRIGHT | GTK_JUNCTION_TOP of type Gtk.JunctionSides>, 12: <flags GTK_JUNCTION_CORNER_BOTTOMLEFT | GTK_JUNCTION_CORNER_BOTTOMRIGHT | GTK_JUNCTION_BOTTOM of type Gtk.JunctionSides>, 5: <flags GTK_JUNCTION_CORNER_TOPLEFT | GTK_JUNCTION_CORNER_BOTTOMLEFT | GTK_JUNCTION_LEFT of type Gtk.JunctionSides>, 10: <flags GTK_JUNCTION_CORNER_TOPRIGHT | GTK_JUNCTION_CORNER_BOTTOMRIGHT | GTK_JUNCTION_RIGHT of type Gtk.JunctionSides>}, '__info__': gi.EnumInfo(JunctionSides), 'NONE': <flags 0 of type Gtk.JunctionSides>, 'CORNER_TOPLEFT': <flags GTK_JUNCTION_CORNER_TOPLEFT of type Gtk.JunctionSides>, 'CORNER_TOPRIGHT': <flags GTK_JUNCTION_CORNER_TOPRIGHT of type Gtk.JunctionSides>, 'CORNER_BOTTOMLEFT': <flags GTK_JUNCTION_CORNER_BOTTOMLEFT of type Gtk.JunctionSides>, 'CORNER_BOTTOMRIGHT': <flags GTK_JUNCTION_CORNER_BOTTOMRIGHT of type Gtk.JunctionSides>, 'TOP': <flags GTK_JUNCTION_CORNER_TOPLEFT | GTK_JUNCTION_CORNER_TOPRIGHT | GTK_JUNCTION_TOP of type Gtk.JunctionSides>, 'BOTTOM': <flags GTK_JUNCTION_CORNER_BOTTOMLEFT | GTK_JUNCTION_CORNER_BOTTOMRIGHT | GTK_JUNCTION_BOTTOM of type Gtk.JunctionSides>, 'LEFT': <flags GTK_JUNCTION_CORNER_TOPLEFT | GTK_JUNCTION_CORNER_BOTTOMLEFT | GTK_JUNCTION_LEFT of type Gtk.JunctionSides>, 'RIGHT': <flags GTK_JUNCTION_CORNER_TOPRIGHT | GTK_JUNCTION_CORNER_BOTTOMRIGHT | GTK_JUNCTION_RIGHT of type Gtk.JunctionSides>})"
     __flags_values__ = {
         0: 0,
         1: 1,
@@ -385,7 +385,7 @@ class JunctionSides(__gobject.GFlags):
         10: 10,
         12: 12,
     }
-    __gtype__ = None # (!) real value is '<GType GtkJunctionSides (94846038613680)>'
+    __gtype__ = None # (!) real value is '<GType GtkJunctionSides (93897368828736)>'
     __info__ = gi.EnumInfo(JunctionSides)
 
 

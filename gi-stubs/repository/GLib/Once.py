@@ -135,7 +135,7 @@ class Once(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Once), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'Once' objects>, '__weakref__': <attribute '__weakref__' of 'Once' objects>, '__doc__': None, 'status': <property object at 0x7f1d2b8f2ae0>, 'retval': <property object at 0x7f1d2b8f2bd0>, 'init_enter': gi.FunctionInfo(init_enter), 'init_leave': gi.FunctionInfo(init_leave)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Once), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'Once' objects>, '__weakref__': <attribute '__weakref__' of 'Once' objects>, '__doc__': None, 'status': <property object at 0x7f85134f1d10>, 'retval': <property object at 0x7f85134f1e00>, 'init_enter': gi.FunctionInfo(init_enter), 'init_leave': gi.FunctionInfo(init_leave)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(Once)
 

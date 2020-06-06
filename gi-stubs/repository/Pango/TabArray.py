@@ -159,8 +159,8 @@ class TabArray(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TabArray), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoTabArray (94752680778464)>, '__dict__': <attribute '__dict__' of 'TabArray' objects>, '__weakref__': <attribute '__weakref__' of 'TabArray' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free), 'get_positions_in_pixels': gi.FunctionInfo(get_positions_in_pixels), 'get_size': gi.FunctionInfo(get_size), 'get_tab': gi.FunctionInfo(get_tab), 'get_tabs': gi.FunctionInfo(get_tabs), 'resize': gi.FunctionInfo(resize), 'set_tab': gi.FunctionInfo(set_tab), '__new__': <staticmethod object at 0x7f2474705160>, '__init__': <function nothing at 0x7f2474a83430>})"
-    __gtype__ = None # (!) real value is '<GType PangoTabArray (94752680778464)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TabArray), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoTabArray (94187429568320)>, '__dict__': <attribute '__dict__' of 'TabArray' objects>, '__weakref__': <attribute '__weakref__' of 'TabArray' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free), 'get_positions_in_pixels': gi.FunctionInfo(get_positions_in_pixels), 'get_size': gi.FunctionInfo(get_size), 'get_tab': gi.FunctionInfo(get_tab), 'get_tabs': gi.FunctionInfo(get_tabs), 'resize': gi.FunctionInfo(resize), 'set_tab': gi.FunctionInfo(set_tab), '__new__': <staticmethod object at 0x7f85178a9550>, '__init__': <function nothing at 0x7f8517c2dee0>})"
+    __gtype__ = None # (!) real value is '<GType PangoTabArray (94187429568320)>'
     __info__ = StructInfo(TabArray)
 
 

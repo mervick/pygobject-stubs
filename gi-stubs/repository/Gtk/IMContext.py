@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -517,12 +517,12 @@ class IMContext(IMContext):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe830f51e20>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc639bb85b0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', 'get_surrounding': <function strip_boolean_result.<locals>.wrapped at 0x7fe831222ca0>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', 'get_surrounding': <function strip_boolean_result.<locals>.wrapped at 0x7fc63a9454c0>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Object GtkIMContext\n\nSignals from GtkIMContext:\n  preedit-changed ()\n  preedit-start ()\n  preedit-end ()\n  commit (gchararray)\n  retrieve-surrounding () -> gboolean\n  delete-surrounding (gint, gint) -> gboolean\n\nProperties from GtkIMContext:\n  input-purpose -> GtkInputPurpose: Purpose\n    Purpose of the text field\n  input-hints -> GtkInputHints: hints\n    Hints for the text field behaviour\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkIMContext (94846036947152)>'
+    __gtype__ = None # (!) real value is '<GType GtkIMContext (93897367148256)>'
     __info__ = ObjectInfo(IMContext)
 
 

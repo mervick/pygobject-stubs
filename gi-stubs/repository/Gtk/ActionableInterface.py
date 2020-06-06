@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -135,7 +135,7 @@ class ActionableInterface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ActionableInterface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ActionableInterface' objects>, '__weakref__': <attribute '__weakref__' of 'ActionableInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7fe8310f0680>, 'get_action_name': <property object at 0x7fe8310f0770>, 'set_action_name': <property object at 0x7fe8310f0860>, 'get_action_target_value': <property object at 0x7fe8310f09a0>, 'set_action_target_value': <property object at 0x7fe8310f0a90>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ActionableInterface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ActionableInterface' objects>, '__weakref__': <attribute '__weakref__' of 'ActionableInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7fc63a805590>, 'get_action_name': <property object at 0x7fc63a805680>, 'set_action_name': <property object at 0x7fc63a805770>, 'get_action_target_value': <property object at 0x7fc63a8058b0>, 'set_action_target_value': <property object at 0x7fc63a8059a0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ActionableInterface)
 

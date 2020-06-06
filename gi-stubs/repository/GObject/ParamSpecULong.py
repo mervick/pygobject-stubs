@@ -231,9 +231,9 @@ class ParamSpecULong(ParamSpec):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ParamSpecULong), '__module__': 'gi.repository.GObject', '__gtype__': <GType GParamULong (93895378950336)>, '__doc__': None, '__gsignals__': {}, 'parent_instance': <property object at 0x7f7c28650db0>, 'minimum': <property object at 0x7f7c28650ef0>, 'maximum': <property object at 0x7f7c28651040>, 'default_value': <property object at 0x7f7c28651130>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ParamSpecULong), '__module__': 'gi.repository.GObject', '__gtype__': <GType GParamULong (94184341415712)>, '__doc__': None, '__gsignals__': {}, 'parent_instance': <property object at 0x7fe46b8c41d0>, 'minimum': <property object at 0x7fe46b8c4310>, 'maximum': <property object at 0x7fe46b8c4400>, 'default_value': <property object at 0x7fe46b8c44f0>})"
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GParamULong (93895378950336)>'
+    __gtype__ = None # (!) real value is '<GType GParamULong (94184341415712)>'
     __info__ = ObjectInfo(ParamSpecULong)
 
 

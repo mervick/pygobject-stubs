@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -534,12 +534,12 @@ class MountOperation(__gi_repository_Gio.MountOperation):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe82fb4eac0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc63a4448b0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(MountOperation), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkMountOperation (94846038643248)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_parent': gi.FunctionInfo(get_parent), 'get_screen': gi.FunctionInfo(get_screen), 'is_showing': gi.FunctionInfo(is_showing), 'set_parent': gi.FunctionInfo(set_parent), 'set_screen': gi.FunctionInfo(set_screen), 'parent_instance': <property object at 0x7fe830ff6180>, 'priv': <property object at 0x7fe830ff6270>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(MountOperation), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkMountOperation (93897368863536)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_parent': gi.FunctionInfo(get_parent), 'get_screen': gi.FunctionInfo(get_screen), 'is_showing': gi.FunctionInfo(is_showing), 'set_parent': gi.FunctionInfo(set_parent), 'set_screen': gi.FunctionInfo(set_screen), 'parent_instance': <property object at 0x7fc63a70b0e0>, 'priv': <property object at 0x7fc63a70b1d0>})"
     __gdoc__ = 'Object GtkMountOperation\n\nProperties from GtkMountOperation:\n  parent -> GtkWindow: Parent\n    The parent window\n  is-showing -> gboolean: Is Showing\n    Are we showing a dialog\n  screen -> GdkScreen: Screen\n    The screen where this window will be displayed.\n\nSignals from GMountOperation:\n  ask-password (gchararray, gchararray, gchararray, GAskPasswordFlags)\n  ask-question (gchararray, GStrv)\n  reply (GMountOperationResult)\n  aborted ()\n  show-processes (gchararray, GArray, GStrv)\n  show-unmount-progress (gchararray, gint64, gint64)\n\nProperties from GMountOperation:\n  username -> gchararray: Username\n    The user name\n  password -> gchararray: Password\n    The password\n  anonymous -> gboolean: Anonymous\n    Whether to use an anonymous user\n  domain -> gchararray: Domain\n    The domain of the mount operation\n  password-save -> GPasswordSave: Password save\n    How passwords should be saved\n  choice -> gint: Choice\n    The users choice\n  is-tcrypt-hidden-volume -> gboolean: TCRYPT Hidden Volume\n    Whether to unlock a TCRYPT hidden volume. See https://www.veracrypt.fr/en/Hidden%20Volume.html.\n  is-tcrypt-system-volume -> gboolean: TCRYPT System Volume\n    Whether to unlock a TCRYPT system volume. Only supported for unlocking Windows system volumes. See https://www.veracrypt.fr/en/System%20Encryption.html.\n  pim -> guint: PIM\n    The VeraCrypt PIM value\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkMountOperation (94846038643248)>'
+    __gtype__ = None # (!) real value is '<GType GtkMountOperation (93897368863536)>'
     __info__ = ObjectInfo(MountOperation)
 
 

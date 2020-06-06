@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -369,7 +369,7 @@ class MovementStep(__gobject.GEnum):
     VISUAL_POSITIONS = 1
     WORDS = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'MovementStep' objects>, '__doc__': None, '__gtype__': <GType GtkMovementStep (94846038540016)>, '__enum_values__': {0: <enum GTK_MOVEMENT_LOGICAL_POSITIONS of type Gtk.MovementStep>, 1: <enum GTK_MOVEMENT_VISUAL_POSITIONS of type Gtk.MovementStep>, 2: <enum GTK_MOVEMENT_WORDS of type Gtk.MovementStep>, 3: <enum GTK_MOVEMENT_DISPLAY_LINES of type Gtk.MovementStep>, 4: <enum GTK_MOVEMENT_DISPLAY_LINE_ENDS of type Gtk.MovementStep>, 5: <enum GTK_MOVEMENT_PARAGRAPHS of type Gtk.MovementStep>, 6: <enum GTK_MOVEMENT_PARAGRAPH_ENDS of type Gtk.MovementStep>, 7: <enum GTK_MOVEMENT_PAGES of type Gtk.MovementStep>, 8: <enum GTK_MOVEMENT_BUFFER_ENDS of type Gtk.MovementStep>, 9: <enum GTK_MOVEMENT_HORIZONTAL_PAGES of type Gtk.MovementStep>}, '__info__': gi.EnumInfo(MovementStep), 'LOGICAL_POSITIONS': <enum GTK_MOVEMENT_LOGICAL_POSITIONS of type Gtk.MovementStep>, 'VISUAL_POSITIONS': <enum GTK_MOVEMENT_VISUAL_POSITIONS of type Gtk.MovementStep>, 'WORDS': <enum GTK_MOVEMENT_WORDS of type Gtk.MovementStep>, 'DISPLAY_LINES': <enum GTK_MOVEMENT_DISPLAY_LINES of type Gtk.MovementStep>, 'DISPLAY_LINE_ENDS': <enum GTK_MOVEMENT_DISPLAY_LINE_ENDS of type Gtk.MovementStep>, 'PARAGRAPHS': <enum GTK_MOVEMENT_PARAGRAPHS of type Gtk.MovementStep>, 'PARAGRAPH_ENDS': <enum GTK_MOVEMENT_PARAGRAPH_ENDS of type Gtk.MovementStep>, 'PAGES': <enum GTK_MOVEMENT_PAGES of type Gtk.MovementStep>, 'BUFFER_ENDS': <enum GTK_MOVEMENT_BUFFER_ENDS of type Gtk.MovementStep>, 'HORIZONTAL_PAGES': <enum GTK_MOVEMENT_HORIZONTAL_PAGES of type Gtk.MovementStep>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'MovementStep' objects>, '__doc__': None, '__gtype__': <GType GtkMovementStep (93897368863888)>, '__enum_values__': {0: <enum GTK_MOVEMENT_LOGICAL_POSITIONS of type Gtk.MovementStep>, 1: <enum GTK_MOVEMENT_VISUAL_POSITIONS of type Gtk.MovementStep>, 2: <enum GTK_MOVEMENT_WORDS of type Gtk.MovementStep>, 3: <enum GTK_MOVEMENT_DISPLAY_LINES of type Gtk.MovementStep>, 4: <enum GTK_MOVEMENT_DISPLAY_LINE_ENDS of type Gtk.MovementStep>, 5: <enum GTK_MOVEMENT_PARAGRAPHS of type Gtk.MovementStep>, 6: <enum GTK_MOVEMENT_PARAGRAPH_ENDS of type Gtk.MovementStep>, 7: <enum GTK_MOVEMENT_PAGES of type Gtk.MovementStep>, 8: <enum GTK_MOVEMENT_BUFFER_ENDS of type Gtk.MovementStep>, 9: <enum GTK_MOVEMENT_HORIZONTAL_PAGES of type Gtk.MovementStep>}, '__info__': gi.EnumInfo(MovementStep), 'LOGICAL_POSITIONS': <enum GTK_MOVEMENT_LOGICAL_POSITIONS of type Gtk.MovementStep>, 'VISUAL_POSITIONS': <enum GTK_MOVEMENT_VISUAL_POSITIONS of type Gtk.MovementStep>, 'WORDS': <enum GTK_MOVEMENT_WORDS of type Gtk.MovementStep>, 'DISPLAY_LINES': <enum GTK_MOVEMENT_DISPLAY_LINES of type Gtk.MovementStep>, 'DISPLAY_LINE_ENDS': <enum GTK_MOVEMENT_DISPLAY_LINE_ENDS of type Gtk.MovementStep>, 'PARAGRAPHS': <enum GTK_MOVEMENT_PARAGRAPHS of type Gtk.MovementStep>, 'PARAGRAPH_ENDS': <enum GTK_MOVEMENT_PARAGRAPH_ENDS of type Gtk.MovementStep>, 'PAGES': <enum GTK_MOVEMENT_PAGES of type Gtk.MovementStep>, 'BUFFER_ENDS': <enum GTK_MOVEMENT_BUFFER_ENDS of type Gtk.MovementStep>, 'HORIZONTAL_PAGES': <enum GTK_MOVEMENT_HORIZONTAL_PAGES of type Gtk.MovementStep>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -382,7 +382,7 @@ class MovementStep(__gobject.GEnum):
         8: 8,
         9: 9,
     }
-    __gtype__ = None # (!) real value is '<GType GtkMovementStep (94846038540016)>'
+    __gtype__ = None # (!) real value is '<GType GtkMovementStep (93897368863888)>'
     __info__ = gi.EnumInfo(MovementStep)
 
 

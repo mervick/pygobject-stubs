@@ -359,13 +359,13 @@ class ZlibCompressorFormat(__gobject.GEnum):
     RAW = 2
     ZLIB = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'ZlibCompressorFormat' objects>, '__doc__': None, '__gtype__': <GType GZlibCompressorFormat (94125583000512)>, '__enum_values__': {0: <enum G_ZLIB_COMPRESSOR_FORMAT_ZLIB of type Gio.ZlibCompressorFormat>, 1: <enum G_ZLIB_COMPRESSOR_FORMAT_GZIP of type Gio.ZlibCompressorFormat>, 2: <enum G_ZLIB_COMPRESSOR_FORMAT_RAW of type Gio.ZlibCompressorFormat>}, '__info__': gi.EnumInfo(ZlibCompressorFormat), 'ZLIB': <enum G_ZLIB_COMPRESSOR_FORMAT_ZLIB of type Gio.ZlibCompressorFormat>, 'GZIP': <enum G_ZLIB_COMPRESSOR_FORMAT_GZIP of type Gio.ZlibCompressorFormat>, 'RAW': <enum G_ZLIB_COMPRESSOR_FORMAT_RAW of type Gio.ZlibCompressorFormat>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'ZlibCompressorFormat' objects>, '__doc__': None, '__gtype__': <GType GZlibCompressorFormat (94269257629760)>, '__enum_values__': {0: <enum G_ZLIB_COMPRESSOR_FORMAT_ZLIB of type Gio.ZlibCompressorFormat>, 1: <enum G_ZLIB_COMPRESSOR_FORMAT_GZIP of type Gio.ZlibCompressorFormat>, 2: <enum G_ZLIB_COMPRESSOR_FORMAT_RAW of type Gio.ZlibCompressorFormat>}, '__info__': gi.EnumInfo(ZlibCompressorFormat), 'ZLIB': <enum G_ZLIB_COMPRESSOR_FORMAT_ZLIB of type Gio.ZlibCompressorFormat>, 'GZIP': <enum G_ZLIB_COMPRESSOR_FORMAT_GZIP of type Gio.ZlibCompressorFormat>, 'RAW': <enum G_ZLIB_COMPRESSOR_FORMAT_RAW of type Gio.ZlibCompressorFormat>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GZlibCompressorFormat (94125583000512)>'
+    __gtype__ = None # (!) real value is '<GType GZlibCompressorFormat (94269257629760)>'
     __info__ = gi.EnumInfo(ZlibCompressorFormat)
 
 

@@ -361,7 +361,7 @@ class UnixSocketAddressType(__gobject.GEnum):
     INVALID = 0
     PATH = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'UnixSocketAddressType' objects>, '__doc__': None, '__gtype__': <GType GUnixSocketAddressType (94125582970576)>, '__enum_values__': {0: <enum G_UNIX_SOCKET_ADDRESS_INVALID of type Gio.UnixSocketAddressType>, 1: <enum G_UNIX_SOCKET_ADDRESS_ANONYMOUS of type Gio.UnixSocketAddressType>, 2: <enum G_UNIX_SOCKET_ADDRESS_PATH of type Gio.UnixSocketAddressType>, 3: <enum G_UNIX_SOCKET_ADDRESS_ABSTRACT of type Gio.UnixSocketAddressType>, 4: <enum G_UNIX_SOCKET_ADDRESS_ABSTRACT_PADDED of type Gio.UnixSocketAddressType>}, '__info__': gi.EnumInfo(UnixSocketAddressType), 'INVALID': <enum G_UNIX_SOCKET_ADDRESS_INVALID of type Gio.UnixSocketAddressType>, 'ANONYMOUS': <enum G_UNIX_SOCKET_ADDRESS_ANONYMOUS of type Gio.UnixSocketAddressType>, 'PATH': <enum G_UNIX_SOCKET_ADDRESS_PATH of type Gio.UnixSocketAddressType>, 'ABSTRACT': <enum G_UNIX_SOCKET_ADDRESS_ABSTRACT of type Gio.UnixSocketAddressType>, 'ABSTRACT_PADDED': <enum G_UNIX_SOCKET_ADDRESS_ABSTRACT_PADDED of type Gio.UnixSocketAddressType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'UnixSocketAddressType' objects>, '__doc__': None, '__gtype__': <GType GUnixSocketAddressType (94269257600768)>, '__enum_values__': {0: <enum G_UNIX_SOCKET_ADDRESS_INVALID of type Gio.UnixSocketAddressType>, 1: <enum G_UNIX_SOCKET_ADDRESS_ANONYMOUS of type Gio.UnixSocketAddressType>, 2: <enum G_UNIX_SOCKET_ADDRESS_PATH of type Gio.UnixSocketAddressType>, 3: <enum G_UNIX_SOCKET_ADDRESS_ABSTRACT of type Gio.UnixSocketAddressType>, 4: <enum G_UNIX_SOCKET_ADDRESS_ABSTRACT_PADDED of type Gio.UnixSocketAddressType>}, '__info__': gi.EnumInfo(UnixSocketAddressType), 'INVALID': <enum G_UNIX_SOCKET_ADDRESS_INVALID of type Gio.UnixSocketAddressType>, 'ANONYMOUS': <enum G_UNIX_SOCKET_ADDRESS_ANONYMOUS of type Gio.UnixSocketAddressType>, 'PATH': <enum G_UNIX_SOCKET_ADDRESS_PATH of type Gio.UnixSocketAddressType>, 'ABSTRACT': <enum G_UNIX_SOCKET_ADDRESS_ABSTRACT of type Gio.UnixSocketAddressType>, 'ABSTRACT_PADDED': <enum G_UNIX_SOCKET_ADDRESS_ABSTRACT_PADDED of type Gio.UnixSocketAddressType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -369,7 +369,7 @@ class UnixSocketAddressType(__gobject.GEnum):
         3: 3,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType GUnixSocketAddressType (94125582970576)>'
+    __gtype__ = None # (!) real value is '<GType GUnixSocketAddressType (94269257600768)>'
     __info__ = gi.EnumInfo(UnixSocketAddressType)
 
 

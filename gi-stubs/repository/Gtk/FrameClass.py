@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -137,7 +137,7 @@ class FrameClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FrameClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FrameClass' objects>, '__weakref__': <attribute '__weakref__' of 'FrameClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe83109db80>, 'compute_child_allocation': <property object at 0x7fe83109dcc0>, '_gtk_reserved1': <property object at 0x7fe83109ddb0>, '_gtk_reserved2': <property object at 0x7fe83109dea0>, '_gtk_reserved3': <property object at 0x7fe83109df90>, '_gtk_reserved4': <property object at 0x7fe8310200e0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FrameClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FrameClass' objects>, '__weakref__': <attribute '__weakref__' of 'FrameClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a7b28b0>, 'compute_child_allocation': <property object at 0x7fc63a7b29f0>, '_gtk_reserved1': <property object at 0x7fc63a7b2ae0>, '_gtk_reserved2': <property object at 0x7fc63a7b2bd0>, '_gtk_reserved3': <property object at 0x7fc63a7b2cc0>, '_gtk_reserved4': <property object at 0x7fc63a7b2db0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(FrameClass)
 

@@ -141,7 +141,7 @@ class TrashStack(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TrashStack), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TrashStack' objects>, '__weakref__': <attribute '__weakref__' of 'TrashStack' objects>, '__doc__': None, 'next': <property object at 0x7f1d2b90eea0>, 'height': gi.FunctionInfo(height), 'peek': gi.FunctionInfo(peek), 'pop': gi.FunctionInfo(pop), 'push': gi.FunctionInfo(push)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TrashStack), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TrashStack' objects>, '__weakref__': <attribute '__weakref__' of 'TrashStack' objects>, '__doc__': None, 'next': <property object at 0x7f851350e4a0>, 'height': gi.FunctionInfo(height), 'peek': gi.FunctionInfo(peek), 'pop': gi.FunctionInfo(pop), 'push': gi.FunctionInfo(push)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TrashStack)
 

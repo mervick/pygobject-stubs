@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -487,12 +487,12 @@ class TreeSelection(TreeSelection):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe82e6f6c10>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc637df1430>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', 'select_path': <function TreeSelection.select_path at 0x7fe831254820>, 'get_selected': <function TreeSelection.get_selected at 0x7fe8312548b0>, 'get_selected_rows': <function TreeSelection.get_selected_rows at 0x7fe831254940>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', 'select_path': <function TreeSelection.select_path at 0x7fc63a972040>, 'get_selected': <function TreeSelection.get_selected at 0x7fc63a9720d0>, 'get_selected_rows': <function TreeSelection.get_selected_rows at 0x7fc63a972160>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Object GtkTreeSelection\n\nSignals from GtkTreeSelection:\n  changed ()\n\nProperties from GtkTreeSelection:\n  mode -> GtkSelectionMode: Mode\n    Selection mode\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkTreeSelection (94846037061552)>'
+    __gtype__ = None # (!) real value is '<GType GtkTreeSelection (93897367273392)>'
     __info__ = ObjectInfo(TreeSelection)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -361,12 +361,12 @@ class WindowType(__gobject.GEnum):
     POPUP = 1
     TOPLEVEL = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'WindowType' objects>, '__doc__': None, '__gtype__': <GType GtkWindowType (94846037284128)>, '__enum_values__': {0: <enum GTK_WINDOW_TOPLEVEL of type Gtk.WindowType>, 1: <enum GTK_WINDOW_POPUP of type Gtk.WindowType>}, '__info__': gi.EnumInfo(WindowType), 'TOPLEVEL': <enum GTK_WINDOW_TOPLEVEL of type Gtk.WindowType>, 'POPUP': <enum GTK_WINDOW_POPUP of type Gtk.WindowType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'WindowType' objects>, '__doc__': None, '__gtype__': <GType GtkWindowType (93897367499120)>, '__enum_values__': {0: <enum GTK_WINDOW_TOPLEVEL of type Gtk.WindowType>, 1: <enum GTK_WINDOW_POPUP of type Gtk.WindowType>}, '__info__': gi.EnumInfo(WindowType), 'TOPLEVEL': <enum GTK_WINDOW_TOPLEVEL of type Gtk.WindowType>, 'POPUP': <enum GTK_WINDOW_POPUP of type Gtk.WindowType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GtkWindowType (94846037284128)>'
+    __gtype__ = None # (!) real value is '<GType GtkWindowType (93897367499120)>'
     __info__ = gi.EnumInfo(WindowType)
 
 

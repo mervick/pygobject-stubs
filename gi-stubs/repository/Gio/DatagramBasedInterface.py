@@ -134,7 +134,7 @@ class DatagramBasedInterface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(DatagramBasedInterface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'DatagramBasedInterface' objects>, '__weakref__': <attribute '__weakref__' of 'DatagramBasedInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f28ddee1b80>, 'receive_messages': <property object at 0x7f28ddee1cc0>, 'send_messages': <property object at 0x7f28ddee1d60>, 'create_source': <property object at 0x7f28ddee1e50>, 'condition_check': <property object at 0x7f28ddee1f40>, 'condition_wait': <property object at 0x7f28ddee4090>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(DatagramBasedInterface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'DatagramBasedInterface' objects>, '__weakref__': <attribute '__weakref__' of 'DatagramBasedInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f4b88044db0>, 'receive_messages': <property object at 0x7f4b88044ef0>, 'send_messages': <property object at 0x7f4b88044f90>, 'create_source': <property object at 0x7f4b880460e0>, 'condition_check': <property object at 0x7f4b880461d0>, 'condition_wait': <property object at 0x7f4b880462c0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(DatagramBasedInterface)
 

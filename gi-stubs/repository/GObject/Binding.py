@@ -455,12 +455,12 @@ class Binding(Binding):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f7c2866bd90>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe46b8d2760>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.GObject', '__call__': <function Binding.__call__ at 0x7f7c28740550>, 'unbind': <function Binding.unbind at 0x7f7c287405e0>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.GObject', '__call__': <function Binding.__call__ at 0x7fe46b9aed30>, 'unbind': <function Binding.unbind at 0x7fe46b9aedc0>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Object GBinding\n\nProperties from GBinding:\n  source -> GObject: Source\n    The source of the binding\n  target -> GObject: Target\n    The target of the binding\n  source-property -> gchararray: Source Property\n    The property on the source to bind\n  target-property -> gchararray: Target Property\n    The property on the target to bind\n  flags -> GBindingFlags: Flags\n    The binding flags\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GBinding (93895379363760)>'
+    __gtype__ = None # (!) real value is '<GType GBinding (94184341850976)>'
     __info__ = ObjectInfo(Binding)
 
 

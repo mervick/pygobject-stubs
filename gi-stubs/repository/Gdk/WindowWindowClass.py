@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -357,12 +357,12 @@ class WindowWindowClass(__gobject.GEnum):
     INPUT_ONLY = 1
     INPUT_OUTPUT = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'WindowWindowClass' objects>, '__doc__': None, '__gtype__': <GType GdkWindowWindowClass (94055651057168)>, '__enum_values__': {0: <enum GDK_INPUT_OUTPUT of type Gdk.WindowWindowClass>, 1: <enum GDK_INPUT_ONLY of type Gdk.WindowWindowClass>}, '__info__': gi.EnumInfo(WindowWindowClass), 'INPUT_OUTPUT': <enum GDK_INPUT_OUTPUT of type Gdk.WindowWindowClass>, 'INPUT_ONLY': <enum GDK_INPUT_ONLY of type Gdk.WindowWindowClass>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'WindowWindowClass' objects>, '__doc__': None, '__gtype__': <GType GdkWindowWindowClass (94915768627760)>, '__enum_values__': {0: <enum GDK_INPUT_OUTPUT of type Gdk.WindowWindowClass>, 1: <enum GDK_INPUT_ONLY of type Gdk.WindowWindowClass>}, '__info__': gi.EnumInfo(WindowWindowClass), 'INPUT_OUTPUT': <enum GDK_INPUT_OUTPUT of type Gdk.WindowWindowClass>, 'INPUT_ONLY': <enum GDK_INPUT_ONLY of type Gdk.WindowWindowClass>})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GdkWindowWindowClass (94055651057168)>'
+    __gtype__ = None # (!) real value is '<GType GdkWindowWindowClass (94915768627760)>'
     __info__ = gi.EnumInfo(WindowWindowClass)
 
 

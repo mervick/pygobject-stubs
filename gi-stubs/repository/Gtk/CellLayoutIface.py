@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -145,7 +145,7 @@ class CellLayoutIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(CellLayoutIface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'CellLayoutIface' objects>, '__weakref__': <attribute '__weakref__' of 'CellLayoutIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7fe8310bd7c0>, 'pack_start': <property object at 0x7fe8310bd8b0>, 'pack_end': <property object at 0x7fe8310bd9a0>, 'clear': <property object at 0x7fe8310bda90>, 'add_attribute': <property object at 0x7fe8310bdb80>, 'set_cell_data_func': <property object at 0x7fe8310bdcc0>, 'clear_attributes': <property object at 0x7fe8310bddb0>, 'reorder': <property object at 0x7fe8310bde50>, 'get_cells': <property object at 0x7fe8310bdf40>, 'get_area': <property object at 0x7fe8310be090>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(CellLayoutIface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'CellLayoutIface' objects>, '__weakref__': <attribute '__weakref__' of 'CellLayoutIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7fc63a7d36d0>, 'pack_start': <property object at 0x7fc63a7d37c0>, 'pack_end': <property object at 0x7fc63a7d38b0>, 'clear': <property object at 0x7fc63a7d39a0>, 'add_attribute': <property object at 0x7fc63a7d3a90>, 'set_cell_data_func': <property object at 0x7fc63a7d3bd0>, 'clear_attributes': <property object at 0x7fc63a7d3cc0>, 'reorder': <property object at 0x7fc63a7d3d60>, 'get_cells': <property object at 0x7fc63a7d3e50>, 'get_area': <property object at 0x7fc63a7d3f40>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(CellLayoutIface)
 

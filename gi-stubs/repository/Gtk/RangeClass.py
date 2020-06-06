@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -149,7 +149,7 @@ class RangeClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(RangeClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'RangeClass' objects>, '__weakref__': <attribute '__weakref__' of 'RangeClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830fabe50>, 'slider_detail': <property object at 0x7fe830fabf40>, 'stepper_detail': <property object at 0x7fe830fad090>, 'value_changed': <property object at 0x7fe830fad180>, 'adjust_bounds': <property object at 0x7fe830fad270>, 'move_slider': <property object at 0x7fe830fad360>, 'get_range_border': <property object at 0x7fe830fad4a0>, 'change_value': <property object at 0x7fe830fad590>, 'get_range_size_request': <property object at 0x7fe830fad6d0>, '_gtk_reserved1': <property object at 0x7fe830fad7c0>, '_gtk_reserved2': <property object at 0x7fe830fad8b0>, '_gtk_reserved3': <property object at 0x7fe830fad9a0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(RangeClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'RangeClass' objects>, '__weakref__': <attribute '__weakref__' of 'RangeClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a6c2c70>, 'slider_detail': <property object at 0x7fc63a6c2d60>, 'stepper_detail': <property object at 0x7fc63a6c2e50>, 'value_changed': <property object at 0x7fc63a6c2f40>, 'adjust_bounds': <property object at 0x7fc63a6c3090>, 'move_slider': <property object at 0x7fc63a6c3180>, 'get_range_border': <property object at 0x7fc63a6c32c0>, 'change_value': <property object at 0x7fc63a6c33b0>, 'get_range_size_request': <property object at 0x7fc63a6c34f0>, '_gtk_reserved1': <property object at 0x7fc63a6c35e0>, '_gtk_reserved2': <property object at 0x7fc63a6c36d0>, '_gtk_reserved3': <property object at 0x7fc63a6c37c0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(RangeClass)
 

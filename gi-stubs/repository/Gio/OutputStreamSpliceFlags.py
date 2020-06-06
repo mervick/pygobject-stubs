@@ -364,13 +364,13 @@ class OutputStreamSpliceFlags(__gobject.GFlags):
     CLOSE_TARGET = 2
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'OutputStreamSpliceFlags' objects>, '__doc__': None, '__gtype__': <GType GOutputStreamSpliceFlags (94125582593856)>, '__flags_values__': {0: <flags 0 of type Gio.OutputStreamSpliceFlags>, 1: <flags G_OUTPUT_STREAM_SPLICE_CLOSE_SOURCE of type Gio.OutputStreamSpliceFlags>, 2: <flags G_OUTPUT_STREAM_SPLICE_CLOSE_TARGET of type Gio.OutputStreamSpliceFlags>}, '__info__': gi.EnumInfo(OutputStreamSpliceFlags), 'NONE': <flags 0 of type Gio.OutputStreamSpliceFlags>, 'CLOSE_SOURCE': <flags G_OUTPUT_STREAM_SPLICE_CLOSE_SOURCE of type Gio.OutputStreamSpliceFlags>, 'CLOSE_TARGET': <flags G_OUTPUT_STREAM_SPLICE_CLOSE_TARGET of type Gio.OutputStreamSpliceFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'OutputStreamSpliceFlags' objects>, '__doc__': None, '__gtype__': <GType GOutputStreamSpliceFlags (94269257236112)>, '__flags_values__': {0: <flags 0 of type Gio.OutputStreamSpliceFlags>, 1: <flags G_OUTPUT_STREAM_SPLICE_CLOSE_SOURCE of type Gio.OutputStreamSpliceFlags>, 2: <flags G_OUTPUT_STREAM_SPLICE_CLOSE_TARGET of type Gio.OutputStreamSpliceFlags>}, '__info__': gi.EnumInfo(OutputStreamSpliceFlags), 'NONE': <flags 0 of type Gio.OutputStreamSpliceFlags>, 'CLOSE_SOURCE': <flags G_OUTPUT_STREAM_SPLICE_CLOSE_SOURCE of type Gio.OutputStreamSpliceFlags>, 'CLOSE_TARGET': <flags G_OUTPUT_STREAM_SPLICE_CLOSE_TARGET of type Gio.OutputStreamSpliceFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GOutputStreamSpliceFlags (94125582593856)>'
+    __gtype__ = None # (!) real value is '<GType GOutputStreamSpliceFlags (94269257236112)>'
     __info__ = gi.EnumInfo(OutputStreamSpliceFlags)
 
 

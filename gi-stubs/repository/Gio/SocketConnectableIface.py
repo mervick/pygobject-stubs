@@ -130,7 +130,7 @@ class SocketConnectableIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SocketConnectableIface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SocketConnectableIface' objects>, '__weakref__': <attribute '__weakref__' of 'SocketConnectableIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f28dde5d9a0>, 'enumerate': <property object at 0x7f28dde5da90>, 'proxy_enumerate': <property object at 0x7f28dde5db80>, 'to_string': <property object at 0x7f28dde5dc70>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SocketConnectableIface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SocketConnectableIface' objects>, '__weakref__': <attribute '__weakref__' of 'SocketConnectableIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f4b87fc0cc0>, 'enumerate': <property object at 0x7f4b87fc0db0>, 'proxy_enumerate': <property object at 0x7f4b87fc0ea0>, 'to_string': <property object at 0x7f4b87fc0f90>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(SocketConnectableIface)
 

@@ -251,8 +251,8 @@ class MainContext(__gi_repository_GLib.MainContext):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.GLib', 'iteration': <function MainContext.iteration at 0x7f7c29a17b80>, '__doc__': None})"
-    __gtype__ = None # (!) real value is '<GType GMainContext (93895379260400)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.GLib', 'iteration': <function MainContext.iteration at 0x7fe46cc4a3a0>, '__doc__': None})"
+    __gtype__ = None # (!) real value is '<GType GMainContext (94184341724736)>'
     __info__ = StructInfo(MainContext)
 
 

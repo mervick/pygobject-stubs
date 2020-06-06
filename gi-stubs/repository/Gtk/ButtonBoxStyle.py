@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -365,7 +365,7 @@ class ButtonBoxStyle(__gobject.GEnum):
     SPREAD = 1
     START = 3
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ButtonBoxStyle' objects>, '__doc__': None, '__gtype__': <GType GtkButtonBoxStyle (94846037995888)>, '__enum_values__': {1: <enum GTK_BUTTONBOX_SPREAD of type Gtk.ButtonBoxStyle>, 2: <enum GTK_BUTTONBOX_EDGE of type Gtk.ButtonBoxStyle>, 3: <enum GTK_BUTTONBOX_START of type Gtk.ButtonBoxStyle>, 4: <enum GTK_BUTTONBOX_END of type Gtk.ButtonBoxStyle>, 5: <enum GTK_BUTTONBOX_CENTER of type Gtk.ButtonBoxStyle>, 6: <enum GTK_BUTTONBOX_EXPAND of type Gtk.ButtonBoxStyle>}, '__info__': gi.EnumInfo(ButtonBoxStyle), 'SPREAD': <enum GTK_BUTTONBOX_SPREAD of type Gtk.ButtonBoxStyle>, 'EDGE': <enum GTK_BUTTONBOX_EDGE of type Gtk.ButtonBoxStyle>, 'START': <enum GTK_BUTTONBOX_START of type Gtk.ButtonBoxStyle>, 'END': <enum GTK_BUTTONBOX_END of type Gtk.ButtonBoxStyle>, 'CENTER': <enum GTK_BUTTONBOX_CENTER of type Gtk.ButtonBoxStyle>, 'EXPAND': <enum GTK_BUTTONBOX_EXPAND of type Gtk.ButtonBoxStyle>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ButtonBoxStyle' objects>, '__doc__': None, '__gtype__': <GType GtkButtonBoxStyle (93897368210752)>, '__enum_values__': {1: <enum GTK_BUTTONBOX_SPREAD of type Gtk.ButtonBoxStyle>, 2: <enum GTK_BUTTONBOX_EDGE of type Gtk.ButtonBoxStyle>, 3: <enum GTK_BUTTONBOX_START of type Gtk.ButtonBoxStyle>, 4: <enum GTK_BUTTONBOX_END of type Gtk.ButtonBoxStyle>, 5: <enum GTK_BUTTONBOX_CENTER of type Gtk.ButtonBoxStyle>, 6: <enum GTK_BUTTONBOX_EXPAND of type Gtk.ButtonBoxStyle>}, '__info__': gi.EnumInfo(ButtonBoxStyle), 'SPREAD': <enum GTK_BUTTONBOX_SPREAD of type Gtk.ButtonBoxStyle>, 'EDGE': <enum GTK_BUTTONBOX_EDGE of type Gtk.ButtonBoxStyle>, 'START': <enum GTK_BUTTONBOX_START of type Gtk.ButtonBoxStyle>, 'END': <enum GTK_BUTTONBOX_END of type Gtk.ButtonBoxStyle>, 'CENTER': <enum GTK_BUTTONBOX_CENTER of type Gtk.ButtonBoxStyle>, 'EXPAND': <enum GTK_BUTTONBOX_EXPAND of type Gtk.ButtonBoxStyle>})"
     __enum_values__ = {
         1: 1,
         2: 2,
@@ -374,7 +374,7 @@ class ButtonBoxStyle(__gobject.GEnum):
         5: 5,
         6: 6,
     }
-    __gtype__ = None # (!) real value is '<GType GtkButtonBoxStyle (94846037995888)>'
+    __gtype__ = None # (!) real value is '<GType GtkButtonBoxStyle (93897368210752)>'
     __info__ = gi.EnumInfo(ButtonBoxStyle)
 
 

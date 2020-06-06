@@ -142,7 +142,7 @@ class UtilClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(UtilClass), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'UtilClass' objects>, '__weakref__': <attribute '__weakref__' of 'UtilClass' objects>, '__doc__': None, 'parent': <property object at 0x7f0cd81c5b80>, 'add_global_event_listener': <property object at 0x7f0cd81c5cc0>, 'remove_global_event_listener': <property object at 0x7f0cd81c5e00>, 'add_key_event_listener': <property object at 0x7f0cd81c5f40>, 'remove_key_event_listener': <property object at 0x7f0cd81c60e0>, 'get_root': <property object at 0x7f0cd81c61d0>, 'get_toolkit_name': <property object at 0x7f0cd81c6310>, 'get_toolkit_version': <property object at 0x7f0cd81c6450>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(UtilClass), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'UtilClass' objects>, '__weakref__': <attribute '__weakref__' of 'UtilClass' objects>, '__doc__': None, 'parent': <property object at 0x7f44c6d098b0>, 'add_global_event_listener': <property object at 0x7f44c6d099f0>, 'remove_global_event_listener': <property object at 0x7f44c6d09b30>, 'add_key_event_listener': <property object at 0x7f44c6d09c70>, 'remove_key_event_listener': <property object at 0x7f44c6d09db0>, 'get_root': <property object at 0x7f44c6d09ea0>, 'get_toolkit_name': <property object at 0x7f44c6d0a040>, 'get_toolkit_version': <property object at 0x7f44c6d0a180>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(UtilClass)
 

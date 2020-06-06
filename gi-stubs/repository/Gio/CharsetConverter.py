@@ -438,12 +438,12 @@ class CharsetConverter(__gi_overrides_GObject.Object, Converter, Initable):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd6168e0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87788280>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(CharsetConverter), '__module__': 'gi.repository.Gio', '__gtype__': <GType GCharsetConverter (94125581550864)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_num_fallbacks': gi.FunctionInfo(get_num_fallbacks), 'get_use_fallback': gi.FunctionInfo(get_use_fallback), 'set_use_fallback': gi.FunctionInfo(set_use_fallback)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(CharsetConverter), '__module__': 'gi.repository.Gio', '__gtype__': <GType GCharsetConverter (94269256168416)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_num_fallbacks': gi.FunctionInfo(get_num_fallbacks), 'get_use_fallback': gi.FunctionInfo(get_use_fallback), 'set_use_fallback': gi.FunctionInfo(set_use_fallback)})"
     __gdoc__ = 'Object GCharsetConverter\n\nProperties from GCharsetConverter:\n  from-charset -> gchararray: From Charset\n    The character encoding to convert from\n  to-charset -> gchararray: To Charset\n    The character encoding to convert to\n  use-fallback -> gboolean: Fallback enabled\n    Use fallback (of form \\<hexval>) for invalid bytes\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GCharsetConverter (94125581550864)>'
+    __gtype__ = None # (!) real value is '<GType GCharsetConverter (94269256168416)>'
     __info__ = ObjectInfo(CharsetConverter)
 
 

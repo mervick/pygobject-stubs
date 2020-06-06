@@ -366,14 +366,14 @@ class MarkupParseFlags(__gobject.GFlags):
     PREFIX_ERROR_POSITION = 4
     TREAT_CDATA_AS_TEXT = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'MarkupParseFlags' objects>, '__doc__': None, '__gtype__': <GType PyGLibMarkupParseFlags (94243599007360)>, '__flags_values__': {1: <flags G_MARKUP_DO_NOT_USE_THIS_UNSUPPORTED_FLAG of type GLib.MarkupParseFlags>, 2: <flags G_MARKUP_TREAT_CDATA_AS_TEXT of type GLib.MarkupParseFlags>, 4: <flags G_MARKUP_PREFIX_ERROR_POSITION of type GLib.MarkupParseFlags>, 8: <flags G_MARKUP_IGNORE_QUALIFIED of type GLib.MarkupParseFlags>}, '__info__': gi.EnumInfo(MarkupParseFlags), 'DO_NOT_USE_THIS_UNSUPPORTED_FLAG': <flags G_MARKUP_DO_NOT_USE_THIS_UNSUPPORTED_FLAG of type GLib.MarkupParseFlags>, 'TREAT_CDATA_AS_TEXT': <flags G_MARKUP_TREAT_CDATA_AS_TEXT of type GLib.MarkupParseFlags>, 'PREFIX_ERROR_POSITION': <flags G_MARKUP_PREFIX_ERROR_POSITION of type GLib.MarkupParseFlags>, 'IGNORE_QUALIFIED': <flags G_MARKUP_IGNORE_QUALIFIED of type GLib.MarkupParseFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'MarkupParseFlags' objects>, '__doc__': None, '__gtype__': <GType PyGLibMarkupParseFlags (94581033784416)>, '__flags_values__': {1: <flags G_MARKUP_DO_NOT_USE_THIS_UNSUPPORTED_FLAG of type GLib.MarkupParseFlags>, 2: <flags G_MARKUP_TREAT_CDATA_AS_TEXT of type GLib.MarkupParseFlags>, 4: <flags G_MARKUP_PREFIX_ERROR_POSITION of type GLib.MarkupParseFlags>, 8: <flags G_MARKUP_IGNORE_QUALIFIED of type GLib.MarkupParseFlags>}, '__info__': gi.EnumInfo(MarkupParseFlags), 'DO_NOT_USE_THIS_UNSUPPORTED_FLAG': <flags G_MARKUP_DO_NOT_USE_THIS_UNSUPPORTED_FLAG of type GLib.MarkupParseFlags>, 'TREAT_CDATA_AS_TEXT': <flags G_MARKUP_TREAT_CDATA_AS_TEXT of type GLib.MarkupParseFlags>, 'PREFIX_ERROR_POSITION': <flags G_MARKUP_PREFIX_ERROR_POSITION of type GLib.MarkupParseFlags>, 'IGNORE_QUALIFIED': <flags G_MARKUP_IGNORE_QUALIFIED of type GLib.MarkupParseFlags>})"
     __flags_values__ = {
         1: 1,
         2: 2,
         4: 4,
         8: 8,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibMarkupParseFlags (94243599007360)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibMarkupParseFlags (94581033784416)>'
     __info__ = gi.EnumInfo(MarkupParseFlags)
 
 

@@ -138,7 +138,7 @@ class ObjectFactoryClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ObjectFactoryClass), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ObjectFactoryClass' objects>, '__weakref__': <attribute '__weakref__' of 'ObjectFactoryClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f0cd81a4e00>, 'create_accessible': <property object at 0x7f0cd81a4f40>, 'invalidate': <property object at 0x7f0cd81a5040>, 'get_accessible_type': <property object at 0x7f0cd81a5180>, 'pad1': <property object at 0x7f0cd81a5220>, 'pad2': <property object at 0x7f0cd81a5310>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ObjectFactoryClass), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ObjectFactoryClass' objects>, '__weakref__': <attribute '__weakref__' of 'ObjectFactoryClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f44c6dbe1d0>, 'create_accessible': <property object at 0x7f44c6dbe310>, 'invalidate': <property object at 0x7f44c6dbe3b0>, 'get_accessible_type': <property object at 0x7f44c6dbe4f0>, 'pad1': <property object at 0x7f44c6dbe590>, 'pad2': <property object at 0x7f44c6dbe680>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ObjectFactoryClass)
 

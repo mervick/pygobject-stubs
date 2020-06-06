@@ -157,7 +157,7 @@ class _Value__data__union(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': gi.UnionInfo(_Value__data__union), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of '_Value__data__union' objects>, '__weakref__': <attribute '__weakref__' of '_Value__data__union' objects>, '__doc__': None, 'v_int': <property object at 0x7f7c28655590>, 'v_uint': <property object at 0x7f7c28655680>, 'v_long': <property object at 0x7f7c28655770>, 'v_ulong': <property object at 0x7f7c28655860>, 'v_int64': <property object at 0x7f7c28655950>, 'v_uint64': <property object at 0x7f7c28655a40>, 'v_float': <property object at 0x7f7c28655b30>, 'v_double': <property object at 0x7f7c28655c20>, 'v_pointer': <property object at 0x7f7c28655d10>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': gi.UnionInfo(_Value__data__union), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of '_Value__data__union' objects>, '__weakref__': <attribute '__weakref__' of '_Value__data__union' objects>, '__doc__': None, 'v_int': <property object at 0x7fe46b8d05e0>, 'v_uint': <property object at 0x7fe46b8d06d0>, 'v_long': <property object at 0x7fe46b8d07c0>, 'v_ulong': <property object at 0x7fe46b8d08b0>, 'v_int64': <property object at 0x7fe46b8d09a0>, 'v_uint64': <property object at 0x7fe46b8d0a90>, 'v_float': <property object at 0x7fe46b8d0b80>, 'v_double': <property object at 0x7fe46b8d0c70>, 'v_pointer': <property object at 0x7fe46b8d0d60>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = gi.UnionInfo(_Value__data__union)
 

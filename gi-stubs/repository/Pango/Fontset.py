@@ -430,12 +430,12 @@ class Fontset(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f2474649250>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f8517732070>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Fontset), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoFontset (94752681140368)>, '__doc__': None, '__gsignals__': {}, 'foreach': gi.FunctionInfo(foreach), 'get_font': gi.FunctionInfo(get_font), 'get_metrics': gi.FunctionInfo(get_metrics), 'do_foreach': gi.VFuncInfo(foreach), 'do_get_font': gi.VFuncInfo(get_font), 'do_get_language': gi.VFuncInfo(get_language), 'do_get_metrics': gi.VFuncInfo(get_metrics), 'parent_instance': <property object at 0x7f24746f37c0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Fontset), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoFontset (94187429444432)>, '__doc__': None, '__gsignals__': {}, 'foreach': gi.FunctionInfo(foreach), 'get_font': gi.FunctionInfo(get_font), 'get_metrics': gi.FunctionInfo(get_metrics), 'do_foreach': gi.VFuncInfo(foreach), 'do_get_font': gi.VFuncInfo(get_font), 'do_get_language': gi.VFuncInfo(get_language), 'do_get_metrics': gi.VFuncInfo(get_metrics), 'parent_instance': <property object at 0x7f851789a540>})"
     __gdoc__ = 'Object PangoFontset\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType PangoFontset (94752681140368)>'
+    __gtype__ = None # (!) real value is '<GType PangoFontset (94187429444432)>'
     __info__ = ObjectInfo(Fontset)
 
 

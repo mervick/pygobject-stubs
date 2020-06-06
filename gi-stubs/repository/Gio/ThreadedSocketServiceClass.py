@@ -136,7 +136,7 @@ class ThreadedSocketServiceClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ThreadedSocketServiceClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ThreadedSocketServiceClass' objects>, '__weakref__': <attribute '__weakref__' of 'ThreadedSocketServiceClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28dde6f950>, 'run': <property object at 0x7f28dde6fa40>, '_g_reserved1': <property object at 0x7f28dde6fb30>, '_g_reserved2': <property object at 0x7f28dde6fc20>, '_g_reserved3': <property object at 0x7f28dde6fd10>, '_g_reserved4': <property object at 0x7f28dde6fe00>, '_g_reserved5': <property object at 0x7f28dde6fef0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ThreadedSocketServiceClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ThreadedSocketServiceClass' objects>, '__weakref__': <attribute '__weakref__' of 'ThreadedSocketServiceClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b87fd2ae0>, 'run': <property object at 0x7f4b87fd2bd0>, '_g_reserved1': <property object at 0x7f4b87fd2cc0>, '_g_reserved2': <property object at 0x7f4b87fd2db0>, '_g_reserved3': <property object at 0x7f4b87fd2ea0>, '_g_reserved4': <property object at 0x7f4b87fd2f90>, '_g_reserved5': <property object at 0x7f4b87fd40e0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ThreadedSocketServiceClass)
 

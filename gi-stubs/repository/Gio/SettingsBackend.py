@@ -474,12 +474,12 @@ class SettingsBackend(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dcf9c760>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b870fbeb0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SettingsBackend), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSettingsBackend (94125582682112)>, '__doc__': None, '__gsignals__': {}, 'flatten_tree': gi.FunctionInfo(flatten_tree), 'get_default': gi.FunctionInfo(get_default), 'changed': gi.FunctionInfo(changed), 'changed_tree': gi.FunctionInfo(changed_tree), 'keys_changed': gi.FunctionInfo(keys_changed), 'path_changed': gi.FunctionInfo(path_changed), 'path_writable_changed': gi.FunctionInfo(path_writable_changed), 'writable_changed': gi.FunctionInfo(writable_changed), 'do_get_writable': gi.VFuncInfo(get_writable), 'do_read': gi.VFuncInfo(read), 'do_read_user_value': gi.VFuncInfo(read_user_value), 'do_reset': gi.VFuncInfo(reset), 'do_subscribe': gi.VFuncInfo(subscribe), 'do_sync': gi.VFuncInfo(sync), 'do_unsubscribe': gi.VFuncInfo(unsubscribe), 'do_write': gi.VFuncInfo(write), 'do_write_tree': gi.VFuncInfo(write_tree), 'parent_instance': <property object at 0x7f28dde503b0>, 'priv': <property object at 0x7f28dde504a0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SettingsBackend), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSettingsBackend (94269257310048)>, '__doc__': None, '__gsignals__': {}, 'flatten_tree': gi.FunctionInfo(flatten_tree), 'get_default': gi.FunctionInfo(get_default), 'changed': gi.FunctionInfo(changed), 'changed_tree': gi.FunctionInfo(changed_tree), 'keys_changed': gi.FunctionInfo(keys_changed), 'path_changed': gi.FunctionInfo(path_changed), 'path_writable_changed': gi.FunctionInfo(path_writable_changed), 'writable_changed': gi.FunctionInfo(writable_changed), 'do_get_writable': gi.VFuncInfo(get_writable), 'do_read': gi.VFuncInfo(read), 'do_read_user_value': gi.VFuncInfo(read_user_value), 'do_reset': gi.VFuncInfo(reset), 'do_subscribe': gi.VFuncInfo(subscribe), 'do_sync': gi.VFuncInfo(sync), 'do_unsubscribe': gi.VFuncInfo(unsubscribe), 'do_write': gi.VFuncInfo(write), 'do_write_tree': gi.VFuncInfo(write_tree), 'parent_instance': <property object at 0x7f4b8803c270>, 'priv': <property object at 0x7f4b87fb1680>})"
     __gdoc__ = 'Object GSettingsBackend\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GSettingsBackend (94125582682112)>'
+    __gtype__ = None # (!) real value is '<GType GSettingsBackend (94269257310048)>'
     __info__ = ObjectInfo(SettingsBackend)
 
 

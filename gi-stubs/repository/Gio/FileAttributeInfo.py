@@ -128,7 +128,7 @@ class FileAttributeInfo(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FileAttributeInfo), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FileAttributeInfo' objects>, '__weakref__': <attribute '__weakref__' of 'FileAttributeInfo' objects>, '__doc__': None, 'name': <property object at 0x7f28ddef4950>, 'type': <property object at 0x7f28ddef4a40>, 'flags': <property object at 0x7f28ddef4b30>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FileAttributeInfo), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FileAttributeInfo' objects>, '__weakref__': <attribute '__weakref__' of 'FileAttributeInfo' objects>, '__doc__': None, 'name': <property object at 0x7f4b88056950>, 'type': <property object at 0x7f4b88056a40>, 'flags': <property object at 0x7f4b88056b30>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(FileAttributeInfo)
 

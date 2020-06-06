@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -358,13 +358,13 @@ class InputMode(__gobject.GEnum):
     SCREEN = 1
     WINDOW = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'InputMode' objects>, '__doc__': None, '__gtype__': <GType GdkInputMode (94055650960096)>, '__enum_values__': {0: <enum GDK_MODE_DISABLED of type Gdk.InputMode>, 1: <enum GDK_MODE_SCREEN of type Gdk.InputMode>, 2: <enum GDK_MODE_WINDOW of type Gdk.InputMode>}, '__info__': gi.EnumInfo(InputMode), 'DISABLED': <enum GDK_MODE_DISABLED of type Gdk.InputMode>, 'SCREEN': <enum GDK_MODE_SCREEN of type Gdk.InputMode>, 'WINDOW': <enum GDK_MODE_WINDOW of type Gdk.InputMode>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'InputMode' objects>, '__doc__': None, '__gtype__': <GType GdkInputMode (94915768525376)>, '__enum_values__': {0: <enum GDK_MODE_DISABLED of type Gdk.InputMode>, 1: <enum GDK_MODE_SCREEN of type Gdk.InputMode>, 2: <enum GDK_MODE_WINDOW of type Gdk.InputMode>}, '__info__': gi.EnumInfo(InputMode), 'DISABLED': <enum GDK_MODE_DISABLED of type Gdk.InputMode>, 'SCREEN': <enum GDK_MODE_SCREEN of type Gdk.InputMode>, 'WINDOW': <enum GDK_MODE_WINDOW of type Gdk.InputMode>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GdkInputMode (94055650960096)>'
+    __gtype__ = None # (!) real value is '<GType GdkInputMode (94915768525376)>'
     __info__ = gi.EnumInfo(InputMode)
 
 

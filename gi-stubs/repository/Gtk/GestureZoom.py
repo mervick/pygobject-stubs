@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -512,12 +512,12 @@ class GestureZoom(Gesture):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe830bb6580>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc63a8594f0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(GestureZoom), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkGestureZoom (94846038441248)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_scale_delta': gi.FunctionInfo(get_scale_delta)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(GestureZoom), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkGestureZoom (93897368655136)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_scale_delta': gi.FunctionInfo(get_scale_delta)})"
     __gdoc__ = 'Object GtkGestureZoom\n\nSignals from GtkGestureZoom:\n  scale-changed (gdouble)\n\nSignals from GtkGesture:\n  update (GdkEventSequence)\n  cancel (GdkEventSequence)\n  begin (GdkEventSequence)\n  end (GdkEventSequence)\n  sequence-state-changed (GdkEventSequence, GtkEventSequenceState)\n\nProperties from GtkGesture:\n  n-points -> guint: Number of points\n    Number of points needed to trigger the gesture\n  window -> GdkWindow: GdkWindow to receive events about\n    GdkWindow to receive events about\n\nProperties from GtkEventController:\n  widget -> GtkWidget: Widget\n    Widget the gesture relates to\n  propagation-phase -> GtkPropagationPhase: Propagation phase\n    Propagation phase at which this controller is run\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkGestureZoom (94846038441248)>'
+    __gtype__ = None # (!) real value is '<GType GtkGestureZoom (93897368655136)>'
     __info__ = ObjectInfo(GestureZoom)
 
 

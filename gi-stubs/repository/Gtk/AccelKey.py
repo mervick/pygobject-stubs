@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -131,7 +131,7 @@ class AccelKey(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AccelKey), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AccelKey' objects>, '__weakref__': <attribute '__weakref__' of 'AccelKey' objects>, '__doc__': None, 'accel_key': <property object at 0x7fe8310e44a0>, 'accel_mods': <property object at 0x7fe8310e4590>, 'accel_flags': <property object at 0x7fe8310e4680>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AccelKey), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AccelKey' objects>, '__weakref__': <attribute '__weakref__' of 'AccelKey' objects>, '__doc__': None, 'accel_key': <property object at 0x7fc63a7fb360>, 'accel_mods': <property object at 0x7fc63a7fb450>, 'accel_flags': <property object at 0x7fc63a7fb540>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(AccelKey)
 

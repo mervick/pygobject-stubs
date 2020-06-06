@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -213,8 +213,8 @@ class TreePath(TreePath):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', '__new__': <staticmethod object at 0x7fe831247490>, '__init__': <function TreePath.__init__ at 0x7fe831249430>, '__str__': <function TreePath.__str__ at 0x7fe8312494c0>, '__lt__': <function TreePath.__lt__ at 0x7fe831249550>, '__le__': <function TreePath.__le__ at 0x7fe8312495e0>, '__eq__': <function TreePath.__eq__ at 0x7fe831249670>, '__ne__': <function TreePath.__ne__ at 0x7fe831249700>, '__gt__': <function TreePath.__gt__ at 0x7fe831249790>, '__ge__': <function TreePath.__ge__ at 0x7fe831249820>, '__iter__': <function TreePath.__iter__ at 0x7fe8312498b0>, '__len__': <function TreePath.__len__ at 0x7fe831249940>, '__getitem__': <function TreePath.__getitem__ at 0x7fe8312499d0>, '__doc__': None, '__hash__': None})"
-    __gtype__ = None # (!) real value is '<GType GtkTreePath (94846037025056)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', '__new__': <staticmethod object at 0x7fc63a961880>, '__init__': <function TreePath.__init__ at 0x7fc63a966c10>, '__str__': <function TreePath.__str__ at 0x7fc63a966ca0>, '__lt__': <function TreePath.__lt__ at 0x7fc63a966d30>, '__le__': <function TreePath.__le__ at 0x7fc63a966dc0>, '__eq__': <function TreePath.__eq__ at 0x7fc63a966e50>, '__ne__': <function TreePath.__ne__ at 0x7fc63a966ee0>, '__gt__': <function TreePath.__gt__ at 0x7fc63a966f70>, '__ge__': <function TreePath.__ge__ at 0x7fc63a969040>, '__iter__': <function TreePath.__iter__ at 0x7fc63a9690d0>, '__len__': <function TreePath.__len__ at 0x7fc63a969160>, '__getitem__': <function TreePath.__getitem__ at 0x7fc63a9691f0>, '__doc__': None, '__hash__': None})"
+    __gtype__ = None # (!) real value is '<GType GtkTreePath (93897367235744)>'
     __hash__ = None
     __info__ = StructInfo(TreePath)
 

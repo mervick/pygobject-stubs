@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -155,7 +155,7 @@ class EntryBufferClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EntryBufferClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EntryBufferClass' objects>, '__weakref__': <attribute '__weakref__' of 'EntryBufferClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe831076c70>, 'inserted_text': <property object at 0x7fe831076d60>, 'deleted_text': <property object at 0x7fe831076e50>, 'get_text': <property object at 0x7fe831076f40>, 'get_length': <property object at 0x7fe831078090>, 'insert_text': <property object at 0x7fe831078130>, 'delete_text': <property object at 0x7fe831078220>, '_gtk_reserved1': <property object at 0x7fe831078310>, '_gtk_reserved2': <property object at 0x7fe831078400>, '_gtk_reserved3': <property object at 0x7fe8310784f0>, '_gtk_reserved4': <property object at 0x7fe8310785e0>, '_gtk_reserved5': <property object at 0x7fe8310786d0>, '_gtk_reserved6': <property object at 0x7fe8310787c0>, '_gtk_reserved7': <property object at 0x7fe8310788b0>, '_gtk_reserved8': <property object at 0x7fe8310789a0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EntryBufferClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EntryBufferClass' objects>, '__weakref__': <attribute '__weakref__' of 'EntryBufferClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a7899f0>, 'inserted_text': <property object at 0x7fc63a789ae0>, 'deleted_text': <property object at 0x7fc63a789b80>, 'get_text': <property object at 0x7fc63a789c70>, 'get_length': <property object at 0x7fc63a789d60>, 'insert_text': <property object at 0x7fc63a789e50>, 'delete_text': <property object at 0x7fc63a789f40>, '_gtk_reserved1': <property object at 0x7fc63a78e090>, '_gtk_reserved2': <property object at 0x7fc63a78e180>, '_gtk_reserved3': <property object at 0x7fc63a78e270>, '_gtk_reserved4': <property object at 0x7fc63a78e360>, '_gtk_reserved5': <property object at 0x7fc63a78e450>, '_gtk_reserved6': <property object at 0x7fc63a78e540>, '_gtk_reserved7': <property object at 0x7fc63a78e630>, '_gtk_reserved8': <property object at 0x7fc63a78e720>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(EntryBufferClass)
 

@@ -261,8 +261,8 @@ class FontDescription(FontDescription):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Pango', '__new__': <staticmethod object at 0x7f2474989340>, '__init__': <function FontDescription.__init__ at 0x7f24749883a0>, '__doc__': None})"
-    __gtype__ = None # (!) real value is '<GType PangoFontDescription (94752679259056)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Pango', '__new__': <staticmethod object at 0x7f8517b31730>, '__init__': <function FontDescription.__init__ at 0x7f8517b26b80>, '__doc__': None})"
+    __gtype__ = None # (!) real value is '<GType PangoFontDescription (94187428837216)>'
     __info__ = StructInfo(FontDescription)
 
 

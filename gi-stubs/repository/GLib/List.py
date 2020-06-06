@@ -129,7 +129,7 @@ class List(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(List), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'List' objects>, '__weakref__': <attribute '__weakref__' of 'List' objects>, '__doc__': None, 'data': <property object at 0x7f1d2b8ea360>, 'next': <property object at 0x7f1d2b8ea450>, 'prev': <property object at 0x7f1d2b8ea540>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(List), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'List' objects>, '__weakref__': <attribute '__weakref__' of 'List' objects>, '__doc__': None, 'data': <property object at 0x7f85134e8270>, 'next': <property object at 0x7f85134e8360>, 'prev': <property object at 0x7f85134e8450>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(List)
 

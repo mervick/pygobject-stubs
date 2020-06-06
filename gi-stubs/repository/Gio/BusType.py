@@ -360,14 +360,14 @@ class BusType(__gobject.GEnum):
     STARTER = -1
     SYSTEM = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'BusType' objects>, '__doc__': None, '__gtype__': <GType GBusType (94125581856768)>, '__enum_values__': {-1: <enum G_BUS_TYPE_STARTER of type Gio.BusType>, 0: <enum G_BUS_TYPE_NONE of type Gio.BusType>, 1: <enum G_BUS_TYPE_SYSTEM of type Gio.BusType>, 2: <enum G_BUS_TYPE_SESSION of type Gio.BusType>}, '__info__': gi.EnumInfo(BusType), 'STARTER': <enum G_BUS_TYPE_STARTER of type Gio.BusType>, 'NONE': <enum G_BUS_TYPE_NONE of type Gio.BusType>, 'SYSTEM': <enum G_BUS_TYPE_SYSTEM of type Gio.BusType>, 'SESSION': <enum G_BUS_TYPE_SESSION of type Gio.BusType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'BusType' objects>, '__doc__': None, '__gtype__': <GType GBusType (94269255364608)>, '__enum_values__': {-1: <enum G_BUS_TYPE_STARTER of type Gio.BusType>, 0: <enum G_BUS_TYPE_NONE of type Gio.BusType>, 1: <enum G_BUS_TYPE_SYSTEM of type Gio.BusType>, 2: <enum G_BUS_TYPE_SESSION of type Gio.BusType>}, '__info__': gi.EnumInfo(BusType), 'STARTER': <enum G_BUS_TYPE_STARTER of type Gio.BusType>, 'NONE': <enum G_BUS_TYPE_NONE of type Gio.BusType>, 'SYSTEM': <enum G_BUS_TYPE_SYSTEM of type Gio.BusType>, 'SESSION': <enum G_BUS_TYPE_SESSION of type Gio.BusType>})"
     __enum_values__ = {
         -1: -1,
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GBusType (94125581856768)>'
+    __gtype__ = None # (!) real value is '<GType GBusType (94269255364608)>'
     __info__ = gi.EnumInfo(BusType)
 
 

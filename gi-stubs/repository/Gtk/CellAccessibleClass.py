@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -129,7 +129,7 @@ class CellAccessibleClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(CellAccessibleClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'CellAccessibleClass' objects>, '__weakref__': <attribute '__weakref__' of 'CellAccessibleClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe8310b2ef0>, 'update_cache': <property object at 0x7fe8310b4040>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(CellAccessibleClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'CellAccessibleClass' objects>, '__weakref__': <attribute '__weakref__' of 'CellAccessibleClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a7c7e50>, 'update_cache': <property object at 0x7fc63a7c7f40>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(CellAccessibleClass)
 

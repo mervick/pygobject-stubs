@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,14 +363,14 @@ class PanDirection(__gobject.GEnum):
     RIGHT = 1
     UP = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PanDirection' objects>, '__doc__': None, '__gtype__': <GType GtkPanDirection (94846038831680)>, '__enum_values__': {0: <enum GTK_PAN_DIRECTION_LEFT of type Gtk.PanDirection>, 1: <enum GTK_PAN_DIRECTION_RIGHT of type Gtk.PanDirection>, 2: <enum GTK_PAN_DIRECTION_UP of type Gtk.PanDirection>, 3: <enum GTK_PAN_DIRECTION_DOWN of type Gtk.PanDirection>}, '__info__': gi.EnumInfo(PanDirection), 'LEFT': <enum GTK_PAN_DIRECTION_LEFT of type Gtk.PanDirection>, 'RIGHT': <enum GTK_PAN_DIRECTION_RIGHT of type Gtk.PanDirection>, 'UP': <enum GTK_PAN_DIRECTION_UP of type Gtk.PanDirection>, 'DOWN': <enum GTK_PAN_DIRECTION_DOWN of type Gtk.PanDirection>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PanDirection' objects>, '__doc__': None, '__gtype__': <GType GtkPanDirection (93897369027424)>, '__enum_values__': {0: <enum GTK_PAN_DIRECTION_LEFT of type Gtk.PanDirection>, 1: <enum GTK_PAN_DIRECTION_RIGHT of type Gtk.PanDirection>, 2: <enum GTK_PAN_DIRECTION_UP of type Gtk.PanDirection>, 3: <enum GTK_PAN_DIRECTION_DOWN of type Gtk.PanDirection>}, '__info__': gi.EnumInfo(PanDirection), 'LEFT': <enum GTK_PAN_DIRECTION_LEFT of type Gtk.PanDirection>, 'RIGHT': <enum GTK_PAN_DIRECTION_RIGHT of type Gtk.PanDirection>, 'UP': <enum GTK_PAN_DIRECTION_UP of type Gtk.PanDirection>, 'DOWN': <enum GTK_PAN_DIRECTION_DOWN of type Gtk.PanDirection>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkPanDirection (94846038831680)>'
+    __gtype__ = None # (!) real value is '<GType GtkPanDirection (93897369027424)>'
     __info__ = gi.EnumInfo(PanDirection)
 
 

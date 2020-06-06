@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -370,7 +370,7 @@ class RecentManagerError(__gobject.GEnum):
     UNKNOWN = 6
     WRITE = 5
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'RecentManagerError' objects>, '__doc__': None, '__gtype__': <GType GtkRecentManagerError (94846039078624)>, '__enum_values__': {0: <enum GTK_RECENT_MANAGER_ERROR_NOT_FOUND of type Gtk.RecentManagerError>, 1: <enum GTK_RECENT_MANAGER_ERROR_INVALID_URI of type Gtk.RecentManagerError>, 2: <enum GTK_RECENT_MANAGER_ERROR_INVALID_ENCODING of type Gtk.RecentManagerError>, 3: <enum GTK_RECENT_MANAGER_ERROR_NOT_REGISTERED of type Gtk.RecentManagerError>, 4: <enum GTK_RECENT_MANAGER_ERROR_READ of type Gtk.RecentManagerError>, 5: <enum GTK_RECENT_MANAGER_ERROR_WRITE of type Gtk.RecentManagerError>, 6: <enum GTK_RECENT_MANAGER_ERROR_UNKNOWN of type Gtk.RecentManagerError>}, '__info__': gi.EnumInfo(RecentManagerError), 'NOT_FOUND': <enum GTK_RECENT_MANAGER_ERROR_NOT_FOUND of type Gtk.RecentManagerError>, 'INVALID_URI': <enum GTK_RECENT_MANAGER_ERROR_INVALID_URI of type Gtk.RecentManagerError>, 'INVALID_ENCODING': <enum GTK_RECENT_MANAGER_ERROR_INVALID_ENCODING of type Gtk.RecentManagerError>, 'NOT_REGISTERED': <enum GTK_RECENT_MANAGER_ERROR_NOT_REGISTERED of type Gtk.RecentManagerError>, 'READ': <enum GTK_RECENT_MANAGER_ERROR_READ of type Gtk.RecentManagerError>, 'WRITE': <enum GTK_RECENT_MANAGER_ERROR_WRITE of type Gtk.RecentManagerError>, 'UNKNOWN': <enum GTK_RECENT_MANAGER_ERROR_UNKNOWN of type Gtk.RecentManagerError>, 'quark': gi.FunctionInfo(quark)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'RecentManagerError' objects>, '__doc__': None, '__gtype__': <GType GtkRecentManagerError (93897369289808)>, '__enum_values__': {0: <enum GTK_RECENT_MANAGER_ERROR_NOT_FOUND of type Gtk.RecentManagerError>, 1: <enum GTK_RECENT_MANAGER_ERROR_INVALID_URI of type Gtk.RecentManagerError>, 2: <enum GTK_RECENT_MANAGER_ERROR_INVALID_ENCODING of type Gtk.RecentManagerError>, 3: <enum GTK_RECENT_MANAGER_ERROR_NOT_REGISTERED of type Gtk.RecentManagerError>, 4: <enum GTK_RECENT_MANAGER_ERROR_READ of type Gtk.RecentManagerError>, 5: <enum GTK_RECENT_MANAGER_ERROR_WRITE of type Gtk.RecentManagerError>, 6: <enum GTK_RECENT_MANAGER_ERROR_UNKNOWN of type Gtk.RecentManagerError>}, '__info__': gi.EnumInfo(RecentManagerError), 'NOT_FOUND': <enum GTK_RECENT_MANAGER_ERROR_NOT_FOUND of type Gtk.RecentManagerError>, 'INVALID_URI': <enum GTK_RECENT_MANAGER_ERROR_INVALID_URI of type Gtk.RecentManagerError>, 'INVALID_ENCODING': <enum GTK_RECENT_MANAGER_ERROR_INVALID_ENCODING of type Gtk.RecentManagerError>, 'NOT_REGISTERED': <enum GTK_RECENT_MANAGER_ERROR_NOT_REGISTERED of type Gtk.RecentManagerError>, 'READ': <enum GTK_RECENT_MANAGER_ERROR_READ of type Gtk.RecentManagerError>, 'WRITE': <enum GTK_RECENT_MANAGER_ERROR_WRITE of type Gtk.RecentManagerError>, 'UNKNOWN': <enum GTK_RECENT_MANAGER_ERROR_UNKNOWN of type Gtk.RecentManagerError>, 'quark': gi.FunctionInfo(quark)})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -380,7 +380,7 @@ class RecentManagerError(__gobject.GEnum):
         5: 5,
         6: 6,
     }
-    __gtype__ = None # (!) real value is '<GType GtkRecentManagerError (94846039078624)>'
+    __gtype__ = None # (!) real value is '<GType GtkRecentManagerError (93897369289808)>'
     __info__ = gi.EnumInfo(RecentManagerError)
 
 

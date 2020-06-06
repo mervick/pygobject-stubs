@@ -129,7 +129,7 @@ class LogField(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(LogField), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'LogField' objects>, '__weakref__': <attribute '__weakref__' of 'LogField' objects>, '__doc__': None, 'key': <property object at 0x7f1d2b8ea720>, 'value': <property object at 0x7f1d2b8ea810>, 'length': <property object at 0x7f1d2b8ea900>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(LogField), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'LogField' objects>, '__weakref__': <attribute '__weakref__' of 'LogField' objects>, '__doc__': None, 'key': <property object at 0x7f85134e8630>, 'value': <property object at 0x7f85134e8720>, 'length': <property object at 0x7f85134e8810>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(LogField)
 

@@ -362,11 +362,11 @@ class TestDBusFlags(__gobject.GFlags):
 
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'TestDBusFlags' objects>, '__doc__': None, '__gtype__': <GType GTestDBusFlags (94125582838832)>, '__flags_values__': {0: <flags 0 of type Gio.TestDBusFlags>}, '__info__': gi.EnumInfo(TestDBusFlags), 'NONE': <flags 0 of type Gio.TestDBusFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'TestDBusFlags' objects>, '__doc__': None, '__gtype__': <GType GTestDBusFlags (94269257471024)>, '__flags_values__': {0: <flags 0 of type Gio.TestDBusFlags>}, '__info__': gi.EnumInfo(TestDBusFlags), 'NONE': <flags 0 of type Gio.TestDBusFlags>})"
     __flags_values__ = {
         0: 0,
     }
-    __gtype__ = None # (!) real value is '<GType GTestDBusFlags (94125582838832)>'
+    __gtype__ = None # (!) real value is '<GType GTestDBusFlags (94269257471024)>'
     __info__ = gi.EnumInfo(TestDBusFlags)
 
 

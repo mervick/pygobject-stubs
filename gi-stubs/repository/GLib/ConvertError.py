@@ -365,7 +365,7 @@ class ConvertError(__gobject.GEnum):
     NO_MEMORY = 6
     PARTIAL_INPUT = 3
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'ConvertError' objects>, '__doc__': None, '__gtype__': <GType PyGLibConvertError (94243598447056)>, '__enum_values__': {0: <enum G_CONVERT_ERROR_NO_CONVERSION of type GLib.ConvertError>, 1: <enum G_CONVERT_ERROR_ILLEGAL_SEQUENCE of type GLib.ConvertError>, 2: <enum G_CONVERT_ERROR_FAILED of type GLib.ConvertError>, 3: <enum G_CONVERT_ERROR_PARTIAL_INPUT of type GLib.ConvertError>, 4: <enum G_CONVERT_ERROR_BAD_URI of type GLib.ConvertError>, 5: <enum G_CONVERT_ERROR_NOT_ABSOLUTE_PATH of type GLib.ConvertError>, 6: <enum G_CONVERT_ERROR_NO_MEMORY of type GLib.ConvertError>, 7: <enum G_CONVERT_ERROR_EMBEDDED_NUL of type GLib.ConvertError>}, '__info__': gi.EnumInfo(ConvertError), 'NO_CONVERSION': <enum G_CONVERT_ERROR_NO_CONVERSION of type GLib.ConvertError>, 'ILLEGAL_SEQUENCE': <enum G_CONVERT_ERROR_ILLEGAL_SEQUENCE of type GLib.ConvertError>, 'FAILED': <enum G_CONVERT_ERROR_FAILED of type GLib.ConvertError>, 'PARTIAL_INPUT': <enum G_CONVERT_ERROR_PARTIAL_INPUT of type GLib.ConvertError>, 'BAD_URI': <enum G_CONVERT_ERROR_BAD_URI of type GLib.ConvertError>, 'NOT_ABSOLUTE_PATH': <enum G_CONVERT_ERROR_NOT_ABSOLUTE_PATH of type GLib.ConvertError>, 'NO_MEMORY': <enum G_CONVERT_ERROR_NO_MEMORY of type GLib.ConvertError>, 'EMBEDDED_NUL': <enum G_CONVERT_ERROR_EMBEDDED_NUL of type GLib.ConvertError>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'ConvertError' objects>, '__doc__': None, '__gtype__': <GType PyGLibConvertError (94581033015264)>, '__enum_values__': {0: <enum G_CONVERT_ERROR_NO_CONVERSION of type GLib.ConvertError>, 1: <enum G_CONVERT_ERROR_ILLEGAL_SEQUENCE of type GLib.ConvertError>, 2: <enum G_CONVERT_ERROR_FAILED of type GLib.ConvertError>, 3: <enum G_CONVERT_ERROR_PARTIAL_INPUT of type GLib.ConvertError>, 4: <enum G_CONVERT_ERROR_BAD_URI of type GLib.ConvertError>, 5: <enum G_CONVERT_ERROR_NOT_ABSOLUTE_PATH of type GLib.ConvertError>, 6: <enum G_CONVERT_ERROR_NO_MEMORY of type GLib.ConvertError>, 7: <enum G_CONVERT_ERROR_EMBEDDED_NUL of type GLib.ConvertError>}, '__info__': gi.EnumInfo(ConvertError), 'NO_CONVERSION': <enum G_CONVERT_ERROR_NO_CONVERSION of type GLib.ConvertError>, 'ILLEGAL_SEQUENCE': <enum G_CONVERT_ERROR_ILLEGAL_SEQUENCE of type GLib.ConvertError>, 'FAILED': <enum G_CONVERT_ERROR_FAILED of type GLib.ConvertError>, 'PARTIAL_INPUT': <enum G_CONVERT_ERROR_PARTIAL_INPUT of type GLib.ConvertError>, 'BAD_URI': <enum G_CONVERT_ERROR_BAD_URI of type GLib.ConvertError>, 'NOT_ABSOLUTE_PATH': <enum G_CONVERT_ERROR_NOT_ABSOLUTE_PATH of type GLib.ConvertError>, 'NO_MEMORY': <enum G_CONVERT_ERROR_NO_MEMORY of type GLib.ConvertError>, 'EMBEDDED_NUL': <enum G_CONVERT_ERROR_EMBEDDED_NUL of type GLib.ConvertError>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -376,7 +376,7 @@ class ConvertError(__gobject.GEnum):
         6: 6,
         7: 7,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibConvertError (94243598447056)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibConvertError (94581033015264)>'
     __info__ = gi.EnumInfo(ConvertError)
 
 

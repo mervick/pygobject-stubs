@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -357,12 +357,12 @@ class PropertyState(__gobject.GEnum):
     DELETE = 1
     NEW_VALUE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'PropertyState' objects>, '__doc__': None, '__gtype__': <GType GdkPropertyState (94055651836896)>, '__enum_values__': {0: <enum GDK_PROPERTY_NEW_VALUE of type Gdk.PropertyState>, 1: <enum GDK_PROPERTY_DELETE of type Gdk.PropertyState>}, '__info__': gi.EnumInfo(PropertyState), 'NEW_VALUE': <enum GDK_PROPERTY_NEW_VALUE of type Gdk.PropertyState>, 'DELETE': <enum GDK_PROPERTY_DELETE of type Gdk.PropertyState>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'PropertyState' objects>, '__doc__': None, '__gtype__': <GType GdkPropertyState (94915769413616)>, '__enum_values__': {0: <enum GDK_PROPERTY_NEW_VALUE of type Gdk.PropertyState>, 1: <enum GDK_PROPERTY_DELETE of type Gdk.PropertyState>}, '__info__': gi.EnumInfo(PropertyState), 'NEW_VALUE': <enum GDK_PROPERTY_NEW_VALUE of type Gdk.PropertyState>, 'DELETE': <enum GDK_PROPERTY_DELETE of type Gdk.PropertyState>})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GdkPropertyState (94055651836896)>'
+    __gtype__ = None # (!) real value is '<GType GdkPropertyState (94915769413616)>'
     __info__ = gi.EnumInfo(PropertyState)
 
 

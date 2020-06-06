@@ -368,7 +368,7 @@ class IOCondition(__gobject.GFlags):
     OUT = 4
     PRI = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'IOCondition' objects>, '__doc__': None, '__gtype__': <GType GIOCondition (94243598242256)>, '__flags_values__': {1: <flags G_IO_IN of type GLib.IOCondition>, 4: <flags G_IO_OUT of type GLib.IOCondition>, 2: <flags G_IO_PRI of type GLib.IOCondition>, 8: <flags G_IO_ERR of type GLib.IOCondition>, 16: <flags G_IO_HUP of type GLib.IOCondition>, 32: <flags G_IO_NVAL of type GLib.IOCondition>}, '__info__': gi.EnumInfo(IOCondition), 'IN': <flags G_IO_IN of type GLib.IOCondition>, 'OUT': <flags G_IO_OUT of type GLib.IOCondition>, 'PRI': <flags G_IO_PRI of type GLib.IOCondition>, 'ERR': <flags G_IO_ERR of type GLib.IOCondition>, 'HUP': <flags G_IO_HUP of type GLib.IOCondition>, 'NVAL': <flags G_IO_NVAL of type GLib.IOCondition>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'IOCondition' objects>, '__doc__': None, '__gtype__': <GType GIOCondition (94581033016896)>, '__flags_values__': {1: <flags G_IO_IN of type GLib.IOCondition>, 4: <flags G_IO_OUT of type GLib.IOCondition>, 2: <flags G_IO_PRI of type GLib.IOCondition>, 8: <flags G_IO_ERR of type GLib.IOCondition>, 16: <flags G_IO_HUP of type GLib.IOCondition>, 32: <flags G_IO_NVAL of type GLib.IOCondition>}, '__info__': gi.EnumInfo(IOCondition), 'IN': <flags G_IO_IN of type GLib.IOCondition>, 'OUT': <flags G_IO_OUT of type GLib.IOCondition>, 'PRI': <flags G_IO_PRI of type GLib.IOCondition>, 'ERR': <flags G_IO_ERR of type GLib.IOCondition>, 'HUP': <flags G_IO_HUP of type GLib.IOCondition>, 'NVAL': <flags G_IO_NVAL of type GLib.IOCondition>})"
     __flags_values__ = {
         1: 1,
         2: 2,
@@ -377,7 +377,7 @@ class IOCondition(__gobject.GFlags):
         16: 16,
         32: 32,
     }
-    __gtype__ = None # (!) real value is '<GType GIOCondition (94243598242256)>'
+    __gtype__ = None # (!) real value is '<GType GIOCondition (94581033016896)>'
     __info__ = gi.EnumInfo(IOCondition)
 
 

@@ -364,13 +364,13 @@ class ConverterFlags(__gobject.GFlags):
     INPUT_AT_END = 1
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'ConverterFlags' objects>, '__doc__': None, '__gtype__': <GType GConverterFlags (94125580906320)>, '__flags_values__': {0: <flags 0 of type Gio.ConverterFlags>, 1: <flags G_CONVERTER_INPUT_AT_END of type Gio.ConverterFlags>, 2: <flags G_CONVERTER_FLUSH of type Gio.ConverterFlags>}, '__info__': gi.EnumInfo(ConverterFlags), 'NONE': <flags 0 of type Gio.ConverterFlags>, 'INPUT_AT_END': <flags G_CONVERTER_INPUT_AT_END of type Gio.ConverterFlags>, 'FLUSH': <flags G_CONVERTER_FLUSH of type Gio.ConverterFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'ConverterFlags' objects>, '__doc__': None, '__gtype__': <GType GConverterFlags (94269256688720)>, '__flags_values__': {0: <flags 0 of type Gio.ConverterFlags>, 1: <flags G_CONVERTER_INPUT_AT_END of type Gio.ConverterFlags>, 2: <flags G_CONVERTER_FLUSH of type Gio.ConverterFlags>}, '__info__': gi.EnumInfo(ConverterFlags), 'NONE': <flags 0 of type Gio.ConverterFlags>, 'INPUT_AT_END': <flags G_CONVERTER_INPUT_AT_END of type Gio.ConverterFlags>, 'FLUSH': <flags G_CONVERTER_FLUSH of type Gio.ConverterFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GConverterFlags (94125580906320)>'
+    __gtype__ = None # (!) real value is '<GType GConverterFlags (94269256688720)>'
     __info__ = gi.EnumInfo(ConverterFlags)
 
 

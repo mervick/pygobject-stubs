@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -135,7 +135,7 @@ class HeaderBarClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(HeaderBarClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'HeaderBarClass' objects>, '__weakref__': <attribute '__weakref__' of 'HeaderBarClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe831033860>, '_gtk_reserved1': <property object at 0x7fe831033950>, '_gtk_reserved2': <property object at 0x7fe831033a40>, '_gtk_reserved3': <property object at 0x7fe831033b30>, '_gtk_reserved4': <property object at 0x7fe831033c20>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(HeaderBarClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'HeaderBarClass' objects>, '__weakref__': <attribute '__weakref__' of 'HeaderBarClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a748630>, '_gtk_reserved1': <property object at 0x7fc63a748720>, '_gtk_reserved2': <property object at 0x7fc63a748810>, '_gtk_reserved3': <property object at 0x7fc63a748900>, '_gtk_reserved4': <property object at 0x7fc63a7489f0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(HeaderBarClass)
 

@@ -136,7 +136,7 @@ class CancellableClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(CancellableClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'CancellableClass' objects>, '__weakref__': <attribute '__weakref__' of 'CancellableClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28ddf33ef0>, 'cancelled': <property object at 0x7f28ddf36040>, '_g_reserved1': <property object at 0x7f28ddf36130>, '_g_reserved2': <property object at 0x7f28ddf36220>, '_g_reserved3': <property object at 0x7f28ddf36310>, '_g_reserved4': <property object at 0x7f28ddf36400>, '_g_reserved5': <property object at 0x7f28ddf364f0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(CancellableClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'CancellableClass' objects>, '__weakref__': <attribute '__weakref__' of 'CancellableClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b8809a180>, 'cancelled': <property object at 0x7f4b8809a270>, '_g_reserved1': <property object at 0x7f4b8809a360>, '_g_reserved2': <property object at 0x7f4b8809a450>, '_g_reserved3': <property object at 0x7f4b8809a540>, '_g_reserved4': <property object at 0x7f4b8809a630>, '_g_reserved5': <property object at 0x7f4b8809a720>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(CancellableClass)
 

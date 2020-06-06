@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -133,7 +133,7 @@ class StyleProviderIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(StyleProviderIface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'StyleProviderIface' objects>, '__weakref__': <attribute '__weakref__' of 'StyleProviderIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7fe830f7cb80>, 'get_style': <property object at 0x7fe830f7cc70>, 'get_style_property': <property object at 0x7fe830f7cdb0>, 'get_icon_factory': <property object at 0x7fe830f7cea0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(StyleProviderIface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'StyleProviderIface' objects>, '__weakref__': <attribute '__weakref__' of 'StyleProviderIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7fc63a694630>, 'get_style': <property object at 0x7fc63a694720>, 'get_style_property': <property object at 0x7fc63a694860>, 'get_icon_factory': <property object at 0x7fc63a694950>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(StyleProviderIface)
 

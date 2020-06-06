@@ -431,12 +431,12 @@ class Credentials(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd616370>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87775fa0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Credentials), '__module__': 'gi.repository.Gio', '__gtype__': <GType GCredentials (94125581009056)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_unix_pid': gi.FunctionInfo(get_unix_pid), 'get_unix_user': gi.FunctionInfo(get_unix_user), 'is_same_user': gi.FunctionInfo(is_same_user), 'set_native': gi.FunctionInfo(set_native), 'set_unix_user': gi.FunctionInfo(set_unix_user), 'to_string': gi.FunctionInfo(to_string)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Credentials), '__module__': 'gi.repository.Gio', '__gtype__': <GType GCredentials (94269256482464)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_unix_pid': gi.FunctionInfo(get_unix_pid), 'get_unix_user': gi.FunctionInfo(get_unix_user), 'is_same_user': gi.FunctionInfo(is_same_user), 'set_native': gi.FunctionInfo(set_native), 'set_unix_user': gi.FunctionInfo(set_unix_user), 'to_string': gi.FunctionInfo(to_string)})"
     __gdoc__ = 'Object GCredentials\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GCredentials (94125581009056)>'
+    __gtype__ = None # (!) real value is '<GType GCredentials (94269256482464)>'
     __info__ = ObjectInfo(Credentials)
 
 

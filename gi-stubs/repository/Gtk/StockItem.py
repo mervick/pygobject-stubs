@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -139,7 +139,7 @@ class StockItem(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(StockItem), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'StockItem' objects>, '__weakref__': <attribute '__weakref__' of 'StockItem' objects>, '__doc__': None, 'stock_id': <property object at 0x7fe830f72c70>, 'label': <property object at 0x7fe830f72d60>, 'modifier': <property object at 0x7fe830f72e50>, 'keyval': <property object at 0x7fe830f72f40>, 'translation_domain': <property object at 0x7fe830f730e0>, 'free': gi.FunctionInfo(free)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(StockItem), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'StockItem' objects>, '__weakref__': <attribute '__weakref__' of 'StockItem' objects>, '__doc__': None, 'stock_id': <property object at 0x7fc63a688770>, 'label': <property object at 0x7fc63a688860>, 'modifier': <property object at 0x7fc63a688950>, 'keyval': <property object at 0x7fc63a688a40>, 'translation_domain': <property object at 0x7fc63a688b80>, 'free': gi.FunctionInfo(free)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(StockItem)
 

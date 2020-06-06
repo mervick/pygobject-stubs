@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -681,12 +681,12 @@ class TreeViewColumn(TreeViewColumn):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe82e6f62b0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc637fe72b0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', '__init__': <function TreeViewColumn.__init__ at 0x7fe8312545e0>, 'cell_get_position': <function strip_boolean_result.<locals>.wrapped at 0x7fe831254670>, 'set_cell_data_func': <function TreeViewColumn.set_cell_data_func at 0x7fe831254700>, 'set_attributes': <function TreeViewColumn.set_attributes at 0x7fe831254790>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', '__init__': <function TreeViewColumn.__init__ at 0x7fc63a969dc0>, 'cell_get_position': <function strip_boolean_result.<locals>.wrapped at 0x7fc63a969e50>, 'set_cell_data_func': <function TreeViewColumn.set_cell_data_func at 0x7fc63a969ee0>, 'set_attributes': <function TreeViewColumn.set_attributes at 0x7fc63a969f70>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Object GtkTreeViewColumn\n\nSignals from GtkTreeViewColumn:\n  clicked ()\n\nProperties from GtkTreeViewColumn:\n  visible -> gboolean: Visible\n    Whether to display the column\n  resizable -> gboolean: Resizable\n    Column is user-resizable\n  x-offset -> gint: X position\n    Current X position of the column\n  width -> gint: Width\n    Current width of the column\n  spacing -> gint: Spacing\n    Space which is inserted between cells\n  sizing -> GtkTreeViewColumnSizing: Sizing\n    Resize mode of the column\n  fixed-width -> gint: Fixed Width\n    Current fixed width of the column\n  min-width -> gint: Minimum Width\n    Minimum allowed width of the column\n  max-width -> gint: Maximum Width\n    Maximum allowed width of the column\n  title -> gchararray: Title\n    Title to appear in column header\n  expand -> gboolean: Expand\n    Column gets share of extra width allocated to the widget\n  clickable -> gboolean: Clickable\n    Whether the header can be clicked\n  widget -> GtkWidget: Widget\n    Widget to put in column header button instead of column title\n  alignment -> gfloat: Alignment\n    X Alignment of the column header text or widget\n  reorderable -> gboolean: Reorderable\n    Whether the column can be reordered around the headers\n  sort-indicator -> gboolean: Sort indicator\n    Whether to show a sort indicator\n  sort-order -> GtkSortType: Sort order\n    Sort direction the sort indicator should indicate\n  sort-column-id -> gint: Sort column ID\n    Logical sort column ID this column sorts on when selected for sorting\n  cell-area -> GtkCellArea: Cell Area\n    The GtkCellArea used to layout cells\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkTreeViewColumn (94846037049856)>'
+    __gtype__ = None # (!) real value is '<GType GtkTreeViewColumn (93897367245712)>'
     __info__ = ObjectInfo(TreeViewColumn)
 
 

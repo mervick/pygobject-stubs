@@ -357,13 +357,13 @@ class WrapMode(__gobject.GEnum):
     WORD = 0
     WORD_CHAR = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'WrapMode' objects>, '__doc__': None, '__gtype__': <GType PangoWrapMode (94752681360416)>, '__enum_values__': {0: <enum PANGO_WRAP_WORD of type Pango.WrapMode>, 1: <enum PANGO_WRAP_CHAR of type Pango.WrapMode>, 2: <enum PANGO_WRAP_WORD_CHAR of type Pango.WrapMode>}, '__info__': gi.EnumInfo(WrapMode), 'WORD': <enum PANGO_WRAP_WORD of type Pango.WrapMode>, 'CHAR': <enum PANGO_WRAP_CHAR of type Pango.WrapMode>, 'WORD_CHAR': <enum PANGO_WRAP_WORD_CHAR of type Pango.WrapMode>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'WrapMode' objects>, '__doc__': None, '__gtype__': <GType PangoWrapMode (94187429580272)>, '__enum_values__': {0: <enum PANGO_WRAP_WORD of type Pango.WrapMode>, 1: <enum PANGO_WRAP_CHAR of type Pango.WrapMode>, 2: <enum PANGO_WRAP_WORD_CHAR of type Pango.WrapMode>}, '__info__': gi.EnumInfo(WrapMode), 'WORD': <enum PANGO_WRAP_WORD of type Pango.WrapMode>, 'CHAR': <enum PANGO_WRAP_CHAR of type Pango.WrapMode>, 'WORD_CHAR': <enum PANGO_WRAP_WORD_CHAR of type Pango.WrapMode>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType PangoWrapMode (94752681360416)>'
+    __gtype__ = None # (!) real value is '<GType PangoWrapMode (94187429580272)>'
     __info__ = gi.EnumInfo(WrapMode)
 
 

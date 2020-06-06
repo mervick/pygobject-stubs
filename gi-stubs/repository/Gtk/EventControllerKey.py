@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -448,12 +448,12 @@ class EventControllerKey(EventController):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe830ac2ac0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc639d4b0d0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(EventControllerKey), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkEventControllerKey (94846038154672)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'forward': gi.FunctionInfo(forward), 'get_group': gi.FunctionInfo(get_group), 'get_im_context': gi.FunctionInfo(get_im_context), 'set_im_context': gi.FunctionInfo(set_im_context)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(EventControllerKey), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkEventControllerKey (93897368461936)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'forward': gi.FunctionInfo(forward), 'get_group': gi.FunctionInfo(get_group), 'get_im_context': gi.FunctionInfo(get_im_context), 'set_im_context': gi.FunctionInfo(set_im_context)})"
     __gdoc__ = 'Object GtkEventControllerKey\n\nSignals from GtkEventControllerKey:\n  key-pressed (guint, guint, GdkModifierType) -> gboolean\n  key-released (guint, guint, GdkModifierType)\n  modifiers (GdkModifierType) -> gboolean\n  im-update ()\n  focus-in ()\n  focus-out ()\n\nProperties from GtkEventController:\n  widget -> GtkWidget: Widget\n    Widget the gesture relates to\n  propagation-phase -> GtkPropagationPhase: Propagation phase\n    Propagation phase at which this controller is run\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkEventControllerKey (94846038154672)>'
+    __gtype__ = None # (!) real value is '<GType GtkEventControllerKey (93897368461936)>'
     __info__ = ObjectInfo(EventControllerKey)
 
 

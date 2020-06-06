@@ -480,12 +480,12 @@ class DBusInterfaceSkeleton(__gi_overrides_GObject.Object, DBusInterface):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd6167f0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87775df0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DBusInterfaceSkeleton), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDBusInterfaceSkeleton (94125582110448)>, '__doc__': None, '__gsignals__': {}, 'export': gi.FunctionInfo(export), 'flush': gi.FunctionInfo(flush), 'get_connection': gi.FunctionInfo(get_connection), 'get_connections': gi.FunctionInfo(get_connections), 'get_flags': gi.FunctionInfo(get_flags), 'get_info': gi.FunctionInfo(get_info), 'get_object_path': gi.FunctionInfo(get_object_path), 'get_properties': gi.FunctionInfo(get_properties), 'has_connection': gi.FunctionInfo(has_connection), 'set_flags': gi.FunctionInfo(set_flags), 'unexport': gi.FunctionInfo(unexport), 'unexport_from_connection': gi.FunctionInfo(unexport_from_connection), 'do_flush': gi.VFuncInfo(flush), 'do_g_authorize_method': gi.VFuncInfo(g_authorize_method), 'do_get_info': gi.VFuncInfo(get_info), 'do_get_properties': gi.VFuncInfo(get_properties), 'parent_instance': <property object at 0x7f28ddec49a0>, 'priv': <property object at 0x7f28ddec4a90>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DBusInterfaceSkeleton), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDBusInterfaceSkeleton (94269256736832)>, '__doc__': None, '__gsignals__': {}, 'export': gi.FunctionInfo(export), 'flush': gi.FunctionInfo(flush), 'get_connection': gi.FunctionInfo(get_connection), 'get_connections': gi.FunctionInfo(get_connections), 'get_flags': gi.FunctionInfo(get_flags), 'get_info': gi.FunctionInfo(get_info), 'get_object_path': gi.FunctionInfo(get_object_path), 'get_properties': gi.FunctionInfo(get_properties), 'has_connection': gi.FunctionInfo(has_connection), 'set_flags': gi.FunctionInfo(set_flags), 'unexport': gi.FunctionInfo(unexport), 'unexport_from_connection': gi.FunctionInfo(unexport_from_connection), 'do_flush': gi.VFuncInfo(flush), 'do_g_authorize_method': gi.VFuncInfo(g_authorize_method), 'do_get_info': gi.VFuncInfo(get_info), 'do_get_properties': gi.VFuncInfo(get_properties), 'parent_instance': <property object at 0x7f4b8802ab80>, 'priv': <property object at 0x7f4b8802ac70>})"
     __gdoc__ = 'Object GDBusInterfaceSkeleton\n\nSignals from GDBusInterfaceSkeleton:\n  g-authorize-method (GDBusMethodInvocation) -> gboolean\n\nProperties from GDBusInterfaceSkeleton:\n  g-flags -> GDBusInterfaceSkeletonFlags: g-flags\n    Flags for the interface skeleton\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GDBusInterfaceSkeleton (94125582110448)>'
+    __gtype__ = None # (!) real value is '<GType GDBusInterfaceSkeleton (94269256736832)>'
     __info__ = ObjectInfo(DBusInterfaceSkeleton)
 
 

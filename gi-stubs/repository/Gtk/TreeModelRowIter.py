@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -134,6 +134,6 @@ class TreeModelRowIter(object):
 
 
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', '__init__': <function TreeModelRowIter.__init__ at 0x7fe8312491f0>, '__next__': <function TreeModelRowIter.__next__ at 0x7fe831249280>, 'next': <function TreeModelRowIter.__next__ at 0x7fe831249280>, '__iter__': <function TreeModelRowIter.__iter__ at 0x7fe831249310>, '__dict__': <attribute '__dict__' of 'TreeModelRowIter' objects>, '__weakref__': <attribute '__weakref__' of 'TreeModelRowIter' objects>, '__doc__': None})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', '__init__': <function TreeModelRowIter.__init__ at 0x7fc63a9669d0>, '__next__': <function TreeModelRowIter.__next__ at 0x7fc63a966a60>, 'next': <function TreeModelRowIter.__next__ at 0x7fc63a966a60>, '__iter__': <function TreeModelRowIter.__iter__ at 0x7fc63a966af0>, '__dict__': <attribute '__dict__' of 'TreeModelRowIter' objects>, '__weakref__': <attribute '__weakref__' of 'TreeModelRowIter' objects>, '__doc__': None})"
 
 

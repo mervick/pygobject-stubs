@@ -388,14 +388,14 @@ class BindingFlags(__gobject.GFlags):
     INVERT_BOOLEAN = 4
     SYNC_CREATE = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GObject', '__dict__': <attribute '__dict__' of 'BindingFlags' objects>, '__doc__': None, '__gtype__': <GType GBindingFlags (93895379390528)>, '__flags_values__': {0: <flags 0 of type GObject.BindingFlags>, 1: <flags G_BINDING_BIDIRECTIONAL of type GObject.BindingFlags>, 2: <flags G_BINDING_SYNC_CREATE of type GObject.BindingFlags>, 4: <flags G_BINDING_INVERT_BOOLEAN of type GObject.BindingFlags>}, '__info__': gi.EnumInfo(BindingFlags), 'DEFAULT': <flags 0 of type GObject.BindingFlags>, 'BIDIRECTIONAL': <flags G_BINDING_BIDIRECTIONAL of type GObject.BindingFlags>, 'SYNC_CREATE': <flags G_BINDING_SYNC_CREATE of type GObject.BindingFlags>, 'INVERT_BOOLEAN': <flags G_BINDING_INVERT_BOOLEAN of type GObject.BindingFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GObject', '__dict__': <attribute '__dict__' of 'BindingFlags' objects>, '__doc__': None, '__gtype__': <GType GBindingFlags (94184341789136)>, '__flags_values__': {0: <flags 0 of type GObject.BindingFlags>, 1: <flags G_BINDING_BIDIRECTIONAL of type GObject.BindingFlags>, 2: <flags G_BINDING_SYNC_CREATE of type GObject.BindingFlags>, 4: <flags G_BINDING_INVERT_BOOLEAN of type GObject.BindingFlags>}, '__info__': gi.EnumInfo(BindingFlags), 'DEFAULT': <flags 0 of type GObject.BindingFlags>, 'BIDIRECTIONAL': <flags G_BINDING_BIDIRECTIONAL of type GObject.BindingFlags>, 'SYNC_CREATE': <flags G_BINDING_SYNC_CREATE of type GObject.BindingFlags>, 'INVERT_BOOLEAN': <flags G_BINDING_INVERT_BOOLEAN of type GObject.BindingFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
         2: 2,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType GBindingFlags (93895379390528)>'
+    __gtype__ = None # (!) real value is '<GType GBindingFlags (94184341789136)>'
     __info__ = gi.EnumInfo(BindingFlags)
 
 

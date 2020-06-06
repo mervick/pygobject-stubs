@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -743,12 +743,12 @@ class FileChooserNative(NativeDialog, FileChooser):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe830c355e0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc63a0b88e0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FileChooserNative), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkFileChooserNative (94846038021872)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_accept_label': gi.FunctionInfo(get_accept_label), 'get_cancel_label': gi.FunctionInfo(get_cancel_label), 'set_accept_label': gi.FunctionInfo(set_accept_label), 'set_cancel_label': gi.FunctionInfo(set_cancel_label)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FileChooserNative), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkFileChooserNative (93897368496960)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_accept_label': gi.FunctionInfo(get_accept_label), 'get_cancel_label': gi.FunctionInfo(get_cancel_label), 'set_accept_label': gi.FunctionInfo(set_accept_label), 'set_cancel_label': gi.FunctionInfo(set_cancel_label)})"
     __gdoc__ = 'Object GtkFileChooserNative\n\nProperties from GtkFileChooserNative:\n  accept-label -> gchararray: Accept label\n    The label on the accept button\n  cancel-label -> gchararray: Cancel label\n    The label on the cancel button\n\nSignals from GtkFileChooser:\n  selection-changed ()\n  current-folder-changed ()\n  update-preview ()\n  file-activated ()\n  confirm-overwrite () -> GtkFileChooserConfirmation\n\nSignals from GtkNativeDialog:\n  response (gint)\n\nProperties from GtkNativeDialog:\n  title -> gchararray: Dialog Title\n    The title of the file chooser dialog\n  visible -> gboolean: Visible\n    Whether the dialog is currently visible\n  modal -> gboolean: Modal\n    If TRUE, the dialog is modal (other windows are not usable while this one is up)\n  transient-for -> GtkWindow: Transient for Window\n    The transient parent of the dialog\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkFileChooserNative (94846038021872)>'
+    __gtype__ = None # (!) real value is '<GType GtkFileChooserNative (93897368496960)>'
     __info__ = ObjectInfo(FileChooserNative)
 
 

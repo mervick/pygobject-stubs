@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -364,7 +364,7 @@ class ShadowType(__gobject.GEnum):
     NONE = 0
     OUT = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ShadowType' objects>, '__doc__': None, '__gtype__': <GType GtkShadowType (94846036166560)>, '__enum_values__': {0: <enum GTK_SHADOW_NONE of type Gtk.ShadowType>, 1: <enum GTK_SHADOW_IN of type Gtk.ShadowType>, 2: <enum GTK_SHADOW_OUT of type Gtk.ShadowType>, 3: <enum GTK_SHADOW_ETCHED_IN of type Gtk.ShadowType>, 4: <enum GTK_SHADOW_ETCHED_OUT of type Gtk.ShadowType>}, '__info__': gi.EnumInfo(ShadowType), 'NONE': <enum GTK_SHADOW_NONE of type Gtk.ShadowType>, 'IN': <enum GTK_SHADOW_IN of type Gtk.ShadowType>, 'OUT': <enum GTK_SHADOW_OUT of type Gtk.ShadowType>, 'ETCHED_IN': <enum GTK_SHADOW_ETCHED_IN of type Gtk.ShadowType>, 'ETCHED_OUT': <enum GTK_SHADOW_ETCHED_OUT of type Gtk.ShadowType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ShadowType' objects>, '__doc__': None, '__gtype__': <GType GtkShadowType (93897367452432)>, '__enum_values__': {0: <enum GTK_SHADOW_NONE of type Gtk.ShadowType>, 1: <enum GTK_SHADOW_IN of type Gtk.ShadowType>, 2: <enum GTK_SHADOW_OUT of type Gtk.ShadowType>, 3: <enum GTK_SHADOW_ETCHED_IN of type Gtk.ShadowType>, 4: <enum GTK_SHADOW_ETCHED_OUT of type Gtk.ShadowType>}, '__info__': gi.EnumInfo(ShadowType), 'NONE': <enum GTK_SHADOW_NONE of type Gtk.ShadowType>, 'IN': <enum GTK_SHADOW_IN of type Gtk.ShadowType>, 'OUT': <enum GTK_SHADOW_OUT of type Gtk.ShadowType>, 'ETCHED_IN': <enum GTK_SHADOW_ETCHED_IN of type Gtk.ShadowType>, 'ETCHED_OUT': <enum GTK_SHADOW_ETCHED_OUT of type Gtk.ShadowType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -372,7 +372,7 @@ class ShadowType(__gobject.GEnum):
         3: 3,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType GtkShadowType (94846036166560)>'
+    __gtype__ = None # (!) real value is '<GType GtkShadowType (93897367452432)>'
     __info__ = gi.EnumInfo(ShadowType)
 
 

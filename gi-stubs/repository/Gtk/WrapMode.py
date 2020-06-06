@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,14 +363,14 @@ class WrapMode(__gobject.GEnum):
     WORD = 2
     WORD_CHAR = 3
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'WrapMode' objects>, '__doc__': None, '__gtype__': <GType GtkWrapMode (94846039647120)>, '__enum_values__': {0: <enum GTK_WRAP_NONE of type Gtk.WrapMode>, 1: <enum GTK_WRAP_CHAR of type Gtk.WrapMode>, 2: <enum GTK_WRAP_WORD of type Gtk.WrapMode>, 3: <enum GTK_WRAP_WORD_CHAR of type Gtk.WrapMode>}, '__info__': gi.EnumInfo(WrapMode), 'NONE': <enum GTK_WRAP_NONE of type Gtk.WrapMode>, 'CHAR': <enum GTK_WRAP_CHAR of type Gtk.WrapMode>, 'WORD': <enum GTK_WRAP_WORD of type Gtk.WrapMode>, 'WORD_CHAR': <enum GTK_WRAP_WORD_CHAR of type Gtk.WrapMode>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'WrapMode' objects>, '__doc__': None, '__gtype__': <GType GtkWrapMode (93897369849744)>, '__enum_values__': {0: <enum GTK_WRAP_NONE of type Gtk.WrapMode>, 1: <enum GTK_WRAP_CHAR of type Gtk.WrapMode>, 2: <enum GTK_WRAP_WORD of type Gtk.WrapMode>, 3: <enum GTK_WRAP_WORD_CHAR of type Gtk.WrapMode>}, '__info__': gi.EnumInfo(WrapMode), 'NONE': <enum GTK_WRAP_NONE of type Gtk.WrapMode>, 'CHAR': <enum GTK_WRAP_CHAR of type Gtk.WrapMode>, 'WORD': <enum GTK_WRAP_WORD of type Gtk.WrapMode>, 'WORD_CHAR': <enum GTK_WRAP_WORD_CHAR of type Gtk.WrapMode>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkWrapMode (94846039647120)>'
+    __gtype__ = None # (!) real value is '<GType GtkWrapMode (93897369849744)>'
     __info__ = gi.EnumInfo(WrapMode)
 
 

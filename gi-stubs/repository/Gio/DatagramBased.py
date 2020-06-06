@@ -135,10 +135,10 @@ class DatagramBased(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(DatagramBased), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDatagramBased (94125582205264)>, '__dict__': <attribute '__dict__' of 'DatagramBased' objects>, '__weakref__': <attribute '__weakref__' of 'DatagramBased' objects>, '__doc__': None, '__gsignals__': {}, 'condition_check': gi.FunctionInfo(condition_check), 'condition_wait': gi.FunctionInfo(condition_wait), 'create_source': gi.FunctionInfo(create_source), 'receive_messages': gi.FunctionInfo(receive_messages), 'send_messages': gi.FunctionInfo(send_messages)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(DatagramBased), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDatagramBased (94269256834592)>, '__dict__': <attribute '__dict__' of 'DatagramBased' objects>, '__weakref__': <attribute '__weakref__' of 'DatagramBased' objects>, '__doc__': None, '__gsignals__': {}, 'condition_check': gi.FunctionInfo(condition_check), 'condition_wait': gi.FunctionInfo(condition_wait), 'create_source': gi.FunctionInfo(create_source), 'receive_messages': gi.FunctionInfo(receive_messages), 'send_messages': gi.FunctionInfo(send_messages)})"
     __gdoc__ = 'Interface GDatagramBased\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GDatagramBased (94125582205264)>'
+    __gtype__ = None # (!) real value is '<GType GDatagramBased (94269256834592)>'
     __info__ = InterfaceInfo(DatagramBased)
 
 

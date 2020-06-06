@@ -462,12 +462,12 @@ class TlsInteraction(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd15b310>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b871c18e0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(TlsInteraction), '__module__': 'gi.repository.Gio', '__gtype__': <GType GTlsInteraction (94125582592320)>, '__doc__': None, '__gsignals__': {}, 'ask_password': gi.FunctionInfo(ask_password), 'ask_password_async': gi.FunctionInfo(ask_password_async), 'ask_password_finish': gi.FunctionInfo(ask_password_finish), 'invoke_ask_password': gi.FunctionInfo(invoke_ask_password), 'invoke_request_certificate': gi.FunctionInfo(invoke_request_certificate), 'request_certificate': gi.FunctionInfo(request_certificate), 'request_certificate_async': gi.FunctionInfo(request_certificate_async), 'request_certificate_finish': gi.FunctionInfo(request_certificate_finish), 'do_ask_password': gi.VFuncInfo(ask_password), 'do_ask_password_async': gi.VFuncInfo(ask_password_async), 'do_ask_password_finish': gi.VFuncInfo(ask_password_finish), 'do_request_certificate': gi.VFuncInfo(request_certificate), 'do_request_certificate_async': gi.VFuncInfo(request_certificate_async), 'do_request_certificate_finish': gi.VFuncInfo(request_certificate_finish), 'parent_instance': <property object at 0x7f28dd5fd4f0>, 'priv': <property object at 0x7f28dd5fd770>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(TlsInteraction), '__module__': 'gi.repository.Gio', '__gtype__': <GType GTlsInteraction (94269257073728)>, '__doc__': None, '__gsignals__': {}, 'ask_password': gi.FunctionInfo(ask_password), 'ask_password_async': gi.FunctionInfo(ask_password_async), 'ask_password_finish': gi.FunctionInfo(ask_password_finish), 'invoke_ask_password': gi.FunctionInfo(invoke_ask_password), 'invoke_request_certificate': gi.FunctionInfo(invoke_request_certificate), 'request_certificate': gi.FunctionInfo(request_certificate), 'request_certificate_async': gi.FunctionInfo(request_certificate_async), 'request_certificate_finish': gi.FunctionInfo(request_certificate_finish), 'do_ask_password': gi.VFuncInfo(ask_password), 'do_ask_password_async': gi.VFuncInfo(ask_password_async), 'do_ask_password_finish': gi.VFuncInfo(ask_password_finish), 'do_request_certificate': gi.VFuncInfo(request_certificate), 'do_request_certificate_async': gi.VFuncInfo(request_certificate_async), 'do_request_certificate_finish': gi.VFuncInfo(request_certificate_finish), 'parent_instance': <property object at 0x7f4b8775f680>, 'priv': <property object at 0x7f4b8775f900>})"
     __gdoc__ = 'Object GTlsInteraction\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GTlsInteraction (94125582592320)>'
+    __gtype__ = None # (!) real value is '<GType GTlsInteraction (94269257073728)>'
     __info__ = ObjectInfo(TlsInteraction)
 
 

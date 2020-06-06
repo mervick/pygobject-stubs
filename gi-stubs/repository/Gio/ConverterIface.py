@@ -128,7 +128,7 @@ class ConverterIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ConverterIface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ConverterIface' objects>, '__weakref__': <attribute '__weakref__' of 'ConverterIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f28ddf36ea0>, 'convert': <property object at 0x7f28ddf36f90>, 'reset': <property object at 0x7f28ddf380e0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ConverterIface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ConverterIface' objects>, '__weakref__': <attribute '__weakref__' of 'ConverterIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f4b8809c130>, 'convert': <property object at 0x7f4b8809c220>, 'reset': <property object at 0x7f4b8809c310>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ConverterIface)
 

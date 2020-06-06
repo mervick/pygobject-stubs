@@ -159,7 +159,7 @@ class RWLock(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(RWLock), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'RWLock' objects>, '__weakref__': <attribute '__weakref__' of 'RWLock' objects>, '__doc__': None, 'p': <property object at 0x7f1d2b8f76d0>, 'i': <property object at 0x7f1d2b8f77c0>, 'clear': gi.FunctionInfo(clear), 'init': gi.FunctionInfo(init), 'reader_lock': gi.FunctionInfo(reader_lock), 'reader_trylock': gi.FunctionInfo(reader_trylock), 'reader_unlock': gi.FunctionInfo(reader_unlock), 'writer_lock': gi.FunctionInfo(writer_lock), 'writer_trylock': gi.FunctionInfo(writer_trylock), 'writer_unlock': gi.FunctionInfo(writer_unlock)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(RWLock), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'RWLock' objects>, '__weakref__': <attribute '__weakref__' of 'RWLock' objects>, '__doc__': None, 'p': <property object at 0x7f85134f58b0>, 'i': <property object at 0x7f85134f59a0>, 'clear': gi.FunctionInfo(clear), 'init': gi.FunctionInfo(init), 'reader_lock': gi.FunctionInfo(reader_lock), 'reader_trylock': gi.FunctionInfo(reader_trylock), 'reader_unlock': gi.FunctionInfo(reader_unlock), 'writer_lock': gi.FunctionInfo(writer_lock), 'writer_trylock': gi.FunctionInfo(writer_trylock), 'writer_unlock': gi.FunctionInfo(writer_unlock)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(RWLock)
 

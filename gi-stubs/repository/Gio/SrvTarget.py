@@ -153,8 +153,8 @@ class SrvTarget(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SrvTarget), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSrvTarget (94125582727776)>, '__dict__': <attribute '__dict__' of 'SrvTarget' objects>, '__weakref__': <attribute '__weakref__' of 'SrvTarget' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free), 'get_hostname': gi.FunctionInfo(get_hostname), 'get_port': gi.FunctionInfo(get_port), 'get_priority': gi.FunctionInfo(get_priority), 'get_weight': gi.FunctionInfo(get_weight), '__new__': <staticmethod object at 0x7f28dde619a0>, '__init__': <function nothing at 0x7f28de15e430>})"
-    __gtype__ = None # (!) real value is '<GType GSrvTarget (94125582727776)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SrvTarget), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSrvTarget (94269257417568)>, '__dict__': <attribute '__dict__' of 'SrvTarget' objects>, '__weakref__': <attribute '__weakref__' of 'SrvTarget' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free), 'get_hostname': gi.FunctionInfo(get_hostname), 'get_port': gi.FunctionInfo(get_port), 'get_priority': gi.FunctionInfo(get_priority), 'get_weight': gi.FunctionInfo(get_weight), '__new__': <staticmethod object at 0x7f4b87fc2d90>, '__init__': <function nothing at 0x7f4b882c3ee0>})"
+    __gtype__ = None # (!) real value is '<GType GSrvTarget (94269257417568)>'
     __info__ = StructInfo(SrvTarget)
 
 

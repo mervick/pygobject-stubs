@@ -360,13 +360,13 @@ class DateDMY(__gobject.GEnum):
     MONTH = 1
     YEAR = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'DateDMY' objects>, '__doc__': None, '__gtype__': <GType PyGLibDateDMY (94243598815552)>, '__enum_values__': {0: <enum G_DATE_DAY of type GLib.DateDMY>, 1: <enum G_DATE_MONTH of type GLib.DateDMY>, 2: <enum G_DATE_YEAR of type GLib.DateDMY>}, '__info__': gi.EnumInfo(DateDMY), 'DAY': <enum G_DATE_DAY of type GLib.DateDMY>, 'MONTH': <enum G_DATE_MONTH of type GLib.DateDMY>, 'YEAR': <enum G_DATE_YEAR of type GLib.DateDMY>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'DateDMY' objects>, '__doc__': None, '__gtype__': <GType PyGLibDateDMY (94581033416416)>, '__enum_values__': {0: <enum G_DATE_DAY of type GLib.DateDMY>, 1: <enum G_DATE_MONTH of type GLib.DateDMY>, 2: <enum G_DATE_YEAR of type GLib.DateDMY>}, '__info__': gi.EnumInfo(DateDMY), 'DAY': <enum G_DATE_DAY of type GLib.DateDMY>, 'MONTH': <enum G_DATE_MONTH of type GLib.DateDMY>, 'YEAR': <enum G_DATE_YEAR of type GLib.DateDMY>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibDateDMY (94243598815552)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibDateDMY (94581033416416)>'
     __info__ = gi.EnumInfo(DateDMY)
 
 

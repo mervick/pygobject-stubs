@@ -359,12 +359,12 @@ class TestFileType(__gobject.GEnum):
     BUILT = 1
     DIST = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'TestFileType' objects>, '__doc__': None, '__gtype__': <GType PyGLibTestFileType (94243598988032)>, '__enum_values__': {0: <enum G_TEST_DIST of type GLib.TestFileType>, 1: <enum G_TEST_BUILT of type GLib.TestFileType>}, '__info__': gi.EnumInfo(TestFileType), 'DIST': <enum G_TEST_DIST of type GLib.TestFileType>, 'BUILT': <enum G_TEST_BUILT of type GLib.TestFileType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'TestFileType' objects>, '__doc__': None, '__gtype__': <GType PyGLibTestFileType (94581033764896)>, '__enum_values__': {0: <enum G_TEST_DIST of type GLib.TestFileType>, 1: <enum G_TEST_BUILT of type GLib.TestFileType>}, '__info__': gi.EnumInfo(TestFileType), 'DIST': <enum G_TEST_DIST of type GLib.TestFileType>, 'BUILT': <enum G_TEST_BUILT of type GLib.TestFileType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibTestFileType (94243598988032)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibTestFileType (94581033764896)>'
     __info__ = gi.EnumInfo(TestFileType)
 
 

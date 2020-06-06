@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -158,6 +158,6 @@ class TreeModelRow(object):
 
 
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', '__init__': <function TreeModelRow.__init__ at 0x7fe831241af0>, 'path': <property object at 0x7fe831246a90>, 'next': <property object at 0x7fe831246ae0>, 'previous': <property object at 0x7fe831246b30>, 'parent': <property object at 0x7fe831246b80>, 'get_next': <function TreeModelRow.get_next at 0x7fe831241dc0>, 'get_previous': <function TreeModelRow.get_previous at 0x7fe831241e50>, 'get_parent': <function TreeModelRow.get_parent at 0x7fe831241ee0>, '__getitem__': <function TreeModelRow.__getitem__ at 0x7fe831241f70>, '__setitem__': <function TreeModelRow.__setitem__ at 0x7fe831249040>, '_convert_negative_index': <function TreeModelRow._convert_negative_index at 0x7fe8312490d0>, 'iterchildren': <function TreeModelRow.iterchildren at 0x7fe831249160>, '__dict__': <attribute '__dict__' of 'TreeModelRow' objects>, '__weakref__': <attribute '__weakref__' of 'TreeModelRow' objects>, '__doc__': None})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', '__init__': <function TreeModelRow.__init__ at 0x7fc63a966310>, 'path': <property object at 0x7fc63a964810>, 'next': <property object at 0x7fc63a964860>, 'previous': <property object at 0x7fc63a9648b0>, 'parent': <property object at 0x7fc63a964900>, 'get_next': <function TreeModelRow.get_next at 0x7fc63a9665e0>, 'get_previous': <function TreeModelRow.get_previous at 0x7fc63a966670>, 'get_parent': <function TreeModelRow.get_parent at 0x7fc63a966700>, '__getitem__': <function TreeModelRow.__getitem__ at 0x7fc63a966790>, '__setitem__': <function TreeModelRow.__setitem__ at 0x7fc63a966820>, '_convert_negative_index': <function TreeModelRow._convert_negative_index at 0x7fc63a9668b0>, 'iterchildren': <function TreeModelRow.iterchildren at 0x7fc63a966940>, '__dict__': <attribute '__dict__' of 'TreeModelRow' objects>, '__weakref__': <attribute '__weakref__' of 'TreeModelRow' objects>, '__doc__': None})"
 
 

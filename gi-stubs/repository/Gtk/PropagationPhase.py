@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,14 +363,14 @@ class PropagationPhase(__gobject.GEnum):
     NONE = 0
     TARGET = 3
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PropagationPhase' objects>, '__doc__': None, '__gtype__': <GType GtkPropagationPhase (94846038946672)>, '__enum_values__': {0: <enum GTK_PHASE_NONE of type Gtk.PropagationPhase>, 1: <enum GTK_PHASE_CAPTURE of type Gtk.PropagationPhase>, 2: <enum GTK_PHASE_BUBBLE of type Gtk.PropagationPhase>, 3: <enum GTK_PHASE_TARGET of type Gtk.PropagationPhase>}, '__info__': gi.EnumInfo(PropagationPhase), 'NONE': <enum GTK_PHASE_NONE of type Gtk.PropagationPhase>, 'CAPTURE': <enum GTK_PHASE_CAPTURE of type Gtk.PropagationPhase>, 'BUBBLE': <enum GTK_PHASE_BUBBLE of type Gtk.PropagationPhase>, 'TARGET': <enum GTK_PHASE_TARGET of type Gtk.PropagationPhase>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'PropagationPhase' objects>, '__doc__': None, '__gtype__': <GType GtkPropagationPhase (93897369114944)>, '__enum_values__': {0: <enum GTK_PHASE_NONE of type Gtk.PropagationPhase>, 1: <enum GTK_PHASE_CAPTURE of type Gtk.PropagationPhase>, 2: <enum GTK_PHASE_BUBBLE of type Gtk.PropagationPhase>, 3: <enum GTK_PHASE_TARGET of type Gtk.PropagationPhase>}, '__info__': gi.EnumInfo(PropagationPhase), 'NONE': <enum GTK_PHASE_NONE of type Gtk.PropagationPhase>, 'CAPTURE': <enum GTK_PHASE_CAPTURE of type Gtk.PropagationPhase>, 'BUBBLE': <enum GTK_PHASE_BUBBLE of type Gtk.PropagationPhase>, 'TARGET': <enum GTK_PHASE_TARGET of type Gtk.PropagationPhase>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkPropagationPhase (94846038946672)>'
+    __gtype__ = None # (!) real value is '<GType GtkPropagationPhase (93897369114944)>'
     __info__ = gi.EnumInfo(PropagationPhase)
 
 

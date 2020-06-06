@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -358,13 +358,13 @@ class SettingAction(__gobject.GEnum):
     DELETED = 2
     NEW = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'SettingAction' objects>, '__doc__': None, '__gtype__': <GType GdkSettingAction (94055650776896)>, '__enum_values__': {0: <enum GDK_SETTING_ACTION_NEW of type Gdk.SettingAction>, 1: <enum GDK_SETTING_ACTION_CHANGED of type Gdk.SettingAction>, 2: <enum GDK_SETTING_ACTION_DELETED of type Gdk.SettingAction>}, '__info__': gi.EnumInfo(SettingAction), 'NEW': <enum GDK_SETTING_ACTION_NEW of type Gdk.SettingAction>, 'CHANGED': <enum GDK_SETTING_ACTION_CHANGED of type Gdk.SettingAction>, 'DELETED': <enum GDK_SETTING_ACTION_DELETED of type Gdk.SettingAction>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'SettingAction' objects>, '__doc__': None, '__gtype__': <GType GdkSettingAction (94915769012128)>, '__enum_values__': {0: <enum GDK_SETTING_ACTION_NEW of type Gdk.SettingAction>, 1: <enum GDK_SETTING_ACTION_CHANGED of type Gdk.SettingAction>, 2: <enum GDK_SETTING_ACTION_DELETED of type Gdk.SettingAction>}, '__info__': gi.EnumInfo(SettingAction), 'NEW': <enum GDK_SETTING_ACTION_NEW of type Gdk.SettingAction>, 'CHANGED': <enum GDK_SETTING_ACTION_CHANGED of type Gdk.SettingAction>, 'DELETED': <enum GDK_SETTING_ACTION_DELETED of type Gdk.SettingAction>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GdkSettingAction (94055650776896)>'
+    __gtype__ = None # (!) real value is '<GType GdkSettingAction (94915769012128)>'
     __info__ = gi.EnumInfo(SettingAction)
 
 

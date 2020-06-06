@@ -178,8 +178,8 @@ class Bytes(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Bytes), '__module__': 'gi.repository.GLib', '__gtype__': <GType GBytes (94243598639456)>, '__dict__': <attribute '__dict__' of 'Bytes' objects>, '__weakref__': <attribute '__weakref__' of 'Bytes' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'new_take': gi.FunctionInfo(new_take), 'compare': gi.FunctionInfo(compare), 'equal': gi.FunctionInfo(equal), 'get_data': gi.FunctionInfo(get_data), 'get_size': gi.FunctionInfo(get_size), 'hash': gi.FunctionInfo(hash), 'new_from_bytes': gi.FunctionInfo(new_from_bytes), 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref), 'unref_to_array': gi.FunctionInfo(unref_to_array), 'unref_to_data': gi.FunctionInfo(unref_to_data), '__new__': <staticmethod object at 0x7f1d2b944130>, '__init__': <function nothing at 0x7f1d2baee430>})"
-    __gtype__ = None # (!) real value is '<GType GBytes (94243598639456)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Bytes), '__module__': 'gi.repository.GLib', '__gtype__': <GType GBytes (94581033621040)>, '__dict__': <attribute '__dict__' of 'Bytes' objects>, '__weakref__': <attribute '__weakref__' of 'Bytes' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'new_take': gi.FunctionInfo(new_take), 'compare': gi.FunctionInfo(compare), 'equal': gi.FunctionInfo(equal), 'get_data': gi.FunctionInfo(get_data), 'get_size': gi.FunctionInfo(get_size), 'hash': gi.FunctionInfo(hash), 'new_from_bytes': gi.FunctionInfo(new_from_bytes), 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref), 'unref_to_array': gi.FunctionInfo(unref_to_array), 'unref_to_data': gi.FunctionInfo(unref_to_data), '__new__': <staticmethod object at 0x7f851353e5b0>, '__init__': <function nothing at 0x7f85136ebee0>})"
+    __gtype__ = None # (!) real value is '<GType GBytes (94581033621040)>'
     __info__ = StructInfo(Bytes)
 
 

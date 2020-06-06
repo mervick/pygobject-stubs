@@ -142,7 +142,7 @@ class TableCellIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TableCellIface), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TableCellIface' objects>, '__weakref__': <attribute '__weakref__' of 'TableCellIface' objects>, '__doc__': None, 'parent': <property object at 0x7f0cd81bc680>, 'get_column_span': <property object at 0x7f0cd81bc770>, 'get_column_header_cells': <property object at 0x7f0cd81bc8b0>, 'get_position': <property object at 0x7f0cd81bc950>, 'get_row_span': <property object at 0x7f0cd81bca40>, 'get_row_header_cells': <property object at 0x7f0cd81bcb80>, 'get_row_column_span': <property object at 0x7f0cd81bcc70>, 'get_table': <property object at 0x7f0cd81bcd10>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TableCellIface), '__module__': 'gi.repository.Atk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TableCellIface' objects>, '__weakref__': <attribute '__weakref__' of 'TableCellIface' objects>, '__doc__': None, 'parent': <property object at 0x7f44c6cff090>, 'get_column_span': <property object at 0x7f44c6cff180>, 'get_column_header_cells': <property object at 0x7f44c6cff2c0>, 'get_position': <property object at 0x7f44c6cff360>, 'get_row_span': <property object at 0x7f44c6cff450>, 'get_row_header_cells': <property object at 0x7f44c6cff590>, 'get_row_column_span': <property object at 0x7f44c6cff680>, 'get_table': <property object at 0x7f44c6cff720>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TableCellIface)
 

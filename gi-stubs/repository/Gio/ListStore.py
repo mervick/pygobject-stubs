@@ -488,12 +488,12 @@ class ListStore(ListStore):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd15b190>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b873340a0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gio', 'sort': <function ListStore.sort at 0x7f28de021550>, 'insert_sorted': <function ListStore.insert_sorted at 0x7f28de0215e0>, '__delitem__': <function ListStore.__delitem__ at 0x7f28de021670>, '__setitem__': <function ListStore.__setitem__ at 0x7f28de021700>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gio', 'sort': <function ListStore.sort at 0x7f4b88181d30>, 'insert_sorted': <function ListStore.insert_sorted at 0x7f4b88181dc0>, '__delitem__': <function ListStore.__delitem__ at 0x7f4b88181e50>, '__setitem__': <function ListStore.__setitem__ at 0x7f4b88181ee0>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Object GListStore\n\nProperties from GListStore:\n  item-type -> GType: \n    \n\nSignals from GListModel:\n  items-changed (guint, guint, guint)\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GListStore (94125581524032)>'
+    __gtype__ = None # (!) real value is '<GType GListStore (94269256159232)>'
     __info__ = ObjectInfo(ListStore)
 
 

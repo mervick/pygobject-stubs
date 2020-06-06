@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -362,13 +362,13 @@ class BaselinePosition(__gobject.GEnum):
     CENTER = 1
     TOP = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'BaselinePosition' objects>, '__doc__': None, '__gtype__': <GType GtkBaselinePosition (94846037647344)>, '__enum_values__': {0: <enum GTK_BASELINE_POSITION_TOP of type Gtk.BaselinePosition>, 1: <enum GTK_BASELINE_POSITION_CENTER of type Gtk.BaselinePosition>, 2: <enum GTK_BASELINE_POSITION_BOTTOM of type Gtk.BaselinePosition>}, '__info__': gi.EnumInfo(BaselinePosition), 'TOP': <enum GTK_BASELINE_POSITION_TOP of type Gtk.BaselinePosition>, 'CENTER': <enum GTK_BASELINE_POSITION_CENTER of type Gtk.BaselinePosition>, 'BOTTOM': <enum GTK_BASELINE_POSITION_BOTTOM of type Gtk.BaselinePosition>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'BaselinePosition' objects>, '__doc__': None, '__gtype__': <GType GtkBaselinePosition (93897367839504)>, '__enum_values__': {0: <enum GTK_BASELINE_POSITION_TOP of type Gtk.BaselinePosition>, 1: <enum GTK_BASELINE_POSITION_CENTER of type Gtk.BaselinePosition>, 2: <enum GTK_BASELINE_POSITION_BOTTOM of type Gtk.BaselinePosition>}, '__info__': gi.EnumInfo(BaselinePosition), 'TOP': <enum GTK_BASELINE_POSITION_TOP of type Gtk.BaselinePosition>, 'CENTER': <enum GTK_BASELINE_POSITION_CENTER of type Gtk.BaselinePosition>, 'BOTTOM': <enum GTK_BASELINE_POSITION_BOTTOM of type Gtk.BaselinePosition>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GtkBaselinePosition (94846037647344)>'
+    __gtype__ = None # (!) real value is '<GType GtkBaselinePosition (93897367839504)>'
     __info__ = gi.EnumInfo(BaselinePosition)
 
 

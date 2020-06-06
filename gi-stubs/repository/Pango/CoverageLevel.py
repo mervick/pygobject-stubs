@@ -358,14 +358,14 @@ class CoverageLevel(__gobject.GEnum):
     FALLBACK = 1
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'CoverageLevel' objects>, '__doc__': None, '__gtype__': <GType PangoCoverageLevel (94752680730976)>, '__enum_values__': {0: <enum PANGO_COVERAGE_NONE of type Pango.CoverageLevel>, 1: <enum PANGO_COVERAGE_FALLBACK of type Pango.CoverageLevel>, 2: <enum PANGO_COVERAGE_APPROXIMATE of type Pango.CoverageLevel>, 3: <enum PANGO_COVERAGE_EXACT of type Pango.CoverageLevel>}, '__info__': gi.EnumInfo(CoverageLevel), 'NONE': <enum PANGO_COVERAGE_NONE of type Pango.CoverageLevel>, 'FALLBACK': <enum PANGO_COVERAGE_FALLBACK of type Pango.CoverageLevel>, 'APPROXIMATE': <enum PANGO_COVERAGE_APPROXIMATE of type Pango.CoverageLevel>, 'EXACT': <enum PANGO_COVERAGE_EXACT of type Pango.CoverageLevel>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'CoverageLevel' objects>, '__doc__': None, '__gtype__': <GType PangoCoverageLevel (94187428983728)>, '__enum_values__': {0: <enum PANGO_COVERAGE_NONE of type Pango.CoverageLevel>, 1: <enum PANGO_COVERAGE_FALLBACK of type Pango.CoverageLevel>, 2: <enum PANGO_COVERAGE_APPROXIMATE of type Pango.CoverageLevel>, 3: <enum PANGO_COVERAGE_EXACT of type Pango.CoverageLevel>}, '__info__': gi.EnumInfo(CoverageLevel), 'NONE': <enum PANGO_COVERAGE_NONE of type Pango.CoverageLevel>, 'FALLBACK': <enum PANGO_COVERAGE_FALLBACK of type Pango.CoverageLevel>, 'APPROXIMATE': <enum PANGO_COVERAGE_APPROXIMATE of type Pango.CoverageLevel>, 'EXACT': <enum PANGO_COVERAGE_EXACT of type Pango.CoverageLevel>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType PangoCoverageLevel (94752680730976)>'
+    __gtype__ = None # (!) real value is '<GType PangoCoverageLevel (94187428983728)>'
     __info__ = gi.EnumInfo(CoverageLevel)
 
 

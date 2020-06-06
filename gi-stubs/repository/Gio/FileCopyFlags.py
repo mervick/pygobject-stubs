@@ -368,7 +368,7 @@ class FileCopyFlags(__gobject.GFlags):
     OVERWRITE = 1
     TARGET_DEFAULT_PERMS = 32
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'FileCopyFlags' objects>, '__doc__': None, '__gtype__': <GType GFileCopyFlags (94125582297248)>, '__flags_values__': {0: <flags 0 of type Gio.FileCopyFlags>, 1: <flags G_FILE_COPY_OVERWRITE of type Gio.FileCopyFlags>, 2: <flags G_FILE_COPY_BACKUP of type Gio.FileCopyFlags>, 4: <flags G_FILE_COPY_NOFOLLOW_SYMLINKS of type Gio.FileCopyFlags>, 8: <flags G_FILE_COPY_ALL_METADATA of type Gio.FileCopyFlags>, 16: <flags G_FILE_COPY_NO_FALLBACK_FOR_MOVE of type Gio.FileCopyFlags>, 32: <flags G_FILE_COPY_TARGET_DEFAULT_PERMS of type Gio.FileCopyFlags>}, '__info__': gi.EnumInfo(FileCopyFlags), 'NONE': <flags 0 of type Gio.FileCopyFlags>, 'OVERWRITE': <flags G_FILE_COPY_OVERWRITE of type Gio.FileCopyFlags>, 'BACKUP': <flags G_FILE_COPY_BACKUP of type Gio.FileCopyFlags>, 'NOFOLLOW_SYMLINKS': <flags G_FILE_COPY_NOFOLLOW_SYMLINKS of type Gio.FileCopyFlags>, 'ALL_METADATA': <flags G_FILE_COPY_ALL_METADATA of type Gio.FileCopyFlags>, 'NO_FALLBACK_FOR_MOVE': <flags G_FILE_COPY_NO_FALLBACK_FOR_MOVE of type Gio.FileCopyFlags>, 'TARGET_DEFAULT_PERMS': <flags G_FILE_COPY_TARGET_DEFAULT_PERMS of type Gio.FileCopyFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'FileCopyFlags' objects>, '__doc__': None, '__gtype__': <GType GFileCopyFlags (94269256931728)>, '__flags_values__': {0: <flags 0 of type Gio.FileCopyFlags>, 1: <flags G_FILE_COPY_OVERWRITE of type Gio.FileCopyFlags>, 2: <flags G_FILE_COPY_BACKUP of type Gio.FileCopyFlags>, 4: <flags G_FILE_COPY_NOFOLLOW_SYMLINKS of type Gio.FileCopyFlags>, 8: <flags G_FILE_COPY_ALL_METADATA of type Gio.FileCopyFlags>, 16: <flags G_FILE_COPY_NO_FALLBACK_FOR_MOVE of type Gio.FileCopyFlags>, 32: <flags G_FILE_COPY_TARGET_DEFAULT_PERMS of type Gio.FileCopyFlags>}, '__info__': gi.EnumInfo(FileCopyFlags), 'NONE': <flags 0 of type Gio.FileCopyFlags>, 'OVERWRITE': <flags G_FILE_COPY_OVERWRITE of type Gio.FileCopyFlags>, 'BACKUP': <flags G_FILE_COPY_BACKUP of type Gio.FileCopyFlags>, 'NOFOLLOW_SYMLINKS': <flags G_FILE_COPY_NOFOLLOW_SYMLINKS of type Gio.FileCopyFlags>, 'ALL_METADATA': <flags G_FILE_COPY_ALL_METADATA of type Gio.FileCopyFlags>, 'NO_FALLBACK_FOR_MOVE': <flags G_FILE_COPY_NO_FALLBACK_FOR_MOVE of type Gio.FileCopyFlags>, 'TARGET_DEFAULT_PERMS': <flags G_FILE_COPY_TARGET_DEFAULT_PERMS of type Gio.FileCopyFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
@@ -378,7 +378,7 @@ class FileCopyFlags(__gobject.GFlags):
         16: 16,
         32: 32,
     }
-    __gtype__ = None # (!) real value is '<GType GFileCopyFlags (94125582297248)>'
+    __gtype__ = None # (!) real value is '<GType GFileCopyFlags (94269256931728)>'
     __info__ = gi.EnumInfo(FileCopyFlags)
 
 

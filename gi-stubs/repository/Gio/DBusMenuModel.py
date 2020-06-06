@@ -472,12 +472,12 @@ class DBusMenuModel(MenuModel):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd5213a0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b8760bfd0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DBusMenuModel), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDBusMenuModel (94125582120080)>, '__doc__': None, '__gsignals__': {}, 'get': gi.FunctionInfo(get)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DBusMenuModel), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDBusMenuModel (94269256746464)>, '__doc__': None, '__gsignals__': {}, 'get': gi.FunctionInfo(get)})"
     __gdoc__ = 'Object GDBusMenuModel\n\nSignals from GMenuModel:\n  items-changed (gint, gint, gint)\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GDBusMenuModel (94125582120080)>'
+    __gtype__ = None # (!) real value is '<GType GDBusMenuModel (94269256746464)>'
     __info__ = ObjectInfo(DBusMenuModel)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -370,7 +370,7 @@ class EventControllerScrollFlags(__gobject.GFlags):
     NONE = 0
     VERTICAL = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'EventControllerScrollFlags' objects>, '__doc__': None, '__gtype__': <GType GtkEventControllerScrollFlags (94846038208128)>, '__flags_values__': {0: <flags 0 of type Gtk.EventControllerScrollFlags>, 1: <flags GTK_EVENT_CONTROLLER_SCROLL_VERTICAL of type Gtk.EventControllerScrollFlags>, 2: <flags GTK_EVENT_CONTROLLER_SCROLL_HORIZONTAL of type Gtk.EventControllerScrollFlags>, 4: <flags GTK_EVENT_CONTROLLER_SCROLL_DISCRETE of type Gtk.EventControllerScrollFlags>, 8: <flags GTK_EVENT_CONTROLLER_SCROLL_KINETIC of type Gtk.EventControllerScrollFlags>, 3: <flags GTK_EVENT_CONTROLLER_SCROLL_VERTICAL | GTK_EVENT_CONTROLLER_SCROLL_HORIZONTAL | GTK_EVENT_CONTROLLER_SCROLL_BOTH_AXES of type Gtk.EventControllerScrollFlags>}, '__info__': gi.EnumInfo(EventControllerScrollFlags), 'NONE': <flags 0 of type Gtk.EventControllerScrollFlags>, 'VERTICAL': <flags GTK_EVENT_CONTROLLER_SCROLL_VERTICAL of type Gtk.EventControllerScrollFlags>, 'HORIZONTAL': <flags GTK_EVENT_CONTROLLER_SCROLL_HORIZONTAL of type Gtk.EventControllerScrollFlags>, 'DISCRETE': <flags GTK_EVENT_CONTROLLER_SCROLL_DISCRETE of type Gtk.EventControllerScrollFlags>, 'KINETIC': <flags GTK_EVENT_CONTROLLER_SCROLL_KINETIC of type Gtk.EventControllerScrollFlags>, 'BOTH_AXES': <flags GTK_EVENT_CONTROLLER_SCROLL_VERTICAL | GTK_EVENT_CONTROLLER_SCROLL_HORIZONTAL | GTK_EVENT_CONTROLLER_SCROLL_BOTH_AXES of type Gtk.EventControllerScrollFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'EventControllerScrollFlags' objects>, '__doc__': None, '__gtype__': <GType GtkEventControllerScrollFlags (93897368480288)>, '__flags_values__': {0: <flags 0 of type Gtk.EventControllerScrollFlags>, 1: <flags GTK_EVENT_CONTROLLER_SCROLL_VERTICAL of type Gtk.EventControllerScrollFlags>, 2: <flags GTK_EVENT_CONTROLLER_SCROLL_HORIZONTAL of type Gtk.EventControllerScrollFlags>, 4: <flags GTK_EVENT_CONTROLLER_SCROLL_DISCRETE of type Gtk.EventControllerScrollFlags>, 8: <flags GTK_EVENT_CONTROLLER_SCROLL_KINETIC of type Gtk.EventControllerScrollFlags>, 3: <flags GTK_EVENT_CONTROLLER_SCROLL_VERTICAL | GTK_EVENT_CONTROLLER_SCROLL_HORIZONTAL | GTK_EVENT_CONTROLLER_SCROLL_BOTH_AXES of type Gtk.EventControllerScrollFlags>}, '__info__': gi.EnumInfo(EventControllerScrollFlags), 'NONE': <flags 0 of type Gtk.EventControllerScrollFlags>, 'VERTICAL': <flags GTK_EVENT_CONTROLLER_SCROLL_VERTICAL of type Gtk.EventControllerScrollFlags>, 'HORIZONTAL': <flags GTK_EVENT_CONTROLLER_SCROLL_HORIZONTAL of type Gtk.EventControllerScrollFlags>, 'DISCRETE': <flags GTK_EVENT_CONTROLLER_SCROLL_DISCRETE of type Gtk.EventControllerScrollFlags>, 'KINETIC': <flags GTK_EVENT_CONTROLLER_SCROLL_KINETIC of type Gtk.EventControllerScrollFlags>, 'BOTH_AXES': <flags GTK_EVENT_CONTROLLER_SCROLL_VERTICAL | GTK_EVENT_CONTROLLER_SCROLL_HORIZONTAL | GTK_EVENT_CONTROLLER_SCROLL_BOTH_AXES of type Gtk.EventControllerScrollFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
@@ -379,7 +379,7 @@ class EventControllerScrollFlags(__gobject.GFlags):
         4: 4,
         8: 8,
     }
-    __gtype__ = None # (!) real value is '<GType GtkEventControllerScrollFlags (94846038208128)>'
+    __gtype__ = None # (!) real value is '<GType GtkEventControllerScrollFlags (93897368480288)>'
     __info__ = gi.EnumInfo(EventControllerScrollFlags)
 
 

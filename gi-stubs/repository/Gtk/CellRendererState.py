@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -371,7 +371,7 @@ class CellRendererState(__gobject.GFlags):
     SELECTED = 1
     SORTED = 8
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'CellRendererState' objects>, '__doc__': None, '__gtype__': <GType GtkCellRendererState (94846038074384)>, '__flags_values__': {1: <flags GTK_CELL_RENDERER_SELECTED of type Gtk.CellRendererState>, 2: <flags GTK_CELL_RENDERER_PRELIT of type Gtk.CellRendererState>, 4: <flags GTK_CELL_RENDERER_INSENSITIVE of type Gtk.CellRendererState>, 8: <flags GTK_CELL_RENDERER_SORTED of type Gtk.CellRendererState>, 16: <flags GTK_CELL_RENDERER_FOCUSED of type Gtk.CellRendererState>, 32: <flags GTK_CELL_RENDERER_EXPANDABLE of type Gtk.CellRendererState>, 64: <flags GTK_CELL_RENDERER_EXPANDED of type Gtk.CellRendererState>}, '__info__': gi.EnumInfo(CellRendererState), 'SELECTED': <flags GTK_CELL_RENDERER_SELECTED of type Gtk.CellRendererState>, 'PRELIT': <flags GTK_CELL_RENDERER_PRELIT of type Gtk.CellRendererState>, 'INSENSITIVE': <flags GTK_CELL_RENDERER_INSENSITIVE of type Gtk.CellRendererState>, 'SORTED': <flags GTK_CELL_RENDERER_SORTED of type Gtk.CellRendererState>, 'FOCUSED': <flags GTK_CELL_RENDERER_FOCUSED of type Gtk.CellRendererState>, 'EXPANDABLE': <flags GTK_CELL_RENDERER_EXPANDABLE of type Gtk.CellRendererState>, 'EXPANDED': <flags GTK_CELL_RENDERER_EXPANDED of type Gtk.CellRendererState>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'CellRendererState' objects>, '__doc__': None, '__gtype__': <GType GtkCellRendererState (93897368289312)>, '__flags_values__': {1: <flags GTK_CELL_RENDERER_SELECTED of type Gtk.CellRendererState>, 2: <flags GTK_CELL_RENDERER_PRELIT of type Gtk.CellRendererState>, 4: <flags GTK_CELL_RENDERER_INSENSITIVE of type Gtk.CellRendererState>, 8: <flags GTK_CELL_RENDERER_SORTED of type Gtk.CellRendererState>, 16: <flags GTK_CELL_RENDERER_FOCUSED of type Gtk.CellRendererState>, 32: <flags GTK_CELL_RENDERER_EXPANDABLE of type Gtk.CellRendererState>, 64: <flags GTK_CELL_RENDERER_EXPANDED of type Gtk.CellRendererState>}, '__info__': gi.EnumInfo(CellRendererState), 'SELECTED': <flags GTK_CELL_RENDERER_SELECTED of type Gtk.CellRendererState>, 'PRELIT': <flags GTK_CELL_RENDERER_PRELIT of type Gtk.CellRendererState>, 'INSENSITIVE': <flags GTK_CELL_RENDERER_INSENSITIVE of type Gtk.CellRendererState>, 'SORTED': <flags GTK_CELL_RENDERER_SORTED of type Gtk.CellRendererState>, 'FOCUSED': <flags GTK_CELL_RENDERER_FOCUSED of type Gtk.CellRendererState>, 'EXPANDABLE': <flags GTK_CELL_RENDERER_EXPANDABLE of type Gtk.CellRendererState>, 'EXPANDED': <flags GTK_CELL_RENDERER_EXPANDED of type Gtk.CellRendererState>})"
     __flags_values__ = {
         1: 1,
         2: 2,
@@ -381,7 +381,7 @@ class CellRendererState(__gobject.GFlags):
         32: 32,
         64: 64,
     }
-    __gtype__ = None # (!) real value is '<GType GtkCellRendererState (94846038074384)>'
+    __gtype__ = None # (!) real value is '<GType GtkCellRendererState (93897368289312)>'
     __info__ = gi.EnumInfo(CellRendererState)
 
 

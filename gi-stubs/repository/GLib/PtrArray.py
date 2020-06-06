@@ -133,8 +133,8 @@ class PtrArray(__gi.Boxed):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PtrArray), '__module__': 'gi.repository.GLib', '__gtype__': <GType GPtrArray (94243598960368)>, '__dict__': <attribute '__dict__' of 'PtrArray' objects>, '__weakref__': <attribute '__weakref__' of 'PtrArray' objects>, '__doc__': None, 'pdata': <property object at 0x7f1d2b8f7040>, 'len': <property object at 0x7f1d2b8f7130>})"
-    __gtype__ = None # (!) real value is '<GType GPtrArray (94243598960368)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PtrArray), '__module__': 'gi.repository.GLib', '__gtype__': <GType GPtrArray (94581033737200)>, '__dict__': <attribute '__dict__' of 'PtrArray' objects>, '__weakref__': <attribute '__weakref__' of 'PtrArray' objects>, '__doc__': None, 'pdata': <property object at 0x7f85134f5220>, 'len': <property object at 0x7f85134f5310>})"
+    __gtype__ = None # (!) real value is '<GType GPtrArray (94581033737200)>'
     __info__ = StructInfo(PtrArray)
 
 

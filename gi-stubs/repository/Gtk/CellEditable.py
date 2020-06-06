@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -130,10 +130,10 @@ class CellEditable(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(CellEditable), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkCellEditable (94846036168032)>, '__dict__': <attribute '__dict__' of 'CellEditable' objects>, '__weakref__': <attribute '__weakref__' of 'CellEditable' objects>, '__doc__': None, '__gsignals__': {}, 'editing_done': gi.FunctionInfo(editing_done), 'remove_widget': gi.FunctionInfo(remove_widget), 'start_editing': gi.FunctionInfo(start_editing)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(CellEditable), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkCellEditable (93897366371632)>, '__dict__': <attribute '__dict__' of 'CellEditable' objects>, '__weakref__': <attribute '__weakref__' of 'CellEditable' objects>, '__doc__': None, '__gsignals__': {}, 'editing_done': gi.FunctionInfo(editing_done), 'remove_widget': gi.FunctionInfo(remove_widget), 'start_editing': gi.FunctionInfo(start_editing)})"
     __gdoc__ = 'Interface GtkCellEditable\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkCellEditable (94846036168032)>'
+    __gtype__ = None # (!) real value is '<GType GtkCellEditable (93897366371632)>'
     __info__ = InterfaceInfo(CellEditable)
 
 

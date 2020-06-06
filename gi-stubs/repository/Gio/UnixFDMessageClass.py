@@ -128,7 +128,7 @@ class UnixFDMessageClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(UnixFDMessageClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'UnixFDMessageClass' objects>, '__weakref__': <attribute '__weakref__' of 'UnixFDMessageClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28dd6062c0>, '_g_reserved1': <property object at 0x7f28dd6063b0>, '_g_reserved2': <property object at 0x7f28dd6064a0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(UnixFDMessageClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'UnixFDMessageClass' objects>, '__weakref__': <attribute '__weakref__' of 'UnixFDMessageClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b877675e0>, '_g_reserved1': <property object at 0x7f4b877676d0>, '_g_reserved2': <property object at 0x7f4b877677c0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(UnixFDMessageClass)
 

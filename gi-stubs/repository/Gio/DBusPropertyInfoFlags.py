@@ -364,13 +364,13 @@ class DBusPropertyInfoFlags(__gobject.GFlags):
     READABLE = 1
     WRITABLE = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusPropertyInfoFlags' objects>, '__doc__': None, '__gtype__': <GType GDBusPropertyInfoFlags (94125582164128)>, '__flags_values__': {0: <flags 0 of type Gio.DBusPropertyInfoFlags>, 1: <flags G_DBUS_PROPERTY_INFO_FLAGS_READABLE of type Gio.DBusPropertyInfoFlags>, 2: <flags G_DBUS_PROPERTY_INFO_FLAGS_WRITABLE of type Gio.DBusPropertyInfoFlags>}, '__info__': gi.EnumInfo(DBusPropertyInfoFlags), 'NONE': <flags 0 of type Gio.DBusPropertyInfoFlags>, 'READABLE': <flags G_DBUS_PROPERTY_INFO_FLAGS_READABLE of type Gio.DBusPropertyInfoFlags>, 'WRITABLE': <flags G_DBUS_PROPERTY_INFO_FLAGS_WRITABLE of type Gio.DBusPropertyInfoFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DBusPropertyInfoFlags' objects>, '__doc__': None, '__gtype__': <GType GDBusPropertyInfoFlags (94269256791392)>, '__flags_values__': {0: <flags 0 of type Gio.DBusPropertyInfoFlags>, 1: <flags G_DBUS_PROPERTY_INFO_FLAGS_READABLE of type Gio.DBusPropertyInfoFlags>, 2: <flags G_DBUS_PROPERTY_INFO_FLAGS_WRITABLE of type Gio.DBusPropertyInfoFlags>}, '__info__': gi.EnumInfo(DBusPropertyInfoFlags), 'NONE': <flags 0 of type Gio.DBusPropertyInfoFlags>, 'READABLE': <flags G_DBUS_PROPERTY_INFO_FLAGS_READABLE of type Gio.DBusPropertyInfoFlags>, 'WRITABLE': <flags G_DBUS_PROPERTY_INFO_FLAGS_WRITABLE of type Gio.DBusPropertyInfoFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GDBusPropertyInfoFlags (94125582164128)>'
+    __gtype__ = None # (!) real value is '<GType GDBusPropertyInfoFlags (94269256791392)>'
     __info__ = gi.EnumInfo(DBusPropertyInfoFlags)
 
 

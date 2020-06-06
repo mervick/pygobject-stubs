@@ -134,7 +134,7 @@ class AttrSize(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AttrSize), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AttrSize' objects>, '__weakref__': <attribute '__weakref__' of 'AttrSize' objects>, '__doc__': None, 'attr': <property object at 0x7f24746e5450>, 'size': <property object at 0x7f24746e5540>, 'absolute': <property object at 0x7f24746e5630>, 'new': gi.FunctionInfo(new), 'new_absolute': gi.FunctionInfo(new_absolute)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(AttrSize), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'AttrSize' objects>, '__weakref__': <attribute '__weakref__' of 'AttrSize' objects>, '__doc__': None, 'attr': <property object at 0x7f85178852c0>, 'size': <property object at 0x7f85178853b0>, 'absolute': <property object at 0x7f85178854a0>, 'new': gi.FunctionInfo(new), 'new_absolute': gi.FunctionInfo(new_absolute)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(AttrSize)
 

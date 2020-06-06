@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -368,7 +368,7 @@ class CssSectionType(__gobject.GEnum):
     SELECTOR = 5
     VALUE = 7
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'CssSectionType' objects>, '__doc__': None, '__gtype__': <GType GtkCssSectionType (94846037218240)>, '__enum_values__': {0: <enum GTK_CSS_SECTION_DOCUMENT of type Gtk.CssSectionType>, 1: <enum GTK_CSS_SECTION_IMPORT of type Gtk.CssSectionType>, 2: <enum GTK_CSS_SECTION_COLOR_DEFINITION of type Gtk.CssSectionType>, 3: <enum GTK_CSS_SECTION_BINDING_SET of type Gtk.CssSectionType>, 4: <enum GTK_CSS_SECTION_RULESET of type Gtk.CssSectionType>, 5: <enum GTK_CSS_SECTION_SELECTOR of type Gtk.CssSectionType>, 6: <enum GTK_CSS_SECTION_DECLARATION of type Gtk.CssSectionType>, 7: <enum GTK_CSS_SECTION_VALUE of type Gtk.CssSectionType>, 8: <enum GTK_CSS_SECTION_KEYFRAMES of type Gtk.CssSectionType>}, '__info__': gi.EnumInfo(CssSectionType), 'DOCUMENT': <enum GTK_CSS_SECTION_DOCUMENT of type Gtk.CssSectionType>, 'IMPORT': <enum GTK_CSS_SECTION_IMPORT of type Gtk.CssSectionType>, 'COLOR_DEFINITION': <enum GTK_CSS_SECTION_COLOR_DEFINITION of type Gtk.CssSectionType>, 'BINDING_SET': <enum GTK_CSS_SECTION_BINDING_SET of type Gtk.CssSectionType>, 'RULESET': <enum GTK_CSS_SECTION_RULESET of type Gtk.CssSectionType>, 'SELECTOR': <enum GTK_CSS_SECTION_SELECTOR of type Gtk.CssSectionType>, 'DECLARATION': <enum GTK_CSS_SECTION_DECLARATION of type Gtk.CssSectionType>, 'VALUE': <enum GTK_CSS_SECTION_VALUE of type Gtk.CssSectionType>, 'KEYFRAMES': <enum GTK_CSS_SECTION_KEYFRAMES of type Gtk.CssSectionType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'CssSectionType' objects>, '__doc__': None, '__gtype__': <GType GtkCssSectionType (93897367433232)>, '__enum_values__': {0: <enum GTK_CSS_SECTION_DOCUMENT of type Gtk.CssSectionType>, 1: <enum GTK_CSS_SECTION_IMPORT of type Gtk.CssSectionType>, 2: <enum GTK_CSS_SECTION_COLOR_DEFINITION of type Gtk.CssSectionType>, 3: <enum GTK_CSS_SECTION_BINDING_SET of type Gtk.CssSectionType>, 4: <enum GTK_CSS_SECTION_RULESET of type Gtk.CssSectionType>, 5: <enum GTK_CSS_SECTION_SELECTOR of type Gtk.CssSectionType>, 6: <enum GTK_CSS_SECTION_DECLARATION of type Gtk.CssSectionType>, 7: <enum GTK_CSS_SECTION_VALUE of type Gtk.CssSectionType>, 8: <enum GTK_CSS_SECTION_KEYFRAMES of type Gtk.CssSectionType>}, '__info__': gi.EnumInfo(CssSectionType), 'DOCUMENT': <enum GTK_CSS_SECTION_DOCUMENT of type Gtk.CssSectionType>, 'IMPORT': <enum GTK_CSS_SECTION_IMPORT of type Gtk.CssSectionType>, 'COLOR_DEFINITION': <enum GTK_CSS_SECTION_COLOR_DEFINITION of type Gtk.CssSectionType>, 'BINDING_SET': <enum GTK_CSS_SECTION_BINDING_SET of type Gtk.CssSectionType>, 'RULESET': <enum GTK_CSS_SECTION_RULESET of type Gtk.CssSectionType>, 'SELECTOR': <enum GTK_CSS_SECTION_SELECTOR of type Gtk.CssSectionType>, 'DECLARATION': <enum GTK_CSS_SECTION_DECLARATION of type Gtk.CssSectionType>, 'VALUE': <enum GTK_CSS_SECTION_VALUE of type Gtk.CssSectionType>, 'KEYFRAMES': <enum GTK_CSS_SECTION_KEYFRAMES of type Gtk.CssSectionType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -380,7 +380,7 @@ class CssSectionType(__gobject.GEnum):
         7: 7,
         8: 8,
     }
-    __gtype__ = None # (!) real value is '<GType GtkCssSectionType (94846037218240)>'
+    __gtype__ = None # (!) real value is '<GType GtkCssSectionType (93897367433232)>'
     __info__ = gi.EnumInfo(CssSectionType)
 
 

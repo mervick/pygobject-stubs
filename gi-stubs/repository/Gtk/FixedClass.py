@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -135,7 +135,7 @@ class FixedClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FixedClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FixedClass' objects>, '__weakref__': <attribute '__weakref__' of 'FixedClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe83108eb30>, '_gtk_reserved1': <property object at 0x7fe83108ec20>, '_gtk_reserved2': <property object at 0x7fe83108ed10>, '_gtk_reserved3': <property object at 0x7fe83108ee00>, '_gtk_reserved4': <property object at 0x7fe83108eef0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FixedClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FixedClass' objects>, '__weakref__': <attribute '__weakref__' of 'FixedClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a7a3770>, '_gtk_reserved1': <property object at 0x7fc63a7a3860>, '_gtk_reserved2': <property object at 0x7fc63a7a3950>, '_gtk_reserved3': <property object at 0x7fc63a7a3a40>, '_gtk_reserved4': <property object at 0x7fc63a7a3b30>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(FixedClass)
 

@@ -159,10 +159,10 @@ class TlsBackend(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(TlsBackend), '__module__': 'gi.repository.Gio', '__gtype__': <GType GTlsBackend (94125582856352)>, '__dict__': <attribute '__dict__' of 'TlsBackend' objects>, '__weakref__': <attribute '__weakref__' of 'TlsBackend' objects>, '__doc__': None, '__gsignals__': {}, 'get_default': gi.FunctionInfo(get_default), 'get_certificate_type': gi.FunctionInfo(get_certificate_type), 'get_client_connection_type': gi.FunctionInfo(get_client_connection_type), 'get_default_database': gi.FunctionInfo(get_default_database), 'get_dtls_client_connection_type': gi.FunctionInfo(get_dtls_client_connection_type), 'get_dtls_server_connection_type': gi.FunctionInfo(get_dtls_server_connection_type), 'get_file_database_type': gi.FunctionInfo(get_file_database_type), 'get_server_connection_type': gi.FunctionInfo(get_server_connection_type), 'set_default_database': gi.FunctionInfo(set_default_database), 'supports_dtls': gi.FunctionInfo(supports_dtls), 'supports_tls': gi.FunctionInfo(supports_tls)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(TlsBackend), '__module__': 'gi.repository.Gio', '__gtype__': <GType GTlsBackend (94269257073552)>, '__dict__': <attribute '__dict__' of 'TlsBackend' objects>, '__weakref__': <attribute '__weakref__' of 'TlsBackend' objects>, '__doc__': None, '__gsignals__': {}, 'get_default': gi.FunctionInfo(get_default), 'get_certificate_type': gi.FunctionInfo(get_certificate_type), 'get_client_connection_type': gi.FunctionInfo(get_client_connection_type), 'get_default_database': gi.FunctionInfo(get_default_database), 'get_dtls_client_connection_type': gi.FunctionInfo(get_dtls_client_connection_type), 'get_dtls_server_connection_type': gi.FunctionInfo(get_dtls_server_connection_type), 'get_file_database_type': gi.FunctionInfo(get_file_database_type), 'get_server_connection_type': gi.FunctionInfo(get_server_connection_type), 'set_default_database': gi.FunctionInfo(set_default_database), 'supports_dtls': gi.FunctionInfo(supports_dtls), 'supports_tls': gi.FunctionInfo(supports_tls)})"
     __gdoc__ = 'Interface GTlsBackend\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GTlsBackend (94125582856352)>'
+    __gtype__ = None # (!) real value is '<GType GTlsBackend (94269257073552)>'
     __info__ = InterfaceInfo(TlsBackend)
 
 

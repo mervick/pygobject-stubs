@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -135,7 +135,7 @@ class CellViewClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(CellViewClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'CellViewClass' objects>, '__weakref__': <attribute '__weakref__' of 'CellViewClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe8310ce810>, '_gtk_reserved1': <property object at 0x7fe8310ce900>, '_gtk_reserved2': <property object at 0x7fe8310ce9f0>, '_gtk_reserved3': <property object at 0x7fe8310ceae0>, '_gtk_reserved4': <property object at 0x7fe8310cebd0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(CellViewClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'CellViewClass' objects>, '__weakref__': <attribute '__weakref__' of 'CellViewClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a7e47c0>, '_gtk_reserved1': <property object at 0x7fc63a7e48b0>, '_gtk_reserved2': <property object at 0x7fc63a7e49a0>, '_gtk_reserved3': <property object at 0x7fc63a7e4a90>, '_gtk_reserved4': <property object at 0x7fc63a7e4b80>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(CellViewClass)
 

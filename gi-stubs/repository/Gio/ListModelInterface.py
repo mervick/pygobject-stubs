@@ -130,7 +130,7 @@ class ListModelInterface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ListModelInterface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ListModelInterface' objects>, '__weakref__': <attribute '__weakref__' of 'ListModelInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f28ddea2c70>, 'get_item_type': <property object at 0x7f28ddea2d60>, 'get_n_items': <property object at 0x7f28ddea2e50>, 'get_item': <property object at 0x7f28ddea2f40>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ListModelInterface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ListModelInterface' objects>, '__weakref__': <attribute '__weakref__' of 'ListModelInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f4b88005db0>, 'get_item_type': <property object at 0x7f4b88005ea0>, 'get_n_items': <property object at 0x7f4b88005f90>, 'get_item': <property object at 0x7f4b880060e0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ListModelInterface)
 

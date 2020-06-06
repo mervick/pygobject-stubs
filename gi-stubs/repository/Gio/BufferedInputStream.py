@@ -617,12 +617,12 @@ class BufferedInputStream(FilterInputStream, Seekable):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd616a30>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87775550>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(BufferedInputStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GBufferedInputStream (94125581793520)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_sized': gi.FunctionInfo(new_sized), 'fill': gi.FunctionInfo(fill), 'fill_async': gi.FunctionInfo(fill_async), 'fill_finish': gi.FunctionInfo(fill_finish), 'get_available': gi.FunctionInfo(get_available), 'get_buffer_size': gi.FunctionInfo(get_buffer_size), 'peek': gi.FunctionInfo(peek), 'peek_buffer': gi.FunctionInfo(peek_buffer), 'read_byte': gi.FunctionInfo(read_byte), 'set_buffer_size': gi.FunctionInfo(set_buffer_size), 'do_fill': gi.VFuncInfo(fill), 'do_fill_async': gi.VFuncInfo(fill_async), 'do_fill_finish': gi.VFuncInfo(fill_finish), 'parent_instance': <property object at 0x7f28ddf2d720>, 'priv': <property object at 0x7f28ddf2d810>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(BufferedInputStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GBufferedInputStream (94269256286016)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_sized': gi.FunctionInfo(new_sized), 'fill': gi.FunctionInfo(fill), 'fill_async': gi.FunctionInfo(fill_async), 'fill_finish': gi.FunctionInfo(fill_finish), 'get_available': gi.FunctionInfo(get_available), 'get_buffer_size': gi.FunctionInfo(get_buffer_size), 'peek': gi.FunctionInfo(peek), 'peek_buffer': gi.FunctionInfo(peek_buffer), 'read_byte': gi.FunctionInfo(read_byte), 'set_buffer_size': gi.FunctionInfo(set_buffer_size), 'do_fill': gi.VFuncInfo(fill), 'do_fill_async': gi.VFuncInfo(fill_async), 'do_fill_finish': gi.VFuncInfo(fill_finish), 'parent_instance': <property object at 0x7f4b8808f860>, 'priv': <property object at 0x7f4b8808f950>})"
     __gdoc__ = 'Object GBufferedInputStream\n\nProperties from GBufferedInputStream:\n  buffer-size -> guint: Buffer Size\n    The size of the backend buffer\n\nProperties from GFilterInputStream:\n  base-stream -> GInputStream: The Filter Base Stream\n    The underlying base stream on which the io ops will be done.\n  close-base-stream -> gboolean: Close Base Stream\n    If the base stream should be closed when the filter stream is closed.\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GBufferedInputStream (94125581793520)>'
+    __gtype__ = None # (!) real value is '<GType GBufferedInputStream (94269256286016)>'
     __info__ = ObjectInfo(BufferedInputStream)
 
 

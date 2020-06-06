@@ -126,7 +126,7 @@ class EngineShapeClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EngineShapeClass), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EngineShapeClass' objects>, '__weakref__': <attribute '__weakref__' of 'EngineShapeClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f24746ec1d0>, 'script_shape': <property object at 0x7f24746ec2c0>, 'covers': <property object at 0x7f24746ec3b0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EngineShapeClass), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'EngineShapeClass' objects>, '__weakref__': <attribute '__weakref__' of 'EngineShapeClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f8517891ef0>, 'script_shape': <property object at 0x7f8517892040>, 'covers': <property object at 0x7f8517892130>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(EngineShapeClass)
 

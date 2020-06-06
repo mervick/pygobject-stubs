@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -141,7 +141,7 @@ class TableRowCol(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TableRowCol), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TableRowCol' objects>, '__weakref__': <attribute '__weakref__' of 'TableRowCol' objects>, '__doc__': None, 'requisition': <property object at 0x7fe830f82860>, 'allocation': <property object at 0x7fe830f82950>, 'spacing': <property object at 0x7fe830f82a40>, 'need_expand': <property object at 0x7fe830f82b30>, 'need_shrink': <property object at 0x7fe830f82c20>, 'expand': <property object at 0x7fe830f82d10>, 'shrink': <property object at 0x7fe830f82db0>, 'empty': <property object at 0x7fe830f82ea0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TableRowCol), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TableRowCol' objects>, '__weakref__': <attribute '__weakref__' of 'TableRowCol' objects>, '__doc__': None, 'requisition': <property object at 0x7fc63a69a130>, 'allocation': <property object at 0x7fc63a69a220>, 'spacing': <property object at 0x7fc63a69a310>, 'need_expand': <property object at 0x7fc63a69a400>, 'need_shrink': <property object at 0x7fc63a69a4f0>, 'expand': <property object at 0x7fc63a69a5e0>, 'shrink': <property object at 0x7fc63a69a680>, 'empty': <property object at 0x7fc63a69a770>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TableRowCol)
 

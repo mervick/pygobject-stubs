@@ -134,7 +134,7 @@ class ActionEntry(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ActionEntry), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ActionEntry' objects>, '__weakref__': <attribute '__weakref__' of 'ActionEntry' objects>, '__doc__': None, 'name': <property object at 0x7f28ddf288b0>, 'activate': <property object at 0x7f28ddf28900>, 'parameter_type': <property object at 0x7f28ddf28950>, 'state': <property object at 0x7f28ddf289a0>, 'change_state': <property object at 0x7f28ddf28a90>, 'padding': <property object at 0x7f28ddf28b80>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ActionEntry), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ActionEntry' objects>, '__weakref__': <attribute '__weakref__' of 'ActionEntry' objects>, '__doc__': None, 'name': <property object at 0x7f4b880898b0>, 'activate': <property object at 0x7f4b88089900>, 'parameter_type': <property object at 0x7f4b88089950>, 'state': <property object at 0x7f4b880899a0>, 'change_state': <property object at 0x7f4b88089a90>, 'padding': <property object at 0x7f4b88089b80>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ActionEntry)
 

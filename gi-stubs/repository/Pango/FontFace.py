@@ -434,12 +434,12 @@ class FontFace(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f2474705d00>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f85178dd4c0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FontFace), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoFontFace (94752681000112)>, '__doc__': None, '__gsignals__': {}, 'describe': gi.FunctionInfo(describe), 'get_face_name': gi.FunctionInfo(get_face_name), 'is_synthesized': gi.FunctionInfo(is_synthesized), 'list_sizes': gi.FunctionInfo(list_sizes), 'do_describe': gi.VFuncInfo(describe), 'do_get_face_name': gi.VFuncInfo(get_face_name), 'do_is_synthesized': gi.VFuncInfo(is_synthesized), 'do_list_sizes': gi.VFuncInfo(list_sizes), 'parent_instance': <property object at 0x7f24746ee310>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FontFace), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoFontFace (94187428945968)>, '__doc__': None, '__gsignals__': {}, 'describe': gi.FunctionInfo(describe), 'get_face_name': gi.FunctionInfo(get_face_name), 'is_synthesized': gi.FunctionInfo(is_synthesized), 'list_sizes': gi.FunctionInfo(list_sizes), 'do_describe': gi.VFuncInfo(describe), 'do_get_face_name': gi.VFuncInfo(get_face_name), 'do_is_synthesized': gi.VFuncInfo(is_synthesized), 'do_list_sizes': gi.VFuncInfo(list_sizes), 'parent_instance': <property object at 0x7f85178940e0>})"
     __gdoc__ = 'Object PangoFontFace\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType PangoFontFace (94752681000112)>'
+    __gtype__ = None # (!) real value is '<GType PangoFontFace (94187428945968)>'
     __info__ = ObjectInfo(FontFace)
 
 

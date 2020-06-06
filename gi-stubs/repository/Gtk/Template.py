@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -140,6 +140,6 @@ class Template(object):
     Callback = None # (!) real value is "<class 'gi._gtktemplate.Callback'>"
     Child = None # (!) real value is "<class 'gi._gtktemplate.Child'>"
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi._gtktemplate', '__init__': <function Template.__init__ at 0x7fe831d738b0>, 'from_file': <classmethod object at 0x7fe831d71940>, 'from_string': <classmethod object at 0x7fe831d71970>, 'from_resource': <classmethod object at 0x7fe831d719a0>, 'Callback': <class 'gi._gtktemplate.Callback'>, 'Child': <class 'gi._gtktemplate.Child'>, '__call__': <function Template.__call__ at 0x7fe831d73af0>, '__dict__': <attribute '__dict__' of 'Template' objects>, '__weakref__': <attribute '__weakref__' of 'Template' objects>, '__doc__': None})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi._gtktemplate', '__init__': <function Template.__init__ at 0x7fc63b4910d0>, 'from_file': <classmethod object at 0x7fc63b48ad30>, 'from_string': <classmethod object at 0x7fc63b48ad60>, 'from_resource': <classmethod object at 0x7fc63b48ad90>, 'Callback': <class 'gi._gtktemplate.Callback'>, 'Child': <class 'gi._gtktemplate.Child'>, '__call__': <function Template.__call__ at 0x7fc63b491310>, '__dict__': <attribute '__dict__' of 'Template' objects>, '__weakref__': <attribute '__weakref__' of 'Template' objects>, '__doc__': None})"
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -445,12 +445,12 @@ class Monitor(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f1e11cad310>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fbaf7f3bdc0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Monitor), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkMonitor (94055650887936)>, '__doc__': None, '__gsignals__': {}, 'get_display': gi.FunctionInfo(get_display), 'get_geometry': gi.FunctionInfo(get_geometry), 'get_height_mm': gi.FunctionInfo(get_height_mm), 'get_manufacturer': gi.FunctionInfo(get_manufacturer), 'get_model': gi.FunctionInfo(get_model), 'get_refresh_rate': gi.FunctionInfo(get_refresh_rate), 'get_scale_factor': gi.FunctionInfo(get_scale_factor), 'get_subpixel_layout': gi.FunctionInfo(get_subpixel_layout), 'get_width_mm': gi.FunctionInfo(get_width_mm), 'get_workarea': gi.FunctionInfo(get_workarea), 'is_primary': gi.FunctionInfo(is_primary)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Monitor), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkMonitor (94915768453680)>, '__doc__': None, '__gsignals__': {}, 'get_display': gi.FunctionInfo(get_display), 'get_geometry': gi.FunctionInfo(get_geometry), 'get_height_mm': gi.FunctionInfo(get_height_mm), 'get_manufacturer': gi.FunctionInfo(get_manufacturer), 'get_model': gi.FunctionInfo(get_model), 'get_refresh_rate': gi.FunctionInfo(get_refresh_rate), 'get_scale_factor': gi.FunctionInfo(get_scale_factor), 'get_subpixel_layout': gi.FunctionInfo(get_subpixel_layout), 'get_width_mm': gi.FunctionInfo(get_width_mm), 'get_workarea': gi.FunctionInfo(get_workarea), 'is_primary': gi.FunctionInfo(is_primary)})"
     __gdoc__ = 'Object GdkMonitor\n\nSignals from GdkMonitor:\n  invalidate ()\n\nProperties from GdkMonitor:\n  display -> GdkDisplay: Display\n    The display of the monitor\n  manufacturer -> gchararray: Manufacturer\n    The manufacturer name\n  model -> gchararray: Model\n    The model name\n  scale-factor -> gint: Scale factor\n    The scale factor\n  geometry -> GdkRectangle: Geometry\n    The geometry of the monitor\n  workarea -> GdkRectangle: Workarea\n    The workarea of the monitor\n  width-mm -> gint: Physical width\n    The width of the monitor, in millimeters\n  height-mm -> gint: Physical height\n    The height of the monitor, in millimeters\n  refresh-rate -> gint: Refresh rate\n    The refresh rate, in millihertz\n  subpixel-layout -> GdkSubpixelLayout: Subpixel layout\n    The subpixel layout\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GdkMonitor (94055650887936)>'
+    __gtype__ = None # (!) real value is '<GType GdkMonitor (94915768453680)>'
     __info__ = ObjectInfo(Monitor)
 
 

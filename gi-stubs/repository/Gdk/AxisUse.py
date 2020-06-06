@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -366,7 +366,7 @@ class AxisUse(__gobject.GEnum):
     Y = 2
     YTILT = 5
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'AxisUse' objects>, '__doc__': None, '__gtype__': <GType GdkAxisUse (94055651429712)>, '__enum_values__': {0: <enum GDK_AXIS_IGNORE of type Gdk.AxisUse>, 1: <enum GDK_AXIS_X of type Gdk.AxisUse>, 2: <enum GDK_AXIS_Y of type Gdk.AxisUse>, 3: <enum GDK_AXIS_PRESSURE of type Gdk.AxisUse>, 4: <enum GDK_AXIS_XTILT of type Gdk.AxisUse>, 5: <enum GDK_AXIS_YTILT of type Gdk.AxisUse>, 6: <enum GDK_AXIS_WHEEL of type Gdk.AxisUse>, 7: <enum GDK_AXIS_DISTANCE of type Gdk.AxisUse>, 8: <enum GDK_AXIS_ROTATION of type Gdk.AxisUse>, 9: <enum GDK_AXIS_SLIDER of type Gdk.AxisUse>, 10: <enum GDK_AXIS_LAST of type Gdk.AxisUse>}, '__info__': gi.EnumInfo(AxisUse), 'IGNORE': <enum GDK_AXIS_IGNORE of type Gdk.AxisUse>, 'X': <enum GDK_AXIS_X of type Gdk.AxisUse>, 'Y': <enum GDK_AXIS_Y of type Gdk.AxisUse>, 'PRESSURE': <enum GDK_AXIS_PRESSURE of type Gdk.AxisUse>, 'XTILT': <enum GDK_AXIS_XTILT of type Gdk.AxisUse>, 'YTILT': <enum GDK_AXIS_YTILT of type Gdk.AxisUse>, 'WHEEL': <enum GDK_AXIS_WHEEL of type Gdk.AxisUse>, 'DISTANCE': <enum GDK_AXIS_DISTANCE of type Gdk.AxisUse>, 'ROTATION': <enum GDK_AXIS_ROTATION of type Gdk.AxisUse>, 'SLIDER': <enum GDK_AXIS_SLIDER of type Gdk.AxisUse>, 'LAST': <enum GDK_AXIS_LAST of type Gdk.AxisUse>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'AxisUse' objects>, '__doc__': None, '__gtype__': <GType GdkAxisUse (94915768996368)>, '__enum_values__': {0: <enum GDK_AXIS_IGNORE of type Gdk.AxisUse>, 1: <enum GDK_AXIS_X of type Gdk.AxisUse>, 2: <enum GDK_AXIS_Y of type Gdk.AxisUse>, 3: <enum GDK_AXIS_PRESSURE of type Gdk.AxisUse>, 4: <enum GDK_AXIS_XTILT of type Gdk.AxisUse>, 5: <enum GDK_AXIS_YTILT of type Gdk.AxisUse>, 6: <enum GDK_AXIS_WHEEL of type Gdk.AxisUse>, 7: <enum GDK_AXIS_DISTANCE of type Gdk.AxisUse>, 8: <enum GDK_AXIS_ROTATION of type Gdk.AxisUse>, 9: <enum GDK_AXIS_SLIDER of type Gdk.AxisUse>, 10: <enum GDK_AXIS_LAST of type Gdk.AxisUse>}, '__info__': gi.EnumInfo(AxisUse), 'IGNORE': <enum GDK_AXIS_IGNORE of type Gdk.AxisUse>, 'X': <enum GDK_AXIS_X of type Gdk.AxisUse>, 'Y': <enum GDK_AXIS_Y of type Gdk.AxisUse>, 'PRESSURE': <enum GDK_AXIS_PRESSURE of type Gdk.AxisUse>, 'XTILT': <enum GDK_AXIS_XTILT of type Gdk.AxisUse>, 'YTILT': <enum GDK_AXIS_YTILT of type Gdk.AxisUse>, 'WHEEL': <enum GDK_AXIS_WHEEL of type Gdk.AxisUse>, 'DISTANCE': <enum GDK_AXIS_DISTANCE of type Gdk.AxisUse>, 'ROTATION': <enum GDK_AXIS_ROTATION of type Gdk.AxisUse>, 'SLIDER': <enum GDK_AXIS_SLIDER of type Gdk.AxisUse>, 'LAST': <enum GDK_AXIS_LAST of type Gdk.AxisUse>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -380,7 +380,7 @@ class AxisUse(__gobject.GEnum):
         9: 9,
         10: 10,
     }
-    __gtype__ = None # (!) real value is '<GType GdkAxisUse (94055651429712)>'
+    __gtype__ = None # (!) real value is '<GType GdkAxisUse (94915768996368)>'
     __info__ = gi.EnumInfo(AxisUse)
 
 

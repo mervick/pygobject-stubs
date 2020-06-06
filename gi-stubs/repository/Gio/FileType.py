@@ -363,7 +363,7 @@ class FileType(__gobject.GEnum):
     SYMBOLIC_LINK = 3
     UNKNOWN = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'FileType' objects>, '__doc__': None, '__gtype__': <GType GFileType (94125582148560)>, '__enum_values__': {0: <enum G_FILE_TYPE_UNKNOWN of type Gio.FileType>, 1: <enum G_FILE_TYPE_REGULAR of type Gio.FileType>, 2: <enum G_FILE_TYPE_DIRECTORY of type Gio.FileType>, 3: <enum G_FILE_TYPE_SYMBOLIC_LINK of type Gio.FileType>, 4: <enum G_FILE_TYPE_SPECIAL of type Gio.FileType>, 5: <enum G_FILE_TYPE_SHORTCUT of type Gio.FileType>, 6: <enum G_FILE_TYPE_MOUNTABLE of type Gio.FileType>}, '__info__': gi.EnumInfo(FileType), 'UNKNOWN': <enum G_FILE_TYPE_UNKNOWN of type Gio.FileType>, 'REGULAR': <enum G_FILE_TYPE_REGULAR of type Gio.FileType>, 'DIRECTORY': <enum G_FILE_TYPE_DIRECTORY of type Gio.FileType>, 'SYMBOLIC_LINK': <enum G_FILE_TYPE_SYMBOLIC_LINK of type Gio.FileType>, 'SPECIAL': <enum G_FILE_TYPE_SPECIAL of type Gio.FileType>, 'SHORTCUT': <enum G_FILE_TYPE_SHORTCUT of type Gio.FileType>, 'MOUNTABLE': <enum G_FILE_TYPE_MOUNTABLE of type Gio.FileType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'FileType' objects>, '__doc__': None, '__gtype__': <GType GFileType (94269257005920)>, '__enum_values__': {0: <enum G_FILE_TYPE_UNKNOWN of type Gio.FileType>, 1: <enum G_FILE_TYPE_REGULAR of type Gio.FileType>, 2: <enum G_FILE_TYPE_DIRECTORY of type Gio.FileType>, 3: <enum G_FILE_TYPE_SYMBOLIC_LINK of type Gio.FileType>, 4: <enum G_FILE_TYPE_SPECIAL of type Gio.FileType>, 5: <enum G_FILE_TYPE_SHORTCUT of type Gio.FileType>, 6: <enum G_FILE_TYPE_MOUNTABLE of type Gio.FileType>}, '__info__': gi.EnumInfo(FileType), 'UNKNOWN': <enum G_FILE_TYPE_UNKNOWN of type Gio.FileType>, 'REGULAR': <enum G_FILE_TYPE_REGULAR of type Gio.FileType>, 'DIRECTORY': <enum G_FILE_TYPE_DIRECTORY of type Gio.FileType>, 'SYMBOLIC_LINK': <enum G_FILE_TYPE_SYMBOLIC_LINK of type Gio.FileType>, 'SPECIAL': <enum G_FILE_TYPE_SPECIAL of type Gio.FileType>, 'SHORTCUT': <enum G_FILE_TYPE_SHORTCUT of type Gio.FileType>, 'MOUNTABLE': <enum G_FILE_TYPE_MOUNTABLE of type Gio.FileType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -373,7 +373,7 @@ class FileType(__gobject.GEnum):
         5: 5,
         6: 6,
     }
-    __gtype__ = None # (!) real value is '<GType GFileType (94125582148560)>'
+    __gtype__ = None # (!) real value is '<GType GFileType (94269257005920)>'
     __info__ = gi.EnumInfo(FileType)
 
 

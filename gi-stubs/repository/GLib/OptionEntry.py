@@ -137,7 +137,7 @@ class OptionEntry(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(OptionEntry), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'OptionEntry' objects>, '__weakref__': <attribute '__weakref__' of 'OptionEntry' objects>, '__doc__': None, 'long_name': <property object at 0x7f1d2b8f63b0>, 'short_name': <property object at 0x7f1d2b8f64a0>, 'flags': <property object at 0x7f1d2b8f6590>, 'arg': <property object at 0x7f1d2b8f6680>, 'arg_data': <property object at 0x7f1d2b8f6770>, 'description': <property object at 0x7f1d2b8f6860>, 'arg_description': <property object at 0x7f1d2b8f6950>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(OptionEntry), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'OptionEntry' objects>, '__weakref__': <attribute '__weakref__' of 'OptionEntry' objects>, '__doc__': None, 'long_name': <property object at 0x7f85134f3590>, 'short_name': <property object at 0x7f85134f3680>, 'flags': <property object at 0x7f85134f3770>, 'arg': <property object at 0x7f85134f3860>, 'arg_data': <property object at 0x7f85134f3950>, 'description': <property object at 0x7f85134f3a40>, 'arg_description': <property object at 0x7f85134f3b30>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(OptionEntry)
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -366,7 +366,7 @@ class TextWindowType(__gobject.GEnum):
     TOP = 5
     WIDGET = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'TextWindowType' objects>, '__doc__': None, '__gtype__': <GType GtkTextWindowType (94846036811952)>, '__enum_values__': {0: <enum GTK_TEXT_WINDOW_PRIVATE of type Gtk.TextWindowType>, 1: <enum GTK_TEXT_WINDOW_WIDGET of type Gtk.TextWindowType>, 2: <enum GTK_TEXT_WINDOW_TEXT of type Gtk.TextWindowType>, 3: <enum GTK_TEXT_WINDOW_LEFT of type Gtk.TextWindowType>, 4: <enum GTK_TEXT_WINDOW_RIGHT of type Gtk.TextWindowType>, 5: <enum GTK_TEXT_WINDOW_TOP of type Gtk.TextWindowType>, 6: <enum GTK_TEXT_WINDOW_BOTTOM of type Gtk.TextWindowType>}, '__info__': gi.EnumInfo(TextWindowType), 'PRIVATE': <enum GTK_TEXT_WINDOW_PRIVATE of type Gtk.TextWindowType>, 'WIDGET': <enum GTK_TEXT_WINDOW_WIDGET of type Gtk.TextWindowType>, 'TEXT': <enum GTK_TEXT_WINDOW_TEXT of type Gtk.TextWindowType>, 'LEFT': <enum GTK_TEXT_WINDOW_LEFT of type Gtk.TextWindowType>, 'RIGHT': <enum GTK_TEXT_WINDOW_RIGHT of type Gtk.TextWindowType>, 'TOP': <enum GTK_TEXT_WINDOW_TOP of type Gtk.TextWindowType>, 'BOTTOM': <enum GTK_TEXT_WINDOW_BOTTOM of type Gtk.TextWindowType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'TextWindowType' objects>, '__doc__': None, '__gtype__': <GType GtkTextWindowType (93897367017504)>, '__enum_values__': {0: <enum GTK_TEXT_WINDOW_PRIVATE of type Gtk.TextWindowType>, 1: <enum GTK_TEXT_WINDOW_WIDGET of type Gtk.TextWindowType>, 2: <enum GTK_TEXT_WINDOW_TEXT of type Gtk.TextWindowType>, 3: <enum GTK_TEXT_WINDOW_LEFT of type Gtk.TextWindowType>, 4: <enum GTK_TEXT_WINDOW_RIGHT of type Gtk.TextWindowType>, 5: <enum GTK_TEXT_WINDOW_TOP of type Gtk.TextWindowType>, 6: <enum GTK_TEXT_WINDOW_BOTTOM of type Gtk.TextWindowType>}, '__info__': gi.EnumInfo(TextWindowType), 'PRIVATE': <enum GTK_TEXT_WINDOW_PRIVATE of type Gtk.TextWindowType>, 'WIDGET': <enum GTK_TEXT_WINDOW_WIDGET of type Gtk.TextWindowType>, 'TEXT': <enum GTK_TEXT_WINDOW_TEXT of type Gtk.TextWindowType>, 'LEFT': <enum GTK_TEXT_WINDOW_LEFT of type Gtk.TextWindowType>, 'RIGHT': <enum GTK_TEXT_WINDOW_RIGHT of type Gtk.TextWindowType>, 'TOP': <enum GTK_TEXT_WINDOW_TOP of type Gtk.TextWindowType>, 'BOTTOM': <enum GTK_TEXT_WINDOW_BOTTOM of type Gtk.TextWindowType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -376,7 +376,7 @@ class TextWindowType(__gobject.GEnum):
         5: 5,
         6: 6,
     }
-    __gtype__ = None # (!) real value is '<GType GtkTextWindowType (94846036811952)>'
+    __gtype__ = None # (!) real value is '<GType GtkTextWindowType (93897367017504)>'
     __info__ = gi.EnumInfo(TextWindowType)
 
 

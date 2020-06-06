@@ -534,12 +534,12 @@ class SimpleActionGroup(__gi_overrides_GObject.Object, ActionGroup, __gi_overrid
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd15bbb0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b870fb280>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SimpleActionGroup), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSimpleActionGroup (94125582648832)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add_entries': gi.FunctionInfo(add_entries), 'insert': gi.FunctionInfo(insert), 'lookup': gi.FunctionInfo(lookup), 'remove': gi.FunctionInfo(remove), 'parent_instance': <property object at 0x7f28dde532c0>, 'priv': <property object at 0x7f28dde533b0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(SimpleActionGroup), '__module__': 'gi.repository.Gio', '__gtype__': <GType GSimpleActionGroup (94269257326368)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'add_entries': gi.FunctionInfo(add_entries), 'insert': gi.FunctionInfo(insert), 'lookup': gi.FunctionInfo(lookup), 'remove': gi.FunctionInfo(remove), 'parent_instance': <property object at 0x7f4b87fb56d0>, 'priv': <property object at 0x7f4b87fb57c0>})"
     __gdoc__ = 'Object GSimpleActionGroup\n\nSignals from GActionGroup:\n  action-added (gchararray)\n  action-removed (gchararray)\n  action-enabled-changed (gchararray, gboolean)\n  action-state-changed (gchararray, GVariant)\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GSimpleActionGroup (94125582648832)>'
+    __gtype__ = None # (!) real value is '<GType GSimpleActionGroup (94269257326368)>'
     __info__ = ObjectInfo(SimpleActionGroup)
 
 

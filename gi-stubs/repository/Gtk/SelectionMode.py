@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,14 +363,14 @@ class SelectionMode(__gobject.GEnum):
     NONE = 0
     SINGLE = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'SelectionMode' objects>, '__doc__': None, '__gtype__': <GType GtkSelectionMode (94846039166688)>, '__enum_values__': {0: <enum GTK_SELECTION_NONE of type Gtk.SelectionMode>, 1: <enum GTK_SELECTION_SINGLE of type Gtk.SelectionMode>, 2: <enum GTK_SELECTION_BROWSE of type Gtk.SelectionMode>, 3: <enum GTK_SELECTION_MULTIPLE of type Gtk.SelectionMode>}, '__info__': gi.EnumInfo(SelectionMode), 'NONE': <enum GTK_SELECTION_NONE of type Gtk.SelectionMode>, 'SINGLE': <enum GTK_SELECTION_SINGLE of type Gtk.SelectionMode>, 'BROWSE': <enum GTK_SELECTION_BROWSE of type Gtk.SelectionMode>, 'MULTIPLE': <enum GTK_SELECTION_MULTIPLE of type Gtk.SelectionMode>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'SelectionMode' objects>, '__doc__': None, '__gtype__': <GType GtkSelectionMode (93897369367232)>, '__enum_values__': {0: <enum GTK_SELECTION_NONE of type Gtk.SelectionMode>, 1: <enum GTK_SELECTION_SINGLE of type Gtk.SelectionMode>, 2: <enum GTK_SELECTION_BROWSE of type Gtk.SelectionMode>, 3: <enum GTK_SELECTION_MULTIPLE of type Gtk.SelectionMode>}, '__info__': gi.EnumInfo(SelectionMode), 'NONE': <enum GTK_SELECTION_NONE of type Gtk.SelectionMode>, 'SINGLE': <enum GTK_SELECTION_SINGLE of type Gtk.SelectionMode>, 'BROWSE': <enum GTK_SELECTION_BROWSE of type Gtk.SelectionMode>, 'MULTIPLE': <enum GTK_SELECTION_MULTIPLE of type Gtk.SelectionMode>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkSelectionMode (94846039166688)>'
+    __gtype__ = None # (!) real value is '<GType GtkSelectionMode (93897369367232)>'
     __info__ = gi.EnumInfo(SelectionMode)
 
 

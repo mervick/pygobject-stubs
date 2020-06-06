@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -143,7 +143,7 @@ class GridClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(GridClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'GridClass' objects>, '__weakref__': <attribute '__weakref__' of 'GridClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe8310294a0>, '_gtk_reserved1': <property object at 0x7fe831029590>, '_gtk_reserved2': <property object at 0x7fe831029680>, '_gtk_reserved3': <property object at 0x7fe831029770>, '_gtk_reserved4': <property object at 0x7fe831029860>, '_gtk_reserved5': <property object at 0x7fe831029950>, '_gtk_reserved6': <property object at 0x7fe831029a40>, '_gtk_reserved7': <property object at 0x7fe831029b30>, '_gtk_reserved8': <property object at 0x7fe831029c20>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(GridClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'GridClass' objects>, '__weakref__': <attribute '__weakref__' of 'GridClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a73e220>, '_gtk_reserved1': <property object at 0x7fc63a73e310>, '_gtk_reserved2': <property object at 0x7fc63a73e400>, '_gtk_reserved3': <property object at 0x7fc63a73e4f0>, '_gtk_reserved4': <property object at 0x7fc63a73e5e0>, '_gtk_reserved5': <property object at 0x7fc63a73e6d0>, '_gtk_reserved6': <property object at 0x7fc63a73e7c0>, '_gtk_reserved7': <property object at 0x7fc63a73e8b0>, '_gtk_reserved8': <property object at 0x7fc63a73e9a0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(GridClass)
 

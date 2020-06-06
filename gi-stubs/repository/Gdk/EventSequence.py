@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -120,8 +120,8 @@ class EventSequence(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EventSequence), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkEventSequence (94055650577776)>, '__dict__': <attribute '__dict__' of 'EventSequence' objects>, '__weakref__': <attribute '__weakref__' of 'EventSequence' objects>, '__doc__': None})"
-    __gtype__ = None # (!) real value is '<GType GdkEventSequence (94055650577776)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(EventSequence), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkEventSequence (94915769292272)>, '__dict__': <attribute '__dict__' of 'EventSequence' objects>, '__weakref__': <attribute '__weakref__' of 'EventSequence' objects>, '__doc__': None})"
+    __gtype__ = None # (!) real value is '<GType GdkEventSequence (94915769292272)>'
     __info__ = StructInfo(EventSequence)
 
 

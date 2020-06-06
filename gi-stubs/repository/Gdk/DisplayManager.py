@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -421,12 +421,12 @@ class DisplayManager(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f1e11c18d90>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fbaf81bef70>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DisplayManager), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkDisplayManager (94055650740016)>, '__doc__': None, '__gsignals__': {}, 'get': gi.FunctionInfo(get), 'get_default_display': gi.FunctionInfo(get_default_display), 'list_displays': gi.FunctionInfo(list_displays), 'open_display': gi.FunctionInfo(open_display), 'set_default_display': gi.FunctionInfo(set_default_display)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(DisplayManager), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkDisplayManager (94915768304432)>, '__doc__': None, '__gsignals__': {}, 'get': gi.FunctionInfo(get), 'get_default_display': gi.FunctionInfo(get_default_display), 'list_displays': gi.FunctionInfo(list_displays), 'open_display': gi.FunctionInfo(open_display), 'set_default_display': gi.FunctionInfo(set_default_display)})"
     __gdoc__ = 'Object GdkDisplayManager\n\nSignals from GdkDisplayManager:\n  display-opened (GdkDisplay)\n\nProperties from GdkDisplayManager:\n  default-display -> GdkDisplay: Default Display\n    The default display for GDK\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GdkDisplayManager (94055650740016)>'
+    __gtype__ = None # (!) real value is '<GType GdkDisplayManager (94915768304432)>'
     __info__ = ObjectInfo(DisplayManager)
 
 

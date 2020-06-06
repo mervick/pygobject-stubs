@@ -123,10 +123,10 @@ class Converter(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Converter), '__module__': 'gi.repository.Gio', '__gtype__': <GType GConverter (94125581008944)>, '__dict__': <attribute '__dict__' of 'Converter' objects>, '__weakref__': <attribute '__weakref__' of 'Converter' objects>, '__doc__': None, '__gsignals__': {}, 'convert': gi.FunctionInfo(convert), 'reset': gi.FunctionInfo(reset)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Converter), '__module__': 'gi.repository.Gio', '__gtype__': <GType GConverter (94269256482352)>, '__dict__': <attribute '__dict__' of 'Converter' objects>, '__weakref__': <attribute '__weakref__' of 'Converter' objects>, '__doc__': None, '__gsignals__': {}, 'convert': gi.FunctionInfo(convert), 'reset': gi.FunctionInfo(reset)})"
     __gdoc__ = 'Interface GConverter\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GConverter (94125581008944)>'
+    __gtype__ = None # (!) real value is '<GType GConverter (94269256482352)>'
     __info__ = InterfaceInfo(Converter)
 
 

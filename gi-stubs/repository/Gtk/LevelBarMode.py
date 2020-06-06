@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -361,12 +361,12 @@ class LevelBarMode(__gobject.GEnum):
     CONTINUOUS = 0
     DISCRETE = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'LevelBarMode' objects>, '__doc__': None, '__gtype__': <GType GtkLevelBarMode (94846038642832)>, '__enum_values__': {0: <enum GTK_LEVEL_BAR_MODE_CONTINUOUS of type Gtk.LevelBarMode>, 1: <enum GTK_LEVEL_BAR_MODE_DISCRETE of type Gtk.LevelBarMode>}, '__info__': gi.EnumInfo(LevelBarMode), 'CONTINUOUS': <enum GTK_LEVEL_BAR_MODE_CONTINUOUS of type Gtk.LevelBarMode>, 'DISCRETE': <enum GTK_LEVEL_BAR_MODE_DISCRETE of type Gtk.LevelBarMode>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'LevelBarMode' objects>, '__doc__': None, '__gtype__': <GType GtkLevelBarMode (93897368863424)>, '__enum_values__': {0: <enum GTK_LEVEL_BAR_MODE_CONTINUOUS of type Gtk.LevelBarMode>, 1: <enum GTK_LEVEL_BAR_MODE_DISCRETE of type Gtk.LevelBarMode>}, '__info__': gi.EnumInfo(LevelBarMode), 'CONTINUOUS': <enum GTK_LEVEL_BAR_MODE_CONTINUOUS of type Gtk.LevelBarMode>, 'DISCRETE': <enum GTK_LEVEL_BAR_MODE_DISCRETE of type Gtk.LevelBarMode>})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GtkLevelBarMode (94846038642832)>'
+    __gtype__ = None # (!) real value is '<GType GtkLevelBarMode (93897368863424)>'
     __info__ = gi.EnumInfo(LevelBarMode)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -130,10 +130,10 @@ class DevicePad(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(DevicePad), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkDevicePad (94055651444496)>, '__dict__': <attribute '__dict__' of 'DevicePad' objects>, '__weakref__': <attribute '__weakref__' of 'DevicePad' objects>, '__doc__': None, '__gsignals__': {}, 'get_feature_group': gi.FunctionInfo(get_feature_group), 'get_group_n_modes': gi.FunctionInfo(get_group_n_modes), 'get_n_features': gi.FunctionInfo(get_n_features), 'get_n_groups': gi.FunctionInfo(get_n_groups)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(DevicePad), '__module__': 'gi.repository.Gdk', '__gtype__': <GType GdkDevicePad (94915769011072)>, '__dict__': <attribute '__dict__' of 'DevicePad' objects>, '__weakref__': <attribute '__weakref__' of 'DevicePad' objects>, '__doc__': None, '__gsignals__': {}, 'get_feature_group': gi.FunctionInfo(get_feature_group), 'get_group_n_modes': gi.FunctionInfo(get_group_n_modes), 'get_n_features': gi.FunctionInfo(get_n_features), 'get_n_groups': gi.FunctionInfo(get_n_groups)})"
     __gdoc__ = 'Interface GdkDevicePad\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GdkDevicePad (94055651444496)>'
+    __gtype__ = None # (!) real value is '<GType GdkDevicePad (94915769011072)>'
     __info__ = InterfaceInfo(DevicePad)
 
 

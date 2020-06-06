@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,14 +363,14 @@ class ToolbarStyle(__gobject.GEnum):
     ICONS = 0
     TEXT = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ToolbarStyle' objects>, '__doc__': None, '__gtype__': <GType GtkToolbarStyle (94846039433936)>, '__enum_values__': {0: <enum GTK_TOOLBAR_ICONS of type Gtk.ToolbarStyle>, 1: <enum GTK_TOOLBAR_TEXT of type Gtk.ToolbarStyle>, 2: <enum GTK_TOOLBAR_BOTH of type Gtk.ToolbarStyle>, 3: <enum GTK_TOOLBAR_BOTH_HORIZ of type Gtk.ToolbarStyle>}, '__info__': gi.EnumInfo(ToolbarStyle), 'ICONS': <enum GTK_TOOLBAR_ICONS of type Gtk.ToolbarStyle>, 'TEXT': <enum GTK_TOOLBAR_TEXT of type Gtk.ToolbarStyle>, 'BOTH': <enum GTK_TOOLBAR_BOTH of type Gtk.ToolbarStyle>, 'BOTH_HORIZ': <enum GTK_TOOLBAR_BOTH_HORIZ of type Gtk.ToolbarStyle>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ToolbarStyle' objects>, '__doc__': None, '__gtype__': <GType GtkToolbarStyle (93897369713488)>, '__enum_values__': {0: <enum GTK_TOOLBAR_ICONS of type Gtk.ToolbarStyle>, 1: <enum GTK_TOOLBAR_TEXT of type Gtk.ToolbarStyle>, 2: <enum GTK_TOOLBAR_BOTH of type Gtk.ToolbarStyle>, 3: <enum GTK_TOOLBAR_BOTH_HORIZ of type Gtk.ToolbarStyle>}, '__info__': gi.EnumInfo(ToolbarStyle), 'ICONS': <enum GTK_TOOLBAR_ICONS of type Gtk.ToolbarStyle>, 'TEXT': <enum GTK_TOOLBAR_TEXT of type Gtk.ToolbarStyle>, 'BOTH': <enum GTK_TOOLBAR_BOTH of type Gtk.ToolbarStyle>, 'BOTH_HORIZ': <enum GTK_TOOLBAR_BOTH_HORIZ of type Gtk.ToolbarStyle>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkToolbarStyle (94846039433936)>'
+    __gtype__ = None # (!) real value is '<GType GtkToolbarStyle (93897369713488)>'
     __info__ = gi.EnumInfo(ToolbarStyle)
 
 

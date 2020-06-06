@@ -386,12 +386,12 @@ class ConnectFlags(__gobject.GFlags):
     AFTER = 1
     SWAPPED = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GObject', '__dict__': <attribute '__dict__' of 'ConnectFlags' objects>, '__doc__': None, '__gtype__': <GType PyGObjectConnectFlags (93895379410720)>, '__flags_values__': {1: <flags G_CONNECT_AFTER of type GObject.ConnectFlags>, 2: <flags G_CONNECT_SWAPPED of type GObject.ConnectFlags>}, '__info__': gi.EnumInfo(ConnectFlags), 'AFTER': <flags G_CONNECT_AFTER of type GObject.ConnectFlags>, 'SWAPPED': <flags G_CONNECT_SWAPPED of type GObject.ConnectFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GObject', '__dict__': <attribute '__dict__' of 'ConnectFlags' objects>, '__doc__': None, '__gtype__': <GType PyGObjectConnectFlags (94184342276928)>, '__flags_values__': {1: <flags G_CONNECT_AFTER of type GObject.ConnectFlags>, 2: <flags G_CONNECT_SWAPPED of type GObject.ConnectFlags>}, '__info__': gi.EnumInfo(ConnectFlags), 'AFTER': <flags G_CONNECT_AFTER of type GObject.ConnectFlags>, 'SWAPPED': <flags G_CONNECT_SWAPPED of type GObject.ConnectFlags>})"
     __flags_values__ = {
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType PyGObjectConnectFlags (93895379410720)>'
+    __gtype__ = None # (!) real value is '<GType PyGObjectConnectFlags (94184342276928)>'
     __info__ = gi.EnumInfo(ConnectFlags)
 
 

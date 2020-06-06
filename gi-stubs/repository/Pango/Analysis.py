@@ -138,7 +138,7 @@ class Analysis(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Analysis), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'Analysis' objects>, '__weakref__': <attribute '__weakref__' of 'Analysis' objects>, '__doc__': None, 'shape_engine': <property object at 0x7f24746de1d0>, 'lang_engine': <property object at 0x7f24746de220>, 'font': <property object at 0x7f24746de270>, 'level': <property object at 0x7f24746de2c0>, 'gravity': <property object at 0x7f24746de3b0>, 'flags': <property object at 0x7f24746de4a0>, 'script': <property object at 0x7f24746de590>, 'language': <property object at 0x7f24746de680>, 'extra_attrs': <property object at 0x7f24746de770>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(Analysis), '__module__': 'gi.repository.Pango', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'Analysis' objects>, '__weakref__': <attribute '__weakref__' of 'Analysis' objects>, '__doc__': None, 'shape_engine': <property object at 0x7f85178b2f90>, 'lang_engine': <property object at 0x7f8517880040>, 'font': <property object at 0x7f8517880090>, 'level': <property object at 0x7f85178800e0>, 'gravity': <property object at 0x7f85178801d0>, 'flags': <property object at 0x7f85178802c0>, 'script': <property object at 0x7f85178803b0>, 'language': <property object at 0x7f85178804a0>, 'extra_attrs': <property object at 0x7f8517880590>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(Analysis)
 

@@ -146,8 +146,8 @@ class DBusPropertyInfo(__gi.Boxed):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(DBusPropertyInfo), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDBusPropertyInfo (94125582162272)>, '__dict__': <attribute '__dict__' of 'DBusPropertyInfo' objects>, '__weakref__': <attribute '__weakref__' of 'DBusPropertyInfo' objects>, '__doc__': None, 'ref_count': <property object at 0x7f28dded7a40>, 'name': <property object at 0x7f28dded7b30>, 'signature': <property object at 0x7f28dded7c20>, 'flags': <property object at 0x7f28dded7d10>, 'annotations': <property object at 0x7f28dded7e00>, 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref)})"
-    __gtype__ = None # (!) real value is '<GType GDBusPropertyInfo (94125582162272)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(DBusPropertyInfo), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDBusPropertyInfo (94269256789344)>, '__dict__': <attribute '__dict__' of 'DBusPropertyInfo' objects>, '__weakref__': <attribute '__weakref__' of 'DBusPropertyInfo' objects>, '__doc__': None, 'ref_count': <property object at 0x7f4b8803ad10>, 'name': <property object at 0x7f4b8803ae00>, 'signature': <property object at 0x7f4b8803aef0>, 'flags': <property object at 0x7f4b8803b040>, 'annotations': <property object at 0x7f4b8803b130>, 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref)})"
+    __gtype__ = None # (!) real value is '<GType GDBusPropertyInfo (94269256789344)>'
     __info__ = StructInfo(DBusPropertyInfo)
 
 

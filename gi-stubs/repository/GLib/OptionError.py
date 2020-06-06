@@ -360,13 +360,13 @@ class OptionError(__gobject.GEnum):
     FAILED = 2
     UNKNOWN_OPTION = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'OptionError' objects>, '__doc__': None, '__gtype__': <GType PyGLibOptionError (94243598363936)>, '__enum_values__': {0: <enum G_OPTION_ERROR_UNKNOWN_OPTION of type GLib.OptionError>, 1: <enum G_OPTION_ERROR_BAD_VALUE of type GLib.OptionError>, 2: <enum G_OPTION_ERROR_FAILED of type GLib.OptionError>}, '__info__': gi.EnumInfo(OptionError), 'UNKNOWN_OPTION': <enum G_OPTION_ERROR_UNKNOWN_OPTION of type GLib.OptionError>, 'BAD_VALUE': <enum G_OPTION_ERROR_BAD_VALUE of type GLib.OptionError>, 'FAILED': <enum G_OPTION_ERROR_FAILED of type GLib.OptionError>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'OptionError' objects>, '__doc__': None, '__gtype__': <GType PyGLibOptionError (94581033146784)>, '__enum_values__': {0: <enum G_OPTION_ERROR_UNKNOWN_OPTION of type GLib.OptionError>, 1: <enum G_OPTION_ERROR_BAD_VALUE of type GLib.OptionError>, 2: <enum G_OPTION_ERROR_FAILED of type GLib.OptionError>}, '__info__': gi.EnumInfo(OptionError), 'UNKNOWN_OPTION': <enum G_OPTION_ERROR_UNKNOWN_OPTION of type GLib.OptionError>, 'BAD_VALUE': <enum G_OPTION_ERROR_BAD_VALUE of type GLib.OptionError>, 'FAILED': <enum G_OPTION_ERROR_FAILED of type GLib.OptionError>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibOptionError (94243598363936)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibOptionError (94581033146784)>'
     __info__ = gi.EnumInfo(OptionError)
 
 

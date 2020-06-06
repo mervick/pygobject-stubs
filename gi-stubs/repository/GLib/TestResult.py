@@ -361,14 +361,14 @@ class TestResult(__gobject.GEnum):
     SKIPPED = 1
     SUCCESS = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'TestResult' objects>, '__doc__': None, '__gtype__': <GType PyGLibTestResult (94243599100896)>, '__enum_values__': {0: <enum G_TEST_RUN_SUCCESS of type GLib.TestResult>, 1: <enum G_TEST_RUN_SKIPPED of type GLib.TestResult>, 2: <enum G_TEST_RUN_FAILURE of type GLib.TestResult>, 3: <enum G_TEST_RUN_INCOMPLETE of type GLib.TestResult>}, '__info__': gi.EnumInfo(TestResult), 'SUCCESS': <enum G_TEST_RUN_SUCCESS of type GLib.TestResult>, 'SKIPPED': <enum G_TEST_RUN_SKIPPED of type GLib.TestResult>, 'FAILURE': <enum G_TEST_RUN_FAILURE of type GLib.TestResult>, 'INCOMPLETE': <enum G_TEST_RUN_INCOMPLETE of type GLib.TestResult>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'TestResult' objects>, '__doc__': None, '__gtype__': <GType PyGLibTestResult (94581033879872)>, '__enum_values__': {0: <enum G_TEST_RUN_SUCCESS of type GLib.TestResult>, 1: <enum G_TEST_RUN_SKIPPED of type GLib.TestResult>, 2: <enum G_TEST_RUN_FAILURE of type GLib.TestResult>, 3: <enum G_TEST_RUN_INCOMPLETE of type GLib.TestResult>}, '__info__': gi.EnumInfo(TestResult), 'SUCCESS': <enum G_TEST_RUN_SUCCESS of type GLib.TestResult>, 'SKIPPED': <enum G_TEST_RUN_SKIPPED of type GLib.TestResult>, 'FAILURE': <enum G_TEST_RUN_FAILURE of type GLib.TestResult>, 'INCOMPLETE': <enum G_TEST_RUN_INCOMPLETE of type GLib.TestResult>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibTestResult (94243599100896)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibTestResult (94581033879872)>'
     __info__ = gi.EnumInfo(TestResult)
 
 

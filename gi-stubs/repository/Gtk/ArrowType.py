@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -364,7 +364,7 @@ class ArrowType(__gobject.GEnum):
     RIGHT = 3
     UP = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ArrowType' objects>, '__doc__': None, '__gtype__': <GType GtkArrowType (94846037510896)>, '__enum_values__': {0: <enum GTK_ARROW_UP of type Gtk.ArrowType>, 1: <enum GTK_ARROW_DOWN of type Gtk.ArrowType>, 2: <enum GTK_ARROW_LEFT of type Gtk.ArrowType>, 3: <enum GTK_ARROW_RIGHT of type Gtk.ArrowType>, 4: <enum GTK_ARROW_NONE of type Gtk.ArrowType>}, '__info__': gi.EnumInfo(ArrowType), 'UP': <enum GTK_ARROW_UP of type Gtk.ArrowType>, 'DOWN': <enum GTK_ARROW_DOWN of type Gtk.ArrowType>, 'LEFT': <enum GTK_ARROW_LEFT of type Gtk.ArrowType>, 'RIGHT': <enum GTK_ARROW_RIGHT of type Gtk.ArrowType>, 'NONE': <enum GTK_ARROW_NONE of type Gtk.ArrowType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ArrowType' objects>, '__doc__': None, '__gtype__': <GType GtkArrowType (93897367726064)>, '__enum_values__': {0: <enum GTK_ARROW_UP of type Gtk.ArrowType>, 1: <enum GTK_ARROW_DOWN of type Gtk.ArrowType>, 2: <enum GTK_ARROW_LEFT of type Gtk.ArrowType>, 3: <enum GTK_ARROW_RIGHT of type Gtk.ArrowType>, 4: <enum GTK_ARROW_NONE of type Gtk.ArrowType>}, '__info__': gi.EnumInfo(ArrowType), 'UP': <enum GTK_ARROW_UP of type Gtk.ArrowType>, 'DOWN': <enum GTK_ARROW_DOWN of type Gtk.ArrowType>, 'LEFT': <enum GTK_ARROW_LEFT of type Gtk.ArrowType>, 'RIGHT': <enum GTK_ARROW_RIGHT of type Gtk.ArrowType>, 'NONE': <enum GTK_ARROW_NONE of type Gtk.ArrowType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -372,7 +372,7 @@ class ArrowType(__gobject.GEnum):
         3: 3,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType GtkArrowType (94846037510896)>'
+    __gtype__ = None # (!) real value is '<GType GtkArrowType (93897367726064)>'
     __info__ = gi.EnumInfo(ArrowType)
 
 

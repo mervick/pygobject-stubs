@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -367,7 +367,7 @@ class ImageType(__gobject.GEnum):
     STOCK = 2
     SURFACE = 7
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ImageType' objects>, '__doc__': None, '__gtype__': <GType GtkImageType (94846038589312)>, '__enum_values__': {0: <enum GTK_IMAGE_EMPTY of type Gtk.ImageType>, 1: <enum GTK_IMAGE_PIXBUF of type Gtk.ImageType>, 2: <enum GTK_IMAGE_STOCK of type Gtk.ImageType>, 3: <enum GTK_IMAGE_ICON_SET of type Gtk.ImageType>, 4: <enum GTK_IMAGE_ANIMATION of type Gtk.ImageType>, 5: <enum GTK_IMAGE_ICON_NAME of type Gtk.ImageType>, 6: <enum GTK_IMAGE_GICON of type Gtk.ImageType>, 7: <enum GTK_IMAGE_SURFACE of type Gtk.ImageType>}, '__info__': gi.EnumInfo(ImageType), 'EMPTY': <enum GTK_IMAGE_EMPTY of type Gtk.ImageType>, 'PIXBUF': <enum GTK_IMAGE_PIXBUF of type Gtk.ImageType>, 'STOCK': <enum GTK_IMAGE_STOCK of type Gtk.ImageType>, 'ICON_SET': <enum GTK_IMAGE_ICON_SET of type Gtk.ImageType>, 'ANIMATION': <enum GTK_IMAGE_ANIMATION of type Gtk.ImageType>, 'ICON_NAME': <enum GTK_IMAGE_ICON_NAME of type Gtk.ImageType>, 'GICON': <enum GTK_IMAGE_GICON of type Gtk.ImageType>, 'SURFACE': <enum GTK_IMAGE_SURFACE of type Gtk.ImageType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ImageType' objects>, '__doc__': None, '__gtype__': <GType GtkImageType (93897368805008)>, '__enum_values__': {0: <enum GTK_IMAGE_EMPTY of type Gtk.ImageType>, 1: <enum GTK_IMAGE_PIXBUF of type Gtk.ImageType>, 2: <enum GTK_IMAGE_STOCK of type Gtk.ImageType>, 3: <enum GTK_IMAGE_ICON_SET of type Gtk.ImageType>, 4: <enum GTK_IMAGE_ANIMATION of type Gtk.ImageType>, 5: <enum GTK_IMAGE_ICON_NAME of type Gtk.ImageType>, 6: <enum GTK_IMAGE_GICON of type Gtk.ImageType>, 7: <enum GTK_IMAGE_SURFACE of type Gtk.ImageType>}, '__info__': gi.EnumInfo(ImageType), 'EMPTY': <enum GTK_IMAGE_EMPTY of type Gtk.ImageType>, 'PIXBUF': <enum GTK_IMAGE_PIXBUF of type Gtk.ImageType>, 'STOCK': <enum GTK_IMAGE_STOCK of type Gtk.ImageType>, 'ICON_SET': <enum GTK_IMAGE_ICON_SET of type Gtk.ImageType>, 'ANIMATION': <enum GTK_IMAGE_ANIMATION of type Gtk.ImageType>, 'ICON_NAME': <enum GTK_IMAGE_ICON_NAME of type Gtk.ImageType>, 'GICON': <enum GTK_IMAGE_GICON of type Gtk.ImageType>, 'SURFACE': <enum GTK_IMAGE_SURFACE of type Gtk.ImageType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -378,7 +378,7 @@ class ImageType(__gobject.GEnum):
         6: 6,
         7: 7,
     }
-    __gtype__ = None # (!) real value is '<GType GtkImageType (94846038589312)>'
+    __gtype__ = None # (!) real value is '<GType GtkImageType (93897368805008)>'
     __info__ = gi.EnumInfo(ImageType)
 
 

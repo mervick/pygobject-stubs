@@ -355,11 +355,11 @@ class TabAlign(__gobject.GEnum):
 
     LEFT = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'TabAlign' objects>, '__doc__': None, '__gtype__': <GType PangoTabAlign (94752680743456)>, '__enum_values__': {0: <enum PANGO_TAB_LEFT of type Pango.TabAlign>}, '__info__': gi.EnumInfo(TabAlign), 'LEFT': <enum PANGO_TAB_LEFT of type Pango.TabAlign>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'TabAlign' objects>, '__doc__': None, '__gtype__': <GType PangoTabAlign (94187429418256)>, '__enum_values__': {0: <enum PANGO_TAB_LEFT of type Pango.TabAlign>}, '__info__': gi.EnumInfo(TabAlign), 'LEFT': <enum PANGO_TAB_LEFT of type Pango.TabAlign>})"
     __enum_values__ = {
         0: 0,
     }
-    __gtype__ = None # (!) real value is '<GType PangoTabAlign (94752680743456)>'
+    __gtype__ = None # (!) real value is '<GType PangoTabAlign (94187429418256)>'
     __info__ = gi.EnumInfo(TabAlign)
 
 

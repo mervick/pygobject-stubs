@@ -367,7 +367,7 @@ class FontMask(__gobject.GFlags):
     VARIATIONS = 128
     WEIGHT = 8
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'FontMask' objects>, '__doc__': None, '__gtype__': <GType PangoFontMask (94752680723296)>, '__flags_values__': {1: <flags PANGO_FONT_MASK_FAMILY of type Pango.FontMask>, 2: <flags PANGO_FONT_MASK_STYLE of type Pango.FontMask>, 4: <flags PANGO_FONT_MASK_VARIANT of type Pango.FontMask>, 8: <flags PANGO_FONT_MASK_WEIGHT of type Pango.FontMask>, 16: <flags PANGO_FONT_MASK_STRETCH of type Pango.FontMask>, 32: <flags PANGO_FONT_MASK_SIZE of type Pango.FontMask>, 64: <flags PANGO_FONT_MASK_GRAVITY of type Pango.FontMask>, 128: <flags PANGO_FONT_MASK_VARIATIONS of type Pango.FontMask>}, '__info__': gi.EnumInfo(FontMask), 'FAMILY': <flags PANGO_FONT_MASK_FAMILY of type Pango.FontMask>, 'STYLE': <flags PANGO_FONT_MASK_STYLE of type Pango.FontMask>, 'VARIANT': <flags PANGO_FONT_MASK_VARIANT of type Pango.FontMask>, 'WEIGHT': <flags PANGO_FONT_MASK_WEIGHT of type Pango.FontMask>, 'STRETCH': <flags PANGO_FONT_MASK_STRETCH of type Pango.FontMask>, 'SIZE': <flags PANGO_FONT_MASK_SIZE of type Pango.FontMask>, 'GRAVITY': <flags PANGO_FONT_MASK_GRAVITY of type Pango.FontMask>, 'VARIATIONS': <flags PANGO_FONT_MASK_VARIATIONS of type Pango.FontMask>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'FontMask' objects>, '__doc__': None, '__gtype__': <GType PangoFontMask (94187429135776)>, '__flags_values__': {1: <flags PANGO_FONT_MASK_FAMILY of type Pango.FontMask>, 2: <flags PANGO_FONT_MASK_STYLE of type Pango.FontMask>, 4: <flags PANGO_FONT_MASK_VARIANT of type Pango.FontMask>, 8: <flags PANGO_FONT_MASK_WEIGHT of type Pango.FontMask>, 16: <flags PANGO_FONT_MASK_STRETCH of type Pango.FontMask>, 32: <flags PANGO_FONT_MASK_SIZE of type Pango.FontMask>, 64: <flags PANGO_FONT_MASK_GRAVITY of type Pango.FontMask>, 128: <flags PANGO_FONT_MASK_VARIATIONS of type Pango.FontMask>}, '__info__': gi.EnumInfo(FontMask), 'FAMILY': <flags PANGO_FONT_MASK_FAMILY of type Pango.FontMask>, 'STYLE': <flags PANGO_FONT_MASK_STYLE of type Pango.FontMask>, 'VARIANT': <flags PANGO_FONT_MASK_VARIANT of type Pango.FontMask>, 'WEIGHT': <flags PANGO_FONT_MASK_WEIGHT of type Pango.FontMask>, 'STRETCH': <flags PANGO_FONT_MASK_STRETCH of type Pango.FontMask>, 'SIZE': <flags PANGO_FONT_MASK_SIZE of type Pango.FontMask>, 'GRAVITY': <flags PANGO_FONT_MASK_GRAVITY of type Pango.FontMask>, 'VARIATIONS': <flags PANGO_FONT_MASK_VARIATIONS of type Pango.FontMask>})"
     __flags_values__ = {
         1: 1,
         2: 2,
@@ -378,7 +378,7 @@ class FontMask(__gobject.GFlags):
         64: 64,
         128: 128,
     }
-    __gtype__ = None # (!) real value is '<GType PangoFontMask (94752680723296)>'
+    __gtype__ = None # (!) real value is '<GType PangoFontMask (94187429135776)>'
     __info__ = gi.EnumInfo(FontMask)
 
 

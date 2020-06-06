@@ -549,12 +549,12 @@ class FileIOStream(IOStream, Seekable):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd38ebe0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b874621c0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FileIOStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GFileIOStream (94125582254256)>, '__doc__': None, '__gsignals__': {}, 'get_etag': gi.FunctionInfo(get_etag), 'query_info': gi.FunctionInfo(query_info), 'query_info_async': gi.FunctionInfo(query_info_async), 'query_info_finish': gi.FunctionInfo(query_info_finish), 'do_can_seek': gi.VFuncInfo(can_seek), 'do_can_truncate': gi.VFuncInfo(can_truncate), 'do_get_etag': gi.VFuncInfo(get_etag), 'do_query_info': gi.VFuncInfo(query_info), 'do_query_info_async': gi.VFuncInfo(query_info_async), 'do_query_info_finish': gi.VFuncInfo(query_info_finish), 'do_seek': gi.VFuncInfo(seek), 'do_tell': gi.VFuncInfo(tell), 'do_truncate_fn': gi.VFuncInfo(truncate_fn), 'parent_instance': <property object at 0x7f28ddef9950>, 'priv': <property object at 0x7f28ddef9b30>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FileIOStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GFileIOStream (94269256882256)>, '__doc__': None, '__gsignals__': {}, 'get_etag': gi.FunctionInfo(get_etag), 'query_info': gi.FunctionInfo(query_info), 'query_info_async': gi.FunctionInfo(query_info_async), 'query_info_finish': gi.FunctionInfo(query_info_finish), 'do_can_seek': gi.VFuncInfo(can_seek), 'do_can_truncate': gi.VFuncInfo(can_truncate), 'do_get_etag': gi.VFuncInfo(get_etag), 'do_query_info': gi.VFuncInfo(query_info), 'do_query_info_async': gi.VFuncInfo(query_info_async), 'do_query_info_finish': gi.VFuncInfo(query_info_finish), 'do_seek': gi.VFuncInfo(seek), 'do_tell': gi.VFuncInfo(tell), 'do_truncate_fn': gi.VFuncInfo(truncate_fn), 'parent_instance': <property object at 0x7f4b8805bb30>, 'priv': <property object at 0x7f4b8805bd10>})"
     __gdoc__ = 'Object GFileIOStream\n\nProperties from GIOStream:\n  input-stream -> GInputStream: Input stream\n    The GInputStream to read from\n  output-stream -> GOutputStream: Output stream\n    The GOutputStream to write to\n  closed -> gboolean: Closed\n    Is the stream closed\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GFileIOStream (94125582254256)>'
+    __gtype__ = None # (!) real value is '<GType GFileIOStream (94269256882256)>'
     __info__ = ObjectInfo(FileIOStream)
 
 

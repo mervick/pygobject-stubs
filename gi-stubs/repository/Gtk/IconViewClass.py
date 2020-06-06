@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -151,7 +151,7 @@ class IconViewClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(IconViewClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'IconViewClass' objects>, '__weakref__': <attribute '__weakref__' of 'IconViewClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe831040f40>, 'item_activated': <property object at 0x7fe831042090>, 'selection_changed': <property object at 0x7fe8310421d0>, 'select_all': <property object at 0x7fe8310422c0>, 'unselect_all': <property object at 0x7fe8310423b0>, 'select_cursor_item': <property object at 0x7fe8310424f0>, 'toggle_cursor_item': <property object at 0x7fe831042630>, 'move_cursor': <property object at 0x7fe831042720>, 'activate_cursor_item': <property object at 0x7fe831042860>, '_gtk_reserved1': <property object at 0x7fe831042950>, '_gtk_reserved2': <property object at 0x7fe831042a40>, '_gtk_reserved3': <property object at 0x7fe831042b30>, '_gtk_reserved4': <property object at 0x7fe831042c20>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(IconViewClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'IconViewClass' objects>, '__weakref__': <attribute '__weakref__' of 'IconViewClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a756cc0>, 'item_activated': <property object at 0x7fc63a756db0>, 'selection_changed': <property object at 0x7fc63a756ef0>, 'select_all': <property object at 0x7fc63a759040>, 'unselect_all': <property object at 0x7fc63a759130>, 'select_cursor_item': <property object at 0x7fc63a759270>, 'toggle_cursor_item': <property object at 0x7fc63a7593b0>, 'move_cursor': <property object at 0x7fc63a7594a0>, 'activate_cursor_item': <property object at 0x7fc63a7595e0>, '_gtk_reserved1': <property object at 0x7fc63a7596d0>, '_gtk_reserved2': <property object at 0x7fc63a7597c0>, '_gtk_reserved3': <property object at 0x7fc63a7598b0>, '_gtk_reserved4': <property object at 0x7fc63a7599a0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(IconViewClass)
 

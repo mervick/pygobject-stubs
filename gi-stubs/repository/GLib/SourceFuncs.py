@@ -135,7 +135,7 @@ class SourceFuncs(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SourceFuncs), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SourceFuncs' objects>, '__weakref__': <attribute '__weakref__' of 'SourceFuncs' objects>, '__doc__': None, 'prepare': <property object at 0x7f1d2b9acd10>, 'check': <property object at 0x7f1d2b9ace00>, 'dispatch': <property object at 0x7f1d2b9e2130>, 'finalize': <property object at 0x7f1d2b9cde50>, 'closure_callback': <property object at 0x7f1d2b9684a0>, 'closure_marshal': <property object at 0x7f1d2b905bd0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SourceFuncs), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SourceFuncs' objects>, '__weakref__': <attribute '__weakref__' of 'SourceFuncs' objects>, '__doc__': None, 'prepare': <property object at 0x7f8513501b80>, 'check': <property object at 0x7f8513501c70>, 'dispatch': <property object at 0x7f8513501d60>, 'finalize': <property object at 0x7f8513501e50>, 'closure_callback': <property object at 0x7f8513501f90>, 'closure_marshal': <property object at 0x7f85135030e0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(SourceFuncs)
 

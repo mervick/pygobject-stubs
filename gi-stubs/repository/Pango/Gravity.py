@@ -375,7 +375,7 @@ class Gravity(__gobject.GEnum):
     SOUTH = 0
     WEST = 3
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'Gravity' objects>, '__doc__': None, '__gtype__': <GType PangoGravity (94752680001888)>, '__enum_values__': {0: <enum PANGO_GRAVITY_SOUTH of type Pango.Gravity>, 1: <enum PANGO_GRAVITY_EAST of type Pango.Gravity>, 2: <enum PANGO_GRAVITY_NORTH of type Pango.Gravity>, 3: <enum PANGO_GRAVITY_WEST of type Pango.Gravity>, 4: <enum PANGO_GRAVITY_AUTO of type Pango.Gravity>}, '__info__': gi.EnumInfo(Gravity), 'SOUTH': <enum PANGO_GRAVITY_SOUTH of type Pango.Gravity>, 'EAST': <enum PANGO_GRAVITY_EAST of type Pango.Gravity>, 'NORTH': <enum PANGO_GRAVITY_NORTH of type Pango.Gravity>, 'WEST': <enum PANGO_GRAVITY_WEST of type Pango.Gravity>, 'AUTO': <enum PANGO_GRAVITY_AUTO of type Pango.Gravity>, 'get_for_matrix': gi.FunctionInfo(get_for_matrix), 'get_for_script': gi.FunctionInfo(get_for_script), 'get_for_script_and_width': gi.FunctionInfo(get_for_script_and_width), 'to_rotation': gi.FunctionInfo(to_rotation)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Pango', '__dict__': <attribute '__dict__' of 'Gravity' objects>, '__doc__': None, '__gtype__': <GType PangoGravity (94187429472128)>, '__enum_values__': {0: <enum PANGO_GRAVITY_SOUTH of type Pango.Gravity>, 1: <enum PANGO_GRAVITY_EAST of type Pango.Gravity>, 2: <enum PANGO_GRAVITY_NORTH of type Pango.Gravity>, 3: <enum PANGO_GRAVITY_WEST of type Pango.Gravity>, 4: <enum PANGO_GRAVITY_AUTO of type Pango.Gravity>}, '__info__': gi.EnumInfo(Gravity), 'SOUTH': <enum PANGO_GRAVITY_SOUTH of type Pango.Gravity>, 'EAST': <enum PANGO_GRAVITY_EAST of type Pango.Gravity>, 'NORTH': <enum PANGO_GRAVITY_NORTH of type Pango.Gravity>, 'WEST': <enum PANGO_GRAVITY_WEST of type Pango.Gravity>, 'AUTO': <enum PANGO_GRAVITY_AUTO of type Pango.Gravity>, 'get_for_matrix': gi.FunctionInfo(get_for_matrix), 'get_for_script': gi.FunctionInfo(get_for_script), 'get_for_script_and_width': gi.FunctionInfo(get_for_script_and_width), 'to_rotation': gi.FunctionInfo(to_rotation)})"
     __enum_values__ = {
         0: 0,
         1: 1,
@@ -383,7 +383,7 @@ class Gravity(__gobject.GEnum):
         3: 3,
         4: 4,
     }
-    __gtype__ = None # (!) real value is '<GType PangoGravity (94752680001888)>'
+    __gtype__ = None # (!) real value is '<GType PangoGravity (94187429472128)>'
     __info__ = gi.EnumInfo(Gravity)
 
 

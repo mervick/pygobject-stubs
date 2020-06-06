@@ -586,12 +586,12 @@ class MemoryInputStream(InputStream, PollableInputStream, Seekable):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd616d00>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b873166d0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(MemoryInputStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GMemoryInputStream (94125582486768)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_from_bytes': gi.FunctionInfo(new_from_bytes), 'new_from_data': gi.FunctionInfo(new_from_data), 'add_bytes': gi.FunctionInfo(add_bytes), 'add_data': gi.FunctionInfo(add_data), 'parent_instance': <property object at 0x7f28ddea4900>, 'priv': <property object at 0x7f28ddea49f0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(MemoryInputStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GMemoryInputStream (94269257086784)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_from_bytes': gi.FunctionInfo(new_from_bytes), 'new_from_data': gi.FunctionInfo(new_from_data), 'add_bytes': gi.FunctionInfo(add_bytes), 'add_data': gi.FunctionInfo(add_data), 'parent_instance': <property object at 0x7f4b88006a40>, 'priv': <property object at 0x7f4b88006b30>})"
     __gdoc__ = 'Object GMemoryInputStream\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GMemoryInputStream (94125582486768)>'
+    __gtype__ = None # (!) real value is '<GType GMemoryInputStream (94269257086784)>'
     __info__ = ObjectInfo(MemoryInputStream)
 
 

@@ -175,8 +175,8 @@ class DBusInterfaceInfo(DBusInterfaceInfo):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gio', '__init__': <function _warn_init.<locals>.new_init at 0x7f28de00c700>, '__doc__': None})"
-    __gtype__ = None # (!) real value is '<GType GDBusInterfaceInfo (94125581467136)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gio', '__init__': <function _warn_init.<locals>.new_init at 0x7f4b88165ee0>, '__doc__': None})"
+    __gtype__ = None # (!) real value is '<GType GDBusInterfaceInfo (94269256101376)>'
     __info__ = StructInfo(DBusInterfaceInfo)
 
 

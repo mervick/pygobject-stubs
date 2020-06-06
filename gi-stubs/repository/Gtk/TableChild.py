@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -151,7 +151,7 @@ class TableChild(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TableChild), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TableChild' objects>, '__weakref__': <attribute '__weakref__' of 'TableChild' objects>, '__doc__': None, 'widget': <property object at 0x7fe830f81450>, 'left_attach': <property object at 0x7fe830f81540>, 'right_attach': <property object at 0x7fe830f81630>, 'top_attach': <property object at 0x7fe830f81720>, 'bottom_attach': <property object at 0x7fe830f81810>, 'xpadding': <property object at 0x7fe830f81900>, 'ypadding': <property object at 0x7fe830f819f0>, 'xexpand': <property object at 0x7fe830f81ae0>, 'yexpand': <property object at 0x7fe830f81bd0>, 'xshrink': <property object at 0x7fe830f81cc0>, 'yshrink': <property object at 0x7fe830f81db0>, 'xfill': <property object at 0x7fe830f81ea0>, 'yfill': <property object at 0x7fe830f81f90>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TableChild), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TableChild' objects>, '__weakref__': <attribute '__weakref__' of 'TableChild' objects>, '__doc__': None, 'widget': <property object at 0x7fc63a697d60>, 'left_attach': <property object at 0x7fc63a697e50>, 'right_attach': <property object at 0x7fc63a697f40>, 'top_attach': <property object at 0x7fc63a698090>, 'bottom_attach': <property object at 0x7fc63a698180>, 'xpadding': <property object at 0x7fc63a698220>, 'ypadding': <property object at 0x7fc63a698310>, 'xexpand': <property object at 0x7fc63a698400>, 'yexpand': <property object at 0x7fc63a6984f0>, 'xshrink': <property object at 0x7fc63a6985e0>, 'yshrink': <property object at 0x7fc63a6986d0>, 'xfill': <property object at 0x7fc63a6987c0>, 'yfill': <property object at 0x7fc63a698860>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TableChild)
 

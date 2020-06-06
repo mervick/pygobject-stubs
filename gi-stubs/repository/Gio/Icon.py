@@ -139,10 +139,10 @@ class Icon(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Icon), '__module__': 'gi.repository.Gio', '__gtype__': <GType GIcon (94125581864864)>, '__dict__': <attribute '__dict__' of 'Icon' objects>, '__weakref__': <attribute '__weakref__' of 'Icon' objects>, '__doc__': None, '__gsignals__': {}, 'deserialize': gi.FunctionInfo(deserialize), 'hash': gi.FunctionInfo(hash), 'new_for_string': gi.FunctionInfo(new_for_string), 'equal': gi.FunctionInfo(equal), 'serialize': gi.FunctionInfo(serialize), 'to_string': gi.FunctionInfo(to_string)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(Icon), '__module__': 'gi.repository.Gio', '__gtype__': <GType GIcon (94269256440496)>, '__dict__': <attribute '__dict__' of 'Icon' objects>, '__weakref__': <attribute '__weakref__' of 'Icon' objects>, '__doc__': None, '__gsignals__': {}, 'deserialize': gi.FunctionInfo(deserialize), 'hash': gi.FunctionInfo(hash), 'new_for_string': gi.FunctionInfo(new_for_string), 'equal': gi.FunctionInfo(equal), 'serialize': gi.FunctionInfo(serialize), 'to_string': gi.FunctionInfo(to_string)})"
     __gdoc__ = 'Interface GIcon\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GIcon (94125581864864)>'
+    __gtype__ = None # (!) real value is '<GType GIcon (94269256440496)>'
     __info__ = InterfaceInfo(Icon)
 
 

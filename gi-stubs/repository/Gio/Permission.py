@@ -470,12 +470,12 @@ class Permission(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd310550>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87462730>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Permission), '__module__': 'gi.repository.Gio', '__gtype__': <GType GPermission (94125582610896)>, '__doc__': None, '__gsignals__': {}, 'acquire': gi.FunctionInfo(acquire), 'acquire_async': gi.FunctionInfo(acquire_async), 'acquire_finish': gi.FunctionInfo(acquire_finish), 'get_allowed': gi.FunctionInfo(get_allowed), 'get_can_acquire': gi.FunctionInfo(get_can_acquire), 'get_can_release': gi.FunctionInfo(get_can_release), 'impl_update': gi.FunctionInfo(impl_update), 'release': gi.FunctionInfo(release), 'release_async': gi.FunctionInfo(release_async), 'release_finish': gi.FunctionInfo(release_finish), 'do_acquire': gi.VFuncInfo(acquire), 'do_acquire_async': gi.VFuncInfo(acquire_async), 'do_acquire_finish': gi.VFuncInfo(acquire_finish), 'do_release': gi.VFuncInfo(release), 'do_release_async': gi.VFuncInfo(release_async), 'do_release_finish': gi.VFuncInfo(release_finish), 'parent_instance': <property object at 0x7f28dde3f220>, 'priv': <property object at 0x7f28dde3f310>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(Permission), '__module__': 'gi.repository.Gio', '__gtype__': <GType GPermission (94269257234288)>, '__doc__': None, '__gsignals__': {}, 'acquire': gi.FunctionInfo(acquire), 'acquire_async': gi.FunctionInfo(acquire_async), 'acquire_finish': gi.FunctionInfo(acquire_finish), 'get_allowed': gi.FunctionInfo(get_allowed), 'get_can_acquire': gi.FunctionInfo(get_can_acquire), 'get_can_release': gi.FunctionInfo(get_can_release), 'impl_update': gi.FunctionInfo(impl_update), 'release': gi.FunctionInfo(release), 'release_async': gi.FunctionInfo(release_async), 'release_finish': gi.FunctionInfo(release_finish), 'do_acquire': gi.VFuncInfo(acquire), 'do_acquire_async': gi.VFuncInfo(acquire_async), 'do_acquire_finish': gi.VFuncInfo(acquire_finish), 'do_release': gi.VFuncInfo(release), 'do_release_async': gi.VFuncInfo(release_async), 'do_release_finish': gi.VFuncInfo(release_finish), 'parent_instance': <property object at 0x7f4b87fa21d0>, 'priv': <property object at 0x7f4b87fa22c0>})"
     __gdoc__ = 'Object GPermission\n\nProperties from GPermission:\n  allowed -> gboolean: Is allowed\n    If the caller is allowed to perform the action\n  can-acquire -> gboolean: Can acquire\n    If calling g_permission_acquire() makes sense\n  can-release -> gboolean: Can release\n    If calling g_permission_release() makes sense\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GPermission (94125582610896)>'
+    __gtype__ = None # (!) real value is '<GType GPermission (94269257234288)>'
     __info__ = ObjectInfo(Permission)
 
 

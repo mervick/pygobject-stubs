@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -459,12 +459,12 @@ class AccelGroup(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe830ee7160>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc63a5fcd60>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(AccelGroup), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkAccelGroup (94846037715456)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'from_accel_closure': gi.FunctionInfo(from_accel_closure), 'activate': gi.FunctionInfo(activate), 'connect': gi.FunctionInfo(connect), 'connect_by_path': gi.FunctionInfo(connect_by_path), 'disconnect': gi.FunctionInfo(disconnect), 'disconnect_key': gi.FunctionInfo(disconnect_key), 'find': gi.FunctionInfo(find), 'get_is_locked': gi.FunctionInfo(get_is_locked), 'get_modifier_mask': gi.FunctionInfo(get_modifier_mask), 'lock': gi.FunctionInfo(lock), 'query': gi.FunctionInfo(query), 'unlock': gi.FunctionInfo(unlock), 'do_accel_changed': gi.VFuncInfo(accel_changed), 'parent': <property object at 0x7fe8310e1770>, 'priv': <property object at 0x7fe8310e1860>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(AccelGroup), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkAccelGroup (93897367932464)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'from_accel_closure': gi.FunctionInfo(from_accel_closure), 'activate': gi.FunctionInfo(activate), 'connect': gi.FunctionInfo(connect), 'connect_by_path': gi.FunctionInfo(connect_by_path), 'disconnect': gi.FunctionInfo(disconnect), 'disconnect_key': gi.FunctionInfo(disconnect_key), 'find': gi.FunctionInfo(find), 'get_is_locked': gi.FunctionInfo(get_is_locked), 'get_modifier_mask': gi.FunctionInfo(get_modifier_mask), 'lock': gi.FunctionInfo(lock), 'query': gi.FunctionInfo(query), 'unlock': gi.FunctionInfo(unlock), 'do_accel_changed': gi.VFuncInfo(accel_changed), 'parent': <property object at 0x7fc63a7f85e0>, 'priv': <property object at 0x7fc63a7f86d0>})"
     __gdoc__ = 'Object GtkAccelGroup\n\nSignals from GtkAccelGroup:\n  accel-activate (GObject, guint, GdkModifierType) -> gboolean\n  accel-changed (guint, GdkModifierType, GClosure)\n\nProperties from GtkAccelGroup:\n  is-locked -> gboolean: Is locked\n    Is the accel group locked\n  modifier-mask -> GdkModifierType: Modifier Mask\n    Modifier Mask\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkAccelGroup (94846037715456)>'
+    __gtype__ = None # (!) real value is '<GType GtkAccelGroup (93897367932464)>'
     __info__ = ObjectInfo(AccelGroup)
 
 

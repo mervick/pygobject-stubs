@@ -157,8 +157,8 @@ class VariantBuilder(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(VariantBuilder), '__module__': 'gi.repository.GLib', '__gtype__': <GType GVariantBuilder (94243599194208)>, '__dict__': <attribute '__dict__' of 'VariantBuilder' objects>, '__weakref__': <attribute '__weakref__' of 'VariantBuilder' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'add_value': gi.FunctionInfo(add_value), 'close': gi.FunctionInfo(close), 'end': gi.FunctionInfo(end), 'open': gi.FunctionInfo(open), 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref), '__new__': <staticmethod object at 0x7f1d2b903d00>, '__init__': <function nothing at 0x7f1d2baee430>})"
-    __gtype__ = None # (!) real value is '<GType GVariantBuilder (94243599194208)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(VariantBuilder), '__module__': 'gi.repository.GLib', '__gtype__': <GType GVariantBuilder (94581033953632)>, '__dict__': <attribute '__dict__' of 'VariantBuilder' objects>, '__weakref__': <attribute '__weakref__' of 'VariantBuilder' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'add_value': gi.FunctionInfo(add_value), 'close': gi.FunctionInfo(close), 'end': gi.FunctionInfo(end), 'open': gi.FunctionInfo(open), 'ref': gi.FunctionInfo(ref), 'unref': gi.FunctionInfo(unref), '__new__': <staticmethod object at 0x7f8513511070>, '__init__': <function nothing at 0x7f85136ebee0>})"
+    __gtype__ = None # (!) real value is '<GType GVariantBuilder (94581033953632)>'
     __info__ = StructInfo(VariantBuilder)
 
 

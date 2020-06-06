@@ -358,12 +358,12 @@ class IOModuleScopeFlags(__gobject.GEnum):
     BLOCK_DUPLICATES = 1
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'IOModuleScopeFlags' objects>, '__doc__': None, '__gtype__': <GType GIOModuleScopeFlags (94125582432416)>, '__enum_values__': {0: <enum G_IO_MODULE_SCOPE_NONE of type Gio.IOModuleScopeFlags>, 1: <enum G_IO_MODULE_SCOPE_BLOCK_DUPLICATES of type Gio.IOModuleScopeFlags>}, '__info__': gi.EnumInfo(IOModuleScopeFlags), 'NONE': <enum G_IO_MODULE_SCOPE_NONE of type Gio.IOModuleScopeFlags>, 'BLOCK_DUPLICATES': <enum G_IO_MODULE_SCOPE_BLOCK_DUPLICATES of type Gio.IOModuleScopeFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'IOModuleScopeFlags' objects>, '__doc__': None, '__gtype__': <GType GIOModuleScopeFlags (94269257041440)>, '__enum_values__': {0: <enum G_IO_MODULE_SCOPE_NONE of type Gio.IOModuleScopeFlags>, 1: <enum G_IO_MODULE_SCOPE_BLOCK_DUPLICATES of type Gio.IOModuleScopeFlags>}, '__info__': gi.EnumInfo(IOModuleScopeFlags), 'NONE': <enum G_IO_MODULE_SCOPE_NONE of type Gio.IOModuleScopeFlags>, 'BLOCK_DUPLICATES': <enum G_IO_MODULE_SCOPE_BLOCK_DUPLICATES of type Gio.IOModuleScopeFlags>})"
     __enum_values__ = {
         0: 0,
         1: 1,
     }
-    __gtype__ = None # (!) real value is '<GType GIOModuleScopeFlags (94125582432416)>'
+    __gtype__ = None # (!) real value is '<GType GIOModuleScopeFlags (94269257041440)>'
     __info__ = gi.EnumInfo(IOModuleScopeFlags)
 
 

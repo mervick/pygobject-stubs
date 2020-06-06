@@ -139,10 +139,10 @@ class DtlsClientConnection(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(DtlsClientConnection), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDtlsClientConnection (94125582238656)>, '__dict__': <attribute '__dict__' of 'DtlsClientConnection' objects>, '__weakref__': <attribute '__weakref__' of 'DtlsClientConnection' objects>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_accepted_cas': gi.FunctionInfo(get_accepted_cas), 'get_server_identity': gi.FunctionInfo(get_server_identity), 'get_validation_flags': gi.FunctionInfo(get_validation_flags), 'set_server_identity': gi.FunctionInfo(set_server_identity), 'set_validation_flags': gi.FunctionInfo(set_validation_flags)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(DtlsClientConnection), '__module__': 'gi.repository.Gio', '__gtype__': <GType GDtlsClientConnection (94269256831520)>, '__dict__': <attribute '__dict__' of 'DtlsClientConnection' objects>, '__weakref__': <attribute '__weakref__' of 'DtlsClientConnection' objects>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_accepted_cas': gi.FunctionInfo(get_accepted_cas), 'get_server_identity': gi.FunctionInfo(get_server_identity), 'get_validation_flags': gi.FunctionInfo(get_validation_flags), 'set_server_identity': gi.FunctionInfo(set_server_identity), 'set_validation_flags': gi.FunctionInfo(set_validation_flags)})"
     __gdoc__ = 'Interface GDtlsClientConnection\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GDtlsClientConnection (94125582238656)>'
+    __gtype__ = None # (!) real value is '<GType GDtlsClientConnection (94269256831520)>'
     __info__ = InterfaceInfo(DtlsClientConnection)
 
 

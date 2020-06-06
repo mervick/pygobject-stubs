@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -137,7 +137,7 @@ class FileChooserButtonClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FileChooserButtonClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FileChooserButtonClass' objects>, '__weakref__': <attribute '__weakref__' of 'FileChooserButtonClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe831087860>, 'file_set': <property object at 0x7fe831087950>, '__gtk_reserved1': <property object at 0x7fe831087a40>, '__gtk_reserved2': <property object at 0x7fe831087b30>, '__gtk_reserved3': <property object at 0x7fe831087c20>, '__gtk_reserved4': <property object at 0x7fe831087d10>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(FileChooserButtonClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'FileChooserButtonClass' objects>, '__weakref__': <attribute '__weakref__' of 'FileChooserButtonClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a79b450>, 'file_set': <property object at 0x7fc63a79b540>, '__gtk_reserved1': <property object at 0x7fc63a79b630>, '__gtk_reserved2': <property object at 0x7fc63a79b720>, '__gtk_reserved3': <property object at 0x7fc63a79b810>, '__gtk_reserved4': <property object at 0x7fc63a79b900>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(FileChooserButtonClass)
 

@@ -151,10 +151,10 @@ class TlsClientConnection(__gobject.GInterface):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(TlsClientConnection), '__module__': 'gi.repository.Gio', '__gtype__': <GType GTlsClientConnection (94125582182640)>, '__dict__': <attribute '__dict__' of 'TlsClientConnection' objects>, '__weakref__': <attribute '__weakref__' of 'TlsClientConnection' objects>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'copy_session_state': gi.FunctionInfo(copy_session_state), 'get_accepted_cas': gi.FunctionInfo(get_accepted_cas), 'get_server_identity': gi.FunctionInfo(get_server_identity), 'get_use_ssl3': gi.FunctionInfo(get_use_ssl3), 'get_validation_flags': gi.FunctionInfo(get_validation_flags), 'set_server_identity': gi.FunctionInfo(set_server_identity), 'set_use_ssl3': gi.FunctionInfo(set_use_ssl3), 'set_validation_flags': gi.FunctionInfo(set_validation_flags)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': InterfaceInfo(TlsClientConnection), '__module__': 'gi.repository.Gio', '__gtype__': <GType GTlsClientConnection (94269257503728)>, '__dict__': <attribute '__dict__' of 'TlsClientConnection' objects>, '__weakref__': <attribute '__weakref__' of 'TlsClientConnection' objects>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'copy_session_state': gi.FunctionInfo(copy_session_state), 'get_accepted_cas': gi.FunctionInfo(get_accepted_cas), 'get_server_identity': gi.FunctionInfo(get_server_identity), 'get_use_ssl3': gi.FunctionInfo(get_use_ssl3), 'get_validation_flags': gi.FunctionInfo(get_validation_flags), 'set_server_identity': gi.FunctionInfo(set_server_identity), 'set_use_ssl3': gi.FunctionInfo(set_use_ssl3), 'set_validation_flags': gi.FunctionInfo(set_validation_flags)})"
     __gdoc__ = 'Interface GTlsClientConnection\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GTlsClientConnection (94125582182640)>'
+    __gtype__ = None # (!) real value is '<GType GTlsClientConnection (94269257503728)>'
     __info__ = InterfaceInfo(TlsClientConnection)
 
 

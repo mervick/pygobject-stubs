@@ -445,12 +445,12 @@ class FontsetSimple(Fontset):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f247462c1f0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f85178dda30>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FontsetSimple), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoFontsetSimple (94752681186880)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'append': gi.FunctionInfo(append), 'size': gi.FunctionInfo(size)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(FontsetSimple), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoFontsetSimple (94187429408880)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'append': gi.FunctionInfo(append), 'size': gi.FunctionInfo(size)})"
     __gdoc__ = 'Object PangoFontsetSimple\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType PangoFontsetSimple (94752681186880)>'
+    __gtype__ = None # (!) real value is '<GType PangoFontsetSimple (94187429408880)>'
     __info__ = ObjectInfo(FontsetSimple)
 
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -367,13 +367,13 @@ class StyleContextPrintFlags(__gobject.GFlags):
     RECURSE = 1
     SHOW_STYLE = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'StyleContextPrintFlags' objects>, '__doc__': None, '__gtype__': <GType GtkStyleContextPrintFlags (94846039322512)>, '__flags_values__': {0: <flags 0 of type Gtk.StyleContextPrintFlags>, 1: <flags GTK_STYLE_CONTEXT_PRINT_RECURSE of type Gtk.StyleContextPrintFlags>, 2: <flags GTK_STYLE_CONTEXT_PRINT_SHOW_STYLE of type Gtk.StyleContextPrintFlags>}, '__info__': gi.EnumInfo(StyleContextPrintFlags), 'NONE': <flags 0 of type Gtk.StyleContextPrintFlags>, 'RECURSE': <flags GTK_STYLE_CONTEXT_PRINT_RECURSE of type Gtk.StyleContextPrintFlags>, 'SHOW_STYLE': <flags GTK_STYLE_CONTEXT_PRINT_SHOW_STYLE of type Gtk.StyleContextPrintFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'StyleContextPrintFlags' objects>, '__doc__': None, '__gtype__': <GType GtkStyleContextPrintFlags (93897369533360)>, '__flags_values__': {0: <flags 0 of type Gtk.StyleContextPrintFlags>, 1: <flags GTK_STYLE_CONTEXT_PRINT_RECURSE of type Gtk.StyleContextPrintFlags>, 2: <flags GTK_STYLE_CONTEXT_PRINT_SHOW_STYLE of type Gtk.StyleContextPrintFlags>}, '__info__': gi.EnumInfo(StyleContextPrintFlags), 'NONE': <flags 0 of type Gtk.StyleContextPrintFlags>, 'RECURSE': <flags GTK_STYLE_CONTEXT_PRINT_RECURSE of type Gtk.StyleContextPrintFlags>, 'SHOW_STYLE': <flags GTK_STYLE_CONTEXT_PRINT_SHOW_STYLE of type Gtk.StyleContextPrintFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GtkStyleContextPrintFlags (94846039322512)>'
+    __gtype__ = None # (!) real value is '<GType GtkStyleContextPrintFlags (93897369533360)>'
     __info__ = gi.EnumInfo(StyleContextPrintFlags)
 
 

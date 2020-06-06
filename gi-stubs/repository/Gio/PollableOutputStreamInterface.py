@@ -134,7 +134,7 @@ class PollableOutputStreamInterface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PollableOutputStreamInterface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'PollableOutputStreamInterface' objects>, '__weakref__': <attribute '__weakref__' of 'PollableOutputStreamInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f28dde40360>, 'can_poll': <property object at 0x7f28dde40450>, 'is_writable': <property object at 0x7f28dde40540>, 'create_source': <property object at 0x7f28dde40630>, 'write_nonblocking': <property object at 0x7f28dde40770>, 'writev_nonblocking': <property object at 0x7f28dde40860>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PollableOutputStreamInterface), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'PollableOutputStreamInterface' objects>, '__weakref__': <attribute '__weakref__' of 'PollableOutputStreamInterface' objects>, '__doc__': None, 'g_iface': <property object at 0x7f4b87fa4360>, 'can_poll': <property object at 0x7f4b87fa4450>, 'is_writable': <property object at 0x7f4b87fa4540>, 'create_source': <property object at 0x7f4b87fa4630>, 'write_nonblocking': <property object at 0x7f4b87fa4770>, 'writev_nonblocking': <property object at 0x7f4b87fa4860>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(PollableOutputStreamInterface)
 

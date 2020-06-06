@@ -134,7 +134,7 @@ class SettingsClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SettingsClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SettingsClass' objects>, '__weakref__': <attribute '__weakref__' of 'SettingsClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28dde517c0>, 'writable_changed': <property object at 0x7f28dde51900>, 'changed': <property object at 0x7f28dde519a0>, 'writable_change_event': <property object at 0x7f28dde51ae0>, 'change_event': <property object at 0x7f28dde51bd0>, 'padding': <property object at 0x7f28dde51cc0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SettingsClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SettingsClass' objects>, '__weakref__': <attribute '__weakref__' of 'SettingsClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b87fb3a90>, 'writable_changed': <property object at 0x7f4b87fb3bd0>, 'changed': <property object at 0x7f4b87fb3c70>, 'writable_change_event': <property object at 0x7f4b87fb3db0>, 'change_event': <property object at 0x7f4b87fb3ea0>, 'padding': <property object at 0x7f4b87fb3f90>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(SettingsClass)
 

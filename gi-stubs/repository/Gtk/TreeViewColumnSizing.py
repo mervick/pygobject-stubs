@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -362,13 +362,13 @@ class TreeViewColumnSizing(__gobject.GEnum):
     FIXED = 2
     GROW_ONLY = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'TreeViewColumnSizing' objects>, '__doc__': None, '__gtype__': <GType GtkTreeViewColumnSizing (94846039580112)>, '__enum_values__': {0: <enum GTK_TREE_VIEW_COLUMN_GROW_ONLY of type Gtk.TreeViewColumnSizing>, 1: <enum GTK_TREE_VIEW_COLUMN_AUTOSIZE of type Gtk.TreeViewColumnSizing>, 2: <enum GTK_TREE_VIEW_COLUMN_FIXED of type Gtk.TreeViewColumnSizing>}, '__info__': gi.EnumInfo(TreeViewColumnSizing), 'GROW_ONLY': <enum GTK_TREE_VIEW_COLUMN_GROW_ONLY of type Gtk.TreeViewColumnSizing>, 'AUTOSIZE': <enum GTK_TREE_VIEW_COLUMN_AUTOSIZE of type Gtk.TreeViewColumnSizing>, 'FIXED': <enum GTK_TREE_VIEW_COLUMN_FIXED of type Gtk.TreeViewColumnSizing>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'TreeViewColumnSizing' objects>, '__doc__': None, '__gtype__': <GType GtkTreeViewColumnSizing (93897369771616)>, '__enum_values__': {0: <enum GTK_TREE_VIEW_COLUMN_GROW_ONLY of type Gtk.TreeViewColumnSizing>, 1: <enum GTK_TREE_VIEW_COLUMN_AUTOSIZE of type Gtk.TreeViewColumnSizing>, 2: <enum GTK_TREE_VIEW_COLUMN_FIXED of type Gtk.TreeViewColumnSizing>}, '__info__': gi.EnumInfo(TreeViewColumnSizing), 'GROW_ONLY': <enum GTK_TREE_VIEW_COLUMN_GROW_ONLY of type Gtk.TreeViewColumnSizing>, 'AUTOSIZE': <enum GTK_TREE_VIEW_COLUMN_AUTOSIZE of type Gtk.TreeViewColumnSizing>, 'FIXED': <enum GTK_TREE_VIEW_COLUMN_FIXED of type Gtk.TreeViewColumnSizing>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GtkTreeViewColumnSizing (94846039580112)>'
+    __gtype__ = None # (!) real value is '<GType GtkTreeViewColumnSizing (93897369771616)>'
     __info__ = gi.EnumInfo(TreeViewColumnSizing)
 
 

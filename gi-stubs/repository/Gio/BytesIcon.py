@@ -454,12 +454,12 @@ class BytesIcon(__gi_overrides_GObject.Object, Icon, LoadableIcon):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd62d5e0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b877757f0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(BytesIcon), '__module__': 'gi.repository.Gio', '__gtype__': <GType GBytesIcon (94125581857088)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_bytes': gi.FunctionInfo(get_bytes)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(BytesIcon), '__module__': 'gi.repository.Gio', '__gtype__': <GType GBytesIcon (94269256440288)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'get_bytes': gi.FunctionInfo(get_bytes)})"
     __gdoc__ = 'Object GBytesIcon\n\nProperties from GBytesIcon:\n  bytes -> GBytes: bytes\n    The bytes containing the icon\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GBytesIcon (94125581857088)>'
+    __gtype__ = None # (!) real value is '<GType GBytesIcon (94269256440288)>'
     __info__ = ObjectInfo(BytesIcon)
 
 

@@ -649,12 +649,12 @@ class BufferedOutputStream(FilterOutputStream, Seekable):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd616310>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b87775c70>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(BufferedOutputStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GBufferedOutputStream (94125581831424)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_sized': gi.FunctionInfo(new_sized), 'get_auto_grow': gi.FunctionInfo(get_auto_grow), 'get_buffer_size': gi.FunctionInfo(get_buffer_size), 'set_auto_grow': gi.FunctionInfo(set_auto_grow), 'set_buffer_size': gi.FunctionInfo(set_buffer_size), 'parent_instance': <property object at 0x7f28ddf2fa40>, 'priv': <property object at 0x7f28ddf2fb80>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(BufferedOutputStream), '__module__': 'gi.repository.Gio', '__gtype__': <GType GBufferedOutputStream (94269256364032)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'new_sized': gi.FunctionInfo(new_sized), 'get_auto_grow': gi.FunctionInfo(get_auto_grow), 'get_buffer_size': gi.FunctionInfo(get_buffer_size), 'set_auto_grow': gi.FunctionInfo(set_auto_grow), 'set_buffer_size': gi.FunctionInfo(set_buffer_size), 'parent_instance': <property object at 0x7f4b88092cc0>, 'priv': <property object at 0x7f4b88092e00>})"
     __gdoc__ = 'Object GBufferedOutputStream\n\nProperties from GBufferedOutputStream:\n  buffer-size -> guint: Buffer Size\n    The size of the backend buffer\n  auto-grow -> gboolean: Auto-grow\n    Whether the buffer should automatically grow\n\nProperties from GFilterOutputStream:\n  base-stream -> GOutputStream: The Filter Base Stream\n    The underlying base stream on which the io ops will be done.\n  close-base-stream -> gboolean: Close Base Stream\n    If the base stream should be closed when the filter stream is closed.\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GBufferedOutputStream (94125581831424)>'
+    __gtype__ = None # (!) real value is '<GType GBufferedOutputStream (94269256364032)>'
     __info__ = ObjectInfo(BufferedOutputStream)
 
 

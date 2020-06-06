@@ -155,7 +155,7 @@ class HashTableIter(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(HashTableIter), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'HashTableIter' objects>, '__weakref__': <attribute '__weakref__' of 'HashTableIter' objects>, '__doc__': None, 'dummy1': <property object at 0x7f1d2b9620e0>, 'dummy2': <property object at 0x7f1d2b9621d0>, 'dummy3': <property object at 0x7f1d2b9622c0>, 'dummy4': <property object at 0x7f1d2b9623b0>, 'dummy5': <property object at 0x7f1d2b9624a0>, 'dummy6': <property object at 0x7f1d2b962590>, 'init': gi.FunctionInfo(init), 'next': gi.FunctionInfo(next), 'remove': gi.FunctionInfo(remove), 'replace': gi.FunctionInfo(replace), 'steal': gi.FunctionInfo(steal)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(HashTableIter), '__module__': 'gi.repository.GLib', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'HashTableIter' objects>, '__weakref__': <attribute '__weakref__' of 'HashTableIter' objects>, '__doc__': None, 'dummy1': <property object at 0x7f85134e1090>, 'dummy2': <property object at 0x7f85134e1180>, 'dummy3': <property object at 0x7f85134e1270>, 'dummy4': <property object at 0x7f85134e1360>, 'dummy5': <property object at 0x7f85134e1450>, 'dummy6': <property object at 0x7f85134e1540>, 'init': gi.FunctionInfo(init), 'next': gi.FunctionInfo(next), 'remove': gi.FunctionInfo(remove), 'replace': gi.FunctionInfo(replace), 'steal': gi.FunctionInfo(steal)})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(HashTableIter)
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -566,12 +566,12 @@ class CellRendererSpinner(CellRenderer):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe83088cc40>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc63a0b8a90>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(CellRendererSpinner), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkCellRendererSpinner (94846038070608)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'parent': <property object at 0x7fe8310ca360>, 'priv': <property object at 0x7fe8310ca450>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(CellRendererSpinner), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkCellRendererSpinner (93897368285536)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'parent': <property object at 0x7fc63a7df270>, 'priv': <property object at 0x7fc63a7df360>})"
     __gdoc__ = 'Object GtkCellRendererSpinner\n\nProperties from GtkCellRendererSpinner:\n  active -> gboolean: Active\n    Whether the spinner is active (ie. shown) in the cell\n  pulse -> guint: Pulse\n    Pulse of the spinner\n  size -> GtkIconSize: Size\n    The GtkIconSize value that specifies the size of the rendered spinner\n\nSignals from GtkCellRenderer:\n  editing-canceled ()\n  editing-started (GtkCellEditable, gchararray)\n\nProperties from GtkCellRenderer:\n  mode -> GtkCellRendererMode: mode\n    Editable mode of the CellRenderer\n  visible -> gboolean: visible\n    Display the cell\n  sensitive -> gboolean: Sensitive\n    Display the cell sensitive\n  xalign -> gfloat: xalign\n    The x-align\n  yalign -> gfloat: yalign\n    The y-align\n  xpad -> guint: xpad\n    The xpad\n  ypad -> guint: ypad\n    The ypad\n  width -> gint: width\n    The fixed width\n  height -> gint: height\n    The fixed height\n  is-expander -> gboolean: Is Expander\n    Row has children\n  is-expanded -> gboolean: Is Expanded\n    Row is an expander row, and is expanded\n  cell-background -> gchararray: Cell background color name\n    Cell background color as a string\n  cell-background-gdk -> GdkColor: Cell background color\n    Cell background color as a GdkColor\n  cell-background-rgba -> GdkRGBA: Cell background RGBA color\n    Cell background color as a GdkRGBA\n  cell-background-set -> gboolean: Cell background set\n    Whether the cell background color is set\n  editing -> gboolean: Editing\n    Whether the cell renderer is currently in editing mode\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkCellRendererSpinner (94846038070608)>'
+    __gtype__ = None # (!) real value is '<GType GtkCellRendererSpinner (93897368285536)>'
     __info__ = ObjectInfo(CellRendererSpinner)
 
 

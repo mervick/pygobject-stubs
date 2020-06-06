@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -135,7 +135,7 @@ class PadActionEntry(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PadActionEntry), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'PadActionEntry' objects>, '__weakref__': <attribute '__weakref__' of 'PadActionEntry' objects>, '__doc__': None, 'type': <property object at 0x7fe831003db0>, 'index': <property object at 0x7fe831003ea0>, 'mode': <property object at 0x7fe831003f90>, 'label': <property object at 0x7fe8310060e0>, 'action_name': <property object at 0x7fe8310061d0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PadActionEntry), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'PadActionEntry' objects>, '__weakref__': <attribute '__weakref__' of 'PadActionEntry' objects>, '__doc__': None, 'type': <property object at 0x7fc63a719cc0>, 'index': <property object at 0x7fc63a719db0>, 'mode': <property object at 0x7fc63a719ea0>, 'label': <property object at 0x7fc63a719f90>, 'action_name': <property object at 0x7fc63a71b0e0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(PadActionEntry)
 

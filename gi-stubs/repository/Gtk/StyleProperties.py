@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -453,12 +453,12 @@ class StyleProperties(__gi_overrides_GObject.Object, StyleProvider):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe82eb2d850>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc638170370>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(StyleProperties), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkStyleProperties (94846039344144)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'clear': gi.FunctionInfo(clear), 'get_property': gi.FunctionInfo(get_property), 'lookup_color': gi.FunctionInfo(lookup_color), 'map_color': gi.FunctionInfo(map_color), 'merge': gi.FunctionInfo(merge), 'set_property': gi.FunctionInfo(set_property), 'unset_property': gi.FunctionInfo(unset_property), 'parent_object': <property object at 0x7fe830f7c1d0>, 'priv': <property object at 0x7fe830f7c2c0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(StyleProperties), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkStyleProperties (93897369545744)>, '__doc__': None, '__gsignals__': {}, 'new': gi.FunctionInfo(new), 'clear': gi.FunctionInfo(clear), 'get_property': gi.FunctionInfo(get_property), 'lookup_color': gi.FunctionInfo(lookup_color), 'map_color': gi.FunctionInfo(map_color), 'merge': gi.FunctionInfo(merge), 'set_property': gi.FunctionInfo(set_property), 'unset_property': gi.FunctionInfo(unset_property), 'parent_object': <property object at 0x7fc63a690c70>, 'priv': <property object at 0x7fc63a690d60>})"
     __gdoc__ = 'Object GtkStyleProperties\n\nSignals from GtkStyleProviderPrivate:\n  -gtk-private-changed ()\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkStyleProperties (94846039344144)>'
+    __gtype__ = None # (!) real value is '<GType GtkStyleProperties (93897369545744)>'
     __info__ = ObjectInfo(StyleProperties)
 
 

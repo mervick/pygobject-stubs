@@ -130,7 +130,7 @@ class SocketAddressClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SocketAddressClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SocketAddressClass' objects>, '__weakref__': <attribute '__weakref__' of 'SocketAddressClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f28dde59130>, 'get_family': <property object at 0x7f28dde59220>, 'get_native_size': <property object at 0x7f28dde59310>, 'to_native': <property object at 0x7f28dde59400>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(SocketAddressClass), '__module__': 'gi.repository.Gio', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'SocketAddressClass' objects>, '__weakref__': <attribute '__weakref__' of 'SocketAddressClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7f4b87fbc4a0>, 'get_family': <property object at 0x7f4b87fbc590>, 'get_native_size': <property object at 0x7f4b87fbc680>, 'to_native': <property object at 0x7f4b87fbc770>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(SocketAddressClass)
 

@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gdk
-# from /usr/lib64/girepository-1.0/Gdk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gdk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -358,13 +358,13 @@ class DeviceType(__gobject.GEnum):
     MASTER = 0
     SLAVE = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'DeviceType' objects>, '__doc__': None, '__gtype__': <GType GdkDeviceType (94055650959488)>, '__enum_values__': {0: <enum GDK_DEVICE_TYPE_MASTER of type Gdk.DeviceType>, 1: <enum GDK_DEVICE_TYPE_SLAVE of type Gdk.DeviceType>, 2: <enum GDK_DEVICE_TYPE_FLOATING of type Gdk.DeviceType>}, '__info__': gi.EnumInfo(DeviceType), 'MASTER': <enum GDK_DEVICE_TYPE_MASTER of type Gdk.DeviceType>, 'SLAVE': <enum GDK_DEVICE_TYPE_SLAVE of type Gdk.DeviceType>, 'FLOATING': <enum GDK_DEVICE_TYPE_FLOATING of type Gdk.DeviceType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gdk', '__dict__': <attribute '__dict__' of 'DeviceType' objects>, '__doc__': None, '__gtype__': <GType GdkDeviceType (94915768524848)>, '__enum_values__': {0: <enum GDK_DEVICE_TYPE_MASTER of type Gdk.DeviceType>, 1: <enum GDK_DEVICE_TYPE_SLAVE of type Gdk.DeviceType>, 2: <enum GDK_DEVICE_TYPE_FLOATING of type Gdk.DeviceType>}, '__info__': gi.EnumInfo(DeviceType), 'MASTER': <enum GDK_DEVICE_TYPE_MASTER of type Gdk.DeviceType>, 'SLAVE': <enum GDK_DEVICE_TYPE_SLAVE of type Gdk.DeviceType>, 'FLOATING': <enum GDK_DEVICE_TYPE_FLOATING of type Gdk.DeviceType>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GdkDeviceType (94055650959488)>'
+    __gtype__ = None # (!) real value is '<GType GdkDeviceType (94915768524848)>'
     __info__ = gi.EnumInfo(DeviceType)
 
 

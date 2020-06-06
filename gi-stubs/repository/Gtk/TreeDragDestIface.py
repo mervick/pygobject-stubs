@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -131,7 +131,7 @@ class TreeDragDestIface(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TreeDragDestIface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TreeDragDestIface' objects>, '__weakref__': <attribute '__weakref__' of 'TreeDragDestIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7fe830f2d7c0>, 'drag_data_received': <property object at 0x7fe830f2d900>, 'row_drop_possible': <property object at 0x7fe830f2d9f0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TreeDragDestIface), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TreeDragDestIface' objects>, '__weakref__': <attribute '__weakref__' of 'TreeDragDestIface' objects>, '__doc__': None, 'g_iface': <property object at 0x7fc63a642e50>, 'drag_data_received': <property object at 0x7fc63a642f90>, 'row_drop_possible': <property object at 0x7fc63a6450e0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TreeDragDestIface)
 

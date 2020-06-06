@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -367,14 +367,14 @@ class FileChooserError(__gobject.GEnum):
     INCOMPLETE_HOSTNAME = 3
     NONEXISTENT = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'FileChooserError' objects>, '__doc__': None, '__gtype__': <GType GtkFileChooserError (94846038019776)>, '__enum_values__': {0: <enum GTK_FILE_CHOOSER_ERROR_NONEXISTENT of type Gtk.FileChooserError>, 1: <enum GTK_FILE_CHOOSER_ERROR_BAD_FILENAME of type Gtk.FileChooserError>, 2: <enum GTK_FILE_CHOOSER_ERROR_ALREADY_EXISTS of type Gtk.FileChooserError>, 3: <enum GTK_FILE_CHOOSER_ERROR_INCOMPLETE_HOSTNAME of type Gtk.FileChooserError>}, '__info__': gi.EnumInfo(FileChooserError), 'NONEXISTENT': <enum GTK_FILE_CHOOSER_ERROR_NONEXISTENT of type Gtk.FileChooserError>, 'BAD_FILENAME': <enum GTK_FILE_CHOOSER_ERROR_BAD_FILENAME of type Gtk.FileChooserError>, 'ALREADY_EXISTS': <enum GTK_FILE_CHOOSER_ERROR_ALREADY_EXISTS of type Gtk.FileChooserError>, 'INCOMPLETE_HOSTNAME': <enum GTK_FILE_CHOOSER_ERROR_INCOMPLETE_HOSTNAME of type Gtk.FileChooserError>, 'quark': gi.FunctionInfo(quark)})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'FileChooserError' objects>, '__doc__': None, '__gtype__': <GType GtkFileChooserError (93897368234640)>, '__enum_values__': {0: <enum GTK_FILE_CHOOSER_ERROR_NONEXISTENT of type Gtk.FileChooserError>, 1: <enum GTK_FILE_CHOOSER_ERROR_BAD_FILENAME of type Gtk.FileChooserError>, 2: <enum GTK_FILE_CHOOSER_ERROR_ALREADY_EXISTS of type Gtk.FileChooserError>, 3: <enum GTK_FILE_CHOOSER_ERROR_INCOMPLETE_HOSTNAME of type Gtk.FileChooserError>}, '__info__': gi.EnumInfo(FileChooserError), 'NONEXISTENT': <enum GTK_FILE_CHOOSER_ERROR_NONEXISTENT of type Gtk.FileChooserError>, 'BAD_FILENAME': <enum GTK_FILE_CHOOSER_ERROR_BAD_FILENAME of type Gtk.FileChooserError>, 'ALREADY_EXISTS': <enum GTK_FILE_CHOOSER_ERROR_ALREADY_EXISTS of type Gtk.FileChooserError>, 'INCOMPLETE_HOSTNAME': <enum GTK_FILE_CHOOSER_ERROR_INCOMPLETE_HOSTNAME of type Gtk.FileChooserError>, 'quark': gi.FunctionInfo(quark)})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkFileChooserError (94846038019776)>'
+    __gtype__ = None # (!) real value is '<GType GtkFileChooserError (93897368234640)>'
     __info__ = gi.EnumInfo(FileChooserError)
 
 

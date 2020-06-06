@@ -408,12 +408,12 @@ class EngineLang(Engine):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f24747059d0>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f85178a9be0>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(EngineLang), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoEngineLang (94752680849456)>, '__doc__': None, '__gsignals__': {}, 'do_script_break': gi.VFuncInfo(script_break), 'parent_instance': <property object at 0x7f24746eb8b0>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(EngineLang), '__module__': 'gi.repository.Pango', '__gtype__': <GType PangoEngineLang (94187428944368)>, '__doc__': None, '__gsignals__': {}, 'do_script_break': gi.VFuncInfo(script_break), 'parent_instance': <property object at 0x7f8517891630>})"
     __gdoc__ = 'Object PangoEngineLang\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType PangoEngineLang (94752680849456)>'
+    __gtype__ = None # (!) real value is '<GType PangoEngineLang (94187428944368)>'
     __info__ = ObjectInfo(EngineLang)
 
 

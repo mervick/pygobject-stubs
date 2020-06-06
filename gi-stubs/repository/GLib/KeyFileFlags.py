@@ -365,13 +365,13 @@ class KeyFileFlags(__gobject.GFlags):
     KEEP_TRANSLATIONS = 2
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'KeyFileFlags' objects>, '__doc__': None, '__gtype__': <GType PyGLibKeyFileFlags (94243598947280)>, '__flags_values__': {0: <flags 0 of type GLib.KeyFileFlags>, 1: <flags G_KEY_FILE_KEEP_COMMENTS of type GLib.KeyFileFlags>, 2: <flags G_KEY_FILE_KEEP_TRANSLATIONS of type GLib.KeyFileFlags>}, '__info__': gi.EnumInfo(KeyFileFlags), 'NONE': <flags 0 of type GLib.KeyFileFlags>, 'KEEP_COMMENTS': <flags G_KEY_FILE_KEEP_COMMENTS of type GLib.KeyFileFlags>, 'KEEP_TRANSLATIONS': <flags G_KEY_FILE_KEEP_TRANSLATIONS of type GLib.KeyFileFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'KeyFileFlags' objects>, '__doc__': None, '__gtype__': <GType PyGLibKeyFileFlags (94581033723344)>, '__flags_values__': {0: <flags 0 of type GLib.KeyFileFlags>, 1: <flags G_KEY_FILE_KEEP_COMMENTS of type GLib.KeyFileFlags>, 2: <flags G_KEY_FILE_KEEP_TRANSLATIONS of type GLib.KeyFileFlags>}, '__info__': gi.EnumInfo(KeyFileFlags), 'NONE': <flags 0 of type GLib.KeyFileFlags>, 'KEEP_COMMENTS': <flags G_KEY_FILE_KEEP_COMMENTS of type GLib.KeyFileFlags>, 'KEEP_TRANSLATIONS': <flags G_KEY_FILE_KEEP_TRANSLATIONS of type GLib.KeyFileFlags>})"
     __flags_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibKeyFileFlags (94243598947280)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibKeyFileFlags (94581033723344)>'
     __info__ = gi.EnumInfo(KeyFileFlags)
 
 

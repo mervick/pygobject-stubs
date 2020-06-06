@@ -426,12 +426,12 @@ class MenuAttributeIter(__gi_overrides_GObject.Object):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7f28dd088250>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7f4b871eaf10>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(MenuAttributeIter), '__module__': 'gi.repository.Gio', '__gtype__': <GType GMenuAttributeIter (94125582505552)>, '__doc__': None, '__gsignals__': {}, 'get_name': gi.FunctionInfo(get_name), 'get_next': gi.FunctionInfo(get_next), 'get_value': gi.FunctionInfo(get_value), 'next': gi.FunctionInfo(next), 'do_get_next': gi.VFuncInfo(get_next), 'parent_instance': <property object at 0x7f28ddea94a0>, 'priv': <property object at 0x7f28ddea9590>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(MenuAttributeIter), '__module__': 'gi.repository.Gio', '__gtype__': <GType GMenuAttributeIter (94269257135472)>, '__doc__': None, '__gsignals__': {}, 'get_name': gi.FunctionInfo(get_name), 'get_next': gi.FunctionInfo(get_next), 'get_value': gi.FunctionInfo(get_value), 'next': gi.FunctionInfo(next), 'do_get_next': gi.VFuncInfo(get_next), 'parent_instance': <property object at 0x7f4b8800b540>, 'priv': <property object at 0x7f4b8800b630>})"
     __gdoc__ = 'Object GMenuAttributeIter\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GMenuAttributeIter (94125582505552)>'
+    __gtype__ = None # (!) real value is '<GType GMenuAttributeIter (94269257135472)>'
     __info__ = ObjectInfo(MenuAttributeIter)
 
 

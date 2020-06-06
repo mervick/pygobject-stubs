@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -233,8 +233,8 @@ class PaperSize(__gi.Boxed):
         pass
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PaperSize), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkPaperSize (94846038841200)>, '__dict__': <attribute '__dict__' of 'PaperSize' objects>, '__weakref__': <attribute '__weakref__' of 'PaperSize' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'new_custom': gi.FunctionInfo(new_custom), 'new_from_gvariant': gi.FunctionInfo(new_from_gvariant), 'new_from_ipp': gi.FunctionInfo(new_from_ipp), 'new_from_key_file': gi.FunctionInfo(new_from_key_file), 'new_from_ppd': gi.FunctionInfo(new_from_ppd), 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free), 'get_default_bottom_margin': gi.FunctionInfo(get_default_bottom_margin), 'get_default_left_margin': gi.FunctionInfo(get_default_left_margin), 'get_default_right_margin': gi.FunctionInfo(get_default_right_margin), 'get_default_top_margin': gi.FunctionInfo(get_default_top_margin), 'get_display_name': gi.FunctionInfo(get_display_name), 'get_height': gi.FunctionInfo(get_height), 'get_name': gi.FunctionInfo(get_name), 'get_ppd_name': gi.FunctionInfo(get_ppd_name), 'get_width': gi.FunctionInfo(get_width), 'is_custom': gi.FunctionInfo(is_custom), 'is_equal': gi.FunctionInfo(is_equal), 'is_ipp': gi.FunctionInfo(is_ipp), 'set_size': gi.FunctionInfo(set_size), 'to_gvariant': gi.FunctionInfo(to_gvariant), 'to_key_file': gi.FunctionInfo(to_key_file), 'get_default': gi.FunctionInfo(get_default), 'get_paper_sizes': gi.FunctionInfo(get_paper_sizes), '__new__': <staticmethod object at 0x7fe8310049a0>, '__init__': <function nothing at 0x7fe832514430>})"
-    __gtype__ = None # (!) real value is '<GType GtkPaperSize (94846038841200)>'
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(PaperSize), '__module__': 'gi.repository.Gtk', '__gtype__': <GType GtkPaperSize (93897369054064)>, '__dict__': <attribute '__dict__' of 'PaperSize' objects>, '__weakref__': <attribute '__weakref__' of 'PaperSize' objects>, '__doc__': None, 'new': gi.FunctionInfo(new), 'new_custom': gi.FunctionInfo(new_custom), 'new_from_gvariant': gi.FunctionInfo(new_from_gvariant), 'new_from_ipp': gi.FunctionInfo(new_from_ipp), 'new_from_key_file': gi.FunctionInfo(new_from_key_file), 'new_from_ppd': gi.FunctionInfo(new_from_ppd), 'copy': gi.FunctionInfo(copy), 'free': gi.FunctionInfo(free), 'get_default_bottom_margin': gi.FunctionInfo(get_default_bottom_margin), 'get_default_left_margin': gi.FunctionInfo(get_default_left_margin), 'get_default_right_margin': gi.FunctionInfo(get_default_right_margin), 'get_default_top_margin': gi.FunctionInfo(get_default_top_margin), 'get_display_name': gi.FunctionInfo(get_display_name), 'get_height': gi.FunctionInfo(get_height), 'get_name': gi.FunctionInfo(get_name), 'get_ppd_name': gi.FunctionInfo(get_ppd_name), 'get_width': gi.FunctionInfo(get_width), 'is_custom': gi.FunctionInfo(is_custom), 'is_equal': gi.FunctionInfo(is_equal), 'is_ipp': gi.FunctionInfo(is_ipp), 'set_size': gi.FunctionInfo(set_size), 'to_gvariant': gi.FunctionInfo(to_gvariant), 'to_key_file': gi.FunctionInfo(to_key_file), 'get_default': gi.FunctionInfo(get_default), 'get_paper_sizes': gi.FunctionInfo(get_paper_sizes), '__new__': <staticmethod object at 0x7fc63a718d90>, '__init__': <function nothing at 0x7fc63bc2eee0>})"
+    __gtype__ = None # (!) real value is '<GType GtkPaperSize (93897369054064)>'
     __info__ = StructInfo(PaperSize)
 
 

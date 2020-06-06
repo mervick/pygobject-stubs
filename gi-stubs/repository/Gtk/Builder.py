@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -526,12 +526,12 @@ class Builder(Builder):
     __grefcount__ = property(lambda self: object(), lambda self, v: None, lambda self: None)  # default
 
 
-    props = None # (!) real value is '<gi._gi.GProps object at 0x7fe83088c820>'
+    props = None # (!) real value is '<gi._gi.GProps object at 0x7fc63a0b8460>'
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', 'connect_signals': <function Builder.connect_signals at 0x7fe831d85ee0>, 'add_from_string': <function Builder.add_from_string at 0x7fe831d85f70>, 'add_objects_from_string': <function Builder.add_objects_from_string at 0x7fe831222040>, '__doc__': None, '__gsignals__': {}})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.overrides.Gtk', 'connect_signals': <function Builder.connect_signals at 0x7fc63b4a8700>, 'add_from_string': <function Builder.add_from_string at 0x7fc63b4a8790>, 'add_objects_from_string': <function Builder.add_objects_from_string at 0x7fc63b4a8820>, '__doc__': None, '__gsignals__': {}})"
     __gdoc__ = 'Object GtkBuilder\n\nProperties from GtkBuilder:\n  translation-domain -> gchararray: Translation Domain\n    The translation domain used by gettext\n\nSignals from GObject:\n  notify (GParam)\n\n'
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GtkBuilder (94846036855552)>'
+    __gtype__ = None # (!) real value is '<GType GtkBuilder (93897367060816)>'
     __info__ = ObjectInfo(Builder)
 
 

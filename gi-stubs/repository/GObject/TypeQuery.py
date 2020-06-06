@@ -153,7 +153,7 @@ class TypeQuery(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TypeQuery), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TypeQuery' objects>, '__weakref__': <attribute '__weakref__' of 'TypeQuery' objects>, '__doc__': None, 'type': <property object at 0x7f7c2865d3b0>, 'type_name': <property object at 0x7f7c2865d4a0>, 'class_size': <property object at 0x7f7c2865d590>, 'instance_size': <property object at 0x7f7c2865d680>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(TypeQuery), '__module__': 'gi.repository.GObject', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'TypeQuery' objects>, '__weakref__': <attribute '__weakref__' of 'TypeQuery' objects>, '__doc__': None, 'type': <property object at 0x7fe46b8cf4f0>, 'type_name': <property object at 0x7fe46b8cf5e0>, 'class_size': <property object at 0x7fe46b8cf6d0>, 'instance_size': <property object at 0x7fe46b8cf7c0>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(TypeQuery)
 

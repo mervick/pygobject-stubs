@@ -373,7 +373,7 @@ class AsciiType(__gobject.GFlags):
     UPPER = 512
     XDIGIT = 1024
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'AsciiType' objects>, '__doc__': None, '__gtype__': <GType PyGLibAsciiType (94243598837824)>, '__flags_values__': {1: <flags G_ASCII_ALNUM of type GLib.AsciiType>, 2: <flags G_ASCII_ALPHA of type GLib.AsciiType>, 4: <flags G_ASCII_CNTRL of type GLib.AsciiType>, 8: <flags G_ASCII_DIGIT of type GLib.AsciiType>, 16: <flags G_ASCII_GRAPH of type GLib.AsciiType>, 32: <flags G_ASCII_LOWER of type GLib.AsciiType>, 64: <flags G_ASCII_PRINT of type GLib.AsciiType>, 128: <flags G_ASCII_PUNCT of type GLib.AsciiType>, 256: <flags G_ASCII_SPACE of type GLib.AsciiType>, 512: <flags G_ASCII_UPPER of type GLib.AsciiType>, 1024: <flags G_ASCII_XDIGIT of type GLib.AsciiType>}, '__info__': gi.EnumInfo(AsciiType), 'ALNUM': <flags G_ASCII_ALNUM of type GLib.AsciiType>, 'ALPHA': <flags G_ASCII_ALPHA of type GLib.AsciiType>, 'CNTRL': <flags G_ASCII_CNTRL of type GLib.AsciiType>, 'DIGIT': <flags G_ASCII_DIGIT of type GLib.AsciiType>, 'GRAPH': <flags G_ASCII_GRAPH of type GLib.AsciiType>, 'LOWER': <flags G_ASCII_LOWER of type GLib.AsciiType>, 'PRINT': <flags G_ASCII_PRINT of type GLib.AsciiType>, 'PUNCT': <flags G_ASCII_PUNCT of type GLib.AsciiType>, 'SPACE': <flags G_ASCII_SPACE of type GLib.AsciiType>, 'UPPER': <flags G_ASCII_UPPER of type GLib.AsciiType>, 'XDIGIT': <flags G_ASCII_XDIGIT of type GLib.AsciiType>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.GLib', '__dict__': <attribute '__dict__' of 'AsciiType' objects>, '__doc__': None, '__gtype__': <GType PyGLibAsciiType (94581033614272)>, '__flags_values__': {1: <flags G_ASCII_ALNUM of type GLib.AsciiType>, 2: <flags G_ASCII_ALPHA of type GLib.AsciiType>, 4: <flags G_ASCII_CNTRL of type GLib.AsciiType>, 8: <flags G_ASCII_DIGIT of type GLib.AsciiType>, 16: <flags G_ASCII_GRAPH of type GLib.AsciiType>, 32: <flags G_ASCII_LOWER of type GLib.AsciiType>, 64: <flags G_ASCII_PRINT of type GLib.AsciiType>, 128: <flags G_ASCII_PUNCT of type GLib.AsciiType>, 256: <flags G_ASCII_SPACE of type GLib.AsciiType>, 512: <flags G_ASCII_UPPER of type GLib.AsciiType>, 1024: <flags G_ASCII_XDIGIT of type GLib.AsciiType>}, '__info__': gi.EnumInfo(AsciiType), 'ALNUM': <flags G_ASCII_ALNUM of type GLib.AsciiType>, 'ALPHA': <flags G_ASCII_ALPHA of type GLib.AsciiType>, 'CNTRL': <flags G_ASCII_CNTRL of type GLib.AsciiType>, 'DIGIT': <flags G_ASCII_DIGIT of type GLib.AsciiType>, 'GRAPH': <flags G_ASCII_GRAPH of type GLib.AsciiType>, 'LOWER': <flags G_ASCII_LOWER of type GLib.AsciiType>, 'PRINT': <flags G_ASCII_PRINT of type GLib.AsciiType>, 'PUNCT': <flags G_ASCII_PUNCT of type GLib.AsciiType>, 'SPACE': <flags G_ASCII_SPACE of type GLib.AsciiType>, 'UPPER': <flags G_ASCII_UPPER of type GLib.AsciiType>, 'XDIGIT': <flags G_ASCII_XDIGIT of type GLib.AsciiType>})"
     __flags_values__ = {
         1: 1,
         2: 2,
@@ -387,7 +387,7 @@ class AsciiType(__gobject.GFlags):
         512: 512,
         1024: 1024,
     }
-    __gtype__ = None # (!) real value is '<GType PyGLibAsciiType (94243598837824)>'
+    __gtype__ = None # (!) real value is '<GType PyGLibAsciiType (94581033614272)>'
     __info__ = gi.EnumInfo(AsciiType)
 
 

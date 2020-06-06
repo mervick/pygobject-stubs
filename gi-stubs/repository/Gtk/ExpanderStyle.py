@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -363,14 +363,14 @@ class ExpanderStyle(__gobject.GEnum):
     SEMI_COLLAPSED = 1
     SEMI_EXPANDED = 2
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ExpanderStyle' objects>, '__doc__': None, '__gtype__': <GType GtkExpanderStyle (94846038272400)>, '__enum_values__': {0: <enum GTK_EXPANDER_COLLAPSED of type Gtk.ExpanderStyle>, 1: <enum GTK_EXPANDER_SEMI_COLLAPSED of type Gtk.ExpanderStyle>, 2: <enum GTK_EXPANDER_SEMI_EXPANDED of type Gtk.ExpanderStyle>, 3: <enum GTK_EXPANDER_EXPANDED of type Gtk.ExpanderStyle>}, '__info__': gi.EnumInfo(ExpanderStyle), 'COLLAPSED': <enum GTK_EXPANDER_COLLAPSED of type Gtk.ExpanderStyle>, 'SEMI_COLLAPSED': <enum GTK_EXPANDER_SEMI_COLLAPSED of type Gtk.ExpanderStyle>, 'SEMI_EXPANDED': <enum GTK_EXPANDER_SEMI_EXPANDED of type Gtk.ExpanderStyle>, 'EXPANDED': <enum GTK_EXPANDER_EXPANDED of type Gtk.ExpanderStyle>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gtk', '__dict__': <attribute '__dict__' of 'ExpanderStyle' objects>, '__doc__': None, '__gtype__': <GType GtkExpanderStyle (93897368486496)>, '__enum_values__': {0: <enum GTK_EXPANDER_COLLAPSED of type Gtk.ExpanderStyle>, 1: <enum GTK_EXPANDER_SEMI_COLLAPSED of type Gtk.ExpanderStyle>, 2: <enum GTK_EXPANDER_SEMI_EXPANDED of type Gtk.ExpanderStyle>, 3: <enum GTK_EXPANDER_EXPANDED of type Gtk.ExpanderStyle>}, '__info__': gi.EnumInfo(ExpanderStyle), 'COLLAPSED': <enum GTK_EXPANDER_COLLAPSED of type Gtk.ExpanderStyle>, 'SEMI_COLLAPSED': <enum GTK_EXPANDER_SEMI_COLLAPSED of type Gtk.ExpanderStyle>, 'SEMI_EXPANDED': <enum GTK_EXPANDER_SEMI_EXPANDED of type Gtk.ExpanderStyle>, 'EXPANDED': <enum GTK_EXPANDER_EXPANDED of type Gtk.ExpanderStyle>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
         3: 3,
     }
-    __gtype__ = None # (!) real value is '<GType GtkExpanderStyle (94846038272400)>'
+    __gtype__ = None # (!) real value is '<GType GtkExpanderStyle (93897368486496)>'
     __info__ = gi.EnumInfo(ExpanderStyle)
 
 

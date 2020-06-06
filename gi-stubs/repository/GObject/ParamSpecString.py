@@ -237,9 +237,9 @@ class ParamSpecString(ParamSpec):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.GObjectMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ParamSpecString), '__module__': 'gi.repository.GObject', '__gtype__': <GType GParamString (93895378954496)>, '__doc__': None, '__gsignals__': {}, 'parent_instance': <property object at 0x7f7c2864d090>, 'default_value': <property object at 0x7f7c2864d180>, 'cset_first': <property object at 0x7f7c2864d270>, 'cset_nth': <property object at 0x7f7c2864d360>, 'substitutor': <property object at 0x7f7c2864d450>, 'null_fold_if_empty': <property object at 0x7f7c2864d590>, 'ensure_non_null': <property object at 0x7f7c2864d680>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': ObjectInfo(ParamSpecString), '__module__': 'gi.repository.GObject', '__gtype__': <GType GParamString (94184341419632)>, '__doc__': None, '__gsignals__': {}, 'parent_instance': <property object at 0x7fe46b8c04a0>, 'default_value': <property object at 0x7fe46b8c05e0>, 'cset_first': <property object at 0x7fe46b8c06d0>, 'cset_nth': <property object at 0x7fe46b8c07c0>, 'substitutor': <property object at 0x7fe46b8c08b0>, 'null_fold_if_empty': <property object at 0x7fe46b8c09f0>, 'ensure_non_null': <property object at 0x7fe46b8c0ae0>})"
     __gsignals__ = {}
-    __gtype__ = None # (!) real value is '<GType GParamString (93895378954496)>'
+    __gtype__ = None # (!) real value is '<GType GParamString (94184341419632)>'
     __info__ = ObjectInfo(ParamSpecString)
 
 

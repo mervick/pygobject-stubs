@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module gi.repository.Gtk
-# from /usr/lib64/girepository-1.0/Gtk-3.0.typelib
+# from /usr/lib64/girepository-1.0/Gtk-2.0.typelib
 # by generator 1.147
 # no doc
 
@@ -141,7 +141,7 @@ class ScrolledWindowClass(__gi.Struct):
 
 
     __class__ = None # (!) real value is "<class 'gi.types.StructMeta'>"
-    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ScrolledWindowClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ScrolledWindowClass' objects>, '__weakref__': <attribute '__weakref__' of 'ScrolledWindowClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fe830fcf630>, 'scrollbar_spacing': <property object at 0x7fe830fcf770>, 'scroll_child': <property object at 0x7fe830fcf860>, 'move_focus_out': <property object at 0x7fe830fcf950>, '_gtk_reserved1': <property object at 0x7fe830fcfa40>, '_gtk_reserved2': <property object at 0x7fe830fcfb30>, '_gtk_reserved3': <property object at 0x7fe830fcfc20>, '_gtk_reserved4': <property object at 0x7fe830fcfd10>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__info__': StructInfo(ScrolledWindowClass), '__module__': 'gi.repository.Gtk', '__gtype__': <GType void (4)>, '__dict__': <attribute '__dict__' of 'ScrolledWindowClass' objects>, '__weakref__': <attribute '__weakref__' of 'ScrolledWindowClass' objects>, '__doc__': None, 'parent_class': <property object at 0x7fc63a6e7130>, 'scrollbar_spacing': <property object at 0x7fc63a6e7270>, 'scroll_child': <property object at 0x7fc63a6e7360>, 'move_focus_out': <property object at 0x7fc63a6e7450>, '_gtk_reserved1': <property object at 0x7fc63a6e7540>, '_gtk_reserved2': <property object at 0x7fc63a6e7630>, '_gtk_reserved3': <property object at 0x7fc63a6e7720>, '_gtk_reserved4': <property object at 0x7fc63a6e7810>})"
     __gtype__ = None # (!) real value is '<GType void (4)>'
     __info__ = StructInfo(ScrolledWindowClass)
 

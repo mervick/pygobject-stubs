@@ -357,11 +357,11 @@ class TlsCertificateRequestFlags(__gobject.GEnum):
 
     NONE = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'TlsCertificateRequestFlags' objects>, '__doc__': None, '__gtype__': <GType GTlsCertificateRequestFlags (94125582182320)>, '__enum_values__': {0: <enum G_TLS_CERTIFICATE_REQUEST_NONE of type Gio.TlsCertificateRequestFlags>}, '__info__': gi.EnumInfo(TlsCertificateRequestFlags), 'NONE': <enum G_TLS_CERTIFICATE_REQUEST_NONE of type Gio.TlsCertificateRequestFlags>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'TlsCertificateRequestFlags' objects>, '__doc__': None, '__gtype__': <GType GTlsCertificateRequestFlags (94269257495344)>, '__enum_values__': {0: <enum G_TLS_CERTIFICATE_REQUEST_NONE of type Gio.TlsCertificateRequestFlags>}, '__info__': gi.EnumInfo(TlsCertificateRequestFlags), 'NONE': <enum G_TLS_CERTIFICATE_REQUEST_NONE of type Gio.TlsCertificateRequestFlags>})"
     __enum_values__ = {
         0: 0,
     }
-    __gtype__ = None # (!) real value is '<GType GTlsCertificateRequestFlags (94125582182320)>'
+    __gtype__ = None # (!) real value is '<GType GTlsCertificateRequestFlags (94269257495344)>'
     __info__ = gi.EnumInfo(TlsCertificateRequestFlags)
 
 

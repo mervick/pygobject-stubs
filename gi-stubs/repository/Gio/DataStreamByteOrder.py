@@ -359,13 +359,13 @@ class DataStreamByteOrder(__gobject.GEnum):
     HOST_ENDIAN = 2
     LITTLE_ENDIAN = 1
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DataStreamByteOrder' objects>, '__doc__': None, '__gtype__': <GType GDataStreamByteOrder (94125582196528)>, '__enum_values__': {0: <enum G_DATA_STREAM_BYTE_ORDER_BIG_ENDIAN of type Gio.DataStreamByteOrder>, 1: <enum G_DATA_STREAM_BYTE_ORDER_LITTLE_ENDIAN of type Gio.DataStreamByteOrder>, 2: <enum G_DATA_STREAM_BYTE_ORDER_HOST_ENDIAN of type Gio.DataStreamByteOrder>}, '__info__': gi.EnumInfo(DataStreamByteOrder), 'BIG_ENDIAN': <enum G_DATA_STREAM_BYTE_ORDER_BIG_ENDIAN of type Gio.DataStreamByteOrder>, 'LITTLE_ENDIAN': <enum G_DATA_STREAM_BYTE_ORDER_LITTLE_ENDIAN of type Gio.DataStreamByteOrder>, 'HOST_ENDIAN': <enum G_DATA_STREAM_BYTE_ORDER_HOST_ENDIAN of type Gio.DataStreamByteOrder>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'DataStreamByteOrder' objects>, '__doc__': None, '__gtype__': <GType GDataStreamByteOrder (94269256831408)>, '__enum_values__': {0: <enum G_DATA_STREAM_BYTE_ORDER_BIG_ENDIAN of type Gio.DataStreamByteOrder>, 1: <enum G_DATA_STREAM_BYTE_ORDER_LITTLE_ENDIAN of type Gio.DataStreamByteOrder>, 2: <enum G_DATA_STREAM_BYTE_ORDER_HOST_ENDIAN of type Gio.DataStreamByteOrder>}, '__info__': gi.EnumInfo(DataStreamByteOrder), 'BIG_ENDIAN': <enum G_DATA_STREAM_BYTE_ORDER_BIG_ENDIAN of type Gio.DataStreamByteOrder>, 'LITTLE_ENDIAN': <enum G_DATA_STREAM_BYTE_ORDER_LITTLE_ENDIAN of type Gio.DataStreamByteOrder>, 'HOST_ENDIAN': <enum G_DATA_STREAM_BYTE_ORDER_HOST_ENDIAN of type Gio.DataStreamByteOrder>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GDataStreamByteOrder (94125582196528)>'
+    __gtype__ = None # (!) real value is '<GType GDataStreamByteOrder (94269256831408)>'
     __info__ = gi.EnumInfo(DataStreamByteOrder)
 
 

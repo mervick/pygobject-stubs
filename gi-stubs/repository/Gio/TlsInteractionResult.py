@@ -359,13 +359,13 @@ class TlsInteractionResult(__gobject.GEnum):
     HANDLED = 1
     UNHANDLED = 0
     __class__ = type
-    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'TlsInteractionResult' objects>, '__doc__': None, '__gtype__': <GType GTlsInteractionResult (94125582909024)>, '__enum_values__': {0: <enum G_TLS_INTERACTION_UNHANDLED of type Gio.TlsInteractionResult>, 1: <enum G_TLS_INTERACTION_HANDLED of type Gio.TlsInteractionResult>, 2: <enum G_TLS_INTERACTION_FAILED of type Gio.TlsInteractionResult>}, '__info__': gi.EnumInfo(TlsInteractionResult), 'UNHANDLED': <enum G_TLS_INTERACTION_UNHANDLED of type Gio.TlsInteractionResult>, 'HANDLED': <enum G_TLS_INTERACTION_HANDLED of type Gio.TlsInteractionResult>, 'FAILED': <enum G_TLS_INTERACTION_FAILED of type Gio.TlsInteractionResult>})"
+    __dict__ = None # (!) real value is "mappingproxy({'__module__': 'gi.repository.Gio', '__dict__': <attribute '__dict__' of 'TlsInteractionResult' objects>, '__doc__': None, '__gtype__': <GType GTlsInteractionResult (94269257533264)>, '__enum_values__': {0: <enum G_TLS_INTERACTION_UNHANDLED of type Gio.TlsInteractionResult>, 1: <enum G_TLS_INTERACTION_HANDLED of type Gio.TlsInteractionResult>, 2: <enum G_TLS_INTERACTION_FAILED of type Gio.TlsInteractionResult>}, '__info__': gi.EnumInfo(TlsInteractionResult), 'UNHANDLED': <enum G_TLS_INTERACTION_UNHANDLED of type Gio.TlsInteractionResult>, 'HANDLED': <enum G_TLS_INTERACTION_HANDLED of type Gio.TlsInteractionResult>, 'FAILED': <enum G_TLS_INTERACTION_FAILED of type Gio.TlsInteractionResult>})"
     __enum_values__ = {
         0: 0,
         1: 1,
         2: 2,
     }
-    __gtype__ = None # (!) real value is '<GType GTlsInteractionResult (94125582909024)>'
+    __gtype__ = None # (!) real value is '<GType GTlsInteractionResult (94269257533264)>'
     __info__ = gi.EnumInfo(TlsInteractionResult)
 
 
