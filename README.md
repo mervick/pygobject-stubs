@@ -21,8 +21,8 @@ git clone --depth 1 https://github.com/JetBrains/intellij-community.git /tmp/ide
 mkdir /tmp/out
 for typelib in Atk GLib GModule GObject Gdk GdkPixbuf Gio Gtk Pango; do
     python3 /tmp/idea/python/helpers/generator3/__main__.py \
-    -d /tmp/out -x gi.repository.$typelib $(python3 \
-    -c "from gi.repository import $typelib; print($typelib.__path__[-1].split(" ")[0])")
+    -d /tmp/out -x gi.repository.$typelib \
+    $(python3 -c "from gi.repository import $typelib; print($typelib.__path__[-1].split(" ")[0])")
 done
 
 #make pyCharm can use it:
