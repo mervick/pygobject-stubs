@@ -1,9 +1,9 @@
 # pygobject-stubs
 Stubs for PyGObject auto generated with pycharm-community/plugins/python-ce/helpers/generator3
 
-![demo1](/Peek-2020-06-06-00-33.gif?raw=true)
+![demo1](/img/Peek-2020-06-06-00-33.gif?raw=true)
 
-![demo2](/Peek-2020-06-06-00-34.gif?raw=true)
+![demo2](/img/Peek-2020-06-06-00-34.gif?raw=true)
 
 ## how to use this
 
