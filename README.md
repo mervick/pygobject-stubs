@@ -18,11 +18,15 @@ pycharm should use the stubs now.
 
 ```bash
 git clone --depth 1 https://github.com/JetBrains/intellij-community.git /tmp/idea
+
 mkdir /tmp/out
-for typelib in Atk GLib GModule GObject Gdk GdkPixbuf Gio Gtk Pango; do
-    python3 /tmp/idea/python/helpers/generator3/__main__.py \
-    -d /tmp/out -x gi.repository.$typelib \
-    $(python3 -c "from gi.repository import $typelib; print($typelib.__path__[-1].split(" ")[0])")
+libpath=/usr/lib64/girepository-1.0
+[[ ! -d $libpath ]] && libpath=/usr/lib/girepository-1.0
+
+for filelib in $(ls -1 $path); do
+    typelib=${filelib%-*}
+    echo "generating $typelib"
+    python3 /tmp/idea/python/helpers/generator3/__main__.py -d /tmp/out -p "gi.repository.$typelib" "$libpath/$filelib"
 done
 
 #make pyCharm can use it:
